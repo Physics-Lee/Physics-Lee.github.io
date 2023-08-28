@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Pisces","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
     <meta property="og:type" content="website">
 <meta property="og:title" content="XuanJr&#39;s Land">
@@ -76,6 +76,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -84,11 +85,37 @@
 
 <nav class="site-nav">
   <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </header>
         
@@ -120,18 +147,18 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">21</span>
+          <span class="site-state-item-count">29</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">6</span>
+        <span class="site-state-item-count">7</span>
         <span class="site-state-item-name">categories</span></a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-count">26</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -366,6 +393,109 @@
 </ul>
 <h1 id="思索"><a href="#思索" class="headerlink" title="思索"></a>思索</h1><p>本文中的估计方法当然属于生物物理这一交叉学科的范畴。</p>
 <p>物理学家很喜欢这种数量级估计（比如，Howard Berg的<em>Random Walk in Biology</em>中多次使用这种方法；再比如，neuromorphology中也会使用这种方法）。当然，这种估计的结果和真实结果在一个数量级也就可以了，你不能指望它更精确。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/08/25/My%20Octopus%20Teacher/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="李懿轩">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/08/25/My%20Octopus%20Teacher/" class="post-title-link" itemprop="url">My Octopus Teacher</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-08-25 00:00:00" itemprop="dateCreated datePublished" datetime="2023-08-25T00:00:00+08:00">2023-08-25</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">Edited on</span>
+      <time title="Modified: 2023-08-28 23:14:40" itemprop="dateModified" datetime="2023-08-28T23:14:40+08:00">2023-08-28</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>2020奥斯卡最佳纪录片，My Octopus Teacher，《我的章鱼老师》。</p>
+<p>故事由一位热爱工作的野生动物摄影师讲述。他从小就热衷于此，长大后他去非洲某沙漠工作，但是，他过分沉迷于工作，疏远了自己的家人。两年前，他和老婆孩子的关系跌到谷底。同时，他的压力终于超过了他的承受能力，他再也不想去野外拍视频，再也不想去工作室剪视频了。他离开了自己工作十几年的沙漠，来到了南非某处，拍水下世界。他从小在水边长大，这让他感到放松。</p>
+<p>一天，他偶然看到一个会动的贝壳堆，他感到十分好奇。后来那个“贝壳堆”捕捉了靠近的几条小鱼，他才发现里面是一只章鱼。章鱼放下了贝壳后，又用海草把自己缠一圈，小心翼翼又好奇地看着这个自己从来没见过的生物。</p>
+<p>他每天都来拍她，她刚开始依然很小心，后来开始大胆起来，几十天后的一天，他伸出手指，章鱼也伸出触手碰了碰他。后来，章鱼会爬到他的胸上玩耍。</p>
+<p>他回去后看了很多论文，了解了章鱼的习性，对这种生物更加好奇。他拍摄了很多章鱼捕食鱼、虾、螃蟹、贝类的视频。他把章鱼吃剩下的残渣、章鱼用来防身的贝壳和海草都拿回去研究。</p>
+<p>有一天，章鱼在捕食龙虾。龙虾在Oxy平面运动得很缓慢，在z轴上运动得极快，而章鱼只能在Oxy平面以及平面上很小的范围里去尝试盖住龙虾。章鱼失败了很多次后，突然就开始利用拍摄者，把他引诱到龙虾的上方，这样她就可以捕捉到龙虾了。</p>
+<p>又有一天，一只两三米的鲨鱼执着地追捕着章鱼。她逃来逃去，甚至跑到了陆地上，再另一处又下水，但鲨鱼还是锲而不舍。毕竟鲨鱼游得快，终于要追上了，她用触手迅速抓来许多贝壳和石头作为防御，并把自己团成团。鲨鱼咬住这个球，然后死亡翻滚。这时，拍摄者必须要上去换气了，当他下来的时候，发现章鱼爬到了鲨鱼的背部。最危险的地方就是最安全的地方。鲨鱼尝试把她摔下来，但是失败了。当鲨鱼游过一大片海草时，她逃走了。</p>
+<p>拍摄者搜查资料发现，章鱼吃贝类，需要打破一个小洞，把毒素注入贝类，贝类的肌肉才会放松，章鱼才能吃到，但是，对于某些贝类，章鱼必须精准地在硬壳顶端打洞，贝类肌肉才会被毒素放松。他带回来几十种被章鱼干掉的贝类的壳，发现章鱼学会了对不同外形的贝类进行精准打击。</p>
+<p>又有一天，他发现章鱼在和鱼群玩耍，她没有尝试去吃这些鱼，而是不停地用触手把鱼群赶来赶去。当她玩累了时，她突然向拍摄者爬过来，贴在他的胸口玩。</p>
+<p>拍摄途中，有一次，章鱼被鲨鱼咬掉了一只触角，奄奄一息，费劲全力才爬回洞穴。拍摄者知道他不应干涉野生动物的生活，但他对章鱼的感情实在太强烈，他cross the line，喂了一些贝类给章鱼吃。</p>
+<p>章鱼的寿命只有一年多一点。他初见这只章鱼的三百多天后，他发现她在和另一只章鱼交配。之后，她爬回了自己的洞里，不再移动，不再捕食，身体的大部分都留给了下一代。她产下了50W枚卵，卵随着水流飘出。快要死去的她也被水流带出洞穴，躺在海底，被鱼类一点一点吃掉，他很想把鱼类都赶走，把章鱼的尸体带去埋葬，但是这次他克制住了。第二天，一条大鲨鱼跑了过来，把她叼走了。</p>
+<hr>
+<p>我愿意相信影片中拍摄的所有均属实。如果这样，那么这只章鱼展现了超强的学习能力——使用工具、制作工具、利用拍摄者、险中求胜、精准打击。</p>
+<hr>
+<p>在拍摄这只章鱼的一年里，拍摄者需要像章鱼一样思考问题。有一次拍摄者把章鱼吓到了，他找了整整一周才找到她，在这一周里他不断找各种章鱼的痕迹，并且站在章鱼的角度思考，终于找到了她。这一年里，他学会了换位思考，改善了自己和家人的关系，教会了儿子潜水。影片的最后，他儿子发现了一只小章鱼，按时间和大小推算，很有可能是那只章鱼的后代。他拍摄的是章鱼，却拯救了自己的家庭，这就是为什么这部记录叫《我的章鱼老师》。</p>
+<hr>
+<p>很长一段时间，我一直在思考，到底什么是家庭。我想到《我，机器人》里男主对女儿的思念和对机器人的嘲讽，想到《寻梦环游记》里追逐梦想和陪伴家人的两难境地（以及那首著名的Remember Me），想到Inside Out里小女孩和父母的破碎与重逢，想到恩格斯用他特有的穿透一切的语言对家庭的起源、发展、本质的思考，想到The Walking Dead里的Lee和Clementine，想到Detroit: Become Human里的Carl与Leo, Todd与Alice, Hank与Cole, 以及Cyberlife制造的永远服从、永远不会哭闹的来满足人的抚养欲望的机器人孩子，最近又包括了Life Is Strange里Chloe和她的父亲。当然我也知道生物界里存在各种各样的“家庭”，白蚁、鸟类、狼群、象群。尽管有这么多知识，但我还是无法给出一个答案。</p>
+<p>在这个世界里，一个温暖的家庭，也是一种奢望。</p>
+<hr>
 
       
     </div>
@@ -722,6 +852,193 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/22/The%20Northern%20Town/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="李懿轩">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/06/22/The%20Northern%20Town/" class="post-title-link" itemprop="url">The Northern Town</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-06-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-06-22T00:00:00+08:00">2023-06-22</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">Edited on</span>
+      <time title="Modified: 2023-08-29 07:34:29" itemprop="dateModified" datetime="2023-08-29T07:34:29+08:00">2023-08-29</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/poem/" itemprop="url" rel="index"><span itemprop="name">poem</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>Silently I wander to the northern town, remembering the past so profound.</p>
+<p>Old words, old dreams, old promises abound.</p>
+<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
+<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
+<hr>
+<p>What we went through like sand lost in the hand.</p>
+<p>What we talked through like sound gone with the wind.</p>
+<p>Now your image is fading off my mind.</p>
+<p>But your word will hover till the end.</p>
+<hr>
+<p>Remember geometry and algebra,</p>
+<p>no more love in the cinema,</p>
+<p>no more laugh on the camera,</p>
+<p>everything seems to be in a new era.</p>
+<hr>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="李懿轩">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/" class="post-title-link" itemprop="url">相见欢·南城</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-06-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-06-22T00:00:00+08:00">2023-06-22</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">Edited on</span>
+      <time title="Modified: 2023-08-28 23:09:39" itemprop="dateModified" datetime="2023-08-28T23:09:39+08:00">2023-08-28</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/poem/" itemprop="url" rel="index"><span itemprop="name">poem</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/14/%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%92%8C%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -758,7 +1075,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-28 13:14:26" itemprop="dateModified" datetime="2023-08-28T13:14:26+08:00">2023-08-28</time>
+      <time title="Modified: 2023-08-28 23:16:55" itemprop="dateModified" datetime="2023-08-28T23:16:55+08:00">2023-08-28</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -838,7 +1155,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/14/%E7%9C%BC%E7%9D%9B%E6%98%AF%E5%BF%83%E7%81%B5%E7%9A%84%E7%AA%97%E6%88%B7/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -856,7 +1173,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/" class="post-title-link" itemprop="url">科学界视角下的社会主义</a>
+          <a href="/2023/06/14/%E7%9C%BC%E7%9D%9B%E6%98%AF%E5%BF%83%E7%81%B5%E7%9A%84%E7%AA%97%E6%88%B7/" class="post-title-link" itemprop="url">眼睛是心灵的窗户</a>
         </h2>
 
         <div class="post-meta-container">
@@ -867,119 +1184,14 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2023-06-12 00:00:00" itemprop="dateCreated datePublished" datetime="2023-06-12T00:00:00+08:00">2023-06-12</time>
+      <time title="Created: 2023-06-14 00:00:00" itemprop="dateCreated datePublished" datetime="2023-06-14T00:00:00+08:00">2023-06-14</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-28 11:41:37" itemprop="dateModified" datetime="2023-08-28T11:41:37+08:00">2023-08-28</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/socialism/" itemprop="url" rel="index"><span itemprop="name">socialism</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
-<p>我并不喜欢《共产党宣言》，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
-<p>但是Mr. Ran给我的书里有两个附录，《共产主义信条草案》和《共产主义原理》。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
-<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，冲淡了我内心强烈的民族主义。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。这套书塑造了我内心极其强烈的民族主义。</p>
-<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
-<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争、强者统治弱者。</p>
-<p>但我的内心的天平已经向社会主义倾斜。</p>
-<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
-<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
-<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
-<p>而人类的发展显然是科学界推动的，那也就是说…</p>
-<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
-<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
-<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
-<p>2000年，我出生的那一年，<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
-<p>2022-2023，<a target="_blank" rel="noopener" href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
-<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/05/30/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%98%9F/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="李懿轩">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/05/30/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%98%9F/" class="post-title-link" itemprop="url">中国科大星</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-05-30 00:00:00" itemprop="dateCreated datePublished" datetime="2023-05-30T00:00:00+08:00">2023-05-30</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-28 14:53:31" itemprop="dateModified" datetime="2023-08-28T14:53:31+08:00">2023-08-28</time>
+      <time title="Modified: 2023-08-28 23:22:28" itemprop="dateModified" datetime="2023-08-28T23:22:28+08:00">2023-08-28</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -1001,243 +1213,15 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="拉普拉斯兽"><a href="#拉普拉斯兽" class="headerlink" title="拉普拉斯兽"></a>拉普拉斯兽</h1><p>我俯视着中国科大星的纪念碑。</p>
-<p>它是一颗小行星，位于火星和木星之间，和八大行星一样绕着太阳旋转。</p>
-<p>我突然想到，给定初始位置、初始速度、受力（不光要知道初始时刻的受力，还要知道以后所有时间的受力），我们就可以预测中国科大星、八大行星之后所有时间的位置、速度、加速度。</p>
-<p>把这些扔进计算机里就行了。</p>
-<h1 id="separation-of-spatial-scale"><a href="#separation-of-spatial-scale" class="headerlink" title="separation of spatial scale"></a>separation of spatial scale</h1><p>在此之前，需要用separation of spatial scale。</p>
-<p>我们只考虑太阳系这个区域（在银河系里它只是一个小区域），这样做的话，太阳可以认为是静止的。</p>
-<h1 id="先验"><a href="#先验" class="headerlink" title="先验"></a>先验</h1><p>我突然有些好奇，为什么我看了一眼就知道在画图的这个时刻中国科大星的速度方向？</p>
-<p>纪念碑上画了水、金、地球、火、木和中国科大星这六个天体的轨道。</p>
-<p>这些相当于是之前的知识。</p>
-<p>正因为有了这些知识，我看了一眼，就知道在画图的这个时刻，速度沿着轨道的切线方向。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/05/30/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E7%9F%A5%E8%AF%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E4%BA%BA%E7%B1%BB%E4%BC%BC%E4%B9%8E%E4%B8%80%E8%BE%88%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%A2%86%E5%9F%9F%E7%9A%84%E5%89%8D%E6%B2%BF%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%EF%BC%9F/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="李懿轩">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/05/30/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E7%9F%A5%E8%AF%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E4%BA%BA%E7%B1%BB%E4%BC%BC%E4%B9%8E%E4%B8%80%E8%BE%88%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%A2%86%E5%9F%9F%E7%9A%84%E5%89%8D%E6%B2%BF%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%EF%BC%9F/" class="post-title-link" itemprop="url">如何解决知识越来越多，人类似乎一辈子才能到一个小领域的前沿这一问题？</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-05-30 00:00:00" itemprop="dateCreated datePublished" datetime="2023-05-30T00:00:00+08:00">2023-05-30</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-28 10:19:26" itemprop="dateModified" datetime="2023-08-28T10:19:26+08:00">2023-08-28</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>这个问题似乎很火。</p>
-<p>2019年12月，丘成桐在科大给讲座时，有一个人就问了这个问题。</p>
-<p>2023年5月，系统生物学课上，唐爱辉老师用半节课和我们讨论此题。很有趣。</p>
-<p>我把同学们的意见分成两类</p>
-<ul>
-<li>赛博朋克法<ul>
-<li>AI取代人类</li>
-<li>知识芯片</li>
-<li>体外人类胚胎培养，加速人类进化</li>
-<li>鼓励高学历人类生育，加速人类进化</li>
-</ul>
-</li>
-<li>非赛博朋克法<ul>
-<li>白痴宇宙：宇宙的所有知识，我们可以在60岁内学完。</li>
-<li>重组知识体系：亚里士多德的水火土气论、托勒密的地心说，目前只出现在我们的教科书的前言里；几百年之后，牛顿力学、量子力学也许也只会出现在我们教科书的前言里。生物学也是类似的。按照这种方法人类可以学会无限的知识。<ul>
-<li>反驳：不能跳步<ul>
-<li>反驳：不是跳步，只是精简，就像我们不需要花一辈子去通读《几何原本》、《圆锥曲线论》、《天体运行论》、《对话》、《自然哲学的数学原理》、《电磁通论》，而是可以各用几节课学完前5者，用半年学完后者。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>当然啦，我是非赛博朋克法的支持者。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/05/14/Pythagorean%20means/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="李懿轩">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/05/14/Pythagorean%20means/" class="post-title-link" itemprop="url">Pythagorean means</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-05-14 00:00:00" itemprop="dateCreated datePublished" datetime="2023-05-14T00:00:00+08:00">2023-05-14</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-28 09:57:44" itemprop="dateModified" datetime="2023-08-28T09:57:44+08:00">2023-08-28</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="2D"><a href="#2D" class="headerlink" title="2D"></a>2D</h1><h2 id="definition"><a href="#definition" class="headerlink" title="definition"></a>definition</h2><ul>
-<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{2}(a^2+b^2)}$</li>
-<li>arithmetic mean :&#x3D; $\frac{a+b}{2}$</li>
-<li>geometric mean :&#x3D; $\sqrt{ab}$</li>
-<li>harmonic mean :&#x3D; $(\frac{1}{2}(\frac{1}{a}+\frac{1}{b}))^{-1}$</li>
-</ul>
-<h2 id="TH"><a href="#TH" class="headerlink" title="TH"></a>TH</h2><p>$$<br>max(a,b) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(a,b)<br>$$<br>We can prove it as below:</p>
-<h3 id="geometry-prove-1"><a href="#geometry-prove-1" class="headerlink" title="geometry prove 1"></a>geometry prove 1</h3><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20221101112112393.png" alt="image-20221101112112393" style="zoom:50%;" />
-
-<ul>
-<li>$max(a,b) \ge QM&#x2F;RMS$: use angle</li>
-<li>$QM&#x2F;RMS \ge AM$: obviously</li>
-<li>$AM \ge GM$: obviously</li>
-<li>$GM \ge HM$: obviously</li>
-<li>$HM \ge min(a,b)$: think about their dual length, i.e.: $AM-HM$ and $AM-min(a,b)$</li>
-</ul>
-<h3 id="geometry-prove-2"><a href="#geometry-prove-2" class="headerlink" title="geometry prove 2"></a>geometry prove 2</h3><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20221101112356346.png" alt="image-20221101112356346" style="zoom: 33%;" />
-
-<ul>
-<li>similar to geometry prove 1</li>
-</ul>
-<h1 id="more-than-2D"><a href="#more-than-2D" class="headerlink" title="more than 2D"></a>more than 2D</h1><h2 id="definition-1"><a href="#definition-1" class="headerlink" title="definition"></a>definition</h2><ul>
-<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{n}(x_1^2+x_2^2+…+x_n^2)} &#x3D; \sqrt{&lt;X^2&gt;} &#x3D; &lt;X^2&gt;^{\frac{1}{2}}$</li>
-<li>arithmetic mean :&#x3D; $\frac{x_1+x_2+…+x_n}{n} &#x3D; <X> &#x3D; &lt;X^1&gt;^1$</li>
-<li>geometric mean :&#x3D; $\sqrt{x_1x_2…x_n}$</li>
-<li>harmonic mean :&#x3D; $(\frac{1}{n}(\frac{1}{x_1}+\frac{1}{x_2}+…+\frac{1}{x_n}))^{-1} &#x3D; &lt;\frac{1}{X}&gt;^{-1} &#x3D; &lt;X^{-1}&gt;^{-1}$</li>
-</ul>
-<h2 id="TH-1"><a href="#TH-1" class="headerlink" title="TH"></a>TH</h2><p>We still have<br>$$<br>max(x_1,x_2,…,x_n) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(x_1,x_2,…,x_n)<br>$$<br>The prove is omitted</p>
-<h1 id="generalization"><a href="#generalization" class="headerlink" title="generalization"></a>generalization</h1><p>$Hölder \ mean :&#x3D; &lt;X^p&gt;^{\frac{1}{p}}$</p>
-<ul>
-<li>We can prove that $\displaystyle \lim_{p \to 0} Hölder \ mean &#x3D; GM$</li>
-<li>We can prove that $p \nearrow \Rightarrow Hölder \ mean \nearrow $</li>
-</ul>
-<p>By the way, We can call Hölder mean  “1&#x2F;p-mean-p” in analogy of “root-mean-square”</p>
+          <p>Today I finally understand what sclera is, what iris is, what pupil is an what cornea is.</p>
+<p>自少时起，我常怀一种信念——看一个人的眼睛，就能知晓其灵魂。</p>
+<p>超越了语言的枷锁，超越了行为的伪装，超越了神情的变幻。</p>
+<p>我没法证明这一点，这只是一个信仰。</p>
+<p>也许你会笑我荒诞，</p>
+<p>但今天我突然发觉，</p>
+<p>从神经科学的角度来看，这句话并非那么离奇。</p>
+<p>人类的意识似乎害怕这个世界，它躲藏在坚硬的颅骨之中，唯有两颗璀璨的宝石直接对外开放。</p>
+<p>Copyright: 本文中所有中文均出自GPT-4.</p>
 
       
     </div>
@@ -1265,24 +1249,6 @@
 
   <footer class="footer">
     <div class="footer-inner">
-  <div class="languages">
-    <label class="lang-select-label">
-      <i class="fa fa-language"></i>
-      <span>English</span>
-      <i class="fa fa-angle-up" aria-hidden="true"></i>
-    </label>
-    <select class="lang-select" data-canonical="" aria-label="Select language">
-      
-        <option value="en" data-href="/index.html" selected="">
-          English
-        </option>
-      
-        <option value="zh-CN" data-href="/zh-CN/index.html" selected="">
-          简体中文
-        </option>
-      
-    </select>
-  </div>
 
   <div class="copyright">
     &copy; 
@@ -1292,7 +1258,7 @@
     </span>
     <span class="author" itemprop="copyrightHolder">李懿轩</span>
   </div>
-  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/pisces/" rel="noopener" target="_blank">NexT.Pisces</a>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
   </div>
 
     </div>
@@ -1313,7 +1279,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
 
-  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
   <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
   <script src="/js/third-party/tags/pdf.js"></script>
 
