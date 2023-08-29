@@ -34,9 +34,9 @@
 <meta property="og:image" content="https://physics-lee.github.io/2022/08/10/the%20misuse%20of%20p-value%20in%20the%20senior%20high%20school/new_book_1.png">
 <meta property="og:image" content="https://physics-lee.github.io/2022/08/10/the%20misuse%20of%20p-value%20in%20the%20senior%20high%20school/new_book_2.png">
 <meta property="og:image" content="https://physics-lee.github.io/2022/08/10/the%20misuse%20of%20p-value%20in%20the%20senior%20high%20school/new_book_3.png">
-<meta property="og:image" content="c:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220821131558598.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/the%20misuse%20of%20p-value%20in%20the%20senior%20high%20school/%E9%99%88%E5%B8%8C%E5%AD%BA.png">
 <meta property="article:published_time" content="2022-08-09T16:00:00.000Z">
-<meta property="article:modified_time" content="2023-08-29T08:52:47.951Z">
+<meta property="article:modified_time" content="2023-08-29T13:34:29.637Z">
 <meta property="article:author" content="李懿轩">
 <meta property="article:tag" content="science">
 <meta property="article:tag" content="statistics">
@@ -163,18 +163,18 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">54</span>
+          <span class="site-state-item-count">61</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">9</span>
+        <span class="site-state-item-count">13</span>
         <span class="site-state-item-name">categories</span></a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">33</span>
+        <span class="site-state-item-count">39</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -237,7 +237,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2023-08-29 16:52:47" itemprop="dateModified" datetime="2023-08-29T16:52:47+08:00">2023-08-29</time>
+      <time title="Modified: 2023-08-29 21:34:29" itemprop="dateModified" datetime="2023-08-29T21:34:29+08:00">2023-08-29</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -341,7 +341,7 @@
 <p>但是有一句话仍然有一定的问题。这个问题不是错误，但容易引起歧义——当我们用自然语言写”犯错误的概率不超过$\alpha$时，我们容易理解为，$P(H0不成立|出现现有数据) \le \alpha$。</p>
 <p>为了避免歧义，我们不能用写”犯<strong>错误</strong>的概率“，而要写”犯<strong>第一类错误</strong>的概率”。（统计学家把第一类错误<strong>定义</strong>成$P(拒绝H0|H0成立)$，把第二类错误<strong>定义</strong>为$P(接受H0|H0不成立)$。）</p>
 <p>下图为陈希孺的《概率论与数理统计》，他的写法是正确的：</p>
-<img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220821131558598.png" alt="image-20220821131558598" style="zoom: 50%;" />
+<img src="/2022/08/10/the%20misuse%20of%20p-value%20in%20the%20senior%20high%20school/%E9%99%88%E5%B8%8C%E5%AD%BA.png" class="">
 
 <p>传统的频率学派使用假设检验时，如果他发现p-value小于某个给定的值，比如0.01，他就会拒绝H0。在这种做法下：<br>$$<br>p-value &#x3D; P(拒绝H0|H0成立)<br>$$</p>
 <p>总结：<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(拒绝H0|H0成立) &#x3D; P(犯第一类错误)<br>$$</p>
