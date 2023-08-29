@@ -49,29 +49,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Croucher</title>
-    <url>/2023/07/01/Croucher/</url>
-    <content><![CDATA[<p>2023年6月的最后一周，我来到香港参加了<a href="https://projects.croucher.org.hk/summer-courses/introduction-to-computational-neuroscience">Croucher基金会赞助的计算神经科学暑期课程</a>，为期6天。</p>
-<p>听到一半，我很沮丧，因为我所听到的加深了我脑海中“这个领域无比复杂”的印象。不过，梦想还是要有的，至于能不能实现，那是另外一个问题。</p>
-<p>一个学科要有自己的梦想，分子生物学之梦、神经生物学之梦。</p>
-<p>一个实验室要有自己的梦想，WenLab’s dream。</p>
-<p>一个人也要有自己的梦想，安得广厦千万间、open science、open education、soul love。</p>
-<p>听到最后，我也在想另外两个问题——如果让我来教2020年6月的我理论神经科学，我会怎么教？如果让我来教2018年6月的我理论神经科学，我会怎么教？前者，我已经会：高中知识、微积分、线性代数、概统、力热电光、理力电动；后者，我只会高中知识。</p>
-<p>Croucher这样的暑期课程有很多（比如<a href="https://leshouches2022.github.io/">Les Houches</a>），但是它们都是碎片化的，适合已经对这个领域有所了解的人，而不是初学者。初学者最好还是上一个成体系的课程来一窥这一领域的全貌（比如<a href="https://www.coursera.org/learn/computational-neuroscience">这个Coursera上的课程</a>）。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>teaching</tag>
-        <tag>computational neuroscience</tag>
-        <tag>open science</tag>
-        <tag>love</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Cook Inspirations</title>
     <url>/2021/02/01/Cook%20Inspirations/</url>
     <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
@@ -114,21 +91,26 @@
       </tags>
   </entry>
   <entry>
-    <title>Life Is Strange</title>
-    <url>/2023/08/24/Life%20Is%20Strange/</url>
-    <content><![CDATA[<h1 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h1><p>游戏性太差了，有很多很蛋疼的任务（去寝室就不能让我直接去吗，上阁楼就不能让我直接上吗），远远没有打僵尸和打架有意思。</p>
-<p>游戏性差的另一点体现在心理描写和勾心斗角太过细腻了。Detroit和The Walking Dead那种粗犷的描写更适合我些。</p>
-<p>剧情略差，因为有很多不合逻辑的地方，比如Max带着记忆回到过去之后为什么不去警告飓风要来袭，这样就可以同时拯救Chloe和Arcadia Bay；比如Chloe都已经报警了，警察也已经到了，为什么不带着警察去找毒贩和Sera，Chloe明知自己打不过那个毒贩。</p>
-<h1 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h1><p>相比于Detroit和The Walking Dead，优点是更贴近生活吧，展示了一个高中生的故事。</p>
-<p>Life Is Strange: Before Storm的Farewell这一章，我很喜欢，任务都不无聊，心理描写也很恰到好处，剧情也丰满且合理。</p>
+    <title>Croucher</title>
+    <url>/2023/07/01/Croucher/</url>
+    <content><![CDATA[<p>2023年6月的最后一周，我来到香港参加了<a href="https://projects.croucher.org.hk/summer-courses/introduction-to-computational-neuroscience">Croucher基金会赞助的计算神经科学暑期课程</a>，为期6天。</p>
+<p>听到一半，我很沮丧，因为我所听到的加深了我脑海中“这个领域无比复杂”的印象。不过，梦想还是要有的，至于能不能实现，那是另外一个问题。</p>
+<p>一个学科要有自己的梦想，分子生物学之梦、神经生物学之梦。</p>
+<p>一个实验室要有自己的梦想，WenLab’s dream。</p>
+<p>一个人也要有自己的梦想，安得广厦千万间、open science、open education、soul love。</p>
+<p>听到最后，我也在想另外两个问题——如果让我来教2020年6月的我理论神经科学，我会怎么教？如果让我来教2018年6月的我理论神经科学，我会怎么教？前者，我已经会：高中知识、微积分、线性代数、概统、力热电光、理力电动；后者，我只会高中知识。</p>
+<p>Croucher这样的暑期课程有很多（比如<a href="https://leshouches2022.github.io/">Les Houches</a>），但是它们都是碎片化的，适合已经对这个领域有所了解的人，而不是初学者。初学者最好还是上一个成体系的课程来一窥这一领域的全貌（比如<a href="https://www.coursera.org/learn/computational-neuroscience">这个Coursera上的课程</a>）。</p>
 ]]></content>
       <categories>
-        <category>video game</category>
+        <category>science</category>
+        <category>teaching</category>
       </categories>
       <tags>
-        <tag>video game</tag>
-        <tag>Life Is Strange</tag>
-        <tag>family</tag>
+        <tag>science</tag>
+        <tag>teaching</tag>
+        <tag>computational neuroscience</tag>
+        <tag>open science</tag>
+        <tag>love</tag>
       </tags>
   </entry>
   <entry>
@@ -178,6 +160,57 @@
       <tags>
         <tag>biology</tag>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Life Is Strange</title>
+    <url>/2023/08/24/Life%20Is%20Strange/</url>
+    <content><![CDATA[<h1 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h1><p>游戏性太差了，有很多很蛋疼的任务（去寝室就不能让我直接去吗，上阁楼就不能让我直接上吗），远远没有打僵尸和打架有意思。</p>
+<p>游戏性差的另一点体现在心理描写和勾心斗角太过细腻了。Detroit和The Walking Dead那种粗犷的描写更适合我些。</p>
+<p>剧情略差，因为有很多不合逻辑的地方，比如Max带着记忆回到过去之后为什么不去警告飓风要来袭，这样就可以同时拯救Chloe和Arcadia Bay；比如Chloe都已经报警了，警察也已经到了，为什么不带着警察去找毒贩和Sera，Chloe明知自己打不过那个毒贩。</p>
+<h1 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h1><p>相比于Detroit和The Walking Dead，优点是更贴近生活吧，展示了一个高中生的故事。</p>
+<p>Life Is Strange: Before Storm的Farewell这一章，我很喜欢，任务都不无聊，心理描写也很恰到好处，剧情也丰满且合理。</p>
+]]></content>
+      <categories>
+        <category>video game</category>
+      </categories>
+      <tags>
+        <tag>video game</tag>
+        <tag>Life Is Strange</tag>
+        <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My Octopus Teacher</title>
+    <url>/2023/08/25/My%20Octopus%20Teacher/</url>
+    <content><![CDATA[<p>2020奥斯卡最佳纪录片，My Octopus Teacher，《我的章鱼老师》。</p>
+<p>故事由一位热爱工作的野生动物摄影师讲述。他从小就热衷于此，长大后他去非洲某沙漠工作，但是，他过分沉迷于工作，疏远了自己的家人。两年前，他和老婆孩子的关系跌到谷底。同时，他的压力终于超过了他的承受能力，他再也不想去野外拍视频，再也不想去工作室剪视频了。他离开了自己工作十几年的沙漠，来到了南非某处，拍水下世界。他从小在水边长大，这让他感到放松。</p>
+<p>一天，他偶然看到一个会动的贝壳堆，他感到十分好奇。后来那个“贝壳堆”捕捉了靠近的几条小鱼，他才发现里面是一只章鱼。章鱼放下了贝壳后，又用海草把自己缠一圈，小心翼翼又好奇地看着这个自己从来没见过的生物。</p>
+<p>他每天都来拍她，她刚开始依然很小心，后来开始大胆起来，几十天后的一天，他伸出手指，章鱼也伸出触手碰了碰他。后来，章鱼会爬到他的胸上玩耍。</p>
+<p>他回去后看了很多论文，了解了章鱼的习性，对这种生物更加好奇。他拍摄了很多章鱼捕食鱼、虾、螃蟹、贝类的视频。他把章鱼吃剩下的残渣、章鱼用来防身的贝壳和海草都拿回去研究。</p>
+<p>有一天，章鱼在捕食龙虾。龙虾在Oxy平面运动得很缓慢，在z轴上运动得极快，而章鱼只能在Oxy平面以及平面上很小的范围里去尝试盖住龙虾。章鱼失败了很多次后，突然就开始利用拍摄者，把他引诱到龙虾的上方，这样她就可以捕捉到龙虾了。</p>
+<p>又有一天，一只两三米的鲨鱼执着地追捕着章鱼。她逃来逃去，甚至跑到了陆地上，再另一处又下水，但鲨鱼还是锲而不舍。毕竟鲨鱼游得快，终于要追上了，她用触手迅速抓来许多贝壳和石头作为防御，并把自己团成团。鲨鱼咬住这个球，然后死亡翻滚。这时，拍摄者必须要上去换气了，当他下来的时候，发现章鱼爬到了鲨鱼的背部。最危险的地方就是最安全的地方。鲨鱼尝试把她摔下来，但是失败了。当鲨鱼游过一大片海草时，她逃走了。</p>
+<p>拍摄者搜查资料发现，章鱼吃贝类，需要打破一个小洞，把毒素注入贝类，贝类的肌肉才会放松，章鱼才能吃到，但是，对于某些贝类，章鱼必须精准地在硬壳顶端打洞，贝类肌肉才会被毒素放松。他带回来几十种被章鱼干掉的贝类的壳，发现章鱼学会了对不同外形的贝类进行精准打击。</p>
+<p>又有一天，他发现章鱼在和鱼群玩耍，她没有尝试去吃这些鱼，而是不停地用触手把鱼群赶来赶去。当她玩累了时，她突然向拍摄者爬过来，贴在他的胸口玩。</p>
+<p>拍摄途中，有一次，章鱼被鲨鱼咬掉了一只触角，奄奄一息，费劲全力才爬回洞穴。拍摄者知道他不应干涉野生动物的生活，但他对章鱼的感情实在太强烈，他cross the line，喂了一些贝类给章鱼吃。</p>
+<p>章鱼的寿命只有一年多一点。他初见这只章鱼的三百多天后，他发现她在和另一只章鱼交配。之后，她爬回了自己的洞里，不再移动，不再捕食，身体的大部分都留给了下一代。她产下了50W枚卵，卵随着水流飘出。快要死去的她也被水流带出洞穴，躺在海底，被鱼类一点一点吃掉，他很想把鱼类都赶走，把章鱼的尸体带去埋葬，但是这次他克制住了。第二天，一条大鲨鱼跑了过来，把她叼走了。</p>
+<hr>
+<p>我愿意相信影片中拍摄的所有均属实。如果这样，那么这只章鱼展现了超强的学习能力——使用工具、制作工具、利用拍摄者、险中求胜、精准打击。</p>
+<hr>
+<p>在拍摄这只章鱼的一年里，拍摄者需要像章鱼一样思考问题。有一次拍摄者把章鱼吓到了，他找了整整一周才找到她，在这一周里他不断找各种章鱼的痕迹，并且站在章鱼的角度思考，终于找到了她。这一年里，他学会了换位思考，改善了自己和家人的关系，教会了儿子潜水。影片的最后，他儿子发现了一只小章鱼，按时间和大小推算，很有可能是那只章鱼的后代。他拍摄的是章鱼，却拯救了自己的家庭，这就是为什么这部记录叫《我的章鱼老师》。</p>
+<hr>
+<p>很长一段时间，我一直在思考，到底什么是家庭。我想到《我，机器人》里男主对女儿的思念和对机器人的嘲讽，想到《寻梦环游记》里追逐梦想和陪伴家人的两难境地（以及那首著名的Remember Me），想到Inside Out里小女孩和父母的破碎与重逢，想到恩格斯用他特有的穿透一切的语言对家庭的起源、发展、本质的思考，想到苏牙自传里苏亚雷斯抱怨时任主教练范巴斯滕没有给球员足够时间去陪伴家人，想到The Walking Dead里的Lee和Clementine，想到Detroit: Become Human里的Carl与Leo, Todd与Alice, Hank与Cole, 以及Cyberlife制造的永远服从、永远不会哭闹的来满足人的抚养欲望的机器人孩子，最近又包括了Life Is Strange里Chloe和她的父亲。当然我也知道生物界里存在各种各样的“家庭”，白蚁、鸟类、狼群、象群。尽管有这么多知识，但我还是无法给出一个答案。</p>
+<p>在这个世界里，一个温暖的家庭，也是一种奢望。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>biology</tag>
+        <tag>love</tag>
+        <tag>family</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -252,39 +285,6 @@
         <tag>science</tag>
         <tag>math</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My Octopus Teacher</title>
-    <url>/2023/08/25/My%20Octopus%20Teacher/</url>
-    <content><![CDATA[<p>2020奥斯卡最佳纪录片，My Octopus Teacher，《我的章鱼老师》。</p>
-<p>故事由一位热爱工作的野生动物摄影师讲述。他从小就热衷于此，长大后他去非洲某沙漠工作，但是，他过分沉迷于工作，疏远了自己的家人。两年前，他和老婆孩子的关系跌到谷底。同时，他的压力终于超过了他的承受能力，他再也不想去野外拍视频，再也不想去工作室剪视频了。他离开了自己工作十几年的沙漠，来到了南非某处，拍水下世界。他从小在水边长大，这让他感到放松。</p>
-<p>一天，他偶然看到一个会动的贝壳堆，他感到十分好奇。后来那个“贝壳堆”捕捉了靠近的几条小鱼，他才发现里面是一只章鱼。章鱼放下了贝壳后，又用海草把自己缠一圈，小心翼翼又好奇地看着这个自己从来没见过的生物。</p>
-<p>他每天都来拍她，她刚开始依然很小心，后来开始大胆起来，几十天后的一天，他伸出手指，章鱼也伸出触手碰了碰他。后来，章鱼会爬到他的胸上玩耍。</p>
-<p>他回去后看了很多论文，了解了章鱼的习性，对这种生物更加好奇。他拍摄了很多章鱼捕食鱼、虾、螃蟹、贝类的视频。他把章鱼吃剩下的残渣、章鱼用来防身的贝壳和海草都拿回去研究。</p>
-<p>有一天，章鱼在捕食龙虾。龙虾在Oxy平面运动得很缓慢，在z轴上运动得极快，而章鱼只能在Oxy平面以及平面上很小的范围里去尝试盖住龙虾。章鱼失败了很多次后，突然就开始利用拍摄者，把他引诱到龙虾的上方，这样她就可以捕捉到龙虾了。</p>
-<p>又有一天，一只两三米的鲨鱼执着地追捕着章鱼。她逃来逃去，甚至跑到了陆地上，再另一处又下水，但鲨鱼还是锲而不舍。毕竟鲨鱼游得快，终于要追上了，她用触手迅速抓来许多贝壳和石头作为防御，并把自己团成团。鲨鱼咬住这个球，然后死亡翻滚。这时，拍摄者必须要上去换气了，当他下来的时候，发现章鱼爬到了鲨鱼的背部。最危险的地方就是最安全的地方。鲨鱼尝试把她摔下来，但是失败了。当鲨鱼游过一大片海草时，她逃走了。</p>
-<p>拍摄者搜查资料发现，章鱼吃贝类，需要打破一个小洞，把毒素注入贝类，贝类的肌肉才会放松，章鱼才能吃到，但是，对于某些贝类，章鱼必须精准地在硬壳顶端打洞，贝类肌肉才会被毒素放松。他带回来几十种被章鱼干掉的贝类的壳，发现章鱼学会了对不同外形的贝类进行精准打击。</p>
-<p>又有一天，他发现章鱼在和鱼群玩耍，她没有尝试去吃这些鱼，而是不停地用触手把鱼群赶来赶去。当她玩累了时，她突然向拍摄者爬过来，贴在他的胸口玩。</p>
-<p>拍摄途中，有一次，章鱼被鲨鱼咬掉了一只触角，奄奄一息，费劲全力才爬回洞穴。拍摄者知道他不应干涉野生动物的生活，但他对章鱼的感情实在太强烈，他cross the line，喂了一些贝类给章鱼吃。</p>
-<p>章鱼的寿命只有一年多一点。他初见这只章鱼的三百多天后，他发现她在和另一只章鱼交配。之后，她爬回了自己的洞里，不再移动，不再捕食，身体的大部分都留给了下一代。她产下了50W枚卵，卵随着水流飘出。快要死去的她也被水流带出洞穴，躺在海底，被鱼类一点一点吃掉，他很想把鱼类都赶走，把章鱼的尸体带去埋葬，但是这次他克制住了。第二天，一条大鲨鱼跑了过来，把她叼走了。</p>
-<hr>
-<p>我愿意相信影片中拍摄的所有均属实。如果这样，那么这只章鱼展现了超强的学习能力——使用工具、制作工具、利用拍摄者、险中求胜、精准打击。</p>
-<hr>
-<p>在拍摄这只章鱼的一年里，拍摄者需要像章鱼一样思考问题。有一次拍摄者把章鱼吓到了，他找了整整一周才找到她，在这一周里他不断找各种章鱼的痕迹，并且站在章鱼的角度思考，终于找到了她。这一年里，他学会了换位思考，改善了自己和家人的关系，教会了儿子潜水。影片的最后，他儿子发现了一只小章鱼，按时间和大小推算，很有可能是那只章鱼的后代。他拍摄的是章鱼，却拯救了自己的家庭，这就是为什么这部记录叫《我的章鱼老师》。</p>
-<hr>
-<p>很长一段时间，我一直在思考，到底什么是家庭。我想到《我，机器人》里男主对女儿的思念和对机器人的嘲讽，想到《寻梦环游记》里追逐梦想和陪伴家人的两难境地（以及那首著名的Remember Me），想到Inside Out里小女孩和父母的破碎与重逢，想到恩格斯用他特有的穿透一切的语言对家庭的起源、发展、本质的思考，想到苏牙自传里苏亚雷斯抱怨时任主教练范巴斯滕没有给球员足够时间去陪伴家人，想到The Walking Dead里的Lee和Clementine，想到Detroit: Become Human里的Carl与Leo, Todd与Alice, Hank与Cole, 以及Cyberlife制造的永远服从、永远不会哭闹的来满足人的抚养欲望的机器人孩子，最近又包括了Life Is Strange里Chloe和她的父亲。当然我也知道生物界里存在各种各样的“家庭”，白蚁、鸟类、狼群、象群。尽管有这么多知识，但我还是无法给出一个答案。</p>
-<p>在这个世界里，一个温暖的家庭，也是一种奢望。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>biology</tag>
-        <tag>family</tag>
-        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -380,6 +380,32 @@
       </tags>
   </entry>
   <entry>
+    <title>The Northern Town</title>
+    <url>/2023/06/22/The%20Northern%20Town/</url>
+    <content><![CDATA[<p>Silently I wander to the northern town, remembering the past so profound.</p>
+<p>Old words, old dreams, old promises abound.</p>
+<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
+<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
+<hr>
+<p>What we went through like sand lost in the hand.</p>
+<p>What we talked through like sound gone with the wind.</p>
+<p>Now your image is fading off my mind.</p>
+<p>But your word will hover till the end.</p>
+<hr>
+<p>Remember geometry and algebra,</p>
+<p>no more love in the cinema,</p>
+<p>no more laugh on the camera,</p>
+<p>everything seems to be in a new era.</p>
+<hr>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>What does the asterisk mean?</title>
     <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
     <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
@@ -414,63 +440,11 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>love</tag>
         <tag>physics</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
         <tag>math</tag>
         <tag>fun</tag>
-        <tag>romance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Northern Town</title>
-    <url>/2023/06/22/The%20Northern%20Town/</url>
-    <content><![CDATA[<p>Silently I wander to the northern town, remembering the past so profound.</p>
-<p>Old words, old dreams, old promises abound.</p>
-<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
-<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
-<hr>
-<p>What we went through like sand lost in the hand.</p>
-<p>What we talked through like sound gone with the wind.</p>
-<p>Now your image is fading off my mind.</p>
-<p>But your word will hover till the end.</p>
-<hr>
-<p>Remember geometry and algebra,</p>
-<p>no more love in the cinema,</p>
-<p>no more laugh on the camera,</p>
-<p>everything seems to be in a new era.</p>
-<hr>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>When I was a primary school student</title>
-    <url>/2022/10/09/When%20I%20was%20a%20primary%20school%20student/</url>
-    <content><![CDATA[<p>——2022-10-09——</p>
-<p>When I was a primary school student,</p>
-<p>I was told that science is <strong>finding what we don’t know from what we do know,</strong></p>
-<p>I was told that science is about <strong>blessing the entire human body</strong>.</p>
-<p>Lately, I was wondering,</p>
-<p>What is the meaning of science if we <strong>stop asking why?</strong></p>
-<p>What is the meaning of science if we couldn’t help the people around us?</p>
-<p>What is the meaning of science if we all just want to get some good papers?</p>
-<p>and some of us <strong>even do cheating, do scientific frauds?</strong></p>
-<p>——2023-08-29 update——</p>
-<p>In my opinion, there are 2 <strong>necessary conditions</strong> for becoming a scientist.</p>
-<ol>
-<li>You must have strong desire for the unknown.</li>
-<li>You must have scientific honesty.</li>
-</ol>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -580,18 +554,29 @@
       </tags>
   </entry>
   <entry>
-    <title>一剪梅·国庆</title>
-    <url>/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/</url>
-    <content><![CDATA[<p>斜雨寒风踽踽行，天上无晴，心上无情。</p>
-<p>含风携雨过悬铃，湖上孤亭，水上飘萍。</p>
-<p>落叶萧萧薄暮瞑，桌上冰冰，椅上冰冰。</p>
-<p>闲敲键鼠筑模型，思上澄明，纸上流明。</p>
+    <title>When I was a primary school student</title>
+    <url>/2022/10/09/When%20I%20was%20a%20primary%20school%20student/</url>
+    <content><![CDATA[<p>——2022-10-09——</p>
+<p>When I was a primary school student,</p>
+<p>I was told that science is <strong>finding what we don’t know from what we do know,</strong></p>
+<p>I was told that science is about <strong>blessing the entire human body</strong>.</p>
+<p>Lately, I was wondering,</p>
+<p>What is the meaning of science if we <strong>stop asking why?</strong></p>
+<p>What is the meaning of science if we couldn’t help the people around us?</p>
+<p>What is the meaning of science if we all just want to get some good papers?</p>
+<p>and some of us <strong>even do cheating, do scientific frauds?</strong></p>
+<p>——2023-08-29 update——</p>
+<p>In my opinion, there are 2 <strong>necessary conditions</strong> for becoming a scientist.</p>
+<ol>
+<li>You must have strong desire for the unknown.</li>
+<li>You must have scientific honesty.</li>
+</ol>
 ]]></content>
       <categories>
-        <category>poem</category>
+        <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>poem</tag>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -612,6 +597,21 @@
         <tag>science</tag>
         <tag>fun</tag>
         <tag>senior high school</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一剪梅·国庆</title>
+    <url>/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/</url>
+    <content><![CDATA[<p>斜雨寒风踽踽行，天上无晴，心上无情。</p>
+<p>含风携雨过悬铃，湖上孤亭，水上飘萍。</p>
+<p>落叶萧萧薄暮瞑，桌上冰冰，椅上冰冰。</p>
+<p>闲敲键鼠筑模型，思上澄明，纸上流明。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -662,52 +662,6 @@
         <tag>psychology</tag>
         <tag>scientific misconduct</tag>
         <tag>medicine</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>上海某所</title>
-    <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
-    <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
-<ol>
-<li>该所大多数实验室一周上班七天，每天上午九点到晚上十点。（扼杀自由、求知欲、想象力、创造力）</li>
-<li>我去拜访的组的老板阳性了，他在家和学生开线上组会，因为那个学生工作进展慢，把她一通骂。骂人的话是和科学完全无关的人身攻击&#x2F;人格侮辱，类似于“你还要不要一点脸”、“你不要脸我还要脸呢”。骂了二三十分钟。（太过分了，学生又没伤天害理，又没学术造假，又没违法犯罪，凭啥这么说人家。）（要是我的儿子&#x2F;女儿无故被这么骂我就要和他拼命了。）</li>
-<li>那个组在10楼，我到走廊两侧的窗户上想看看上海的夜景，发现墙上贴一张纸，写“我喜欢有你的世界”，加上心理援助热线。（我瞬间一点看风景的心情都没了）（师兄评论：资本家都相形见绌）</li>
-</ol>
-<p>昨夜思考良多，总结如下：</p>
-<ol>
-<li>学术造假已经严重阻碍生物学、医学、心理学的进步。</li>
-<li>学术造假和疯狂push的正相关性较强。</li>
-<li>疯狂push来自资本主义。</li>
-</ol>
-<p>但我内心并不是彻底的社会主义者，我心里社会主义、民族主义、资本主义三种思潮共存。我认为三者都有一定合理之处。</p>
-<p>不过对学术而言，就现在的形式看，肯定是社会主义更有利于科学的发展。一方面，汤森路透、爱思唯尔、自然这样的公司为牟利阻止大众获取书籍和论文，相当于把公众堵于科学的高墙之外。另一方面，导师和学生越来越类似于资本家和工人的关系。</p>
-<p>先写到这里吧，飞机要起飞了。</p>
-<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>我已经很久没写过学术造假相关的文章了，上一次写还是在2023年1月。</p>
-<p>学术造假一度让我对学术界感到幻灭，特别是2022年秋季学期。</p>
-<p>2022年12月，ChatGPT到手后，我和它聊得最多的话题就是学术造假。</p>
-<p>历史是，1990年至今，生物学领域的学术造假愈演愈烈。</p>
-<p>现状和未来是，生物学领域的学术造假还会持续多年。</p>
-<p>在这种情况下，我们一是要学会如何如何防范造假和灌水，二是要调整自己的心态。</p>
-<p>第一点我已经写过了，看这里。</p>
-<p>第二点，我认为有以下几点</p>
-<ul>
-<li><p>我们做好自己的科学研究就可以了，其他人想什么、追求什么、干什么，我们不需要关心。</p>
-</li>
-<li><p>我们现在可以改变自己周围的小环境。随着我们的实力逐渐变强，我们能改变的环境也逐渐变大。</p>
-</li>
-<li><p>科学家也是人，也有好有坏，这个职业里出现一些数据造假、骗经费、卖假药的人也很正常。</p>
-</li>
-<li><p>虽然饶毅举报的几个人没有受到应有的惩罚，而是被中国科学院以“图片误用”为由掩饰过去，但是饶毅也并没有像一些知乎网友想象的<a href="https://www.zhihu.com/question/358391679">那样</a>，被踢出学术圈。这说明中国科学界还是有良心的。</p>
-</li>
-<li><p><a href="https://www.zhihu.com/question/440902596">2021年1月21日中科院把学术造假化解为“图片误用”</a>是事实；<a href="https://www.nsfc.gov.cn/publish/portal0/jd/04/">国自然每年处理了许多学术造假</a>也是事实。</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -851,31 +805,49 @@
       </tags>
   </entry>
   <entry>
-    <title>周琦和郭艾伦带给我的思索</title>
-    <url>/2022/08/10/%E5%91%A8%E7%90%A6%E5%92%8C%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E7%B4%A2/</url>
-    <content><![CDATA[<h1 id="My-thinking-from-Zhou-and-Guo"><a href="#My-thinking-from-Zhou-and-Guo" class="headerlink" title="My thinking from Zhou and Guo"></a>My thinking from Zhou and Guo</h1><p>昨天看到新闻，周琦下赛季继续征战海外联赛，郭艾伦下赛季继续留在辽宁队。</p>
-<p>2021-2022赛季初，周琦决定和CBA硬刚，跑去打澳大利亚NBL联赛。</p>
-<p>虽然他之前干的很多事我不太喜欢，但这个决定还是很有刚的。</p>
-<p>好在他这么刚最后收获了一个好的结局。</p>
-<p>2022年亚洲杯，周琦表现极佳，入选5人最佳阵容。</p>
-<p>我想起2015年亚洲杯，中国队有3人入选5人最佳阵容，易建联、郭艾伦、周琦。那次亚洲杯，如果我没记错的话，郭艾伦的正负值为全中国队第一。也正因为这次入选最佳阵容，有些人开始把郭艾伦称为亚洲第一后卫。</p>
-<p>至少那次亚洲杯，他确实是亚洲第一后卫。</p>
-<p>郭艾伦曾经有过留洋的机会，但是他放弃了。我记得他还说过自己对打NBA没有太大的欲望。</p>
-<p>如果是4年前的我，我肯定会觉得一个球员不想着打更高水平的联赛就是毫无上进心。</p>
-<p>但也不知道从什么时候开始，我的想法变了。</p>
-<p>一个球员跑去国外打联赛，首先，他一年几乎见不到家人。更致命的是，球员一般都有女朋友或者夫人，异国恋容易分手或者婚变。</p>
-<p>也许郭艾伦当年是因为有女朋友才不想出国的。</p>
-<p>我想起著名的球星卡卡，大家都认为长期的异国恋导致了卡卡和他的夫人卡罗琳劳燕分飞，这是当年的足球圈最让人伤心的新闻之一。</p>
-<p>过去我总觉得一个球员就应该去冲击高水平联赛，</p>
-<p>但现在我发现人这一生除了理想除了追求除了自己的进步还有家庭还有伴侣还有责任。</p>
-<p>就写到这里吧。</p>
+    <title>上海某所</title>
+    <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
+    <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
+<ol>
+<li>该所大多数实验室一周上班七天，每天上午九点到晚上十点。（扼杀自由、求知欲、想象力、创造力）</li>
+<li>我去拜访的组的老板阳性了，他在家和学生开线上组会，因为那个学生工作进展慢，把她一通骂。骂人的话是和科学完全无关的人身攻击&#x2F;人格侮辱，类似于“你还要不要一点脸”、“你不要脸我还要脸呢”。骂了二三十分钟。（太过分了，学生又没伤天害理，又没学术造假，又没违法犯罪，凭啥这么说人家。）（要是我的儿子&#x2F;女儿无故被这么骂我就要和他拼命了。）</li>
+<li>那个组在10楼，我到走廊两侧的窗户上想看看上海的夜景，发现墙上贴一张纸，写“我喜欢有你的世界”，加上心理援助热线。（我瞬间一点看风景的心情都没了）（师兄评论：资本家都相形见绌）</li>
+</ol>
+<p>昨夜思考良多，总结如下：</p>
+<ol>
+<li>学术造假已经严重阻碍生物学、医学、心理学的进步。</li>
+<li>学术造假和疯狂push的正相关性较强。</li>
+<li>疯狂push来自资本主义。</li>
+</ol>
+<p>但我内心并不是彻底的社会主义者，我心里社会主义、民族主义、资本主义三种思潮共存。我认为三者都有一定合理之处。</p>
+<p>不过对学术而言，就现在的形式看，肯定是社会主义更有利于科学的发展。一方面，汤森路透、爱思唯尔、自然这样的公司为牟利阻止大众获取书籍和论文，相当于把公众堵于科学的高墙之外。另一方面，导师和学生越来越类似于资本家和工人的关系。</p>
+<p>先写到这里吧，飞机要起飞了。</p>
+<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>我已经很久没写过学术造假相关的文章了，上一次写还是在2023年1月。</p>
+<p>学术造假一度让我对学术界感到幻灭，特别是2022年秋季学期。</p>
+<p>2022年12月，ChatGPT到手后，我和它聊得最多的话题就是学术造假。</p>
+<p>历史是，1990年至今，生物学领域的学术造假愈演愈烈。</p>
+<p>现状和未来是，生物学领域的学术造假还会持续多年。</p>
+<p>在这种情况下，我们一是要学会如何如何防范造假和灌水，二是要调整自己的心态。</p>
+<p>第一点我已经写过了，看这里。</p>
+<p>第二点，我认为有以下几点</p>
+<ul>
+<li><p>我们做好自己的科学研究就可以了，其他人想什么、追求什么、干什么，我们不需要关心。</p>
+</li>
+<li><p>我们现在可以改变自己周围的小环境。随着我们的实力逐渐变强，我们能改变的环境也逐渐变大。</p>
+</li>
+<li><p>科学家也是人，也有好有坏，这个职业里出现一些数据造假、骗经费、卖假药的人也很正常。</p>
+</li>
+<li><p>虽然饶毅举报的几个人没有受到应有的惩罚，而是被中国科学院以“图片误用”为由掩饰过去，但是饶毅也并没有像一些知乎网友想象的<a href="https://www.zhihu.com/question/358391679">那样</a>，被踢出学术圈。这说明中国科学界还是有良心的。</p>
+</li>
+<li><p><a href="https://www.zhihu.com/question/440902596">2021年1月21日中科院把学术造假化解为“图片误用”</a>是事实；<a href="https://www.nsfc.gov.cn/publish/portal0/jd/04/">国自然每年处理了许多学术造假</a>也是事实。</p>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>basketball</category>
+        <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
-        <tag>family</tag>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -907,64 +879,36 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>teaching</tag>
         <tag>physics</tag>
+        <tag>teaching</tag>
       </tags>
   </entry>
   <entry>
-    <title>回忆海花岛</title>
-    <url>/2021/02/01/%E5%9B%9E%E5%BF%86%E6%B5%B7%E8%8A%B1%E5%B2%9B/</url>
-    <content><![CDATA[<p>2021年2月，我和父亲、母亲一起来到海花岛。这是一个人工岛。恒大集团投资建了它，在它上面搞什么徽派建筑、欧式建筑，搞了一大堆什么什么餐厅。</p>
-<p>来到这里，我的心里却只有不解、只有仇恨。</p>
-<p>来到这里，我没有看什么建筑、什么餐厅，我只看到了贫富差距。</p>
-<p>在海花岛附近的一条公路上，公路一侧是高耸的希尔顿酒店，公路另一侧是低矮的小平房。</p>
-<p>在去海花岛之前，有两个事让我感到震撼：</p>
-<ul>
-<li><p>2019年3月，一群程序员在GitHub上开了一个库，叫996.icu，抗议996。</p>
-</li>
-<li><p>2020年，五四青年节，b站做了一个叫《后浪》的视频，原意是正能量，但是没想到一片骂名，弹幕上全都是“全世界无产者，联合起来！”</p>
-</li>
-</ul>
-<p>1978-2022的中国就像是1865-1915的美国。</p>
-<p>现在中国各大高校已经形成了一股愤怒的暗流，中国必须解决贫富差距的问题，否则只等一个乱世枭雄把这股暗流点燃。</p>
+    <title>周琦和郭艾伦带给我的思索</title>
+    <url>/2022/08/10/%E5%91%A8%E7%90%A6%E5%92%8C%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E7%B4%A2/</url>
+    <content><![CDATA[<h1 id="My-thinking-from-Zhou-and-Guo"><a href="#My-thinking-from-Zhou-and-Guo" class="headerlink" title="My thinking from Zhou and Guo"></a>My thinking from Zhou and Guo</h1><p>昨天看到新闻，周琦下赛季继续征战海外联赛，郭艾伦下赛季继续留在辽宁队。</p>
+<p>2021-2022赛季初，周琦决定和CBA硬刚，跑去打澳大利亚NBL联赛。</p>
+<p>虽然他之前干的很多事我不太喜欢，但这个决定还是很有刚的。</p>
+<p>好在他这么刚最后收获了一个好的结局。</p>
+<p>2022年亚洲杯，周琦表现极佳，入选5人最佳阵容。</p>
+<p>我想起2015年亚洲杯，中国队有3人入选5人最佳阵容，易建联、郭艾伦、周琦。那次亚洲杯，如果我没记错的话，郭艾伦的正负值为全中国队第一。也正因为这次入选最佳阵容，有些人开始把郭艾伦称为亚洲第一后卫。</p>
+<p>至少那次亚洲杯，他确实是亚洲第一后卫。</p>
+<p>郭艾伦曾经有过留洋的机会，但是他放弃了。我记得他还说过自己对打NBA没有太大的欲望。</p>
+<p>如果是4年前的我，我肯定会觉得一个球员不想着打更高水平的联赛就是毫无上进心。</p>
+<p>但也不知道从什么时候开始，我的想法变了。</p>
+<p>一个球员跑去国外打联赛，首先，他一年几乎见不到家人。更致命的是，球员一般都有女朋友或者夫人，异国恋容易分手或者婚变。</p>
+<p>也许郭艾伦当年是因为有女朋友才不想出国的。</p>
+<p>我想起著名的球星卡卡，大家都认为长期的异国恋导致了卡卡和他的夫人卡罗琳劳燕分飞，这是当年的足球圈最让人伤心的新闻之一。</p>
+<p>过去我总觉得一个球员就应该去冲击高水平联赛，</p>
+<p>但现在我发现人这一生除了理想除了追求除了自己的进步还有家庭还有伴侣还有责任。</p>
+<p>就写到这里吧。</p>
 ]]></content>
       <categories>
-        <category>socialism</category>
+        <category>basketball</category>
       </categories>
       <tags>
-        <tag>China</tag>
-        <tag>socialism</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何防范造假和灌水？</title>
-    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
-    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
-<ul>
-<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
-<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
-<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
-</ul>
-<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
-<ul>
-<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
-<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
-<li>缺点：这相当于要各大期刊断自己的财路。</li>
-</ul>
-</li>
-<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
-<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
-<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
-<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
+        <tag>basketball</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -1045,6 +989,37 @@
       </tags>
   </entry>
   <entry>
+    <title>如何防范造假和灌水？</title>
+    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
+    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
+<ul>
+<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
+<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
+<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
+</ul>
+<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
+<ul>
+<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
+<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
+<li>缺点：这相当于要各大期刊断自己的财路。</li>
+</ul>
+</li>
+<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
+<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
+<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
+<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如果穿越回过去，所有事情真的会一模一样吗？</title>
     <url>/2021/09/01/%E5%A6%82%E6%9E%9C%E7%A9%BF%E8%B6%8A%E5%9B%9E%E8%BF%87%E5%8E%BB%EF%BC%8C%E6%89%80%E6%9C%89%E4%BA%8B%E6%83%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%E5%90%97%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="迷思"><a href="#迷思" class="headerlink" title="迷思"></a>迷思</h1><p>玩RA2和War3时，我经常会SL (Save and Load)。</p>
@@ -1072,6 +1047,52 @@
         <tag>video game</tag>
         <tag>fun</tag>
         <tag>chaos</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>回忆海花岛</title>
+    <url>/2021/02/01/%E5%9B%9E%E5%BF%86%E6%B5%B7%E8%8A%B1%E5%B2%9B/</url>
+    <content><![CDATA[<p>2021年2月，我和父亲、母亲一起来到海花岛。这是一个人工岛。恒大集团投资建了它，在它上面搞什么徽派建筑、欧式建筑，搞了一大堆什么什么餐厅。</p>
+<p>来到这里，我的心里却只有不解、只有仇恨。</p>
+<p>来到这里，我没有看什么建筑、什么餐厅，我只看到了贫富差距。</p>
+<p>在海花岛附近的一条公路上，公路一侧是高耸的希尔顿酒店，公路另一侧是低矮的小平房。</p>
+<p>在去海花岛之前，有两个事让我感到震撼：</p>
+<ul>
+<li><p>2019年3月，一群程序员在GitHub上开了一个库，叫996.icu，抗议996。</p>
+</li>
+<li><p>2020年，五四青年节，b站做了一个叫《后浪》的视频，原意是正能量，但是没想到一片骂名，弹幕上全都是“全世界无产者，联合起来！”</p>
+</li>
+</ul>
+<p>1978-2022的中国就像是1865-1915的美国。</p>
+<p>现在中国各大高校已经形成了一股愤怒的暗流，中国必须解决贫富差距的问题，否则只等一个乱世枭雄把这股暗流点燃。</p>
+]]></content>
+      <categories>
+        <category>socialism</category>
+      </categories>
+      <tags>
+        <tag>China</tag>
+        <tag>socialism</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数学，为了人类心智的荣耀</title>
+    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
+    <content><![CDATA[<blockquote>
+<p>雅可比：数学是为了应用</p>
+<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
+</blockquote>
+<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
+<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
+<p>我：数论从公元前几百年到1900年，都没有应用。</p>
+<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
+<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -1109,32 +1130,11 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>love</tag>
         <tag>physics</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
         <tag>math</tag>
         <tag>fun</tag>
-        <tag>romance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学，为了人类心智的荣耀</title>
-    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
-    <content><![CDATA[<blockquote>
-<p>雅可比：数学是为了应用</p>
-<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
-</blockquote>
-<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
-<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
-<p>我：数论从公元前几百年到1900年，都没有应用。</p>
-<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
-<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -1282,21 +1282,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>相见欢·南城</title>
     <url>/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/</url>
     <content><![CDATA[<p>无言独往南城，忆重重。</p>
@@ -1309,6 +1294,21 @@
       </categories>
       <tags>
         <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -1393,21 +1393,6 @@
       </tags>
   </entry>
   <entry>
-    <title>西江月·归乡</title>
-    <url>/2022/12/19/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%BD%92%E4%B9%A1/</url>
-    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
-<p>金阳银柳待归来，未见已达三载。</p>
-<p>恍恍学期已尽，悠悠未见蓬莱。</p>
-<p>为期有日易吾才，不负思如雪白。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>说真话还是说假话</title>
     <url>/2022/12/01/%E8%AF%B4%E7%9C%9F%E8%AF%9D%E8%BF%98%E6%98%AF%E8%AF%B4%E5%81%87%E8%AF%9D/</url>
     <content><![CDATA[<p>在知乎上看到深圳、北京、温州的某些高中招聘到了许多清北的博士生，遂作此篇。</p>
@@ -1435,6 +1420,21 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>西江月·归乡</title>
+    <url>/2022/12/19/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%BD%92%E4%B9%A1/</url>
+    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
+<p>金阳银柳待归来，未见已达三载。</p>
+<p>恍恍学期已尽，悠悠未见蓬莱。</p>
+<p>为期有日易吾才，不负思如雪白。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -1639,23 +1639,6 @@
       </tags>
   </entry>
   <entry>
-    <title>陪伴爱因斯坦的两个人</title>
-    <url>/2022/10/20/%E9%99%AA%E4%BC%B4%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
-    <content><![CDATA[<p>最近，我读到了一个让我泪目的故事，也许是现在的我泪点太低了吧：</p>
-<p>1905年，爱因斯坦还只是瑞士某个专利局的员工。当年，他写了一篇著名的论文，《论运动物体的电动力学》。这篇文章是狭义相对论的开端。在文中他只感谢了一个人，Michele Besso，他在专利局的同事，感谢他下班之后经常和自己讨论问题，感谢他给自己介绍恩斯特·马赫的思想。爱因斯坦把这篇论文交给夫人Mileva Marić校对。6月，这篇文章发表在《物理年鉴》上。</p>
-<p>后来爱因斯坦成了和牛顿齐名的物理学家，有无数人愿意围着他转。但是，当他还是一个小小的专利局员工时，却只有两个人陪伴在他的身边。</p>
-<p>1955年3月，Michele Besso去世，爱因斯坦写道：他比我稍早离开了这奇异的世界，而这不代表什么。像我们这些信仰物理的人都知道：过去、现在、未来的差异仅仅是一种坚固持久的幻觉。（”Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present and future is only a stubbornly persistent illusion.”）</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>随笔两则：剧本杀</title>
     <url>/2022/07/20/%E9%9A%8F%E7%AC%94%E4%B8%A4%E5%88%99%EF%BC%9A%E5%89%A7%E6%9C%AC%E6%9D%80/</url>
     <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
@@ -1684,6 +1667,23 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>陪伴爱因斯坦的两个人</title>
+    <url>/2022/10/20/%E9%99%AA%E4%BC%B4%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
+    <content><![CDATA[<p>最近，我读到了一个让我泪目的故事，也许是现在的我泪点太低了吧：</p>
+<p>1905年，爱因斯坦还只是瑞士某个专利局的员工。当年，他写了一篇著名的论文，《论运动物体的电动力学》。这篇文章是狭义相对论的开端。在文中他只感谢了一个人，Michele Besso，他在专利局的同事，感谢他下班之后经常和自己讨论问题，感谢他给自己介绍恩斯特·马赫的思想。爱因斯坦把这篇论文交给夫人Mileva Marić校对。6月，这篇文章发表在《物理年鉴》上。</p>
+<p>后来爱因斯坦成了和牛顿齐名的物理学家，有无数人愿意围着他转。但是，当他还是一个小小的专利局员工时，却只有两个人陪伴在他的身边。</p>
+<p>1955年3月，Michele Besso去世，爱因斯坦写道：他比我稍早离开了这奇异的世界，而这不代表什么。像我们这些信仰物理的人都知道：过去、现在、未来的差异仅仅是一种坚固持久的幻觉。（”Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present and future is only a stubbornly persistent illusion.”）</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -1798,21 +1798,6 @@
       </tags>
   </entry>
   <entry>
-    <title>骂学术造假</title>
-    <url>/2022/11/15/%E9%AA%82%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/</url>
-    <content><![CDATA[<p>如果说科学是造福全人类，</p>
-<p>那么学术造假就是祸害全人类。</p>
-<p>我对科学有多爱，</p>
-<p>我对学术造假就有多恨。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>饶毅2011年落选院士后所写的文章</title>
     <url>/2022/11/20/%E9%A5%B6%E6%AF%852011%E5%B9%B4%E8%90%BD%E9%80%89%E9%99%A2%E5%A3%AB%E5%90%8E%E6%89%80%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>饶毅的观点</p>
@@ -1822,6 +1807,21 @@
 <li>中国科学院生命学部比数学物理学部、化学部更不清明。</li>
 <li>王中林当选化学部外籍院士是清明的体现。（2022年初，王中林因为“拓展麦克斯韦方程组”搞了个大笑话）</li>
 </ul>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>骂学术造假</title>
+    <url>/2022/11/15/%E9%AA%82%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/</url>
+    <content><![CDATA[<p>如果说科学是造福全人类，</p>
+<p>那么学术造假就是祸害全人类。</p>
+<p>我对科学有多爱，</p>
+<p>我对学术造假就有多恨。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
