@@ -172,21 +172,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Cook Inspirations</title>
-    <url>/2021/02/01/Cook%20Inspirations/</url>
-    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
-<p>答：剪应力比正向应力更容易让物体断裂。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>cook</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Croucher</title>
     <url>/2023/07/01/Croucher/</url>
     <content><![CDATA[<p>2023年6月的最后一周，我来到香港参加了<a href="https://projects.croucher.org.hk/summer-courses/introduction-to-computational-neuroscience">Croucher基金会赞助的计算神经科学暑期课程</a>，为期6天。</p>
@@ -234,6 +219,21 @@
       </tags>
   </entry>
   <entry>
+    <title>George Green</title>
+    <url>/2020/04/25/George%20Green/</url>
+    <content><![CDATA[<blockquote>
+<p>Green’s life story is remarkable in that he was almost entirely self-taught. He received only about one year of formal schooling as a child, between the ages of 8 and 9.</p>
+</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/George_Green_(mathematician)#Final_years_and_posthumous_fame">reference</a></p>
+]]></content>
+      <categories>
+        <category>biography</category>
+      </categories>
+      <tags>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DeepMind的新款AI可以像婴儿一样对违反直觉物理学的现象表示惊讶</title>
     <url>/2022/10/01/DeepMind%E7%9A%84%E6%96%B0%E6%AC%BEAI%E5%8F%AF%E4%BB%A5%E5%83%8F%E5%A9%B4%E5%84%BF%E4%B8%80%E6%A0%B7%E5%AF%B9%E8%BF%9D%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%89%A9%E7%90%86%E5%AD%A6%E7%9A%84%E7%8E%B0%E8%B1%A1%E8%A1%A8%E7%A4%BA%E6%83%8A%E8%AE%B6/</url>
     <content><![CDATA[<ul>
@@ -265,18 +265,21 @@
       </tags>
   </entry>
   <entry>
-    <title>George Green</title>
-    <url>/2020/04/25/George%20Green/</url>
-    <content><![CDATA[<blockquote>
-<p>Green’s life story is remarkable in that he was almost entirely self-taught. He received only about one year of formal schooling as a child, between the ages of 8 and 9.</p>
-</blockquote>
-<p><a href="https://en.wikipedia.org/wiki/George_Green_(mathematician)#Final_years_and_posthumous_fame">reference</a></p>
+    <title>How to find a professor working in biology?</title>
+    <url>/2022/10/01/How%20to%20find%20a%20professor%20working%20in%20biology/</url>
+    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
+<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
+<p>于公：自不必说</p>
+<p>于私：有两点</p>
+<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
+<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
 ]]></content>
       <categories>
-        <category>biography</category>
+        <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>biography</tag>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -294,24 +297,6 @@
       <tags>
         <tag>biography</tag>
         <tag>war</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to find a professor working in biology?</title>
-    <url>/2022/10/01/How%20to%20find%20a%20professor%20working%20in%20biology/</url>
-    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
-<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
-<p>于公：自不必说</p>
-<p>于私：有两点</p>
-<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
-<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -817,6 +802,19 @@
       </tags>
   </entry>
   <entry>
+    <title>Welcome to the Computational Neuroscience Course</title>
+    <url>/2023/08/05/Welcome%20to%20the%20Computational%20Neuroscience%20Course/</url>
+    <content><![CDATA[<p>See <a href="https://github.com/Wenlab/Computation-Neuro-Course/blob/Fall2023/Advertisement/Welcome%20to%20Computational%20Neuroscience%20Course_Chinese.pdf">here</a> !</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>computational neuroscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>What does the asterisk mean?</title>
     <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
     <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
@@ -852,30 +850,10 @@
       <tags>
         <tag>romance</tag>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>love</tag>
+        <tag>physics</tag>
         <tag>math</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>with Xuanhao</title>
-    <url>/2022/08/10/with%20Xuanhao/</url>
-    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
-<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
-<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
-<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
-<p>煊昊：你他娘的高考还能带个电脑去？</p>
-<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
-<p>最后，我们还探讨了那个p-value的问题。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
@@ -905,16 +883,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Welcome to the Computational Neuroscience Course</title>
-    <url>/2023/08/05/Welcome%20to%20the%20Computational%20Neuroscience%20Course/</url>
-    <content><![CDATA[<p>See <a href="https://github.com/Wenlab/Computation-Neuro-Course/blob/Fall2023/Advertisement/Welcome%20to%20Computational%20Neuroscience%20Course_Chinese.pdf">here</a> !</p>
+    <title>with Xuanhao</title>
+    <url>/2022/08/10/with%20Xuanhao/</url>
+    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
+<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
+<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
+<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
+<p>煊昊：你他娘的高考还能带个电脑去？</p>
+<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
+<p>最后，我们还探讨了那个p-value的问题。</p>
 ]]></content>
       <categories>
         <category>science</category>
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>computational neuroscience</tag>
+        <tag>fun</tag>
+        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
@@ -930,30 +915,6 @@
       </categories>
       <tags>
         <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三个快要被学术造假毁掉的学科</title>
-    <url>/2022/12/01/%E4%B8%89%E4%B8%AA%E5%BF%AB%E8%A6%81%E8%A2%AB%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%AF%81%E6%8E%89%E7%9A%84%E5%AD%A6%E7%A7%91/</url>
-    <content><![CDATA[<p>学术造假已经快要毁了生物学、医学、心理学这三个学科。</p>
-<p>原因在于：<strong>这三个领域的研究层次较高，需要控制的无关变量较多。</strong></p>
-<p>如果我们在相同条件下重复一个科学实验，它必须能重复出来，无论这个实验隶属于物理学、化学、生物学、医学还是心理学。</p>
-<p>但后三个学科的问题在于，它们需要控制的无关变量太多，很难把无关变量全都控制得一模一样。</p>
-<p>在生物学、医学、心理学这三个领域，就算有人质疑，造假者也可以拿一些无关变量来当挡箭牌。</p>
-<p>当然，这三个学科还在发展，这是因为：总有些人是正直的，他们不会学术造假。</p>
-<p>但他们通常也没有手段收拾学术造假者。</p>
-<p>未来，这种局面还会继续存在几十年：<strong>有些人不学术造假，有些人学术造假。</strong></p>
-<p>学术造假已经严重阻碍了这三个学科的进步。<strong>前者看论文时，多少得寻思寻思，这篇论文是否是学术造假的结果。</strong></p>
-<p><strong>如果后者越来越多，终有一天这三个学科会止步不前。</strong></p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
-        <tag>medicine</tag>
-        <tag>psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -980,22 +941,6 @@
       </categories>
       <tags>
         <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>上海三日游</title>
-    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
-    <content><![CDATA[<p>高光时刻：</p>
-<p>沪苏锡常观光高铁。</p>
-<p>松江大森林。</p>
-<p>上外西餐厅。</p>
-<p>复旦光华楼。</p>
-<p>嘉定摸黑路。</p>
-<p>同济高尔夫。</p>
-<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
-]]></content>
-      <tags>
-        <tag>travel</tag>
       </tags>
   </entry>
   <entry>
@@ -1066,19 +1011,19 @@
       </tags>
   </entry>
   <entry>
-    <title>世界很大，不要藏着掖着</title>
-    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
-    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+    <title>上海三日游</title>
+    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
+    <content><![CDATA[<p>高光时刻：</p>
+<p>沪苏锡常观光高铁。</p>
+<p>松江大森林。</p>
+<p>上外西餐厅。</p>
+<p>复旦光华楼。</p>
+<p>嘉定摸黑路。</p>
+<p>同济高尔夫。</p>
+<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
 ]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
       <tags>
-        <tag>science</tag>
-        <tag>teaching</tag>
-        <tag>social</tag>
-        <tag>USTC</tag>
+        <tag>travel</tag>
       </tags>
   </entry>
   <entry>
@@ -1133,31 +1078,24 @@
       </tags>
   </entry>
   <entry>
-    <title>中国科大星</title>
-    <url>/2023/05/30/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%98%9F/</url>
-    <content><![CDATA[<h1 id="拉普拉斯兽"><a href="#拉普拉斯兽" class="headerlink" title="拉普拉斯兽"></a>拉普拉斯兽</h1><p>我俯视着中国科大星的纪念碑。</p>
-<p>它是一颗小行星，位于火星和木星之间，和八大行星一样绕着太阳旋转。</p>
-<p>我突然想到，给定初始位置、初始速度、受力（不光要知道初始时刻的受力，还要知道以后所有时间的受力），我们就可以预测中国科大星、八大行星之后所有时间的位置、速度、加速度。</p>
-<p>把这些扔进计算机里就行了。</p>
-<h1 id="separation-of-spatial-scale"><a href="#separation-of-spatial-scale" class="headerlink" title="separation of spatial scale"></a>separation of spatial scale</h1><p>在此之前，需要用separation of spatial scale。</p>
-<p>我们只考虑太阳系这个区域（在银河系里它只是一个小区域），这样做的话，太阳可以认为是静止的。</p>
-<h1 id="先验"><a href="#先验" class="headerlink" title="先验"></a>先验</h1><p>我突然有些好奇，为什么我看了一眼就知道在画图的这个时刻中国科大星的速度方向？</p>
-<p>纪念碑上画了水、金、地球、火、木和中国科大星这六个天体的轨道。</p>
-<p>这些相当于是之前的知识。</p>
-<p>正因为有了这些知识，我看了一眼，就知道在画图的这个时刻，速度沿着轨道的切线方向。</p>
+    <title>世界很大，不要藏着掖着</title>
+    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
+    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
 ]]></content>
       <categories>
         <category>science</category>
+        <category>teaching</category>
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
-        <tag>statistics</tag>
+        <tag>teaching</tag>
+        <tag>social</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
     <title>中国 vs 南苏丹</title>
-    <url>/2023/08/28/%E4%B8%AD%E5%9B%BD%20vs%20%E5%8D%97%E8%8B%8F%E4%B8%B9/</url>
+    <url>/2023/08/28/%E4%B8%AD%E5%9B%BD-vs-%E5%8D%97%E8%8B%8F%E4%B8%B9/</url>
     <content><![CDATA[<h1 id="惨败"><a href="#惨败" class="headerlink" title="惨败"></a>惨败</h1><p>中国队惨败20分之后，我很不爽。</p>
 <p>但是查了一下之后，发现纸面实力中国确实不如南苏丹。</p>
 <p><a href="https://www.fiba.basketball/basketballworldcup/2023/team/South-Sudan">南苏丹12人名单</a>。</p>
@@ -1181,10 +1119,10 @@
 <p><a href="https://www.163.com/dy/article/I4IL4TSL0552H6PM.html">三支球队在NBA发展联盟、NBL、欧洲赛事效力的球员都比中国多。</a></p>
 <p><a href="https://v.qq.com/x/search/?q=%E8%BE%B9%E7%BA%BFtalk">边线talk</a>：2022-2023赛季新出的一个节目，第1、2、4、5期很不错，看了之后可以直观感受到CBA和上文所写的世界第二等水平联赛的差距。</p>
 <h1 id="一些低级失误"><a href="#一些低级失误" class="headerlink" title="一些低级失误"></a>一些低级失误</h1><p>2023-08-28 中国 vs 南苏丹</p>
-<video src="D:\Public\20230827_Hexo\blog\source\_posts\中国" preload="metadata" controlslist="nodownload" controls playsinline poster="vs"></video>
+<video src="/2023/08/28/中国-vs-南苏丹/1.mp4" preload="metadata" controlslist="nodownload" controls playsinline poster=""></video>
 
 <p>2023-08-30 中国 vs 波多黎各</p>
-<video src="D:\Public\20230827_Hexo\blog\source\_posts\中国" preload="metadata" controlslist="nodownload" controls playsinline poster="vs"></video>]]></content>
+<video src="/2023/08/28/中国-vs-南苏丹/2.mp4" preload="metadata" controlslist="nodownload" controls playsinline poster=""></video>]]></content>
       <categories>
         <category>basketball</category>
         <category>nationalism</category>
@@ -1193,6 +1131,53 @@
         <tag>basketball</tag>
         <tag>nationalism</tag>
         <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中国科大星</title>
+    <url>/2023/05/30/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%98%9F/</url>
+    <content><![CDATA[<h1 id="拉普拉斯兽"><a href="#拉普拉斯兽" class="headerlink" title="拉普拉斯兽"></a>拉普拉斯兽</h1><p>我俯视着中国科大星的纪念碑。</p>
+<p>它是一颗小行星，位于火星和木星之间，和八大行星一样绕着太阳旋转。</p>
+<p>我突然想到，给定初始位置、初始速度、受力（不光要知道初始时刻的受力，还要知道以后所有时间的受力），我们就可以预测中国科大星、八大行星之后所有时间的位置、速度、加速度。</p>
+<p>把这些扔进计算机里就行了。</p>
+<h1 id="separation-of-spatial-scale"><a href="#separation-of-spatial-scale" class="headerlink" title="separation of spatial scale"></a>separation of spatial scale</h1><p>在此之前，需要用separation of spatial scale。</p>
+<p>我们只考虑太阳系这个区域（在银河系里它只是一个小区域），这样做的话，太阳可以认为是静止的。</p>
+<h1 id="先验"><a href="#先验" class="headerlink" title="先验"></a>先验</h1><p>我突然有些好奇，为什么我看了一眼就知道在画图的这个时刻中国科大星的速度方向？</p>
+<p>纪念碑上画了水、金、地球、火、木和中国科大星这六个天体的轨道。</p>
+<p>这些相当于是之前的知识。</p>
+<p>正因为有了这些知识，我看了一眼，就知道在画图的这个时刻，速度沿着轨道的切线方向。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>statistics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三个快要被学术造假毁掉的学科</title>
+    <url>/2022/12/01/%E4%B8%89%E4%B8%AA%E5%BF%AB%E8%A6%81%E8%A2%AB%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%AF%81%E6%8E%89%E7%9A%84%E5%AD%A6%E7%A7%91/</url>
+    <content><![CDATA[<p>学术造假已经快要毁了生物学、医学、心理学这三个学科。</p>
+<p>原因在于：<strong>这三个领域的研究层次较高，需要控制的无关变量较多。</strong></p>
+<p>如果我们在相同条件下重复一个科学实验，它必须能重复出来，无论这个实验隶属于物理学、化学、生物学、医学还是心理学。</p>
+<p>但后三个学科的问题在于，它们需要控制的无关变量太多，很难把无关变量全都控制得一模一样。</p>
+<p>在生物学、医学、心理学这三个领域，就算有人质疑，造假者也可以拿一些无关变量来当挡箭牌。</p>
+<p>当然，这三个学科还在发展，这是因为：总有些人是正直的，他们不会学术造假。</p>
+<p>但他们通常也没有手段收拾学术造假者。</p>
+<p>未来，这种局面还会继续存在几十年：<strong>有些人不学术造假，有些人学术造假。</strong></p>
+<p>学术造假已经严重阻碍了这三个学科的进步。<strong>前者看论文时，多少得寻思寻思，这篇论文是否是学术造假的结果。</strong></p>
+<p><strong>如果后者越来越多，终有一天这三个学科会止步不前。</strong></p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
+        <tag>medicine</tag>
+        <tag>psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -1247,20 +1232,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生第一次在现场听科学家的讲座</title>
-    <url>/2018/08/24/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%90%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%AE%B2%E5%BA%A7/</url>
-    <content><![CDATA[<p>Whispering Gallery Micro-cavities<br>parity<br>symmetric<br>photonic<br>revival<br>coalesce coalition<br>chiral<br>lasing<br>resonator resonant</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>二项分布——泊松分布——泊松过程</title>
     <url>/2021/02/01/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/</url>
     <content><![CDATA[<p>科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。</p>
@@ -1294,6 +1265,46 @@
       <tags>
         <tag>science</tag>
         <tag>statistics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生第一次在现场听科学家的讲座</title>
+    <url>/2018/08/24/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%90%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%AE%B2%E5%BA%A7/</url>
+    <content><![CDATA[<p>Whispering Gallery Micro-cavities<br>parity<br>symmetric<br>photonic<br>revival<br>coalesce coalition<br>chiral<br>lasing<br>resonator resonant</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>何应钦签过的两个条约：何梅协定和日本降书</title>
+    <url>/2022/08/02/%E4%BD%95%E5%BA%94%E9%92%A6%E7%AD%BE%E8%BF%87%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%9D%A1%E7%BA%A6%EF%BC%9A%E4%BD%95%E6%A2%85%E5%8D%8F%E5%AE%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%99%8D%E4%B9%A6/</url>
+    <content><![CDATA[<p>最近，我在某个展览馆看到了二战中日本向中国投降的降书，日方签字人为冈村宁次，中方签字人为何应钦。</p>
+<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220810064331893.png" alt="image-20220810064331893"></p>
+<p>看到最后这两个落款，我几乎瞬间就想到何应钦签过的另一个条约——《何梅协定》</p>
+<p>1935年，何应钦和梅津美治郎签署《何梅协定》，协议中规定，<strong>中国将罢免一系列反日派官员</strong>。</p>
+<p>《何梅协定》原文如下：</p>
+<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220810070057886.png" alt="image-20220810070057886"></p>
+<p>签完这条约后，华北各大城市中，<strong>亲日派官员纷纷上任</strong>。</p>
+<p>两年后，七七事变爆发，华北各大城市（北平、天津、张家口、大同、保定、石家庄、呼和浩特、包头、太原等）在四个月内全都沦陷，《何梅协定》功不可没。</p>
+<p>九一八事变后，哈尔滨四个半月后才沦陷。</p>
+<p>我很好奇，当何应钦签《何梅协定》时，他的心里在想些什么。</p>
+<p>何应钦虽然是亲日派，但是并不是汉奸，也不是傻瓜，以他的实力，他应该很清楚这个条约意味着什么。</p>
+<p>当然，如果换一个普通人来，他可能会想：我赶紧签完条约下班吃饭。</p>
+<p>不过以何的水平，他不至于这么拉跨。</p>
+<p>我很好奇，当何应钦签《降书》时，他是否想起来十年前他签的《何梅协定》。</p>
+]]></content>
+      <categories>
+        <category>nationalism</category>
+      </categories>
+      <tags>
+        <tag>nationalism</tag>
+        <tag>war</tag>
       </tags>
   </entry>
   <entry>
@@ -1442,60 +1453,6 @@
       </tags>
   </entry>
   <entry>
-    <title>周琦和郭艾伦带给我的思索</title>
-    <url>/2022/08/10/%E5%91%A8%E7%90%A6%E5%92%8C%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E7%B4%A2/</url>
-    <content><![CDATA[<h1 id="My-thinking-from-Zhou-and-Guo"><a href="#My-thinking-from-Zhou-and-Guo" class="headerlink" title="My thinking from Zhou and Guo"></a>My thinking from Zhou and Guo</h1><p>昨天看到新闻，周琦下赛季继续征战海外联赛，郭艾伦下赛季继续留在辽宁队。</p>
-<p>2021-2022赛季初，周琦决定和CBA硬刚，跑去打澳大利亚NBL联赛。</p>
-<p>虽然他之前干的很多事我不太喜欢，但这个决定还是很有刚的。</p>
-<p>好在他这么刚最后收获了一个好的结局。</p>
-<p>2022年亚洲杯，周琦表现极佳，入选5人最佳阵容。</p>
-<p>我想起2015年亚洲杯，中国队有3人入选5人最佳阵容，易建联、郭艾伦、周琦。那次亚洲杯，如果我没记错的话，郭艾伦的正负值为全中国队第一。也正因为这次入选最佳阵容，有些人开始把郭艾伦称为亚洲第一后卫。</p>
-<p>至少那次亚洲杯，他确实是亚洲第一后卫。</p>
-<p>郭艾伦曾经有过留洋的机会，但是他放弃了。我记得他还说过自己对打NBA没有太大的欲望。</p>
-<p>如果是4年前的我，我肯定会觉得一个球员不想着打更高水平的联赛就是毫无上进心。</p>
-<p>但也不知道从什么时候开始，我的想法变了。</p>
-<p>一个球员跑去国外打联赛，首先，他一年几乎见不到家人。更致命的是，球员一般都有女朋友或者夫人，异国恋容易分手或者婚变。</p>
-<p>也许郭艾伦当年是因为有女朋友才不想出国的。</p>
-<p>我想起著名的球星卡卡，大家都认为长期的异国恋导致了卡卡和他的夫人卡罗琳劳燕分飞，这是当年的足球圈最让人伤心的新闻之一。</p>
-<p>过去我总觉得一个球员就应该去冲击高水平联赛，</p>
-<p>但现在我发现人这一生除了理想除了追求除了自己的进步还有家庭还有伴侣还有责任。</p>
-<p>就写到这里吧。</p>
-]]></content>
-      <categories>
-        <category>basketball</category>
-      </categories>
-      <tags>
-        <tag>basketball</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>何应钦签过的两个条约：何梅协定和日本降书</title>
-    <url>/2022/08/02/%E4%BD%95%E5%BA%94%E9%92%A6%E7%AD%BE%E8%BF%87%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%9D%A1%E7%BA%A6%EF%BC%9A%E4%BD%95%E6%A2%85%E5%8D%8F%E5%AE%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%99%8D%E4%B9%A6/</url>
-    <content><![CDATA[<p>最近，我在某个展览馆看到了二战中日本向中国投降的降书，日方签字人为冈村宁次，中方签字人为何应钦。</p>
-<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220810064331893.png" alt="image-20220810064331893"></p>
-<p>看到最后这两个落款，我几乎瞬间就想到何应钦签过的另一个条约——《何梅协定》</p>
-<p>1935年，何应钦和梅津美治郎签署《何梅协定》，协议中规定，<strong>中国将罢免一系列反日派官员</strong>。</p>
-<p>《何梅协定》原文如下：</p>
-<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20220810070057886.png" alt="image-20220810070057886"></p>
-<p>签完这条约后，华北各大城市中，<strong>亲日派官员纷纷上任</strong>。</p>
-<p>两年后，七七事变爆发，华北各大城市（北平、天津、张家口、大同、保定、石家庄、呼和浩特、包头、太原等）在四个月内全都沦陷，《何梅协定》功不可没。</p>
-<p>九一八事变后，哈尔滨四个半月后才沦陷。</p>
-<p>我很好奇，当何应钦签《何梅协定》时，他的心里在想些什么。</p>
-<p>何应钦虽然是亲日派，但是并不是汉奸，也不是傻瓜，以他的实力，他应该很清楚这个条约意味着什么。</p>
-<p>当然，如果换一个普通人来，他可能会想：我赶紧签完条约下班吃饭。</p>
-<p>不过以何的水平，他不至于这么拉跨。</p>
-<p>我很好奇，当何应钦签《降书》时，他是否想起来十年前他签的《何梅协定》。</p>
-]]></content>
-      <categories>
-        <category>nationalism</category>
-      </categories>
-      <tags>
-        <tag>nationalism</tag>
-        <tag>war</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>吐槽一下物院课程设置</title>
     <url>/2021/09/01/%E5%90%90%E6%A7%BD%E4%B8%80%E4%B8%8B%E7%89%A9%E9%99%A2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE/</url>
     <content><![CDATA[<ul>
@@ -1524,8 +1481,113 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>teaching</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>周琦和郭艾伦带给我的思索</title>
+    <url>/2022/08/10/%E5%91%A8%E7%90%A6%E5%92%8C%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E7%B4%A2/</url>
+    <content><![CDATA[<h1 id="My-thinking-from-Zhou-and-Guo"><a href="#My-thinking-from-Zhou-and-Guo" class="headerlink" title="My thinking from Zhou and Guo"></a>My thinking from Zhou and Guo</h1><p>昨天看到新闻，周琦下赛季继续征战海外联赛，郭艾伦下赛季继续留在辽宁队。</p>
+<p>2021-2022赛季初，周琦决定和CBA硬刚，跑去打澳大利亚NBL联赛。</p>
+<p>虽然他之前干的很多事我不太喜欢，但这个决定还是很有刚的。</p>
+<p>好在他这么刚最后收获了一个好的结局。</p>
+<p>2022年亚洲杯，周琦表现极佳，入选5人最佳阵容。</p>
+<p>我想起2015年亚洲杯，中国队有3人入选5人最佳阵容，易建联、郭艾伦、周琦。那次亚洲杯，如果我没记错的话，郭艾伦的正负值为全中国队第一。也正因为这次入选最佳阵容，有些人开始把郭艾伦称为亚洲第一后卫。</p>
+<p>至少那次亚洲杯，他确实是亚洲第一后卫。</p>
+<p>郭艾伦曾经有过留洋的机会，但是他放弃了。我记得他还说过自己对打NBA没有太大的欲望。</p>
+<p>如果是4年前的我，我肯定会觉得一个球员不想着打更高水平的联赛就是毫无上进心。</p>
+<p>但也不知道从什么时候开始，我的想法变了。</p>
+<p>一个球员跑去国外打联赛，首先，他一年几乎见不到家人。更致命的是，球员一般都有女朋友或者夫人，异国恋容易分手或者婚变。</p>
+<p>也许郭艾伦当年是因为有女朋友才不想出国的。</p>
+<p>我想起著名的球星卡卡，大家都认为长期的异国恋导致了卡卡和他的夫人卡罗琳劳燕分飞，这是当年的足球圈最让人伤心的新闻之一。</p>
+<p>过去我总觉得一个球员就应该去冲击高水平联赛，</p>
+<p>但现在我发现人这一生除了理想除了追求除了自己的进步还有家庭还有伴侣还有责任。</p>
+<p>就写到这里吧。</p>
+]]></content>
+      <categories>
+        <category>basketball</category>
+      </categories>
+      <tags>
+        <tag>basketball</tag>
+        <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>噩梦 学术造假 大物实验</title>
+    <url>/2022/07/26/%E5%99%A9%E6%A2%A6%20%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%20%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/</url>
+    <content><![CDATA[<h1 id="噩梦"><a href="#噩梦" class="headerlink" title="噩梦"></a>噩梦</h1><p>昨天夜里（2022&#x2F;07&#x2F;25-2022&#x2F;07&#x2F;26），我做了一个噩梦。我梦见我的实验室的伙伴指责我，你为什么要学术造假，你害得我们浪费了整整一年时间。</p>
+<p>我惊醒，此时天已经亮了。</p>
+<p>我从没有学术造假，为什么会做这样的噩梦？</p>
+<h1 id="学术造假"><a href="#学术造假" class="headerlink" title="学术造假"></a>学术造假</h1><p>暂且不管这个问题，我来写一下我对学术造假的理解。</p>
+<p>我所熟悉的学术造假，按照严重性从高到底，可以分成4类</p>
+<ul>
+<li>数据造假</li>
+<li>数据挑选</li>
+<li>p-hacking</li>
+<li>灌水</li>
+</ul>
+<p>其它的学术造假，比如图片拼接、图片PS，可以对号入座。<strong>图片拼接、图片PS大约和数据造假是同等严重的。</strong></p>
+<p>我本来在这4类后面都打了例子，但是我想了想删去了，主要是因为有的人的学术造假我没有仔细看，不太确定。我不想对我不懂的东西随便发表意见。</p>
+<h1 id="大物实验"><a href="#大物实验" class="headerlink" title="大物实验"></a>大物实验</h1><p>在科研中，这4类我都没有做过。</p>
+<p>但是在大学物理实验中，我没有这么干净。</p>
+<p>我总共做过5级大物实验、1级生物物理实验、1级电路实验，每级会持续一个学期。</p>
+<p>在3年间，我大概做过2-3次数据造假，4-5次数据挑选，主要是在1级大物和2级大物，其它的实验我不记得我曾经学术造假。</p>
+<p>我从来没有做过p-hacking，因为科大的大物实验太拉跨，压根不要求我们做统计学分析。如果大物实验要求做统计学分析，我猜我可能去p-hacking。</p>
+<p>灌水的话，我曾经多次有意<strong>隐藏</strong>不符合预期的数据、图片（不是删去，否则就是数据挑选了），展示符合预期的数据、图片。</p>
+<p>我突然想起当年明月在《明朝那些事儿》里对洪承畴的评价。崇祯十三年，洪承畴在关外被皇太极包围，然后被活捉。随后清军派各种人来劝降。洪一开始不为所动。崇祯听说了很感动，于是在北京举行国葬。国葬到一半，使者来传信，洪承畴叛变。</p>
+<p>小学时，第一次看到这里，我以为当年明月会骂洪承畴，但是他写：我可以理解洪的选择，但我不赞同。</p>
+<p>多年以来我一直不理解这句话，洪背叛国家和民族，有什么可为他维护的。不赞同他，为什么还要理解他？</p>
+<p>现在我即将研一了。在目睹了、经历了社会的种种之后，现在我稍微有点同意这句话了。</p>
+<p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
+<p>为什么学术造假这么多？因为认认真真做实验可能需要<strong>1年</strong>时间，而数据造假只需要<strong>10秒</strong>，数据挑选只需要<strong>10分钟</strong>。</p>
+<p>而且现在学术界压力极大。没有论文，就不能博士毕业。没有论文，就不能拿经费、拿职位。</p>
+<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，你真的还能坚守内心吗？</p>
+<p>为什么生物领域的学术造假比物理领域多？因为生物层次较高、自由度较高、复杂度较高、影响因素较多而物理层次较低、自由地较低、复杂度较低、影响因素较少。生物领域的一个人做数据造假或者数据挑选，日后如果被其他人发现无法重复他的实验，他有很多理由可以当挡箭牌。物理领域没有这么多挡箭牌。</p>
+<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，同时你还清清楚楚地知道即使你造假也几乎不会被发现，即使被发现也还有挡箭牌，你真的还能坚守内心吗？</p>
+<p>为什么我在大物实验里会数据造假&#x2F;数据挑选？因为我如果重做需要多花4个小时，而我当时又有繁重的其它课程，而数据造假只需要10秒，数据挑选只需要10分钟。</p>
+<p>但是大物实验里的学术造假和科研实验里的学术造假当然有所不同。我曾说，我恨学术造假，有两个原因：一是会让其它实验室误以为你的结果是真的，浪费n年时间；二是科学追求的是客观真理，而你用学术造假得到的东西显然不是客观真理。</p>
+<p>大物实验至少肯定不涉及第一个原因。</p>
+<p>但是造假总归是不对的。<strong>我承认我做错了</strong>。如果再让我去做大物实验，我<strong>要么重做，要么直接写收数据时候出现的问题</strong>，而不会去数据造假&#x2F;数据挑选。</p>
+<h1 id="心安"><a href="#心安" class="headerlink" title="心安"></a>心安</h1><p>其实，我厌恶学术造假，还有第三个原因。那就是学术造假会让我感到<strong>惶惶不安</strong>。</p>
+<p>从学术造假中，我只能学到如何改数据以及如何掩饰自己的数据修改，只能学到如何更好更快地挑数据以及如何掩饰自己的数据挑选，学不到半点知识。</p>
+<p>最近一次小讨论，我偶然间发现我连error bar都没有完全搞清楚。如果当初我做大物实验时没有糊弄，把心思放在学知识上而不是改数据&#x2F;挑数据上，我现在也不至于连error bar都还没搞清楚。</p>
+<p>人活在世上，无非就是图一个心安。</p>
+<h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
+<p>我宁可离开学术界，也绝对不会学术造假。</p>
+<p>不是为了别人，而是为了当初那个热爱求知、热爱追寻、热爱科学、热爱客观真理的自己。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>回忆海花岛</title>
+    <url>/2021/02/01/%E5%9B%9E%E5%BF%86%E6%B5%B7%E8%8A%B1%E5%B2%9B/</url>
+    <content><![CDATA[<p>2021年2月，我和父亲、母亲一起来到海花岛。这是一个人工岛。恒大集团投资建了它，在它上面搞什么徽派建筑、欧式建筑，搞了一大堆什么什么餐厅。</p>
+<p>来到这里，我的心里却只有不解、只有仇恨。</p>
+<p>来到这里，我没有看什么建筑、什么餐厅，我只看到了贫富差距。</p>
+<p>在海花岛附近的一条公路上，公路一侧是高耸的希尔顿酒店，公路另一侧是低矮的小平房。</p>
+<p>在去海花岛之前，有两个事让我感到震撼：</p>
+<ul>
+<li><p>2019年3月，一群程序员在GitHub上开了一个库，叫996.icu，抗议996。</p>
+</li>
+<li><p>2020年，五四青年节，b站做了一个叫《后浪》的视频，原意是正能量，但是没想到一片骂名，弹幕上全都是“全世界无产者，联合起来！”</p>
+</li>
+</ul>
+<p>1978-2022的中国就像是1865-1915的美国。</p>
+<p>现在中国各大高校已经形成了一股愤怒的暗流，中国必须解决贫富差距的问题，否则只等一个乱世枭雄把这股暗流点燃。</p>
+]]></content>
+      <categories>
+        <category>socialism</category>
+        <category>capitalism</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -1598,57 +1660,6 @@
       </tags>
   </entry>
   <entry>
-    <title>噩梦 学术造假 大物实验</title>
-    <url>/2022/07/26/%E5%99%A9%E6%A2%A6%20%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%20%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/</url>
-    <content><![CDATA[<h1 id="噩梦"><a href="#噩梦" class="headerlink" title="噩梦"></a>噩梦</h1><p>昨天夜里（2022&#x2F;07&#x2F;25-2022&#x2F;07&#x2F;26），我做了一个噩梦。我梦见我的实验室的伙伴指责我，你为什么要学术造假，你害得我们浪费了整整一年时间。</p>
-<p>我惊醒，此时天已经亮了。</p>
-<p>我从没有学术造假，为什么会做这样的噩梦？</p>
-<h1 id="学术造假"><a href="#学术造假" class="headerlink" title="学术造假"></a>学术造假</h1><p>暂且不管这个问题，我来写一下我对学术造假的理解。</p>
-<p>我所熟悉的学术造假，按照严重性从高到底，可以分成4类</p>
-<ul>
-<li>数据造假</li>
-<li>数据挑选</li>
-<li>p-hacking</li>
-<li>灌水</li>
-</ul>
-<p>其它的学术造假，比如图片拼接、图片PS，可以对号入座。<strong>图片拼接、图片PS大约和数据造假是同等严重的。</strong></p>
-<p>我本来在这4类后面都打了例子，但是我想了想删去了，主要是因为有的人的学术造假我没有仔细看，不太确定。我不想对我不懂的东西随便发表意见。</p>
-<h1 id="大物实验"><a href="#大物实验" class="headerlink" title="大物实验"></a>大物实验</h1><p>在科研中，这4类我都没有做过。</p>
-<p>但是在大学物理实验中，我没有这么干净。</p>
-<p>我总共做过5级大物实验、1级生物物理实验、1级电路实验，每级会持续一个学期。</p>
-<p>在3年间，我大概做过2-3次数据造假，4-5次数据挑选，主要是在1级大物和2级大物，其它的实验我不记得我曾经学术造假。</p>
-<p>我从来没有做过p-hacking，因为科大的大物实验太拉跨，压根不要求我们做统计学分析。如果大物实验要求做统计学分析，我猜我可能去p-hacking。</p>
-<p>灌水的话，我曾经多次有意<strong>隐藏</strong>不符合预期的数据、图片（不是删去，否则就是数据挑选了），展示符合预期的数据、图片。</p>
-<p>我突然想起当年明月在《明朝那些事儿》里对洪承畴的评价。崇祯十三年，洪承畴在关外被皇太极包围，然后被活捉。随后清军派各种人来劝降。洪一开始不为所动。崇祯听说了很感动，于是在北京举行国葬。国葬到一半，使者来传信，洪承畴叛变。</p>
-<p>小学时，第一次看到这里，我以为当年明月会骂洪承畴，但是他写：我可以理解洪的选择，但我不赞同。</p>
-<p>多年以来我一直不理解这句话，洪背叛国家和民族，有什么可为他维护的。不赞同他，为什么还要理解他？</p>
-<p>现在我即将研一了。在目睹了、经历了社会的种种之后，现在我稍微有点同意这句话了。</p>
-<p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
-<p>为什么学术造假这么多？因为认认真真做实验可能需要<strong>1年</strong>时间，而数据造假只需要<strong>10秒</strong>，数据挑选只需要<strong>10分钟</strong>。</p>
-<p>而且现在学术界压力极大。没有论文，就不能博士毕业。没有论文，就不能拿经费、拿职位。</p>
-<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，你真的还能坚守内心吗？</p>
-<p>为什么生物领域的学术造假比物理领域多？因为生物层次较高、自由度较高、复杂度较高、影响因素较多而物理层次较低、自由地较低、复杂度较低、影响因素较少。生物领域的一个人做数据造假或者数据挑选，日后如果被其他人发现无法重复他的实验，他有很多理由可以当挡箭牌。物理领域没有这么多挡箭牌。</p>
-<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，同时你还清清楚楚地知道即使你造假也几乎不会被发现，即使被发现也还有挡箭牌，你真的还能坚守内心吗？</p>
-<p>为什么我在大物实验里会数据造假&#x2F;数据挑选？因为我如果重做需要多花4个小时，而我当时又有繁重的其它课程，而数据造假只需要10秒，数据挑选只需要10分钟。</p>
-<p>但是大物实验里的学术造假和科研实验里的学术造假当然有所不同。我曾说，我恨学术造假，有两个原因：一是会让其它实验室误以为你的结果是真的，浪费n年时间；二是科学追求的是客观真理，而你用学术造假得到的东西显然不是客观真理。</p>
-<p>大物实验至少肯定不涉及第一个原因。</p>
-<p>但是造假总归是不对的。<strong>我承认我做错了</strong>。如果再让我去做大物实验，我<strong>要么重做，要么直接写收数据时候出现的问题</strong>，而不会去数据造假&#x2F;数据挑选。</p>
-<h1 id="心安"><a href="#心安" class="headerlink" title="心安"></a>心安</h1><p>其实，我厌恶学术造假，还有第三个原因。那就是学术造假会让我感到<strong>惶惶不安</strong>。</p>
-<p>从学术造假中，我只能学到如何改数据以及如何掩饰自己的数据修改，只能学到如何更好更快地挑数据以及如何掩饰自己的数据挑选，学不到半点知识。</p>
-<p>最近一次小讨论，我偶然间发现我连error bar都没有完全搞清楚。如果当初我做大物实验时没有糊弄，把心思放在学知识上而不是改数据&#x2F;挑数据上，我现在也不至于连error bar都还没搞清楚。</p>
-<p>人活在世上，无非就是图一个心安。</p>
-<h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
-<p>我宁可离开学术界，也绝对不会学术造假。</p>
-<p>不是为了别人，而是为了当初那个热爱求知、热爱追寻、热爱科学、热爱客观真理的自己。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>诺兰新片Oppenheimer</title>
     <url>/2023/06/14/%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%92%8C%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/</url>
     <content><![CDATA[<p>今天看了诺兰新片<em>Oppenheimer</em>的预告片，质量极高，这部电影很可能会让诺兰终拿奥斯卡奖。诺兰的黑暗骑士、盗梦空间，我都甚爱。</p>
@@ -1678,8 +1689,8 @@
 ]]></content>
       <categories>
         <category>science</category>
-        <category>socialism</category>
         <category>biography</category>
+        <category>socialism</category>
       </categories>
       <tags>
         <tag>science</tag>
@@ -1693,37 +1704,6 @@
     <title>图片误用</title>
     <url>/2021/01/21/%E5%9B%BE%E7%89%87%E8%AF%AF%E7%94%A8/</url>
     <content><![CDATA[<p>不要B脸。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何防范造假和灌水？</title>
-    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
-    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
-<ul>
-<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
-<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
-<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
-</ul>
-<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
-<ul>
-<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
-<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
-<li>缺点：这相当于要各大期刊断自己的财路。</li>
-</ul>
-</li>
-<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
-<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
-<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
-<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
-</ul>
-</li>
-</ul>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -1799,36 +1779,34 @@
       </tags>
   </entry>
   <entry>
-    <title>批评科大的卖弱</title>
-    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
-    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
-<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
-<p>连一个字都不能信。</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学，为了人类心智的荣耀</title>
-    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
-    <content><![CDATA[<blockquote>
-<p>雅可比：数学是为了应用</p>
-<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
-</blockquote>
-<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
-<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
-<p>我：数论从公元前几百年到1900年，都没有应用。</p>
-<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
-<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+    <title>如何防范造假和灌水？</title>
+    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
+    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
+<ul>
+<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
+<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
+<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
+</ul>
+<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
+<ul>
+<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
+<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
+<li>缺点：这相当于要各大期刊断自己的财路。</li>
+</ul>
+</li>
+<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
+<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
+<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
+<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
+</ul>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>science</category>
+        <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>science</tag>
-        <tag>math</tag>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -1887,6 +1865,39 @@
       </tags>
   </entry>
   <entry>
+    <title>批评科大的卖弱</title>
+    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
+    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
+<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
+<p>连一个字都不能信。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数学，为了人类心智的荣耀</title>
+    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
+    <content><![CDATA[<blockquote>
+<p>雅可比：数学是为了应用</p>
+<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
+</blockquote>
+<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
+<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
+<p>我：数论从公元前几百年到1900年，都没有应用。</p>
+<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
+<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>无题</title>
     <url>/2022/09/23/%E6%97%A0%E9%A2%98/</url>
     <content><![CDATA[<p>灰雀声声秋日落，晚风似有红纱色。</p>
@@ -1897,6 +1908,48 @@
       </categories>
       <tags>
         <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星星意味着什么？</title>
+    <url>/2022/12/18/%E6%98%9F%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
+<p>审稿：天阳</p>
+<hr>
+<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
+<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
+<p>不过，这也太扯淡了。</p>
+<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
+<p>这个*，可能是对偶的意思。</p>
+<p>所有的男生构成一个向量空间，</p>
+<p>所有的女生构成一个向量空间，</p>
+<p>这两个空间互为对偶空间。</p>
+<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
+<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
+<p>这两个元素互为对偶元素。</p>
+<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
+<p>是不是很浪漫。</p>
+<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
+<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
+<p>行向量也叫co-vector。</p>
+<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
+<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
+<p>不过，同一个星号，</p>
+<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
+<p>如果你翻译成对偶，浪漫至极。</p>
+<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>romance</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -1991,45 +2044,19 @@
       </tags>
   </entry>
   <entry>
-    <title>星星意味着什么？</title>
-    <url>/2022/12/18/%E6%98%9F%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
-<p>审稿：天阳</p>
+    <title>智者不入爱河</title>
+    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
+    <content><![CDATA[<p>智者不入爱河。</p>
+<p>寡王一路硕博。</p>
+<p>建设美丽中国。</p>
 <hr>
-<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
-<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
-<p>不过，这也太扯淡了。</p>
-<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
-<p>这个*，可能是对偶的意思。</p>
-<p>所有的男生构成一个向量空间，</p>
-<p>所有的女生构成一个向量空间，</p>
-<p>这两个空间互为对偶空间。</p>
-<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
-<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
-<p>这两个元素互为对偶元素。</p>
-<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
-<p>是不是很浪漫。</p>
-<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
-<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
-<p>行向量也叫co-vector。</p>
-<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
-<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
-<p>不过，同一个星号，</p>
-<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
-<p>如果你翻译成对偶，浪漫至极。</p>
-<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
-<p>It just like, they have a baby!</p>
+<p>Sages never consider no love a pity.</p>
+<p>King of single dogs only cares about PhD.</p>
+<p>Together we will build a more beautiful society.</p>
 ]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>love</tag>
-        <tag>math</tag>
         <tag>fun</tag>
+        <tag>translation</tag>
       </tags>
   </entry>
   <entry>
@@ -2100,25 +2127,9 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>biography</tag>
+        <tag>physics</tag>
         <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>智者不入爱河</title>
-    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
-    <content><![CDATA[<p>智者不入爱河。</p>
-<p>寡王一路硕博。</p>
-<p>建设美丽中国。</p>
-<hr>
-<p>Sages never consider no love a pity.</p>
-<p>King of single dogs only cares about PhD.</p>
-<p>Together we will build a more beautiful society.</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>translation</tag>
       </tags>
   </entry>
   <entry>
@@ -2146,6 +2157,21 @@
       <tags>
         <tag>science</tag>
         <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -2212,21 +2238,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -2356,32 +2367,6 @@
       </tags>
   </entry>
   <entry>
-    <title>回忆海花岛</title>
-    <url>/2021/02/01/%E5%9B%9E%E5%BF%86%E6%B5%B7%E8%8A%B1%E5%B2%9B/</url>
-    <content><![CDATA[<p>2021年2月，我和父亲、母亲一起来到海花岛。这是一个人工岛。恒大集团投资建了它，在它上面搞什么徽派建筑、欧式建筑，搞了一大堆什么什么餐厅。</p>
-<p>来到这里，我的心里却只有不解、只有仇恨。</p>
-<p>来到这里，我没有看什么建筑、什么餐厅，我只看到了贫富差距。</p>
-<p>在海花岛附近的一条公路上，公路一侧是高耸的希尔顿酒店，公路另一侧是低矮的小平房。</p>
-<p>在去海花岛之前，有两个事让我感到震撼：</p>
-<ul>
-<li><p>2019年3月，一群程序员在GitHub上开了一个库，叫996.icu，抗议996。</p>
-</li>
-<li><p>2020年，五四青年节，b站做了一个叫《后浪》的视频，原意是正能量，但是没想到一片骂名，弹幕上全都是“全世界无产者，联合起来！”</p>
-</li>
-</ul>
-<p>1978-2022的中国就像是1865-1915的美国。</p>
-<p>现在中国各大高校已经形成了一股愤怒的暗流，中国必须解决贫富差距的问题，否则只等一个乱世枭雄把这股暗流点燃。</p>
-]]></content>
-      <categories>
-        <category>socialism</category>
-        <category>capitalism</category>
-      </categories>
-      <tags>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《秦妇吟》的失传和复得</title>
     <url>/2022/10/25/%E7%A7%A6%E5%A6%87%E5%90%9F%E7%9A%84%E5%A4%B1%E4%BC%A0%E5%92%8C%E5%A4%8D%E5%BE%97/</url>
     <content><![CDATA[<h1 id="秦妇吟的失传和复得"><a href="#秦妇吟的失传和复得" class="headerlink" title="秦妇吟的失传和复得"></a>秦妇吟的失传和复得</h1><p>韦庄，生于公元836年，死于公元910年。</p>
@@ -2439,6 +2424,22 @@
       </tags>
   </entry>
   <entry>
+    <title>苏牙自传</title>
+    <url>/2020/07/26/%E8%8B%8F%E7%89%99%E8%87%AA%E4%BC%A0/</url>
+    <content><![CDATA[<blockquote>
+<p>当你还是一个青少年的时候，你仅仅是一个孩子，你并不知道其实你已经站在人生的十字路口了。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>biography</category>
+        <category>soccer</category>
+      </categories>
+      <tags>
+        <tag>biography</tag>
+        <tag>soccer</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>莫雷支持港独</title>
     <url>/2019/10/11/%E8%8E%AB%E9%9B%B7%E6%94%AF%E6%8C%81%E6%B8%AF%E7%8B%AC/</url>
     <content><![CDATA[<h1 id="2019-10-11"><a href="#2019-10-11" class="headerlink" title="2019-10-11"></a>2019-10-11</h1><p>我说我喜欢詹姆斯和威少，那是因为我崇拜他们的场上打球风格和场下生活（饮食自律、锻炼自律、不约炮不嫖娼）。但是他们对我而言只是几个符号而已，我对他们并没有太深厚的感情。我认识詹姆斯威少，詹姆斯威少认识我吗？</p>
@@ -2459,6 +2460,21 @@
         <tag>basketball</tag>
         <tag>nationalism</tag>
         <tag>madness</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>西江月·归乡</title>
+    <url>/2022/12/19/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%BD%92%E4%B9%A1/</url>
+    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
+<p>金阳银柳待归来，未见已达三载。</p>
+<p>恍恍学期已尽，悠悠未见蓬莱。</p>
+<p>为期有日易吾才，不负思如雪白。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2496,50 +2512,6 @@
 </ul>
 <p>你妈的，小学的我、初中的我、高中的我，以为，学术界像我第三段写的那样。</p>
 <p>他娘的，最近两年的我看到的学术界全都是第四段写的这样。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>西江月·归乡</title>
-    <url>/2022/12/19/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%BD%92%E4%B9%A1/</url>
-    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
-<p>金阳银柳待归来，未见已达三载。</p>
-<p>恍恍学期已尽，悠悠未见蓬莱。</p>
-<p>为期有日易吾才，不负思如雪白。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>诺贝尔奖？fMRI不配！</title>
-    <url>/2022/09/30/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%EF%BC%9FfMRI%E4%B8%8D%E9%85%8D%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
-<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
-<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
-<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
-<p>fMRI有如下特点</p>
-<ul>
-<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
-<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
-<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
-</ul>
-<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
-<ul>
-<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
-<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
-</ul>
-<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
-<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
-<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -2599,6 +2571,119 @@
       <tags>
         <tag>madness</tag>
         <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>金属阳离子淹没在自由电子的海洋里</title>
+    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
+    <content><![CDATA[<ul>
+<li><p>高中：Drude model </p>
+<ul>
+<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
+<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
+<li>热运动速率~10^5m&#x2F;s</li>
+<li>定向运动建立的速率&#x3D;c（c为光速）</li>
+</ul>
+</li>
+<li><p>大一：Drude model </p>
+<ul>
+<li>我在电磁学里又学了一遍上一段话。</li>
+</ul>
+</li>
+<li><p>大三：</p>
+<ul>
+<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
+<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>有一次，我和固体物理老师聊天。</p>
+<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
+<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
+<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>senior high school</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诺贝尔奖？fMRI不配！</title>
+    <url>/2022/09/30/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%EF%BC%9FfMRI%E4%B8%8D%E9%85%8D%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
+<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
+<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
+<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
+<p>fMRI有如下特点</p>
+<ul>
+<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
+<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
+<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
+</ul>
+<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
+<ul>
+<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
+<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
+</ul>
+<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
+<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
+<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>院士</title>
+    <url>/2021/10/01/%E9%99%A2%E5%A3%AB/</url>
+    <content><![CDATA[<h1 id="从我和C哥的一个玩笑说起"><a href="#从我和C哥的一个玩笑说起" class="headerlink" title="从我和C哥的一个玩笑说起"></a>从我和C哥的一个玩笑说起</h1><p>2021年的一天下午，我回到寝室，舍友C在。</p>
+<p>我：C哥，今天我突然想起了一件陈年往事。</p>
+<p>C：哦？</p>
+<p>我：那还是2012年下半年，我刚上初中。我和几个初中新认识的同学聊天，其中一个女生说，她小学时候当课代表，帮老师收作业，有的时候，她的好朋友没写作业，就会来跟她说，你可不可以不告诉老师。这个时候她就会很难办。</p>
+<p>我：如果是你，你会怎么做？</p>
+<p>C：这个嘛…</p>
+<p>我：今天我看到一个新闻，2021年的院士增选要开始了。</p>
+<p>我：你应该知道，新院士的提名者必须是院士。</p>
+<p>我：你说，院士选新院士的时候，是选他觉得厉害的呢，还是选和他关系好的呢？</p>
+<p>C：草。</p>
+<p>我和C哥都笑了，因为我们用屁股想也知道这个问题的答案。</p>
+<hr>
+<p>过去的我以为，院士都是郭永怀（为国尽忠只在今日）、赵忠尧（放弃优渥毅然回国）、严济慈（二战英雄国士无双）、钱临照（钟情科大不离不弃）这样的人。</p>
+<p>就算不拘泥于国别，至少也应该是狂热地追求科学的人。</p>
+<p>从有记忆开始，一直到2020年夏天，我都这么认为。</p>
+<p>现在的我发现，选院士、选长江、选杰青，很多时候，<strong>不是比谁学术更厉害，而是比谁更擅长拉关系、比谁更擅长酒桌文化、比谁更擅长饮食社交</strong>。</p>
+<p>去他妈的。</p>
+<p>院士这词，在我心里已经具有一些贬义。</p>
+<p>最后我说一句非常<strong>定量</strong>的话：<strong>中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</strong></p>
+<h1 id="院士和图片误用事件"><a href="#院士和图片误用事件" class="headerlink" title="院士和图片误用事件"></a>院士和图片误用事件</h1><p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.96.14.7922">1999年，裴钢院士的文章。</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S2589004220308622">2020年，张曙光“声援”裴钢的文章。</a></p>
+<p><a href="https://www.zhihu.com/question/440634424">对以上两篇文章比较科普性的解释。</a></p>
+<p>然而，中科院的生物领域的院士，<strong>没有一个站出来为真理说话，没有一个站出来为科学说话</strong>。</p>
+<p>他们全都因为权力、关系而保持沉默。</p>
+<p>在真理、科学和权力、关系中，他们选择了后者。</p>
+<p>他们都学过细胞生物学、生物化学、分子生物学，以他们的实力，完全能看懂这两篇文章。</p>
+<p>我不知道他们是否做过学术造假，但我知道他们至少是学术造假的<strong>默许者、纵容者、冷眼旁观者</strong>。</p>
+<p>钟南山院士是图片误用事件的总负责人，他就是那个最大的默许者、纵容者、冷眼旁观者，<strong>这是他永远洗刷不掉的污点</strong>。</p>
+<p>因此我说：中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</p>
+<p>至少生物领域的院士如此。</p>
+<h1 id="杨振宁对院士选新院士的看法"><a href="#杨振宁对院士选新院士的看法" class="headerlink" title="杨振宁对院士选新院士的看法"></a>杨振宁对院士选新院士的看法</h1><p>——2023-08-29 更新——</p>
+<p>最近读了杨振宁的《晨曦集》，在一篇文章中，记者问他如何看待2011年饶毅落选院士。</p>
+<p>杨：在中国，一个人是否能被选为院士，70%靠此人的拉关系，30%靠此人的学术能力；在美国，一个人是否能被选为院士，30%靠此人的拉关系，70%靠此人的学术能力。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -2685,90 +2770,6 @@
         <tag>science</tag>
         <tag>physics</tag>
         <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>院士</title>
-    <url>/2021/10/01/%E9%99%A2%E5%A3%AB/</url>
-    <content><![CDATA[<h1 id="从我和C哥的一个玩笑说起"><a href="#从我和C哥的一个玩笑说起" class="headerlink" title="从我和C哥的一个玩笑说起"></a>从我和C哥的一个玩笑说起</h1><p>2021年的一天下午，我回到寝室，舍友C在。</p>
-<p>我：C哥，今天我突然想起了一件陈年往事。</p>
-<p>C：哦？</p>
-<p>我：那还是2012年下半年，我刚上初中。我和几个初中新认识的同学聊天，其中一个女生说，她小学时候当课代表，帮老师收作业，有的时候，她的好朋友没写作业，就会来跟她说，你可不可以不告诉老师。这个时候她就会很难办。</p>
-<p>我：如果是你，你会怎么做？</p>
-<p>C：这个嘛…</p>
-<p>我：今天我看到一个新闻，2021年的院士增选要开始了。</p>
-<p>我：你应该知道，新院士的提名者必须是院士。</p>
-<p>我：你说，院士选新院士的时候，是选他觉得厉害的呢，还是选和他关系好的呢？</p>
-<p>C：草。</p>
-<p>我和C哥都笑了，因为我们用屁股想也知道这个问题的答案。</p>
-<hr>
-<p>过去的我以为，院士都是郭永怀（为国尽忠只在今日）、赵忠尧（放弃优渥毅然回国）、严济慈（二战英雄国士无双）、钱临照（钟情科大不离不弃）这样的人。</p>
-<p>就算不拘泥于国别，至少也应该是狂热地追求科学的人。</p>
-<p>从有记忆开始，一直到2020年夏天，我都这么认为。</p>
-<p>现在的我发现，选院士、选长江、选杰青，很多时候，<strong>不是比谁学术更厉害，而是比谁更擅长拉关系、比谁更擅长酒桌文化、比谁更擅长饮食社交</strong>。</p>
-<p>去他妈的。</p>
-<p>院士这词，在我心里已经具有一些贬义。</p>
-<p>最后我说一句非常<strong>定量</strong>的话：<strong>中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</strong></p>
-<h1 id="院士和图片误用事件"><a href="#院士和图片误用事件" class="headerlink" title="院士和图片误用事件"></a>院士和图片误用事件</h1><p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.96.14.7922">1999年，裴钢院士的文章。</a></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S2589004220308622">2020年，张曙光“声援”裴钢的文章。</a></p>
-<p><a href="https://www.zhihu.com/question/440634424">对以上两篇文章比较科普性的解释。</a></p>
-<p>然而，中科院的生物领域的院士，<strong>没有一个站出来为真理说话，没有一个站出来为科学说话</strong>。</p>
-<p>他们全都因为权力、关系而保持沉默。</p>
-<p>在真理、科学和权力、关系中，他们选择了后者。</p>
-<p>他们都学过细胞生物学、生物化学、分子生物学，以他们的实力，完全能看懂这两篇文章。</p>
-<p>我不知道他们是否做过学术造假，但我知道他们至少是学术造假的<strong>默许者、纵容者、冷眼旁观者</strong>。</p>
-<p>钟南山院士是图片误用事件的总负责人，他就是那个最大的默许者、纵容者、冷眼旁观者，<strong>这是他永远洗刷不掉的污点</strong>。</p>
-<p>因此我说：中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</p>
-<p>至少生物领域的院士如此。</p>
-<h1 id="杨振宁对院士选新院士的看法"><a href="#杨振宁对院士选新院士的看法" class="headerlink" title="杨振宁对院士选新院士的看法"></a>杨振宁对院士选新院士的看法</h1><p>——2023-08-29 更新——</p>
-<p>最近读了杨振宁的《晨曦集》，在一篇文章中，记者问他如何看待2011年饶毅落选院士。</p>
-<p>杨：在中国，一个人是否能被选为院士，70%靠此人的拉关系，30%靠此人的学术能力；在美国，一个人是否能被选为院士，30%靠此人的拉关系，70%靠此人的学术能力。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>金属阳离子淹没在自由电子的海洋里</title>
-    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
-    <content><![CDATA[<ul>
-<li><p>高中：Drude model </p>
-<ul>
-<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
-<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
-<li>热运动速率~10^5m&#x2F;s</li>
-<li>定向运动建立的速率&#x3D;c（c为光速）</li>
-</ul>
-</li>
-<li><p>大一：Drude model </p>
-<ul>
-<li>我在电磁学里又学了一遍上一段话。</li>
-</ul>
-</li>
-<li><p>大三：</p>
-<ul>
-<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
-<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>有一次，我和固体物理老师聊天。</p>
-<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
-<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
-<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
@@ -2912,40 +2913,6 @@
       </tags>
   </entry>
   <entry>
-    <title>饶毅2011年落选院士后所写的文章</title>
-    <url>/2022/11/20/%E9%A5%B6%E6%AF%85%E5%9B%9E%E5%BF%86%E8%87%AA%E5%B7%B1%E5%9B%9E%E5%9B%BD15%E5%B9%B4/</url>
-    <content><![CDATA[<p>原文标题：人生十五年，后悔回国吗？</p>
-<blockquote>
-<p>但一般人容易记住我批评的人和事，不那么记得我推崇和表扬的人和事 (特别年轻人，例如2012年的附七)。</p>
-<p>事实上，我公开文章中推崇和肯定的人远多于我批评的人。前者如: 林可胜、陈克恢、蔡翘、冯德培、张昌绍、张香桐、谢和平、汤飞凡、邹承鲁、邹冈、袁隆平、屠呦呦、余亚纲、顾国明、张亭栋、周其凤、王晓东、施一公、施扬、管坤良、张毅、程亦凡、邵峰、李文辉、杨勇、张岱、张宏等等。</p>
-<p>有些人如蒲慕明，肯定其优点和做对的事情，毫不留情批评其缺点和做错的事情。他是我迄今批评过的唯一科学家。</p>
-<p>我建议《知识分子》开办的“华人之光”专栏，也曾经介绍一批华人科学家。</p>
-<p>通过未来科学奖，我们科学委员会认真工作，推出了中国迄今为止最有信用、共识程度最高、最公平的自然科学大奖。</p>
-<p>通过科学探索奖，我们科学评审委员会严谨工作，推出了中国迄今为止对青年科学家最好的个人支持。</p>
-</blockquote>
-<hr>
-<blockquote>
-<p>以下的对话反映了我对文章题目想法的一部分</p>
-<p>2022年7月10号星期天(美国9号星期六)，有位老朋友在微信上晒一群美籍华裔成功人士聚会“登高远眺、品尝美食、美酒和咖啡，一片欢声笑语”。</p>
-<p>我留言：”这是我力图避免的:一辈子在美国主要与华人聚集，自己努力做好职业 (也许职业有所追求)，安安稳稳，但毕竟是限于个人的生活。“</p>
-<p>对方回复:“人各有志。我很高兴大家一起在有美国国旗图案的阳伞下开心聚会。”</p>
-<p>我批评了美国的缺点，对方没再回复。</p>
-<p>当然有人可以问中国就没有问题吗? 中国肯定有中国的问题。</p>
-<p>但这是我出生的国家，是我家庭和学业前辈在更艰难时代没有言弃而为之奋斗的地方。</p>
-<p>而且我相信一百年后中国很可能超越美国，五十年后朋友的中国母校可能超越美国绝大多数大学，包括她先生任教的斯坦福大学。</p>
-<p>重要的是，无论百年、五十年的目标能否实现我自己都在里面起了当时其他人不能起到的推动作用。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>biography</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>颜宁回国</title>
     <url>/2022/11/01/%E9%A2%9C%E5%AE%81%E5%9B%9E%E5%9B%BD/</url>
     <content><![CDATA[<p>11月1日，看到新闻，颜宁宣布自己将全职回国，在深圳建立一个新单位——深圳医学研究院。</p>
@@ -2984,6 +2951,40 @@
       </tags>
   </entry>
   <entry>
+    <title>饶毅2011年落选院士后所写的文章</title>
+    <url>/2022/11/20/%E9%A5%B6%E6%AF%85%E5%9B%9E%E5%BF%86%E8%87%AA%E5%B7%B1%E5%9B%9E%E5%9B%BD15%E5%B9%B4/</url>
+    <content><![CDATA[<p>原文标题：人生十五年，后悔回国吗？</p>
+<blockquote>
+<p>但一般人容易记住我批评的人和事，不那么记得我推崇和表扬的人和事 (特别年轻人，例如2012年的附七)。</p>
+<p>事实上，我公开文章中推崇和肯定的人远多于我批评的人。前者如: 林可胜、陈克恢、蔡翘、冯德培、张昌绍、张香桐、谢和平、汤飞凡、邹承鲁、邹冈、袁隆平、屠呦呦、余亚纲、顾国明、张亭栋、周其凤、王晓东、施一公、施扬、管坤良、张毅、程亦凡、邵峰、李文辉、杨勇、张岱、张宏等等。</p>
+<p>有些人如蒲慕明，肯定其优点和做对的事情，毫不留情批评其缺点和做错的事情。他是我迄今批评过的唯一科学家。</p>
+<p>我建议《知识分子》开办的“华人之光”专栏，也曾经介绍一批华人科学家。</p>
+<p>通过未来科学奖，我们科学委员会认真工作，推出了中国迄今为止最有信用、共识程度最高、最公平的自然科学大奖。</p>
+<p>通过科学探索奖，我们科学评审委员会严谨工作，推出了中国迄今为止对青年科学家最好的个人支持。</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>以下的对话反映了我对文章题目想法的一部分</p>
+<p>2022年7月10号星期天(美国9号星期六)，有位老朋友在微信上晒一群美籍华裔成功人士聚会“登高远眺、品尝美食、美酒和咖啡，一片欢声笑语”。</p>
+<p>我留言：”这是我力图避免的:一辈子在美国主要与华人聚集，自己努力做好职业 (也许职业有所追求)，安安稳稳，但毕竟是限于个人的生活。“</p>
+<p>对方回复:“人各有志。我很高兴大家一起在有美国国旗图案的阳伞下开心聚会。”</p>
+<p>我批评了美国的缺点，对方没再回复。</p>
+<p>当然有人可以问中国就没有问题吗? 中国肯定有中国的问题。</p>
+<p>但这是我出生的国家，是我家庭和学业前辈在更艰难时代没有言弃而为之奋斗的地方。</p>
+<p>而且我相信一百年后中国很可能超越美国，五十年后朋友的中国母校可能超越美国绝大多数大学，包括她先生任教的斯坦福大学。</p>
+<p>重要的是，无论百年、五十年的目标能否实现我自己都在里面起了当时其他人不能起到的推动作用。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>biography</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>骂学术造假</title>
     <url>/2022/11/15/%E9%AA%82%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/</url>
     <content><![CDATA[<p>如果说科学是造福全人类，</p>
@@ -2999,19 +3000,18 @@
       </tags>
   </entry>
   <entry>
-    <title>苏牙自传</title>
-    <url>/2020/07/26/%E8%8B%8F%E7%89%99%E8%87%AA%E4%BC%A0/</url>
-    <content><![CDATA[<blockquote>
-<p>当你还是一个青少年的时候，你仅仅是一个孩子，你并不知道其实你已经站在人生的十字路口了。</p>
-</blockquote>
+    <title>Cook Inspirations</title>
+    <url>/2021/02/01/Cook%20Inspirations/</url>
+    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
+<p>答：剪应力比正向应力更容易让物体断裂。</p>
 ]]></content>
       <categories>
-        <category>biography</category>
-        <category>soccer</category>
+        <category>science</category>
       </categories>
       <tags>
-        <tag>biography</tag>
-        <tag>soccer</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>cook</tag>
       </tags>
   </entry>
 </search>
