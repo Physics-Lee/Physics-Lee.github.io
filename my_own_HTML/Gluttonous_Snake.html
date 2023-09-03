@@ -1,5 +1,8 @@
+<!-- This file uses HTML, CSS, JavaScript to realize Gluttonous Snake -->
 <!DOCTYPE html>
+
 <html>
+
 <head>
   <style> /* CSS */
     #game {
@@ -13,10 +16,11 @@
     }
   </style>
 </head>
+
 <body>
   <canvas id="game" width="1600" height="1600"></canvas>
-  <script>
-    let canvas = document.getElementById("game");
+  <script> // JavaScript
+    let canvas = document.getElementById("game"); 
     let context = canvas.getContext("2d");
 
     let box = 20;
@@ -104,4 +108,5 @@
     let game = setInterval(startGame, 100);
   </script>
 </body>
+
 </html>
