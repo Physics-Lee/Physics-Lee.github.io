@@ -226,21 +226,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Cook Inspirations</title>
-    <url>/2021/02/01/Cook%20Inspirations/</url>
-    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
-<p>答：剪应力比正向应力更容易让物体断裂。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>cook</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Croucher</title>
     <url>/2023/07/01/Croucher/</url>
     <content><![CDATA[<p>2023年6月的最后一周，我来到香港参加了<a href="https://projects.croucher.org.hk/summer-courses/introduction-to-computational-neuroscience">Croucher基金会赞助的计算神经科学暑期课程</a>，为期6天。</p>
@@ -264,27 +249,18 @@
       </tags>
   </entry>
   <entry>
-    <title>David Marr如果生在今天，是否还会相信最新的心理学研究？</title>
-    <url>/2022/12/30/David%20Marr%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E4%BB%8A%E5%A4%A9%EF%BC%8C%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E7%9B%B8%E4%BF%A1%E6%9C%80%E6%96%B0%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%EF%BC%9F/</url>
-    <content><![CDATA[<p>2022SA，我走马观花地读了一遍David Marr的Vision。</p>
-<p>Marr在此书中试图提出一种算法，来实现人类的视觉。这本书催生了后来被称之为Computer Vision的学科。</p>
-<p>这本书的第一句话是：What does it mean, to see?</p>
-<p>这本书的最后一章是以Francis Crick为首的科学家对Marr的方法提出质疑，而Marr反驳这些质疑。</p>
-<p>写这本书时Marr已经知道他患上了白血病，时日无多。这本书有种《九阴真经》、《武穆遗书》的味道。</p>
-<p>David Marr死时年仅35岁，堪称计算神经科学、人工智能领域的伽罗瓦。</p>
-<p>以他的实力，如果他能活到70岁，也许他能成为诺贝尔奖和图灵奖双料得主。</p>
-<hr>
-<p>我注意到，Marr在本书中引用了特别多的心理学研究，而且很多是最近一两年发表的——换句话说，Marr利用了他当时所能找到的一切资源。</p>
-<p>这本书写于1980年，而近二三十年生物学、医学、心理学领域造假频出，我很好奇David Marr如果生在我们这个时代，是否还会相信最新的心理学研究？</p>
-<p>以我肤浅的知识，生物学、心理学学术造假频出是近二十年计算神经科学发展速度远远逊于人工智能的原因之一。</p>
-<p>我们不要妄自菲薄。我们所处的这个时代是一个<strong>过去从来没有出现过，未来也可能不会再出现</strong>的时代——<strong>有史以来第一次，学术造假严重阻碍学科发展。</strong></p>
-<p>我们每个人都必须学会在这个新时代生存下去。</p>
+    <title>Cook Inspirations</title>
+    <url>/2021/02/01/Cook%20Inspirations/</url>
+    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
+<p>答：剪应力比正向应力更容易让物体断裂。</p>
 ]]></content>
       <categories>
-        <category>scientific misconduct</category>
+        <category>science</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>cook</tag>
       </tags>
   </entry>
   <entry>
@@ -316,6 +292,30 @@
         <tag>science</tag>
         <tag>physics</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>David Marr如果生在今天，是否还会相信最新的心理学研究？</title>
+    <url>/2022/12/30/David%20Marr%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E4%BB%8A%E5%A4%A9%EF%BC%8C%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E7%9B%B8%E4%BF%A1%E6%9C%80%E6%96%B0%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%EF%BC%9F/</url>
+    <content><![CDATA[<p>2022SA，我走马观花地读了一遍David Marr的Vision。</p>
+<p>Marr在此书中试图提出一种算法，来实现人类的视觉。这本书催生了后来被称之为Computer Vision的学科。</p>
+<p>这本书的第一句话是：What does it mean, to see?</p>
+<p>这本书的最后一章是以Francis Crick为首的科学家对Marr的方法提出质疑，而Marr反驳这些质疑。</p>
+<p>写这本书时Marr已经知道他患上了白血病，时日无多。这本书有种《九阴真经》、《武穆遗书》的味道。</p>
+<p>David Marr死时年仅35岁，堪称计算神经科学、人工智能领域的伽罗瓦。</p>
+<p>以他的实力，如果他能活到70岁，也许他能成为诺贝尔奖和图灵奖双料得主。</p>
+<hr>
+<p>我注意到，Marr在本书中引用了特别多的心理学研究，而且很多是最近一两年发表的——换句话说，Marr利用了他当时所能找到的一切资源。</p>
+<p>这本书写于1980年，而近二三十年生物学、医学、心理学领域造假频出，我很好奇David Marr如果生在我们这个时代，是否还会相信最新的心理学研究？</p>
+<p>以我肤浅的知识，生物学、心理学学术造假频出是近二十年计算神经科学发展速度远远逊于人工智能的原因之一。</p>
+<p>我们不要妄自菲薄。我们所处的这个时代是一个<strong>过去从来没有出现过，未来也可能不会再出现</strong>的时代——<strong>有史以来第一次，学术造假严重阻碍学科发展。</strong></p>
+<p>我们每个人都必须学会在这个新时代生存下去。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -395,6 +395,23 @@
       </tags>
   </entry>
   <entry>
+    <title>It is time for Twitter to choose_Exodus Cry</title>
+    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
+    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2021-10-23</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+]]></content>
+      <categories>
+        <category>capitalism</category>
+        <category>raised on porn</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>raised on porn</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I am so glad that they are making great progress for true age verification against porn websites in America!</title>
     <url>/2023/09/01/I%20am%20so%20glad%20that%20they%20are%20making%20great%20progress/</url>
     <content><![CDATA[<p>I am so glad that they are making <a href="https://exoduscry.com/pcnp/tracker/">great progress</a> for true age verification against porn websites in America! This should be done in 2003, sad to see it being done in 2023.</p>
@@ -417,23 +434,6 @@
 <p>Some say that age verification can be bypassed easily through VPN. This is true, but I don’t believe a 8-year-old can use VPN fluently, maybe a 15-year-old can. For me, I started to use when I was 20.</p>
 <p>This is such a happy day!</p>
 <p>The porn industry has hit a wall, there won’t be much more explicit stimulation than pornographic videos for decades to come (Of course new technologies like VR and AIGC can be used to produce porn, but they are not much more provocative than porn videos). Although our generation is raised on porn, the change in western countries can benefit children in the next few decades!</p>
-]]></content>
-      <categories>
-        <category>capitalism</category>
-        <category>raised on porn</category>
-      </categories>
-      <tags>
-        <tag>capitalism</tag>
-        <tag>raised on porn</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>It is time for Twitter to choose_Exodus Cry</title>
-    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
-    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2021-10-23</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ]]></content>
       <categories>
         <category>capitalism</category>
@@ -1046,30 +1046,10 @@
       <tags>
         <tag>romance</tag>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>love</tag>
+        <tag>physics</tag>
         <tag>math</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>with Xuanhao</title>
-    <url>/2022/08/10/with%20Xuanhao/</url>
-    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
-<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
-<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
-<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
-<p>煊昊：你他娘的高考还能带个电脑去？</p>
-<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
-<p>最后，我们还探讨了那个p-value的问题。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
@@ -1124,10 +1104,30 @@
       </tags>
   </entry>
   <entry>
-    <title>七绝·新冠</title>
-    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
-    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
-<p>我为少壮无何惧，只恐潘杨难过关。</p>
+    <title>with Xuanhao</title>
+    <url>/2022/08/10/with%20Xuanhao/</url>
+    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
+<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
+<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
+<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
+<p>煊昊：你他娘的高考还能带个电脑去？</p>
+<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
+<p>最后，我们还探讨了那个p-value的问题。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>fun</tag>
+        <tag>senior high school</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>七绝·黄山</title>
+    <url>/2023/04/01/%E4%B8%83%E7%BB%9D%C2%B7%E9%BB%84%E5%B1%B1/</url>
+    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
+<p>好水好山虽逸乐，难以新游忘故人。</p>
 ]]></content>
       <categories>
         <category>poem</category>
@@ -1137,10 +1137,10 @@
       </tags>
   </entry>
   <entry>
-    <title>七绝·黄山</title>
-    <url>/2023/04/01/%E4%B8%83%E7%BB%9D%C2%B7%E9%BB%84%E5%B1%B1/</url>
-    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
-<p>好水好山虽逸乐，难以新游忘故人。</p>
+    <title>七绝·新冠</title>
+    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
+    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
+<p>我为少壮无何惧，只恐潘杨难过关。</p>
 ]]></content>
       <categories>
         <category>poem</category>
@@ -1171,6 +1171,89 @@
         <tag>biology</tag>
         <tag>medicine</tag>
         <tag>psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上海三日游</title>
+    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
+    <content><![CDATA[<p>高光时刻：</p>
+<p>沪苏锡常观光高铁。</p>
+<p>松江大森林。</p>
+<p>上外西餐厅。</p>
+<p>复旦光华楼。</p>
+<p>嘉定摸黑路。</p>
+<p>同济高尔夫。</p>
+<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
+]]></content>
+      <tags>
+        <tag>travel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>世界很大，不要藏着掖着</title>
+    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
+    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>teaching</tag>
+        <tag>USTC</tag>
+        <tag>social</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上海某所</title>
+    <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
+    <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
+<ol>
+<li>该所大多数实验室一周上班七天，每天上午九点到晚上十点。（扼杀自由、求知欲、想象力、创造力）</li>
+<li>我去拜访的组的老板阳性了，他在家和学生开线上组会，因为那个学生工作进展慢，把她一通骂。骂人的话是和科学完全无关的人身攻击&#x2F;人格侮辱，类似于“你还要不要一点脸”、“你不要脸我还要脸呢”。骂了二三十分钟。（太过分了，学生又没伤天害理，又没学术造假，又没违法犯罪，凭啥这么说人家。）（要是我的儿子&#x2F;女儿无故被这么骂我就要和他拼命了。）</li>
+<li>那个组在10楼，我到走廊两侧的窗户上想看看上海的夜景，发现墙上贴一张纸，写“我喜欢有你的世界”，加上心理援助热线。（我瞬间一点看风景的心情都没了）（师兄评论：资本家都相形见绌）</li>
+</ol>
+<p>昨夜思考良多，总结如下：</p>
+<ol>
+<li>学术造假已经严重阻碍生物学、医学、心理学的进步。</li>
+<li>学术造假和疯狂push的正相关性较强。</li>
+<li>疯狂push来自资本主义。</li>
+</ol>
+<p>但我内心并不是彻底的社会主义者，我心里社会主义、民族主义、资本主义三种思潮共存。我认为三者都有一定合理之处。</p>
+<p>不过对学术而言，就现在的形式看，肯定是社会主义更有利于科学的发展。一方面，汤森路透、爱思唯尔、自然这样的公司为牟利阻止大众获取书籍和论文，相当于把公众堵于科学的高墙之外。另一方面，导师和学生越来越类似于资本家和工人的关系。</p>
+<p>先写到这里吧，飞机要起飞了。</p>
+<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>我已经很久没写过学术造假相关的文章了，上一次写还是在2023年1月。</p>
+<p>学术造假一度让我对学术界感到幻灭，特别是2022年秋季学期。</p>
+<p>2022年12月，ChatGPT到手后，我和它聊得最多的话题就是学术造假。</p>
+<p>历史是，1990年至今，生物学领域的学术造假愈演愈烈。</p>
+<p>现状和未来是，生物学领域的学术造假还会持续多年。</p>
+<p>在这种情况下，我们一是要学会如何如何防范造假和灌水，二是要调整自己的心态。</p>
+<p>第一点我已经写过了，看<a href="https://physics-lee.github.io/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/">这里</a>。</p>
+<p>第二点，我认为有以下几点</p>
+<ul>
+<li><p>我们做好自己的科学研究就可以了，其他人想什么、追求什么、干什么，我们不需要关心。</p>
+</li>
+<li><p>我们现在可以改变自己周围的小环境。随着我们的实力逐渐变强，我们能改变的环境也逐渐变大。</p>
+</li>
+<li><p>科学家也是人，也有好有坏，这个职业里出现一些数据造假、骗经费、卖假药的人也很正常。</p>
+</li>
+<li><p>虽然饶毅举报的几个人没有受到应有的惩罚，而是被中国科学院以“图片误用”为由掩饰过去，但是饶毅也并没有像一些知乎网友想象的<a href="https://www.zhihu.com/question/358391679">那样</a>，被踢出学术圈。这说明中国科学界还是有良心的。</p>
+</li>
+<li><p><a href="https://www.most.gov.cn/tztg/202101/t20210121_172330.html">中国科学院把学术造假化解为“图片误用”</a>是事实；<a href="https://www.nsfc.gov.cn/publish/portal0/jd/04/">国自然每年处理了许多学术造假</a>也是事实。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>socialism</category>
+        <category>scientific misconduct</category>
+        <category>capitalism</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>capitalism</tag>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -1238,89 +1321,6 @@
         <tag>science</tag>
         <tag>scientific misconduct</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>上海某所</title>
-    <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
-    <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
-<ol>
-<li>该所大多数实验室一周上班七天，每天上午九点到晚上十点。（扼杀自由、求知欲、想象力、创造力）</li>
-<li>我去拜访的组的老板阳性了，他在家和学生开线上组会，因为那个学生工作进展慢，把她一通骂。骂人的话是和科学完全无关的人身攻击&#x2F;人格侮辱，类似于“你还要不要一点脸”、“你不要脸我还要脸呢”。骂了二三十分钟。（太过分了，学生又没伤天害理，又没学术造假，又没违法犯罪，凭啥这么说人家。）（要是我的儿子&#x2F;女儿无故被这么骂我就要和他拼命了。）</li>
-<li>那个组在10楼，我到走廊两侧的窗户上想看看上海的夜景，发现墙上贴一张纸，写“我喜欢有你的世界”，加上心理援助热线。（我瞬间一点看风景的心情都没了）（师兄评论：资本家都相形见绌）</li>
-</ol>
-<p>昨夜思考良多，总结如下：</p>
-<ol>
-<li>学术造假已经严重阻碍生物学、医学、心理学的进步。</li>
-<li>学术造假和疯狂push的正相关性较强。</li>
-<li>疯狂push来自资本主义。</li>
-</ol>
-<p>但我内心并不是彻底的社会主义者，我心里社会主义、民族主义、资本主义三种思潮共存。我认为三者都有一定合理之处。</p>
-<p>不过对学术而言，就现在的形式看，肯定是社会主义更有利于科学的发展。一方面，汤森路透、爱思唯尔、自然这样的公司为牟利阻止大众获取书籍和论文，相当于把公众堵于科学的高墙之外。另一方面，导师和学生越来越类似于资本家和工人的关系。</p>
-<p>先写到这里吧，飞机要起飞了。</p>
-<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>我已经很久没写过学术造假相关的文章了，上一次写还是在2023年1月。</p>
-<p>学术造假一度让我对学术界感到幻灭，特别是2022年秋季学期。</p>
-<p>2022年12月，ChatGPT到手后，我和它聊得最多的话题就是学术造假。</p>
-<p>历史是，1990年至今，生物学领域的学术造假愈演愈烈。</p>
-<p>现状和未来是，生物学领域的学术造假还会持续多年。</p>
-<p>在这种情况下，我们一是要学会如何如何防范造假和灌水，二是要调整自己的心态。</p>
-<p>第一点我已经写过了，看<a href="https://physics-lee.github.io/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/">这里</a>。</p>
-<p>第二点，我认为有以下几点</p>
-<ul>
-<li><p>我们做好自己的科学研究就可以了，其他人想什么、追求什么、干什么，我们不需要关心。</p>
-</li>
-<li><p>我们现在可以改变自己周围的小环境。随着我们的实力逐渐变强，我们能改变的环境也逐渐变大。</p>
-</li>
-<li><p>科学家也是人，也有好有坏，这个职业里出现一些数据造假、骗经费、卖假药的人也很正常。</p>
-</li>
-<li><p>虽然饶毅举报的几个人没有受到应有的惩罚，而是被中国科学院以“图片误用”为由掩饰过去，但是饶毅也并没有像一些知乎网友想象的<a href="https://www.zhihu.com/question/358391679">那样</a>，被踢出学术圈。这说明中国科学界还是有良心的。</p>
-</li>
-<li><p><a href="https://www.most.gov.cn/tztg/202101/t20210121_172330.html">中国科学院把学术造假化解为“图片误用”</a>是事实；<a href="https://www.nsfc.gov.cn/publish/portal0/jd/04/">国自然每年处理了许多学术造假</a>也是事实。</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>socialism</category>
-        <category>scientific misconduct</category>
-        <category>capitalism</category>
-      </categories>
-      <tags>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>上海三日游</title>
-    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
-    <content><![CDATA[<p>高光时刻：</p>
-<p>沪苏锡常观光高铁。</p>
-<p>松江大森林。</p>
-<p>上外西餐厅。</p>
-<p>复旦光华楼。</p>
-<p>嘉定摸黑路。</p>
-<p>同济高尔夫。</p>
-<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
-]]></content>
-      <tags>
-        <tag>travel</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>世界很大，不要藏着掖着</title>
-    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
-    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>teaching</tag>
-        <tag>USTC</tag>
-        <tag>social</tag>
       </tags>
   </entry>
   <entry>
@@ -1474,20 +1474,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生第一次在现场听科学家的讲座</title>
-    <url>/2018/08/24/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%90%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%AE%B2%E5%BA%A7/</url>
-    <content><![CDATA[<p>Whispering Gallery Micro-cavities<br>parity<br>symmetric<br>photonic<br>revival<br>coalesce coalition<br>chiral<br>lasing<br>resonator resonant</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>何应钦签过的两个条约：何梅协定和日本降书</title>
     <url>/2022/08/02/%E4%BD%95%E5%BA%94%E9%92%A6%E7%AD%BE%E8%BF%87%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%9D%A1%E7%BA%A6%EF%BC%9A%E4%BD%95%E6%A2%85%E5%8D%8F%E5%AE%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%99%8D%E4%B9%A6/</url>
     <content><![CDATA[<p>最近，我在某个展览馆看到了二战中日本向中国投降的降书，日方签字人为冈村宁次，中方签字人为何应钦。</p>
@@ -1511,6 +1497,20 @@
       <tags>
         <tag>nationalism</tag>
         <tag>war</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生第一次在现场听科学家的讲座</title>
+    <url>/2018/08/24/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%90%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%AE%B2%E5%BA%A7/</url>
+    <content><![CDATA[<p>Whispering Gallery Micro-cavities<br>parity<br>symmetric<br>photonic<br>revival<br>coalesce coalition<br>chiral<br>lasing<br>resonator resonant</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -1659,6 +1659,39 @@
       </tags>
   </entry>
   <entry>
+    <title>吐槽一下物院课程设置</title>
+    <url>/2021/09/01/%E5%90%90%E6%A7%BD%E4%B8%80%E4%B8%8B%E7%89%A9%E9%99%A2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<ul>
+<li>对非竞赛生而言，大一大二在数学工具不够的情况下学一堆课。<ul>
+<li>你就不能等我们学完了单变量微积分再学力学？我微分方程都不知道是啥就开始学力学了？</li>
+<li>你就不能等我们学完了多变量微积分再学热学和电磁学？我偏导数都没搞清楚就开始学热学了？我梯度散度旋度都不知道是啥就开始学电磁学了？</li>
+<li>你就不能等我们学完了概统再写大物实验报告里算置信区间的那部分？我他妈连置信区间、假设检验都不知道是啥就开始写这些东西？</li>
+</ul>
+</li>
+<li>大一大二大三所学的课程数学知识不够。<ul>
+<li>如果你就按照这个课程设置学完三年，那么你：<ul>
+<li>不知道啥是若当标准型，啥是广义逆，啥是奇异值 &#x2F;&#x2F; 线代b2</li>
+<li>不知道实数如何构造 &#x2F;&#x2F; 数分b3</li>
+<li>不知道布朗运动的轨迹处处连续处处不可导 &#x2F;&#x2F; 随机过程</li>
+<li>只知道$S &#x3D; k ln(W)$，不知道$S &#x3D; \sum_{i&#x3D;1}^{n} P_iln(P_i)$ &#x2F;&#x2F; 信息论</li>
+<li>不知道庞加莱如何解决三体问题 &#x2F;&#x2F; 常微分方程</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>teaching</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>周琦和郭艾伦带给我的思索</title>
     <url>/2022/08/10/%E5%91%A8%E7%90%A6%E5%92%8C%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E7%B4%A2/</url>
     <content><![CDATA[<h1 id="My-thinking-from-Zhou-and-Guo"><a href="#My-thinking-from-Zhou-and-Guo" class="headerlink" title="My thinking from Zhou and Guo"></a>My thinking from Zhou and Guo</h1><p>昨天看到新闻，周琦下赛季继续征战海外联赛，郭艾伦下赛季继续留在辽宁队。</p>
@@ -1684,6 +1717,75 @@
       <tags>
         <tag>basketball</tag>
         <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>哈哈</title>
+    <url>/2023/05/01/%E5%93%88%E5%93%88/</url>
+    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>一次组会，我接到了一个诈骗电话，手机铃声开始响：</p>
+<blockquote>
+<p>你说你有点难追，想让我知难而退，礼物不需挑最贵，只要香榭的……</p>
+</blockquote>
+<p>我尴尬地按掉了。</p>
+<p>没几天，上课，我又接到了诈骗电话，周董又开始唱：</p>
+<blockquote>
+<p>你说你有点难追，想让我知难而退……</p>
+</blockquote>
+<p>我又一次尴尬地按掉。</p>
+<p>回实验室后，我无奈地说道：最近我就接到两个诈骗电话，一次组会，一次上课，怎么这么巧。</p>
+<p>wzz：也许是因为你上组会上课的时候骗子也在上班。</p>
+<p>我：有道理。</p>
+<p>我：我想起我在电视上看过警方抓电信诈骗，他们也在一个办公室里，对着电脑在搞一些事情，就和咱们一样。</p>
+<p>我：等会，我突然发现一个事情。</p>
+<p>cyk：怎么了？</p>
+<p>我：有的实验室确实是在搞诈骗。</p>
+<p>cyk：哈哈哈哈。</p>
+<h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p>我：昨夜我翻了翻格里菲斯的量子力学导论，颇有“醉里挑灯看剑，梦回吹角连营”之感。</p>
+<p>飞哥：可以啊轩少，你们在课堂上八百里分麾下炙了？</p>
+<h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><p>2022SP，我和冯鑫打赌。</p>
+<p>我：2100年，中科大物理学院的男女比将在1：1到2：1之间。<em>（注：2022年是10：1左右）</em></p>
+<p>fx：不可能，我认为是5：1左右</p>
+<p>我：那我们打个赌</p>
+<p>fx：好</p>
+<p>fx：超过$\sqrt{10}:1$，我赢；否则，你赢。</p>
+<p>我：为什么用几何平均数不用算术平均数？</p>
+<p>fx：如果你认为男女比的变化是从10：1到9：1到8：1到7：1，那么应该用算术平均数；如果你认为是从10：1到9：1到8.1：1到7.29：1，那么应该用几何平均数。</p>
+<p>我：那你为什么认为是后者不是前者呢？</p>
+<p>fx：男女比能从1：1直接变到0：1吗？</p>
+<p>我：有点道理。也不可能从0：1变到-1：1。它应该是指数衰减而不是线性衰减。</p>
+<p>我：赌多少？3000行不？</p>
+<p>fx：行。</p>
+<p>我：程玉锟，你要加入我们的赌约吗？</p>
+<p>cyk：好，我站在你这边</p>
+<p>cyk：等会</p>
+<p>cyk：我选择对冲，我压钱在fx那边。这样如果你赢了，我很高兴，因为科大物院男女比终于正常了，如果fx赢了，我也很高兴，因为我赢了钱。</p>
+<p>我：滚蛋，你这种墙头草不允许加入我们的赌约。</p>
+<h1 id="4"><a href="#4" class="headerlink" title="4"></a>4</h1><p>实验室里有一位CS出身的编程水平极高的师兄。</p>
+<p>昨天晚上，他问B哥：你知道比特币的创始人是谁吗？</p>
+<p>B哥：不知道。</p>
+<p>我本想脱口而出，但是顿了一下没有回答。</p>
+<p>师兄：世人只知道他的化名叫中本聪。</p>
+<p>B哥：那他的真名是什么？</p>
+<p>师兄：没有人知道。</p>
+<p>B哥：啊？</p>
+<p>师兄：他自己不说，谁会知道？</p>
+<p>过了一会，师兄邪魅一笑：也许中本聪就坐在你的旁边。</p>
+<h1 id="5"><a href="#5" class="headerlink" title="5"></a>5</h1><p>2020FA，我和B哥一起做那个非常脑残的电路实验，在每周某天的晚上。</p>
+<p>有一次，实验过后，我问B哥：你听说过奥本山打架事件吗？</p>
+<p>B哥：没听说过。</p>
+<p>我：NBA历史上最严重的打架事件。主犯阿泰斯特因为有一个主场球迷朝他扔了一个矿泉水瓶就冲上看台把球迷揍了，于是他所在球队和主场球迷发生了群殴。</p>
+<p>B哥：然后呢？</p>
+<p>我：回到更衣室后，阿泰斯特平静了下来，问他的队友小奥尼尔，我们是不是惹上了麻烦。小奥尼尔说，你觉得咱们仅仅是惹上了麻烦？咱们能保住饭碗就不错了。</p>
+<p>B哥：哈。</p>
+<p>我：阿泰斯特被NBA禁赛了整整一年。后来他痛定思过，给自己改名为慈善-世界-和平。</p>
+<p>B哥：所以你为什么要给我讲这个故事？</p>
+<p>我：因为我刚刚突然有一种想把这里的示波器全都砸了的冲动。</p>
+<h1 id="6"><a href="#6" class="headerlink" title="6"></a>6</h1><p>2019FA，12月，我从外面回来。我们刚考完复变，第二天考马原。</p>
+<p>A哥：分式线性变换把一个马原变成另一个马原。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -1764,75 +1866,6 @@
       </tags>
   </entry>
   <entry>
-    <title>哈哈</title>
-    <url>/2023/05/01/%E5%93%88%E5%93%88/</url>
-    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>一次组会，我接到了一个诈骗电话，手机铃声开始响：</p>
-<blockquote>
-<p>你说你有点难追，想让我知难而退，礼物不需挑最贵，只要香榭的……</p>
-</blockquote>
-<p>我尴尬地按掉了。</p>
-<p>没几天，上课，我又接到了诈骗电话，周董又开始唱：</p>
-<blockquote>
-<p>你说你有点难追，想让我知难而退……</p>
-</blockquote>
-<p>我又一次尴尬地按掉。</p>
-<p>回实验室后，我无奈地说道：最近我就接到两个诈骗电话，一次组会，一次上课，怎么这么巧。</p>
-<p>wzz：也许是因为你上组会上课的时候骗子也在上班。</p>
-<p>我：有道理。</p>
-<p>我：我想起我在电视上看过警方抓电信诈骗，他们也在一个办公室里，对着电脑在搞一些事情，就和咱们一样。</p>
-<p>我：等会，我突然发现一个事情。</p>
-<p>cyk：怎么了？</p>
-<p>我：有的实验室确实是在搞诈骗。</p>
-<p>cyk：哈哈哈哈。</p>
-<h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p>我：昨夜我翻了翻格里菲斯的量子力学导论，颇有“醉里挑灯看剑，梦回吹角连营”之感。</p>
-<p>飞哥：可以啊轩少，你们在课堂上八百里分麾下炙了？</p>
-<h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><p>2022SP，我和冯鑫打赌。</p>
-<p>我：2100年，中科大物理学院的男女比将在1：1到2：1之间。<em>（注：2022年是10：1左右）</em></p>
-<p>fx：不可能，我认为是5：1左右</p>
-<p>我：那我们打个赌</p>
-<p>fx：好</p>
-<p>fx：超过$\sqrt{10}:1$，我赢；否则，你赢。</p>
-<p>我：为什么用几何平均数不用算术平均数？</p>
-<p>fx：如果你认为男女比的变化是从10：1到9：1到8：1到7：1，那么应该用算术平均数；如果你认为是从10：1到9：1到8.1：1到7.29：1，那么应该用几何平均数。</p>
-<p>我：那你为什么认为是后者不是前者呢？</p>
-<p>fx：男女比能从1：1直接变到0：1吗？</p>
-<p>我：有点道理。也不可能从0：1变到-1：1。它应该是指数衰减而不是线性衰减。</p>
-<p>我：赌多少？3000行不？</p>
-<p>fx：行。</p>
-<p>我：程玉锟，你要加入我们的赌约吗？</p>
-<p>cyk：好，我站在你这边</p>
-<p>cyk：等会</p>
-<p>cyk：我选择对冲，我压钱在fx那边。这样如果你赢了，我很高兴，因为科大物院男女比终于正常了，如果fx赢了，我也很高兴，因为我赢了钱。</p>
-<p>我：滚蛋，你这种墙头草不允许加入我们的赌约。</p>
-<h1 id="4"><a href="#4" class="headerlink" title="4"></a>4</h1><p>实验室里有一位CS出身的编程水平极高的师兄。</p>
-<p>昨天晚上，他问B哥：你知道比特币的创始人是谁吗？</p>
-<p>B哥：不知道。</p>
-<p>我本想脱口而出，但是顿了一下没有回答。</p>
-<p>师兄：世人只知道他的化名叫中本聪。</p>
-<p>B哥：那他的真名是什么？</p>
-<p>师兄：没有人知道。</p>
-<p>B哥：啊？</p>
-<p>师兄：他自己不说，谁会知道？</p>
-<p>过了一会，师兄邪魅一笑：也许中本聪就坐在你的旁边。</p>
-<h1 id="5"><a href="#5" class="headerlink" title="5"></a>5</h1><p>2020FA，我和B哥一起做那个非常脑残的电路实验，在每周某天的晚上。</p>
-<p>有一次，实验过后，我问B哥：你听说过奥本山打架事件吗？</p>
-<p>B哥：没听说过。</p>
-<p>我：NBA历史上最严重的打架事件。主犯阿泰斯特因为有一个主场球迷朝他扔了一个矿泉水瓶就冲上看台把球迷揍了，于是他所在球队和主场球迷发生了群殴。</p>
-<p>B哥：然后呢？</p>
-<p>我：回到更衣室后，阿泰斯特平静了下来，问他的队友小奥尼尔，我们是不是惹上了麻烦。小奥尼尔说，你觉得咱们仅仅是惹上了麻烦？咱们能保住饭碗就不错了。</p>
-<p>B哥：哈。</p>
-<p>我：阿泰斯特被NBA禁赛了整整一年。后来他痛定思过，给自己改名为慈善-世界-和平。</p>
-<p>B哥：所以你为什么要给我讲这个故事？</p>
-<p>我：因为我刚刚突然有一种想把这里的示波器全都砸了的冲动。</p>
-<h1 id="6"><a href="#6" class="headerlink" title="6"></a>6</h1><p>2019FA，12月，我从外面回来。我们刚考完复变，第二天考马原。</p>
-<p>A哥：分式线性变换把一个马原变成另一个马原。</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>图片误用</title>
     <url>/2021/01/21/%E5%9B%BE%E7%89%87%E8%AF%AF%E7%94%A8/</url>
     <content><![CDATA[<p>不要B脸。</p>
@@ -1886,6 +1919,37 @@
       </tags>
   </entry>
   <entry>
+    <title>如何防范造假和灌水？</title>
+    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
+    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
+<ul>
+<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
+<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
+<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
+</ul>
+<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
+<ul>
+<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
+<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
+<li>缺点：这相当于要各大期刊断自己的财路。</li>
+</ul>
+</li>
+<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
+<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
+<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
+<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何解决知识越来越多，人类似乎一辈子才能到一个小领域的前沿这一问题？</title>
     <url>/2023/05/30/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E7%9F%A5%E8%AF%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E4%BA%BA%E7%B1%BB%E4%BC%BC%E4%B9%8E%E4%B8%80%E8%BE%88%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%A2%86%E5%9F%9F%E7%9A%84%E5%89%8D%E6%B2%BF%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%EF%BC%9F/</url>
     <content><![CDATA[<p>这个问题似乎很火。</p>
@@ -1922,67 +1986,33 @@
       </tags>
   </entry>
   <entry>
-    <title>吐槽一下物院课程设置</title>
-    <url>/2021/09/01/%E5%90%90%E6%A7%BD%E4%B8%80%E4%B8%8B%E7%89%A9%E9%99%A2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<ul>
-<li>对非竞赛生而言，大一大二在数学工具不够的情况下学一堆课。<ul>
-<li>你就不能等我们学完了单变量微积分再学力学？我微分方程都不知道是啥就开始学力学了？</li>
-<li>你就不能等我们学完了多变量微积分再学热学和电磁学？我偏导数都没搞清楚就开始学热学了？我梯度散度旋度都不知道是啥就开始学电磁学了？</li>
-<li>你就不能等我们学完了概统再写大物实验报告里算置信区间的那部分？我他妈连置信区间、假设检验都不知道是啥就开始写这些东西？</li>
-</ul>
-</li>
-<li>大一大二大三所学的课程数学知识不够。<ul>
-<li>如果你就按照这个课程设置学完三年，那么你：<ul>
-<li>不知道啥是若当标准型，啥是广义逆，啥是奇异值 &#x2F;&#x2F; 线代b2</li>
-<li>不知道实数如何构造 &#x2F;&#x2F; 数分b3</li>
-<li>不知道布朗运动的轨迹处处连续处处不可导 &#x2F;&#x2F; 随机过程</li>
-<li>只知道$S &#x3D; k ln(W)$，不知道$S &#x3D; \sum_{i&#x3D;1}^{n} P_iln(P_i)$ &#x2F;&#x2F; 信息论</li>
-<li>不知道庞加莱如何解决三体问题 &#x2F;&#x2F; 常微分方程</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+    <title>如果穿越回过去，所有事情真的会一模一样吗？</title>
+    <url>/2021/09/01/%E5%A6%82%E6%9E%9C%E7%A9%BF%E8%B6%8A%E5%9B%9E%E8%BF%87%E5%8E%BB%EF%BC%8C%E6%89%80%E6%9C%89%E4%BA%8B%E6%83%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%E5%90%97%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="迷思"><a href="#迷思" class="headerlink" title="迷思"></a>迷思</h1><p>玩RA2和War3时，我经常会SL (Save and Load)。</p>
+<p>比如说在和敌人遭遇之前，我会存档一下，防止打输了。</p>
+<p>有一次我突然发现，每次读取前一个存档之后，哪怕我不进行任何操作，我的部队行进的路线也会有所不同。</p>
+<p>然而，在《源代码》、《明日边缘》这样的电影中，主角穿越回过去后，如果不进行任何操作，事情会一模一样。</p>
+<p>于是我就开始想，如果我们真的能穿越回过去，在我们不进行任何操作的情况下，事情真的会一模一样吗？</p>
+<p>在RA2和War3中，答案是否定的。</p>
+<p>在《源代码》、《明日边缘》中，答案是肯定的。</p>
+<p>那么如果穿越回过去，事情到底会不会一模一样？</p>
+<p>我们讨论两个事情：气象和意识。</p>
+<p>对于气象，如果我们真的能把两个实验的初始条件控制得一模一样，那么气象的发展肯定是一样的。因为混沌是由于微分方程的解的不稳定性导致的，不稳定性的意思是初始条件改变小于$\epsilon$，解没法被$\delta$控制住，但是如果初始条件一模一样，那解肯定一模一样。因此，我认为气象会一模一样。</p>
+<p>对于意识，很难说，毕竟人类还没有搞清楚意识到底是什么。有很多人认为意识起源于神经系统的混沌，但这也只是说法之一。既然都没搞明白意识是什么，那么很难说是否会一模一样。</p>
+<h1 id="实验与模拟"><a href="#实验与模拟" class="headerlink" title="实验与模拟"></a>实验与模拟</h1><p>我们没法用实验去解决这个问题，因为我们无法穿越回过去。</p>
+<p>对于RA2和War3，我猜是因为游戏设计时引入了随机数，就连部队的行进也是有一定随机性的。</p>
+<p>RA2、War3可以算是一种<strong>simulation</strong>，一种对现实世界中无法完成的实验的simulation。</p>
+<p>《源代码》、《明日边缘》只能说是对现实世界中无法完成的实验的<strong>想象</strong>。</p>
 ]]></content>
       <categories>
         <category>science</category>
-        <category>teaching</category>
+        <category>video game</category>
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
-        <tag>teaching</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何防范造假和灌水？</title>
-    <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
-    <content><![CDATA[<p>对个人而言，有以下几种方法</p>
-<ul>
-<li>如果某篇论文的实验结果被多个不同的实验室都重复出来了，那么除非这些不同的实验室一起造假，否则这东西一定是真的。</li>
-<li>当你看一篇论文时，如果发现这文章的话云里雾里、绕来绕去、不说人话，那么这文章很有可能造假或者灌水。</li>
-<li>如果你在现实中认识某个科研工作者，你可以请他介绍自己之前的工作，如果他不愿意介绍，那么那个工作很有可能造假或者灌水。</li>
-</ul>
-<p>对整个学术界而言，我认为有以下两个办法。（我的实力还很浅薄，但至少这是现在的我认为的两个有可能成功的办法）</p>
-<ul>
-<li><strong>各个期刊应该在每篇论文底下都开一个评论区，并在其中划分一个专门用来质疑的区域。</strong><ul>
-<li>优点：现在被揭发的造假都只是冰山一角，大多数人会抱有侥幸心理。</li>
-<li>缺点：这相当于要各大期刊断自己的财路。</li>
-</ul>
-</li>
-<li><strong>更改评价体系，phd没有论文发表也可以毕业。</strong><ul>
-<li>优点：在毕业的压力之下，一个人更有可能去造假和灌水。</li>
-<li>缺点：就算没有毕业的压力，有的人也会去造假和灌水的。</li>
-<li>缺点：总要有一些定量的指标判断一个博士能不能毕业，除了用论文个数还能用什么呢？</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
+        <tag>video game</tag>
+        <tag>fun</tag>
+        <tag>chaos</tag>
       </tags>
   </entry>
   <entry>
@@ -2041,36 +2071,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如果穿越回过去，所有事情真的会一模一样吗？</title>
-    <url>/2021/09/01/%E5%A6%82%E6%9E%9C%E7%A9%BF%E8%B6%8A%E5%9B%9E%E8%BF%87%E5%8E%BB%EF%BC%8C%E6%89%80%E6%9C%89%E4%BA%8B%E6%83%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%E5%90%97%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="迷思"><a href="#迷思" class="headerlink" title="迷思"></a>迷思</h1><p>玩RA2和War3时，我经常会SL (Save and Load)。</p>
-<p>比如说在和敌人遭遇之前，我会存档一下，防止打输了。</p>
-<p>有一次我突然发现，每次读取前一个存档之后，哪怕我不进行任何操作，我的部队行进的路线也会有所不同。</p>
-<p>然而，在《源代码》、《明日边缘》这样的电影中，主角穿越回过去后，如果不进行任何操作，事情会一模一样。</p>
-<p>于是我就开始想，如果我们真的能穿越回过去，在我们不进行任何操作的情况下，事情真的会一模一样吗？</p>
-<p>在RA2和War3中，答案是否定的。</p>
-<p>在《源代码》、《明日边缘》中，答案是肯定的。</p>
-<p>那么如果穿越回过去，事情到底会不会一模一样？</p>
-<p>我们讨论两个事情：气象和意识。</p>
-<p>对于气象，如果我们真的能把两个实验的初始条件控制得一模一样，那么气象的发展肯定是一样的。因为混沌是由于微分方程的解的不稳定性导致的，不稳定性的意思是初始条件改变小于$\epsilon$，解没法被$\delta$控制住，但是如果初始条件一模一样，那解肯定一模一样。因此，我认为气象会一模一样。</p>
-<p>对于意识，很难说，毕竟人类还没有搞清楚意识到底是什么。有很多人认为意识起源于神经系统的混沌，但这也只是说法之一。既然都没搞明白意识是什么，那么很难说是否会一模一样。</p>
-<h1 id="实验与模拟"><a href="#实验与模拟" class="headerlink" title="实验与模拟"></a>实验与模拟</h1><p>我们没法用实验去解决这个问题，因为我们无法穿越回过去。</p>
-<p>对于RA2和War3，我猜是因为游戏设计时引入了随机数，就连部队的行进也是有一定随机性的。</p>
-<p>RA2、War3可以算是一种<strong>simulation</strong>，一种对现实世界中无法完成的实验的simulation。</p>
-<p>《源代码》、《明日边缘》只能说是对现实世界中无法完成的实验的<strong>想象</strong>。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>video game</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>video game</tag>
-        <tag>fun</tag>
-        <tag>chaos</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>徐州八孩事件</title>
     <url>/2022/05/01/%E5%BE%90%E5%B7%9E%E5%85%AB%E5%AD%A9%E4%BA%8B%E4%BB%B6/</url>
     <content><![CDATA[<p>我突然明白过来——这是中国的sex trafficking。</p>
@@ -2082,6 +2082,31 @@
       <tags>
         <tag>capitalism</tag>
         <tag>sex trafficking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>批评科大的卖弱</title>
+    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
+    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
+<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
+<p>连一个字都不能信。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无题</title>
+    <url>/2022/09/23/%E6%97%A0%E9%A2%98/</url>
+    <content><![CDATA[<p>灰雀声声秋日落，晚风似有红纱色。</p>
+<p>我为四载庐州客，多少蓬莱烟霭过。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2197,19 +2222,6 @@
       </tags>
   </entry>
   <entry>
-    <title>无题</title>
-    <url>/2022/09/23/%E6%97%A0%E9%A2%98/</url>
-    <content><![CDATA[<p>灰雀声声秋日落，晚风似有红纱色。</p>
-<p>我为四载庐州客，多少蓬莱烟霭过。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>星星意味着什么？</title>
     <url>/2022/12/18/%E6%98%9F%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
@@ -2245,22 +2257,26 @@
       <tags>
         <tag>romance</tag>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>love</tag>
+        <tag>physics</tag>
         <tag>math</tag>
         <tag>fun</tag>
       </tags>
   </entry>
   <entry>
-    <title>批评科大的卖弱</title>
-    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
-    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
-<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
-<p>连一个字都不能信。</p>
+    <title>智者不入爱河</title>
+    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
+    <content><![CDATA[<p>智者不入爱河。</p>
+<p>寡王一路硕博。</p>
+<p>建设美丽中国。</p>
+<hr>
+<p>Sages never consider no love a pity.</p>
+<p>King of single dogs only cares about PhD.</p>
+<p>Together we will build a more beautiful society.</p>
 ]]></content>
       <tags>
         <tag>fun</tag>
-        <tag>USTC</tag>
+        <tag>translation</tag>
       </tags>
   </entry>
   <entry>
@@ -2337,22 +2353,6 @@
       </tags>
   </entry>
   <entry>
-    <title>智者不入爱河</title>
-    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
-    <content><![CDATA[<p>智者不入爱河。</p>
-<p>寡王一路硕博。</p>
-<p>建设美丽中国。</p>
-<hr>
-<p>Sages never consider no love a pity.</p>
-<p>King of single dogs only cares about PhD.</p>
-<p>Together we will build a more beautiful society.</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E3%80%81%E9%82%93%E7%A8%BC%E5%85%88%E3%80%81%E5%AF%92%E6%98%A5%20(Joan%20Hinton)/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -2403,33 +2403,6 @@
         <tag>biography</tag>
         <tag>history</tag>
         <tag>drug</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>理想气体的分子在永不停息地做无规则运动</title>
-    <url>/2021/06/01/%E7%90%86%E6%83%B3%E6%B0%94%E4%BD%93%E7%9A%84%E5%88%86%E5%AD%90%E5%9C%A8%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%81%AF%E5%9C%B0%E5%81%9A%E6%97%A0%E8%A7%84%E5%88%99%E8%BF%90%E5%8A%A8/</url>
-    <content><![CDATA[<ul>
-<li>初中<ul>
-<li>理想气体的分子在永不停息地做无规则运动</li>
-</ul>
-</li>
-<li>大一<ul>
-<li>速度大小是高斯分布</li>
-<li>速度方向是各向同性</li>
-</ul>
-</li>
-<li>大三<ul>
-<li>我能用统计物理中的等概率原理推出上一段话</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2505,6 +2478,33 @@
       </tags>
   </entry>
   <entry>
+    <title>理想气体的分子在永不停息地做无规则运动</title>
+    <url>/2021/06/01/%E7%90%86%E6%83%B3%E6%B0%94%E4%BD%93%E7%9A%84%E5%88%86%E5%AD%90%E5%9C%A8%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%81%AF%E5%9C%B0%E5%81%9A%E6%97%A0%E8%A7%84%E5%88%99%E8%BF%90%E5%8A%A8/</url>
+    <content><![CDATA[<ul>
+<li>初中<ul>
+<li>理想气体的分子在永不停息地做无规则运动</li>
+</ul>
+</li>
+<li>大一<ul>
+<li>速度大小是高斯分布</li>
+<li>速度方向是各向同性</li>
+</ul>
+</li>
+<li>大三<ul>
+<li>我能用统计物理中的等概率原理推出上一段话</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是灌水</title>
     <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
     <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
@@ -2535,6 +2535,22 @@
       </tags>
   </entry>
   <entry>
+    <title>磁</title>
+    <url>/2021/06/01/%E7%A3%81/</url>
+    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
+<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
+<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
+<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>眼睛是心灵的窗户</title>
     <url>/2023/06/14/%E7%9C%BC%E7%9D%9B%E6%98%AF%E5%BF%83%E7%81%B5%E7%9A%84%E7%AA%97%E6%88%B7/</url>
     <content><![CDATA[<p>Today I finally understand what sclera is, what iris is, what pupil is an what cornea is.</p>
@@ -2554,22 +2570,6 @@
         <tag>romance</tag>
         <tag>science</tag>
         <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>磁</title>
-    <url>/2021/06/01/%E7%A3%81/</url>
-    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
-<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
-<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
-<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2884,6 +2884,17 @@
       </tags>
   </entry>
   <entry>
+    <title>郭芙</title>
+    <url>/2018/11/15/%E9%83%AD%E8%8A%99/</url>
+    <content><![CDATA[<p>记忆中，我用软件时一旦软件没有正确反应，我十有八九就会异常暴躁，甚至想砸电脑。但这并不是电脑的错，明明是我自己的错,因为我没有掌握用软件的方法，而我却要迁怒于电脑。</p>
+<p>看神雕时总以为自己是郭靖杨过，结果这次上机之后蓦然发现，自己像的是郭芙……………</p>
+]]></content>
+      <tags>
+        <tag>madness</tag>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>边线talk</title>
     <url>/2023/05/30/%E8%BE%B9%E7%BA%BFtalk/</url>
     <content><![CDATA[<p>第一集 西热力江、林葳</p>
@@ -2923,17 +2934,6 @@
       </categories>
       <tags>
         <tag>basketball</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>郭芙</title>
-    <url>/2018/11/15/%E9%83%AD%E8%8A%99/</url>
-    <content><![CDATA[<p>记忆中，我用软件时一旦软件没有正确反应，我十有八九就会异常暴躁，甚至想砸电脑。但这并不是电脑的错，明明是我自己的错,因为我没有掌握用软件的方法，而我却要迁怒于电脑。</p>
-<p>看神雕时总以为自己是郭靖杨过，结果这次上机之后蓦然发现，自己像的是郭芙……………</p>
-]]></content>
-      <tags>
-        <tag>madness</tag>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -3068,6 +3068,23 @@
       </tags>
   </entry>
   <entry>
+    <title>陪伴爱因斯坦的两个人</title>
+    <url>/2022/10/20/%E9%99%AA%E4%BC%B4%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
+    <content><![CDATA[<p>最近，我读到了一个让我泪目的故事，也许是现在的我泪点太低了吧：</p>
+<p>1905年，爱因斯坦还只是瑞士某个专利局的员工。当年，他写了一篇著名的论文，《论运动物体的电动力学》。这篇文章是狭义相对论的开端。在文中他只感谢了一个人，Michele Besso，他在专利局的同事，感谢他下班之后经常和自己讨论问题，感谢他给自己介绍恩斯特·马赫的思想。爱因斯坦把这篇论文交给夫人Mileva Marić校对。6月，这篇文章发表在《物理年鉴》上。</p>
+<p>后来爱因斯坦成了和牛顿齐名的物理学家，有无数人愿意围着他转。但是，当他还是一个小小的专利局员工时，却只有两个人陪伴在他的身边。</p>
+<p>1955年3月，Michele Besso去世，爱因斯坦写道：他比我稍早离开了这奇异的世界，而这不代表什么。像我们这些信仰物理的人都知道：过去、现在、未来的差异仅仅是一种坚固持久的幻觉。（”Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present and future is only a stubbornly persistent illusion.”）</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>院士</title>
     <url>/2021/10/01/%E9%99%A2%E5%A3%AB/</url>
     <content><![CDATA[<h1 id="从我和C哥的一个玩笑说起"><a href="#从我和C哥的一个玩笑说起" class="headerlink" title="从我和C哥的一个玩笑说起"></a>从我和C哥的一个玩笑说起</h1><p>2021年的一天下午，我回到寝室，舍友C在。</p>
@@ -3103,54 +3120,6 @@
 <h1 id="杨振宁对院士选新院士的看法"><a href="#杨振宁对院士选新院士的看法" class="headerlink" title="杨振宁对院士选新院士的看法"></a>杨振宁对院士选新院士的看法</h1><p>——2023-08-29 更新——</p>
 <p>最近读了杨振宁的《晨曦集》，在<a href="http://news.sohu.com/20111028/n323748764.shtml">一篇文章</a>中，记者问他如何看待2011年饶毅落选院士。</p>
 <p>杨：在中国，一个人是否能被选为院士，70%靠此人的拉关系，30%靠此人的学术能力；在美国，一个人是否能被选为院士，30%靠此人的拉关系，70%靠此人的学术能力。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>陪伴爱因斯坦的两个人</title>
-    <url>/2022/10/20/%E9%99%AA%E4%BC%B4%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
-    <content><![CDATA[<p>最近，我读到了一个让我泪目的故事，也许是现在的我泪点太低了吧：</p>
-<p>1905年，爱因斯坦还只是瑞士某个专利局的员工。当年，他写了一篇著名的论文，《论运动物体的电动力学》。这篇文章是狭义相对论的开端。在文中他只感谢了一个人，Michele Besso，他在专利局的同事，感谢他下班之后经常和自己讨论问题，感谢他给自己介绍恩斯特·马赫的思想。爱因斯坦把这篇论文交给夫人Mileva Marić校对。6月，这篇文章发表在《物理年鉴》上。</p>
-<p>后来爱因斯坦成了和牛顿齐名的物理学家，有无数人愿意围着他转。但是，当他还是一个小小的专利局员工时，却只有两个人陪伴在他的身边。</p>
-<p>1955年3月，Michele Besso去世，爱因斯坦写道：他比我稍早离开了这奇异的世界，而这不代表什么。像我们这些信仰物理的人都知道：过去、现在、未来的差异仅仅是一种坚固持久的幻觉。（”Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present and future is only a stubbornly persistent illusion.”）</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔两则：剧本杀</title>
-    <url>/2022/07/20/%E9%9A%8F%E7%AC%94%E4%B8%A4%E5%88%99%EF%BC%9A%E5%89%A7%E6%9C%AC%E6%9D%80/</url>
-    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
-<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
-<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
-<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
-<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
-<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
-<p>许多天之后我和B谈起这事。</p>
-<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
-<p>B：…</p>
-<p>B：不是还有轩哥鞭策我吗？</p>
-<p>我：我们又不会一直在一起。</p>
-<p>B：擦，怎么突然gay起来了。</p>
-<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
-<p>因为他不管你是谁，只管你说的对不对。</p>
-<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
-<p>我在想，有没有人愿意当“生物学的良心”。</p>
-<p>不管你是谁，只管你有没有学术造假。</p>
-<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
-<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
-<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -3231,6 +3200,37 @@
         <tag>injury</tag>
         <tag>molecular biology</tag>
         <tag>neuroscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔两则：剧本杀</title>
+    <url>/2022/07/20/%E9%9A%8F%E7%AC%94%E4%B8%A4%E5%88%99%EF%BC%9A%E5%89%A7%E6%9C%AC%E6%9D%80/</url>
+    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
+<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
+<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
+<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
+<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
+<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
+<p>许多天之后我和B谈起这事。</p>
+<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
+<p>B：…</p>
+<p>B：不是还有轩哥鞭策我吗？</p>
+<p>我：我们又不会一直在一起。</p>
+<p>B：擦，怎么突然gay起来了。</p>
+<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
+<p>因为他不管你是谁，只管你说的对不对。</p>
+<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
+<p>我在想，有没有人愿意当“生物学的良心”。</p>
+<p>不管你是谁，只管你有没有学术造假。</p>
+<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
+<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
+<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
