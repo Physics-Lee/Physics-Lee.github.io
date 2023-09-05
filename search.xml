@@ -226,21 +226,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Cook Inspirations</title>
-    <url>/2021/02/01/Cook%20Inspirations/</url>
-    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
-<p>答：剪应力比正向应力更容易让物体断裂。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>cook</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Croucher</title>
     <url>/2023/07/01/Croucher/</url>
     <content><![CDATA[<p>2023年6月的最后一周，我来到香港参加了<a href="https://projects.croucher.org.hk/summer-courses/introduction-to-computational-neuroscience">Croucher基金会赞助的计算神经科学暑期课程</a>，为期6天。</p>
@@ -261,6 +246,21 @@
         <tag>computational neuroscience</tag>
         <tag>open science</tag>
         <tag>love</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cook Inspirations</title>
+    <url>/2021/02/01/Cook%20Inspirations/</url>
+    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
+<p>答：剪应力比正向应力更容易让物体断裂。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>cook</tag>
       </tags>
   </entry>
   <entry>
@@ -351,24 +351,6 @@
       </tags>
   </entry>
   <entry>
-    <title>How to find a professor working in biology?</title>
-    <url>/2022/10/01/How%20to%20find%20a%20professor%20working%20in%20biology/</url>
-    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
-<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
-<p>于公：自不必说</p>
-<p>于私：有两点</p>
-<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
-<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hold Big Tech and Big Porn Accountable_Exodus Cry</title>
     <url>/2022/04/10/Hold%20Big%20Tech%20and%20Big%20Porn%20Accountable/</url>
     <content><![CDATA[<p>Introduction: This short video can be seen as a trailer of <em><a href="https://www.youtube.com/watch?v=hzPylqS01qU&t=1208s">Raised on Porn</a></em></p>
@@ -393,20 +375,21 @@
       </tags>
   </entry>
   <entry>
-    <title>It is time for Twitter to choose_Exodus Cry</title>
-    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
-    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2021-10-23</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+    <title>How to find a professor working in biology?</title>
+    <url>/2022/10/01/How%20to%20find%20a%20professor%20working%20in%20biology/</url>
+    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
+<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
+<p>于公：自不必说</p>
+<p>于私：有两点</p>
+<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
+<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
 ]]></content>
       <categories>
-        <category>capitalism</category>
-        <category>raised on porn</category>
+        <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>capitalism</tag>
-        <tag>raised on porn</tag>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -432,6 +415,23 @@
 <p>Some say that age verification can be bypassed easily through VPN. This is true, but I don’t believe a 8-year-old can use VPN fluently, maybe a 15-year-old can. For me, I started to use when I was 20.</p>
 <p>This is such a happy day!</p>
 <p>The porn industry has hit a wall, there won’t be much more explicit stimulation than pornographic videos for decades to come (Of course new technologies like VR and AIGC can be used to produce porn, but they are not much more provocative than porn videos). Although our generation is raised on porn, the change in western countries can benefit children in the next few decades!</p>
+]]></content>
+      <categories>
+        <category>capitalism</category>
+        <category>raised on porn</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>raised on porn</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>It is time for Twitter to choose_Exodus Cry</title>
+    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
+    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2021-10-23</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ]]></content>
       <categories>
         <category>capitalism</category>
@@ -487,6 +487,39 @@
       <tags>
         <tag>nationalism</tag>
         <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My Octopus Teacher</title>
+    <url>/2023/08/25/My%20Octopus%20Teacher/</url>
+    <content><![CDATA[<p>2020奥斯卡最佳纪录片，My Octopus Teacher，《我的章鱼老师》。</p>
+<p>故事由一位热爱工作的野生动物摄影师讲述。他从小就热衷于此，长大后他去非洲某沙漠工作，但是，他过分沉迷于工作，疏远了自己的家人。两年前，他和老婆孩子的关系跌到谷底。同时，他的压力终于超过了他的承受能力，他再也不想去野外拍视频，再也不想去工作室剪视频了。他离开了自己工作十几年的沙漠，来到了南非某处，拍水下世界。他从小在水边长大，这让他感到放松。</p>
+<p>一天，他偶然看到一个会动的贝壳堆，他感到十分好奇。后来那个“贝壳堆”捕捉了靠近的几条小鱼，他才发现里面是一只章鱼。章鱼放下了贝壳后，又用海草把自己缠一圈，小心翼翼又好奇地看着这个自己从来没见过的生物。</p>
+<p>他每天都来拍她，她刚开始依然很小心，后来开始大胆起来，几十天后的一天，他伸出手指，章鱼也伸出触手碰了碰他。后来，章鱼会爬到他的胸上玩耍。</p>
+<p>他回去后看了很多论文，了解了章鱼的习性，对这种生物更加好奇。他拍摄了很多章鱼捕食鱼、虾、螃蟹、贝类的视频。他把章鱼吃剩下的残渣、章鱼用来防身的贝壳和海草都拿回去研究。</p>
+<p>有一天，章鱼在捕食龙虾。龙虾在Oxy平面运动得很缓慢，在z轴上运动得极快，而章鱼只能在Oxy平面以及平面上很小的范围里去尝试盖住龙虾。章鱼失败了很多次后，突然就开始利用拍摄者，把他引诱到龙虾的上方，这样她就可以捕捉到龙虾了。</p>
+<p>又有一天，一只两三米的鲨鱼执着地追捕着章鱼。她逃来逃去，甚至跑到了陆地上，再另一处又下水，但鲨鱼还是锲而不舍。毕竟鲨鱼游得快，终于要追上了，她用触手迅速抓来许多贝壳和石头作为防御，并把自己团成团。鲨鱼咬住这个球，然后死亡翻滚。这时，拍摄者必须要上去换气了，当他下来的时候，发现章鱼爬到了鲨鱼的背部。最危险的地方就是最安全的地方。鲨鱼尝试把她摔下来，但是失败了。当鲨鱼游过一大片海草时，她逃走了。</p>
+<p>拍摄者搜查资料发现，章鱼吃贝类，需要打破一个小洞，把毒素注入贝类，贝类的肌肉才会放松，章鱼才能吃到，但是，对于某些贝类，章鱼必须精准地在硬壳顶端打洞，贝类肌肉才会被毒素放松。他带回来几十种被章鱼干掉的贝类的壳，发现章鱼学会了对不同外形的贝类进行精准打击。</p>
+<p>又有一天，他发现章鱼在和鱼群玩耍，她没有尝试去吃这些鱼，而是不停地用触手把鱼群赶来赶去。当她玩累了时，她突然向拍摄者爬过来，贴在他的胸口玩。</p>
+<p>拍摄途中，有一次，章鱼被鲨鱼咬掉了一只触角，奄奄一息，费劲全力才爬回洞穴。拍摄者知道他不应干涉野生动物的生活，但他对章鱼的感情实在太强烈，他cross the line，喂了一些贝类给章鱼吃。</p>
+<p>章鱼的寿命只有一年多一点。他初见这只章鱼的三百多天后，他发现她在和另一只章鱼交配。之后，她爬回了自己的洞里，不再移动，不再捕食，身体的大部分都留给了下一代。她产下了50W枚卵，卵随着水流飘出。快要死去的她也被水流带出洞穴，躺在海底，被鱼类一点一点吃掉，他很想把鱼类都赶走，把章鱼的尸体带去埋葬，但是这次他克制住了。第二天，一条大鲨鱼跑了过来，把她叼走了。</p>
+<hr>
+<p>我愿意相信影片中拍摄的所有均属实。如果这样，那么这只章鱼展现了超强的学习能力——使用工具、制作工具、利用拍摄者、险中求胜、精准打击。</p>
+<hr>
+<p>在拍摄这只章鱼的一年里，拍摄者需要像章鱼一样思考问题。有一次拍摄者把章鱼吓到了，他找了整整一周才找到她，在这一周里他不断找各种章鱼的痕迹，并且站在章鱼的角度思考，终于找到了她。这一年里，他学会了换位思考，改善了自己和家人的关系，教会了儿子潜水。影片的最后，他儿子发现了一只小章鱼，按时间和大小推算，很有可能是那只章鱼的后代。他拍摄的是章鱼，却拯救了自己的家庭，这就是为什么这部记录叫《我的章鱼老师》。</p>
+<hr>
+<p>很长一段时间，我一直在思考，到底什么是家庭。我想到《我，机器人》里男主对女儿的思念和对机器人的嘲讽，想到《寻梦环游记》里追逐梦想和陪伴家人的两难境地（以及那首著名的Remember Me），想到Inside Out里小女孩和父母的破碎与重逢，想到恩格斯用他特有的穿透一切的语言对家庭的起源、发展、本质的思考，想到苏牙自传里苏亚雷斯抱怨时任主教练范巴斯滕没有给球员足够时间去陪伴家人，想到The Walking Dead里的Lee和Clementine，想到Detroit: Become Human里的Carl与Leo, Todd与Alice, Hank与Cole, 以及Cyberlife制造的永远服从、永远不会哭闹的来满足人的抚养欲望的机器人孩子，最近又包括了Life Is Strange里Chloe和她的父亲。当然我也知道生物界里存在各种各样的“家庭”，白蚁、鸟类、狼群、象群。尽管有这么多知识，但我还是无法给出一个答案。</p>
+<p>在这个世界里，一个温暖的家庭，也是一种奢望。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>romance</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>biology</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -551,39 +584,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My Octopus Teacher</title>
-    <url>/2023/08/25/My%20Octopus%20Teacher/</url>
-    <content><![CDATA[<p>2020奥斯卡最佳纪录片，My Octopus Teacher，《我的章鱼老师》。</p>
-<p>故事由一位热爱工作的野生动物摄影师讲述。他从小就热衷于此，长大后他去非洲某沙漠工作，但是，他过分沉迷于工作，疏远了自己的家人。两年前，他和老婆孩子的关系跌到谷底。同时，他的压力终于超过了他的承受能力，他再也不想去野外拍视频，再也不想去工作室剪视频了。他离开了自己工作十几年的沙漠，来到了南非某处，拍水下世界。他从小在水边长大，这让他感到放松。</p>
-<p>一天，他偶然看到一个会动的贝壳堆，他感到十分好奇。后来那个“贝壳堆”捕捉了靠近的几条小鱼，他才发现里面是一只章鱼。章鱼放下了贝壳后，又用海草把自己缠一圈，小心翼翼又好奇地看着这个自己从来没见过的生物。</p>
-<p>他每天都来拍她，她刚开始依然很小心，后来开始大胆起来，几十天后的一天，他伸出手指，章鱼也伸出触手碰了碰他。后来，章鱼会爬到他的胸上玩耍。</p>
-<p>他回去后看了很多论文，了解了章鱼的习性，对这种生物更加好奇。他拍摄了很多章鱼捕食鱼、虾、螃蟹、贝类的视频。他把章鱼吃剩下的残渣、章鱼用来防身的贝壳和海草都拿回去研究。</p>
-<p>有一天，章鱼在捕食龙虾。龙虾在Oxy平面运动得很缓慢，在z轴上运动得极快，而章鱼只能在Oxy平面以及平面上很小的范围里去尝试盖住龙虾。章鱼失败了很多次后，突然就开始利用拍摄者，把他引诱到龙虾的上方，这样她就可以捕捉到龙虾了。</p>
-<p>又有一天，一只两三米的鲨鱼执着地追捕着章鱼。她逃来逃去，甚至跑到了陆地上，再另一处又下水，但鲨鱼还是锲而不舍。毕竟鲨鱼游得快，终于要追上了，她用触手迅速抓来许多贝壳和石头作为防御，并把自己团成团。鲨鱼咬住这个球，然后死亡翻滚。这时，拍摄者必须要上去换气了，当他下来的时候，发现章鱼爬到了鲨鱼的背部。最危险的地方就是最安全的地方。鲨鱼尝试把她摔下来，但是失败了。当鲨鱼游过一大片海草时，她逃走了。</p>
-<p>拍摄者搜查资料发现，章鱼吃贝类，需要打破一个小洞，把毒素注入贝类，贝类的肌肉才会放松，章鱼才能吃到，但是，对于某些贝类，章鱼必须精准地在硬壳顶端打洞，贝类肌肉才会被毒素放松。他带回来几十种被章鱼干掉的贝类的壳，发现章鱼学会了对不同外形的贝类进行精准打击。</p>
-<p>又有一天，他发现章鱼在和鱼群玩耍，她没有尝试去吃这些鱼，而是不停地用触手把鱼群赶来赶去。当她玩累了时，她突然向拍摄者爬过来，贴在他的胸口玩。</p>
-<p>拍摄途中，有一次，章鱼被鲨鱼咬掉了一只触角，奄奄一息，费劲全力才爬回洞穴。拍摄者知道他不应干涉野生动物的生活，但他对章鱼的感情实在太强烈，他cross the line，喂了一些贝类给章鱼吃。</p>
-<p>章鱼的寿命只有一年多一点。他初见这只章鱼的三百多天后，他发现她在和另一只章鱼交配。之后，她爬回了自己的洞里，不再移动，不再捕食，身体的大部分都留给了下一代。她产下了50W枚卵，卵随着水流飘出。快要死去的她也被水流带出洞穴，躺在海底，被鱼类一点一点吃掉，他很想把鱼类都赶走，把章鱼的尸体带去埋葬，但是这次他克制住了。第二天，一条大鲨鱼跑了过来，把她叼走了。</p>
-<hr>
-<p>我愿意相信影片中拍摄的所有均属实。如果这样，那么这只章鱼展现了超强的学习能力——使用工具、制作工具、利用拍摄者、险中求胜、精准打击。</p>
-<hr>
-<p>在拍摄这只章鱼的一年里，拍摄者需要像章鱼一样思考问题。有一次拍摄者把章鱼吓到了，他找了整整一周才找到她，在这一周里他不断找各种章鱼的痕迹，并且站在章鱼的角度思考，终于找到了她。这一年里，他学会了换位思考，改善了自己和家人的关系，教会了儿子潜水。影片的最后，他儿子发现了一只小章鱼，按时间和大小推算，很有可能是那只章鱼的后代。他拍摄的是章鱼，却拯救了自己的家庭，这就是为什么这部记录叫《我的章鱼老师》。</p>
-<hr>
-<p>很长一段时间，我一直在思考，到底什么是家庭。我想到《我，机器人》里男主对女儿的思念和对机器人的嘲讽，想到《寻梦环游记》里追逐梦想和陪伴家人的两难境地（以及那首著名的Remember Me），想到Inside Out里小女孩和父母的破碎与重逢，想到恩格斯用他特有的穿透一切的语言对家庭的起源、发展、本质的思考，想到苏牙自传里苏亚雷斯抱怨时任主教练范巴斯滕没有给球员足够时间去陪伴家人，想到The Walking Dead里的Lee和Clementine，想到Detroit: Become Human里的Carl与Leo, Todd与Alice, Hank与Cole, 以及Cyberlife制造的永远服从、永远不会哭闹的来满足人的抚养欲望的机器人孩子，最近又包括了Life Is Strange里Chloe和她的父亲。当然我也知道生物界里存在各种各样的“家庭”，白蚁、鸟类、狼群、象群。尽管有这么多知识，但我还是无法给出一个答案。</p>
-<p>在这个世界里，一个温暖的家庭，也是一种奢望。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>biology</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>OneNote + Markdown</title>
     <url>/2023/09/01/OneNote%20+%20Markdown/</url>
     <content><![CDATA[<p>下载安装<a href="https://onemark.neuxlab.cn/">OneMark</a>后，即可在OneNote里使用Markdown。</p>
@@ -604,6 +604,53 @@
       </categories>
       <tags>
         <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pythagorean Means</title>
+    <url>/2022/11/01/Pythagorean%20Means/</url>
+    <content><![CDATA[<h1 id="2D"><a href="#2D" class="headerlink" title="2D"></a>2D</h1><h2 id="definition"><a href="#definition" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{2}(a^2+b^2)}$</li>
+<li>arithmetic mean :&#x3D; $\frac{a+b}{2}$</li>
+<li>geometric mean :&#x3D; $\sqrt{ab}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{2}(\frac{1}{a}+\frac{1}{b}))^{-1}$</li>
+</ul>
+<h2 id="TH"><a href="#TH" class="headerlink" title="TH"></a>TH</h2><p>$$<br>max(a,b) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(a,b)<br>$$<br>We can prove it as below:</p>
+<h3 id="geometry-prove-1"><a href="#geometry-prove-1" class="headerlink" title="geometry prove 1"></a>geometry prove 1</h3><img src="/2022/11/01/Pythagorean%20Means/1.png" class="">
+
+<ul>
+<li>$max(a,b) \ge QM&#x2F;RMS$: use angle</li>
+<li>$QM&#x2F;RMS \ge AM$: obviously</li>
+<li>$AM \ge GM$: obviously</li>
+<li>$GM \ge HM$: obviously</li>
+<li>$HM \ge min(a,b)$: think about their dual length, i.e.: $AM-HM$ and $AM-min(a,b)$</li>
+</ul>
+<h3 id="geometry-prove-2"><a href="#geometry-prove-2" class="headerlink" title="geometry prove 2"></a>geometry prove 2</h3><img src="/2022/11/01/Pythagorean%20Means/2.png" class="">
+
+<ul>
+<li>similar to geometry prove 1</li>
+</ul>
+<h1 id="more-than-2D"><a href="#more-than-2D" class="headerlink" title="more than 2D"></a>more than 2D</h1><h2 id="definition-1"><a href="#definition-1" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{n}(x_1^2+x_2^2+…+x_n^2)} &#x3D; \sqrt{&lt;X^2&gt;} &#x3D; &lt;X^2&gt;^{\frac{1}{2}}$</li>
+<li>arithmetic mean :&#x3D; $\frac{x_1+x_2+…+x_n}{n} &#x3D; <X> &#x3D; &lt;X^1&gt;^1$</li>
+<li>geometric mean :&#x3D; $\sqrt{x_1x_2…x_n}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{n}(\frac{1}{x_1}+\frac{1}{x_2}+…+\frac{1}{x_n}))^{-1} &#x3D; &lt;\frac{1}{X}&gt;^{-1} &#x3D; &lt;X^{-1}&gt;^{-1}$</li>
+</ul>
+<h2 id="TH-1"><a href="#TH-1" class="headerlink" title="TH"></a>TH</h2><p>We still have<br>$$<br>max(x_1,x_2,…,x_n) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(x_1,x_2,…,x_n)<br>$$<br>The prove is omitted</p>
+<h1 id="generalization"><a href="#generalization" class="headerlink" title="generalization"></a>generalization</h1><p>$Hölder \ mean :&#x3D; &lt;X^p&gt;^{\frac{1}{p}}$</p>
+<ul>
+<li>We can prove that $\displaystyle \lim_{p \to 0} Hölder \ mean &#x3D; GM$</li>
+<li>We can prove that $p \nearrow \Rightarrow Hölder \ mean \nearrow $</li>
+</ul>
+<p>By the way, We can call Hölder mean  “1&#x2F;p-mean-p” in analogy of “root-mean-square”</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
+        <tag>geometry</tag>
       </tags>
   </entry>
   <entry>
@@ -681,50 +728,17 @@
       </tags>
   </entry>
   <entry>
-    <title>Pythagorean Means</title>
-    <url>/2022/11/01/Pythagorean%20Means/</url>
-    <content><![CDATA[<h1 id="2D"><a href="#2D" class="headerlink" title="2D"></a>2D</h1><h2 id="definition"><a href="#definition" class="headerlink" title="definition"></a>definition</h2><ul>
-<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{2}(a^2+b^2)}$</li>
-<li>arithmetic mean :&#x3D; $\frac{a+b}{2}$</li>
-<li>geometric mean :&#x3D; $\sqrt{ab}$</li>
-<li>harmonic mean :&#x3D; $(\frac{1}{2}(\frac{1}{a}+\frac{1}{b}))^{-1}$</li>
-</ul>
-<h2 id="TH"><a href="#TH" class="headerlink" title="TH"></a>TH</h2><p>$$<br>max(a,b) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(a,b)<br>$$<br>We can prove it as below:</p>
-<h3 id="geometry-prove-1"><a href="#geometry-prove-1" class="headerlink" title="geometry prove 1"></a>geometry prove 1</h3><img src="/2022/11/01/Pythagorean%20Means/1.png" class="">
-
-<ul>
-<li>$max(a,b) \ge QM&#x2F;RMS$: use angle</li>
-<li>$QM&#x2F;RMS \ge AM$: obviously</li>
-<li>$AM \ge GM$: obviously</li>
-<li>$GM \ge HM$: obviously</li>
-<li>$HM \ge min(a,b)$: think about their dual length, i.e.: $AM-HM$ and $AM-min(a,b)$</li>
-</ul>
-<h3 id="geometry-prove-2"><a href="#geometry-prove-2" class="headerlink" title="geometry prove 2"></a>geometry prove 2</h3><img src="/2022/11/01/Pythagorean%20Means/2.png" class="">
-
-<ul>
-<li>similar to geometry prove 1</li>
-</ul>
-<h1 id="more-than-2D"><a href="#more-than-2D" class="headerlink" title="more than 2D"></a>more than 2D</h1><h2 id="definition-1"><a href="#definition-1" class="headerlink" title="definition"></a>definition</h2><ul>
-<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{n}(x_1^2+x_2^2+…+x_n^2)} &#x3D; \sqrt{&lt;X^2&gt;} &#x3D; &lt;X^2&gt;^{\frac{1}{2}}$</li>
-<li>arithmetic mean :&#x3D; $\frac{x_1+x_2+…+x_n}{n} &#x3D; <X> &#x3D; &lt;X^1&gt;^1$</li>
-<li>geometric mean :&#x3D; $\sqrt{x_1x_2…x_n}$</li>
-<li>harmonic mean :&#x3D; $(\frac{1}{n}(\frac{1}{x_1}+\frac{1}{x_2}+…+\frac{1}{x_n}))^{-1} &#x3D; &lt;\frac{1}{X}&gt;^{-1} &#x3D; &lt;X^{-1}&gt;^{-1}$</li>
-</ul>
-<h2 id="TH-1"><a href="#TH-1" class="headerlink" title="TH"></a>TH</h2><p>We still have<br>$$<br>max(x_1,x_2,…,x_n) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(x_1,x_2,…,x_n)<br>$$<br>The prove is omitted</p>
-<h1 id="generalization"><a href="#generalization" class="headerlink" title="generalization"></a>generalization</h1><p>$Hölder \ mean :&#x3D; &lt;X^p&gt;^{\frac{1}{p}}$</p>
-<ul>
-<li>We can prove that $\displaystyle \lim_{p \to 0} Hölder \ mean &#x3D; GM$</li>
-<li>We can prove that $p \nearrow \Rightarrow Hölder \ mean \nearrow $</li>
-</ul>
-<p>By the way, We can call Hölder mean  “1&#x2F;p-mean-p” in analogy of “root-mean-square”</p>
+    <title>THINK</title>
+    <url>/2021/01/18/THINK/</url>
+    <content><![CDATA[<p>刚才在<a href="https://en.wikipedia.org/wiki/Think_(slogan)">Wikipedia上看到IBM创始人在讨论think</a>：他说我们大多数人失败在了think上，因为think的确是很艰难的。</p>
+<p>我突然想到，现在大多数科研工作者似乎也是在机械地重复一些事情，并没有think。</p>
+<p>机械地重复一些事情，就好像小学生算了100道17x18，初中生解了100个一元二次方程，高中生算了100次椭圆和直线的交点。大多数小初高学生并没有think。</p>
 ]]></content>
       <categories>
         <category>science</category>
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>math</tag>
-        <tag>geometry</tag>
       </tags>
   </entry>
   <entry>
@@ -753,20 +767,6 @@
         <tag>anti illegal pornography</tag>
         <tag>capitalism</tag>
         <tag>raised on porn</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>THINK</title>
-    <url>/2021/01/18/THINK/</url>
-    <content><![CDATA[<p>刚才在<a href="https://en.wikipedia.org/wiki/Think_(slogan)">Wikipedia上看到IBM创始人在讨论think</a>：他说我们大多数人失败在了think上，因为think的确是很艰难的。</p>
-<p>我突然想到，现在大多数科研工作者似乎也是在机械地重复一些事情，并没有think。</p>
-<p>机械地重复一些事情，就好像小学生算了100道17x18，初中生解了100个一元二次方程，高中生算了100次椭圆和直线的交点。大多数小初高学生并没有think。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -1009,6 +1009,48 @@
       </tags>
   </entry>
   <entry>
+    <title>What does the asterisk mean?</title>
+    <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>romance</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Welcome to Wenlab</title>
     <url>/2023/03/01/Welcome%20to%20Wenlab/</url>
     <content><![CDATA[<h1 id="What-do-we-pursuit"><a href="#What-do-we-pursuit" class="headerlink" title="What do we pursuit?"></a>What do we pursuit?</h1><p>我们希望用数学物理的手段去研究、理解生物的神经系统。</p>
@@ -1059,48 +1101,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What does the asterisk mean?</title>
-    <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>love</tag>
-        <tag>math</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>When I was a primary school student</title>
     <url>/2022/10/09/When%20I%20was%20a%20primary%20school%20student/</url>
     <content><![CDATA[<p>——2022-10-09——</p>
@@ -1127,6 +1127,44 @@
       </tags>
   </entry>
   <entry>
+    <title>一教下方发现金矿后第二天</title>
+    <url>/2019/04/02/%E4%B8%80%E6%95%99%E4%B8%8B%E6%96%B9%E5%8F%91%E7%8E%B0%E9%87%91%E7%9F%BF%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<p>今天我看到潘建伟在一教门口边打电话边来回踱步，估计是在摇人抢金矿吧！</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一剪梅·国庆</title>
+    <url>/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/</url>
+    <content><![CDATA[<p>斜雨寒风踽踽行，天上无晴，心上无情。</p>
+<p>含风携雨过悬铃，湖上孤亭，水上飘萍。</p>
+<p>落叶萧萧薄暮瞑，桌上冰冰，椅上冰冰。</p>
+<p>闲敲键鼠筑模型，思上澄明，纸上流明。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>七绝·新冠</title>
+    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
+    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
+<p>我为少壮无何惧，只恐潘杨难过关。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>with Xuanhao</title>
     <url>/2022/08/10/with%20Xuanhao/</url>
     <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
@@ -1147,35 +1185,10 @@
       </tags>
   </entry>
   <entry>
-    <title>一剪梅·国庆</title>
-    <url>/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/</url>
-    <content><![CDATA[<p>斜雨寒风踽踽行，天上无晴，心上无情。</p>
-<p>含风携雨过悬铃，湖上孤亭，水上飘萍。</p>
-<p>落叶萧萧薄暮瞑，桌上冰冰，椅上冰冰。</p>
-<p>闲敲键鼠筑模型，思上澄明，纸上流明。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一教下方发现金矿后第二天</title>
-    <url>/2019/04/02/%E4%B8%80%E6%95%99%E4%B8%8B%E6%96%B9%E5%8F%91%E7%8E%B0%E9%87%91%E7%9F%BF%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<p>今天我看到潘建伟在一教门口边打电话边来回踱步，估计是在摇人抢金矿吧！</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>七绝·新冠</title>
-    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
-    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
-<p>我为少壮无何惧，只恐潘杨难过关。</p>
+    <title>七绝·黄山</title>
+    <url>/2023/04/01/%E4%B8%83%E7%BB%9D%C2%B7%E9%BB%84%E5%B1%B1/</url>
+    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
+<p>好水好山虽逸乐，难以新游忘故人。</p>
 ]]></content>
       <categories>
         <category>poem</category>
@@ -1206,19 +1219,6 @@
         <tag>biology</tag>
         <tag>medicine</tag>
         <tag>psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>七绝·黄山</title>
-    <url>/2023/04/01/%E4%B8%83%E7%BB%9D%C2%B7%E9%BB%84%E5%B1%B1/</url>
-    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
-<p>好水好山虽逸乐，难以新游忘故人。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -1289,22 +1289,6 @@
       </tags>
   </entry>
   <entry>
-    <title>上海三日游</title>
-    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
-    <content><![CDATA[<p>高光时刻：</p>
-<p>沪苏锡常观光高铁。</p>
-<p>松江大森林。</p>
-<p>上外西餐厅。</p>
-<p>复旦光华楼。</p>
-<p>嘉定摸黑路。</p>
-<p>同济高尔夫。</p>
-<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
-]]></content>
-      <tags>
-        <tag>travel</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上海某所</title>
     <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
     <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
@@ -1353,6 +1337,22 @@
         <tag>capitalism</tag>
         <tag>scientific misconduct</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上海三日游</title>
+    <url>/2019/10/03/%E4%B8%8A%E6%B5%B7%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
+    <content><![CDATA[<p>高光时刻：</p>
+<p>沪苏锡常观光高铁。</p>
+<p>松江大森林。</p>
+<p>上外西餐厅。</p>
+<p>复旦光华楼。</p>
+<p>嘉定摸黑路。</p>
+<p>同济高尔夫。</p>
+<p>感慨：我以后再也不去科大一教、二教、三教自习了。桌椅窄成那样，被上外同济复旦完爆，想不驼背都难。</p>
+]]></content>
+      <tags>
+        <tag>travel</tag>
       </tags>
   </entry>
   <entry>
@@ -1435,6 +1435,42 @@
       </tags>
   </entry>
   <entry>
+    <title>二项分布——泊松分布——泊松过程</title>
+    <url>/2021/02/01/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/</url>
+    <content><![CDATA[<p>科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。</p>
+<ul>
+<li>高中水平：我们只能求出1天之中总共有多少人去面包店买面包。</li>
+<li>概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。</li>
+<li>随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。</li>
+</ul>
+<p>当然了，要想算这个，我们需要一些假设。</p>
+<ul>
+<li>高中水平时需要的假设<ul>
+<li>独立假设：假设每个人的选择互不影响。</li>
+<li>同分布假设：假设每个人去面包店买面包的概率全都为p，不去面包店买面包的概率全都为1-p</li>
+</ul>
+</li>
+<li>概率论水平需要的假设<ul>
+<li>独立假设：同上</li>
+<li>同分布假设：同上</li>
+<li>设总人数为n，n较大，p较小，np适中（用数学家的话说，$ n \to \infty, \ p \to 0, np &#x3D; Const$ ）</li>
+</ul>
+</li>
+<li>随机过程水平需要的假设<ul>
+<li>Markov Property：假设到店人数的增长只和当前状态有关，和过去状态无关。</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>statistics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>为什么我如此恨学术造假？</title>
     <url>/2022/07/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%A6%82%E6%AD%A4%E6%81%A8%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="选择与染色"><a href="#选择与染色" class="headerlink" title="选择与染色"></a>选择与染色</h1><p>有一个著名的游戏，The Walking Dead，中文叫行尸走肉，是根据同名漫画改编的。同时还有一部著名的美剧也叫The Walking Dead，也是根据该漫画改编的。</p>
@@ -1486,42 +1522,6 @@
       </tags>
   </entry>
   <entry>
-    <title>二项分布——泊松分布——泊松过程</title>
-    <url>/2021/02/01/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E5%88%86%E5%B8%83%E2%80%94%E2%80%94%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/</url>
-    <content><![CDATA[<p>科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。</p>
-<ul>
-<li>高中水平：我们只能求出1天之中总共有多少人去面包店买面包。</li>
-<li>概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。</li>
-<li>随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。</li>
-</ul>
-<p>当然了，要想算这个，我们需要一些假设。</p>
-<ul>
-<li>高中水平时需要的假设<ul>
-<li>独立假设：假设每个人的选择互不影响。</li>
-<li>同分布假设：假设每个人去面包店买面包的概率全都为p，不去面包店买面包的概率全都为1-p</li>
-</ul>
-</li>
-<li>概率论水平需要的假设<ul>
-<li>独立假设：同上</li>
-<li>同分布假设：同上</li>
-<li>设总人数为n，n较大，p较小，np适中（用数学家的话说，$ n \to \infty, \ p \to 0, np &#x3D; Const$ ）</li>
-</ul>
-</li>
-<li>随机过程水平需要的假设<ul>
-<li>Markov Property：假设到店人数的增长只和当前状态有关，和过去状态无关。</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>statistics</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>人生第一次在现场听科学家的讲座</title>
     <url>/2018/08/24/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%90%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%AE%B2%E5%BA%A7/</url>
     <content><![CDATA[<p>Whispering Gallery Micro-cavities<br>parity<br>symmetric<br>photonic<br>revival<br>coalesce coalition<br>chiral<br>lasing<br>resonator resonant</p>
@@ -1559,36 +1559,6 @@
       <tags>
         <tag>nationalism</tag>
         <tag>war</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用Hexo + Next + GitHub Pages搭建个人网站</title>
-    <url>/2023/09/03/%E4%BD%BF%E7%94%A8Hexo%20+%20Next%20+%20GitHub%20Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<h1 id="迅速上手"><a href="#迅速上手" class="headerlink" title="迅速上手"></a>迅速上手</h1><p>先跟着<a href="https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.337.search-card.all.click&vd_source=7f7311e573a7f2a9bab48f7645a4e660">这个视频</a>迅速走一遍完整流程。</p>
-<p>绝大多数问题在两个官方帮助手册里可以找到答案：</p>
-<ul>
-<li><a href="https://hexo.io/docs/">Hexo Official Help</a></li>
-<li><a href="https://theme-next.js.org/">Next Official Help</a></li>
-</ul>
-<p>从0开始GitHub Pages请看<a href="https://www.youtube.com/watch?v=o5g-lUuFgpg&t=0s">这个视频</a></p>
-<p>最后来<a href="http://yearito.cn/posts/hexo-theme-beautify.html">美化一下页面</a>！</p>
-<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>第一步，你需要生成一个网站</p>
-<ul>
-<li>Hexo是用来生成静态网站的软件。类似的软件还有Jekyll, Hugo。</li>
-<li>Next是Hexo下的一个主题。Hexo下有<a href="https://hexo.io/themes/">几百个主题</a>。</li>
-</ul>
-<p>第二步，你需要把你的网站连入互联网</p>
-<ul>
-<li>GitHub Pages是由GitHub推出的一个免费的静态网站托管平台（你可以理解成它可以提供一个免费域名）。类似的平台还有Gitee Pages。若你想要自己给自己网站取名字，可以去GoDaddy等网站购买。</li>
-</ul>
-<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总体而言，只要稍微会一点命令行操作，就可以用Hexo + Next + GitHub Pages搭建个人网站啦！</p>
-<p>我觉得我妈她老人家都可以搞定，只要她愿意。</p>
-]]></content>
-      <categories>
-        <category>tools</category>
-      </categories>
-      <tags>
-        <tag>tools</tag>
       </tags>
   </entry>
   <entry>
@@ -1685,6 +1655,36 @@
       </tags>
   </entry>
   <entry>
+    <title>使用Hexo + Next + GitHub Pages搭建个人网站</title>
+    <url>/2023/09/03/%E4%BD%BF%E7%94%A8Hexo%20+%20Next%20+%20GitHub%20Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h1 id="迅速上手"><a href="#迅速上手" class="headerlink" title="迅速上手"></a>迅速上手</h1><p>先跟着<a href="https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.337.search-card.all.click&vd_source=7f7311e573a7f2a9bab48f7645a4e660">这个视频</a>迅速走一遍完整流程。</p>
+<p>绝大多数问题在两个官方帮助手册里可以找到答案：</p>
+<ul>
+<li><a href="https://hexo.io/docs/">Hexo Official Help</a></li>
+<li><a href="https://theme-next.js.org/">Next Official Help</a></li>
+</ul>
+<p>从0开始GitHub Pages请看<a href="https://www.youtube.com/watch?v=o5g-lUuFgpg&t=0s">这个视频</a></p>
+<p>最后来<a href="http://yearito.cn/posts/hexo-theme-beautify.html">美化一下页面</a>！</p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>第一步，你需要生成一个网站</p>
+<ul>
+<li>Hexo是用来生成静态网站的软件。类似的软件还有Jekyll, Hugo。</li>
+<li>Next是Hexo下的一个主题。Hexo下有<a href="https://hexo.io/themes/">几百个主题</a>。</li>
+</ul>
+<p>第二步，你需要把你的网站连入互联网</p>
+<ul>
+<li>GitHub Pages是由GitHub推出的一个免费的静态网站托管平台（你可以理解成它可以提供一个免费域名）。类似的平台还有Gitee Pages。若你想要自己给自己网站取名字，可以去GoDaddy等网站购买。</li>
+</ul>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总体而言，只要稍微会一点命令行操作，就可以用Hexo + Next + GitHub Pages搭建个人网站啦！</p>
+<p>我觉得我妈她老人家都可以搞定，只要她愿意。</p>
+]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>剑桥晶体学数据库被污染事件_马督工</title>
     <url>/2022/11/14/%E5%89%91%E6%A1%A5%E6%99%B6%E4%BD%93%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A2%AB%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6_%E9%A9%AC%E7%9D%A3%E5%B7%A5/</url>
     <content><![CDATA[<p>Producer: 马督工</p>
@@ -1728,17 +1728,6 @@
       </tags>
   </entry>
   <entry>
-    <title>反派杀好人前为什么总要废话一阵？</title>
-    <url>/2018/10/16/%E5%8F%8D%E6%B4%BE%E6%9D%80%E5%A5%BD%E4%BA%BA%E5%89%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A6%81%E5%BA%9F%E8%AF%9D%E4%B8%80%E9%98%B5%EF%BC%9F/</url>
-    <content><![CDATA[<p>在过去的十几年里，我总是不明白，在书影音里，为什么反派杀掉好人前总要废话一阵，而不是直接杀。这种情况下，反派多数被反杀，少数也让好人溜掉，没能干掉好人。</p>
-<p>现在我终于用类比的方法想明白了。</p>
-<p>现在的我就是反派，作业和预习就是好人。</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>受重伤</title>
     <url>/2021/11/01/%E5%8F%97%E9%87%8D%E4%BC%A4/</url>
     <content><![CDATA[<p>我现在有点理解那些受重伤的运动员了，罗斯啊，丁彦雨航啊。</p>
@@ -1751,6 +1740,17 @@
       </categories>
       <tags>
         <tag>injury</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>反派杀好人前为什么总要废话一阵？</title>
+    <url>/2018/10/16/%E5%8F%8D%E6%B4%BE%E6%9D%80%E5%A5%BD%E4%BA%BA%E5%89%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A6%81%E5%BA%9F%E8%AF%9D%E4%B8%80%E9%98%B5%EF%BC%9F/</url>
+    <content><![CDATA[<p>在过去的十几年里，我总是不明白，在书影音里，为什么反派杀掉好人前总要废话一阵，而不是直接杀。这种情况下，反派多数被反杀，少数也让好人溜掉，没能干掉好人。</p>
+<p>现在我终于用类比的方法想明白了。</p>
+<p>现在的我就是反派，作业和预习就是好人。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -1782,8 +1782,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>teaching</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -1812,6 +1812,57 @@
       <tags>
         <tag>basketball</tag>
         <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>噩梦 学术造假 大物实验</title>
+    <url>/2022/07/26/%E5%99%A9%E6%A2%A6%20%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%20%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/</url>
+    <content><![CDATA[<h1 id="噩梦"><a href="#噩梦" class="headerlink" title="噩梦"></a>噩梦</h1><p>昨天夜里（2022&#x2F;07&#x2F;25-2022&#x2F;07&#x2F;26），我做了一个噩梦。我梦见我的实验室的伙伴指责我，你为什么要学术造假，你害得我们浪费了整整一年时间。</p>
+<p>我惊醒，此时天已经亮了。</p>
+<p>我从没有学术造假，为什么会做这样的噩梦？</p>
+<h1 id="学术造假"><a href="#学术造假" class="headerlink" title="学术造假"></a>学术造假</h1><p>暂且不管这个问题，我来写一下我对学术造假的理解。</p>
+<p>我所熟悉的学术造假，按照严重性从高到底，可以分成4类</p>
+<ul>
+<li>数据造假</li>
+<li>数据挑选</li>
+<li>p-hacking</li>
+<li>灌水</li>
+</ul>
+<p>其它的学术造假，比如图片拼接、图片PS，可以对号入座。<strong>图片拼接、图片PS大约和数据造假是同等严重的。</strong></p>
+<p>我本来在这4类后面都打了例子，但是我想了想删去了，主要是因为有的人的学术造假我没有仔细看，不太确定。我不想对我不懂的东西随便发表意见。</p>
+<h1 id="大物实验"><a href="#大物实验" class="headerlink" title="大物实验"></a>大物实验</h1><p>在科研中，这4类我都没有做过。</p>
+<p>但是在大学物理实验中，我没有这么干净。</p>
+<p>我总共做过5级大物实验、1级生物物理实验、1级电路实验，每级会持续一个学期。</p>
+<p>在3年间，我大概做过2-3次数据造假，4-5次数据挑选，主要是在1级大物和2级大物，其它的实验我不记得我曾经学术造假。</p>
+<p>我从来没有做过p-hacking，因为科大的大物实验太拉跨，压根不要求我们做统计学分析。如果大物实验要求做统计学分析，我猜我可能去p-hacking。</p>
+<p>灌水的话，我曾经多次有意<strong>隐藏</strong>不符合预期的数据、图片（不是删去，否则就是数据挑选了），展示符合预期的数据、图片。</p>
+<p>我突然想起当年明月在《明朝那些事儿》里对洪承畴的评价。崇祯十三年，洪承畴在关外被皇太极包围，然后被活捉。随后清军派各种人来劝降。洪一开始不为所动。崇祯听说了很感动，于是在北京举行国葬。国葬到一半，使者来传信，洪承畴叛变。</p>
+<p>小学时，第一次看到这里，我以为当年明月会骂洪承畴，但是他写：我可以理解洪的选择，但我不赞同。</p>
+<p>多年以来我一直不理解这句话，洪背叛国家和民族，有什么可为他维护的。不赞同他，为什么还要理解他？</p>
+<p>现在我即将研一了。在目睹了、经历了社会的种种之后，现在我稍微有点同意这句话了。</p>
+<p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
+<p>为什么学术造假这么多？因为认认真真做实验可能需要<strong>1年</strong>时间，而数据造假只需要<strong>10秒</strong>，数据挑选只需要<strong>10分钟</strong>。</p>
+<p>而且现在学术界压力极大。没有论文，就不能博士毕业。没有论文，就不能拿经费、拿职位。</p>
+<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，你真的还能坚守内心吗？</p>
+<p>为什么生物领域的学术造假比物理领域多？因为生物层次较高、自由度较高、复杂度较高、影响因素较多而物理层次较低、自由地较低、复杂度较低、影响因素较少。生物领域的一个人做数据造假或者数据挑选，日后如果被其他人发现无法重复他的实验，他有很多理由可以当挡箭牌。物理领域没有这么多挡箭牌。</p>
+<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，同时你还清清楚楚地知道即使你造假也几乎不会被发现，即使被发现也还有挡箭牌，你真的还能坚守内心吗？</p>
+<p>为什么我在大物实验里会数据造假&#x2F;数据挑选？因为我如果重做需要多花4个小时，而我当时又有繁重的其它课程，而数据造假只需要10秒，数据挑选只需要10分钟。</p>
+<p>但是大物实验里的学术造假和科研实验里的学术造假当然有所不同。我曾说，我恨学术造假，有两个原因：一是会让其它实验室误以为你的结果是真的，浪费n年时间；二是科学追求的是客观真理，而你用学术造假得到的东西显然不是客观真理。</p>
+<p>大物实验至少肯定不涉及第一个原因。</p>
+<p>但是造假总归是不对的。<strong>我承认我做错了</strong>。如果再让我去做大物实验，我<strong>要么重做，要么直接写收数据时候出现的问题</strong>，而不会去数据造假&#x2F;数据挑选。</p>
+<h1 id="心安"><a href="#心安" class="headerlink" title="心安"></a>心安</h1><p>其实，我厌恶学术造假，还有第三个原因。那就是学术造假会让我感到<strong>惶惶不安</strong>。</p>
+<p>从学术造假中，我只能学到如何改数据以及如何掩饰自己的数据修改，只能学到如何更好更快地挑数据以及如何掩饰自己的数据挑选，学不到半点知识。</p>
+<p>最近一次小讨论，我偶然间发现我连error bar都没有完全搞清楚。如果当初我做大物实验时没有糊弄，把心思放在学知识上而不是改数据&#x2F;挑数据上，我现在也不至于连error bar都还没搞清楚。</p>
+<p>人活在世上，无非就是图一个心安。</p>
+<h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
+<p>我宁可离开学术界，也绝对不会学术造假。</p>
+<p>不是为了别人，而是为了当初那个热爱求知、热爱追寻、热爱科学、热爱客观真理的自己。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -1910,48 +1961,9 @@
       </tags>
   </entry>
   <entry>
-    <title>噩梦 学术造假 大物实验</title>
-    <url>/2022/07/26/%E5%99%A9%E6%A2%A6%20%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%20%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/</url>
-    <content><![CDATA[<h1 id="噩梦"><a href="#噩梦" class="headerlink" title="噩梦"></a>噩梦</h1><p>昨天夜里（2022&#x2F;07&#x2F;25-2022&#x2F;07&#x2F;26），我做了一个噩梦。我梦见我的实验室的伙伴指责我，你为什么要学术造假，你害得我们浪费了整整一年时间。</p>
-<p>我惊醒，此时天已经亮了。</p>
-<p>我从没有学术造假，为什么会做这样的噩梦？</p>
-<h1 id="学术造假"><a href="#学术造假" class="headerlink" title="学术造假"></a>学术造假</h1><p>暂且不管这个问题，我来写一下我对学术造假的理解。</p>
-<p>我所熟悉的学术造假，按照严重性从高到底，可以分成4类</p>
-<ul>
-<li>数据造假</li>
-<li>数据挑选</li>
-<li>p-hacking</li>
-<li>灌水</li>
-</ul>
-<p>其它的学术造假，比如图片拼接、图片PS，可以对号入座。<strong>图片拼接、图片PS大约和数据造假是同等严重的。</strong></p>
-<p>我本来在这4类后面都打了例子，但是我想了想删去了，主要是因为有的人的学术造假我没有仔细看，不太确定。我不想对我不懂的东西随便发表意见。</p>
-<h1 id="大物实验"><a href="#大物实验" class="headerlink" title="大物实验"></a>大物实验</h1><p>在科研中，这4类我都没有做过。</p>
-<p>但是在大学物理实验中，我没有这么干净。</p>
-<p>我总共做过5级大物实验、1级生物物理实验、1级电路实验，每级会持续一个学期。</p>
-<p>在3年间，我大概做过2-3次数据造假，4-5次数据挑选，主要是在1级大物和2级大物，其它的实验我不记得我曾经学术造假。</p>
-<p>我从来没有做过p-hacking，因为科大的大物实验太拉跨，压根不要求我们做统计学分析。如果大物实验要求做统计学分析，我猜我可能去p-hacking。</p>
-<p>灌水的话，我曾经多次有意<strong>隐藏</strong>不符合预期的数据、图片（不是删去，否则就是数据挑选了），展示符合预期的数据、图片。</p>
-<p>我突然想起当年明月在《明朝那些事儿》里对洪承畴的评价。崇祯十三年，洪承畴在关外被皇太极包围，然后被活捉。随后清军派各种人来劝降。洪一开始不为所动。崇祯听说了很感动，于是在北京举行国葬。国葬到一半，使者来传信，洪承畴叛变。</p>
-<p>小学时，第一次看到这里，我以为当年明月会骂洪承畴，但是他写：我可以理解洪的选择，但我不赞同。</p>
-<p>多年以来我一直不理解这句话，洪背叛国家和民族，有什么可为他维护的。不赞同他，为什么还要理解他？</p>
-<p>现在我即将研一了。在目睹了、经历了社会的种种之后，现在我稍微有点同意这句话了。</p>
-<p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
-<p>为什么学术造假这么多？因为认认真真做实验可能需要<strong>1年</strong>时间，而数据造假只需要<strong>10秒</strong>，数据挑选只需要<strong>10分钟</strong>。</p>
-<p>而且现在学术界压力极大。没有论文，就不能博士毕业。没有论文，就不能拿经费、拿职位。</p>
-<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，你真的还能坚守内心吗？</p>
-<p>为什么生物领域的学术造假比物理领域多？因为生物层次较高、自由度较高、复杂度较高、影响因素较多而物理层次较低、自由地较低、复杂度较低、影响因素较少。生物领域的一个人做数据造假或者数据挑选，日后如果被其他人发现无法重复他的实验，他有很多理由可以当挡箭牌。物理领域没有这么多挡箭牌。</p>
-<p>当你为工资、为毕业、为经费、为职位发愁时，面对造假的巨大时间差带来的巨大诱惑，同时你还清清楚楚地知道即使你造假也几乎不会被发现，即使被发现也还有挡箭牌，你真的还能坚守内心吗？</p>
-<p>为什么我在大物实验里会数据造假&#x2F;数据挑选？因为我如果重做需要多花4个小时，而我当时又有繁重的其它课程，而数据造假只需要10秒，数据挑选只需要10分钟。</p>
-<p>但是大物实验里的学术造假和科研实验里的学术造假当然有所不同。我曾说，我恨学术造假，有两个原因：一是会让其它实验室误以为你的结果是真的，浪费n年时间；二是科学追求的是客观真理，而你用学术造假得到的东西显然不是客观真理。</p>
-<p>大物实验至少肯定不涉及第一个原因。</p>
-<p>但是造假总归是不对的。<strong>我承认我做错了</strong>。如果再让我去做大物实验，我<strong>要么重做，要么直接写收数据时候出现的问题</strong>，而不会去数据造假&#x2F;数据挑选。</p>
-<h1 id="心安"><a href="#心安" class="headerlink" title="心安"></a>心安</h1><p>其实，我厌恶学术造假，还有第三个原因。那就是学术造假会让我感到<strong>惶惶不安</strong>。</p>
-<p>从学术造假中，我只能学到如何改数据以及如何掩饰自己的数据修改，只能学到如何更好更快地挑数据以及如何掩饰自己的数据挑选，学不到半点知识。</p>
-<p>最近一次小讨论，我偶然间发现我连error bar都没有完全搞清楚。如果当初我做大物实验时没有糊弄，把心思放在学知识上而不是改数据&#x2F;挑数据上，我现在也不至于连error bar都还没搞清楚。</p>
-<p>人活在世上，无非就是图一个心安。</p>
-<h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>我可以理解部分科研工作者选择学术造假，但我不赞同。</p>
-<p>我宁可离开学术界，也绝对不会学术造假。</p>
-<p>不是为了别人，而是为了当初那个热爱求知、热爱追寻、热爱科学、热爱客观真理的自己。</p>
+    <title>图片误用</title>
+    <url>/2021/01/21/%E5%9B%BE%E7%89%87%E8%AF%AF%E7%94%A8/</url>
+    <content><![CDATA[<p>不要B脸。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -1961,9 +1973,12 @@
       </tags>
   </entry>
   <entry>
-    <title>图片误用</title>
-    <url>/2021/01/21/%E5%9B%BE%E7%89%87%E8%AF%AF%E7%94%A8/</url>
-    <content><![CDATA[<p>不要B脸。</p>
+    <title>在清华生院2022年毕业典礼上的讲话_王志珍</title>
+    <url>/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/</url>
+    <content><![CDATA[<blockquote>
+<p>最后顺便提一句，last, but not least，最最起码的，千万不能搞什么“图片误用”！</p>
+</blockquote>
+<p><a href="http://zhishifenzi.com/news/multiple/12423.html">全文</a>。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -2014,21 +2029,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在清华生院2022年毕业典礼上的讲话_王志珍</title>
-    <url>/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/</url>
-    <content><![CDATA[<blockquote>
-<p>最后顺便提一句，last, but not least，最最起码的，千万不能搞什么“图片误用”！</p>
-</blockquote>
-<p><a href="http://zhishifenzi.com/news/multiple/12423.html">全文</a>。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何防范造假和灌水？</title>
     <url>/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/</url>
     <content><![CDATA[<p>对个人而言，有以下几种方法</p>
@@ -2057,6 +2057,20 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>徐州八孩事件</title>
+    <url>/2022/05/01/%E5%BE%90%E5%B7%9E%E5%85%AB%E5%AD%A9%E4%BA%8B%E4%BB%B6/</url>
+    <content><![CDATA[<p>我突然明白过来——这是中国的sex trafficking。</p>
+]]></content>
+      <categories>
+        <category>capitalism</category>
+        <category>sex trafficking</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>sex trafficking</tag>
       </tags>
   </entry>
   <entry>
@@ -2142,66 +2156,6 @@
         <tag>nationalism</tag>
         <tag>war</tag>
         <tag>history</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>徐州八孩事件</title>
-    <url>/2022/05/01/%E5%BE%90%E5%B7%9E%E5%85%AB%E5%AD%A9%E4%BA%8B%E4%BB%B6/</url>
-    <content><![CDATA[<p>我突然明白过来——这是中国的sex trafficking。</p>
-]]></content>
-      <categories>
-        <category>capitalism</category>
-        <category>sex trafficking</category>
-      </categories>
-      <tags>
-        <tag>capitalism</tag>
-        <tag>sex trafficking</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>批评科大的卖弱</title>
-    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
-    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
-<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
-<p>连一个字都不能信。</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学，为了人类心智的荣耀</title>
-    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
-    <content><![CDATA[<blockquote>
-<p>雅可比：数学是为了应用</p>
-<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
-</blockquote>
-<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
-<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
-<p>我：数论从公元前几百年到1900年，都没有应用。</p>
-<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
-<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>无题</title>
-    <url>/2022/09/23/%E6%97%A0%E9%A2%98/</url>
-    <content><![CDATA[<p>灰雀声声秋日落，晚风似有红纱色。</p>
-<p>我为四载庐州客，多少蓬莱烟霭过。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2296,6 +2250,39 @@
       </tags>
   </entry>
   <entry>
+    <title>数学，为了人类心智的荣耀</title>
+    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
+    <content><![CDATA[<blockquote>
+<p>雅可比：数学是为了应用</p>
+<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
+</blockquote>
+<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
+<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
+<p>我：数论从公元前几百年到1900年，都没有应用。</p>
+<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
+<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>批评科大的卖弱</title>
+    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
+    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
+<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
+<p>连一个字都不能信。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>星星意味着什么？</title>
     <url>/2022/12/18/%E6%98%9F%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
@@ -2331,10 +2318,23 @@
       <tags>
         <tag>romance</tag>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>love</tag>
+        <tag>physics</tag>
         <tag>math</tag>
         <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无题</title>
+    <url>/2022/09/23/%E6%97%A0%E9%A2%98/</url>
+    <content><![CDATA[<p>灰雀声声秋日落，晚风似有红纱色。</p>
+<p>我为四载庐州客，多少蓬莱烟霭过。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2480,6 +2480,33 @@
       </tags>
   </entry>
   <entry>
+    <title>理想气体的分子在永不停息地做无规则运动</title>
+    <url>/2021/06/01/%E7%90%86%E6%83%B3%E6%B0%94%E4%BD%93%E7%9A%84%E5%88%86%E5%AD%90%E5%9C%A8%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%81%AF%E5%9C%B0%E5%81%9A%E6%97%A0%E8%A7%84%E5%88%99%E8%BF%90%E5%8A%A8/</url>
+    <content><![CDATA[<ul>
+<li>初中<ul>
+<li>理想气体的分子在永不停息地做无规则运动</li>
+</ul>
+</li>
+<li>大一<ul>
+<li>速度大小是高斯分布</li>
+<li>速度方向是各向同性</li>
+</ul>
+</li>
+<li>大三<ul>
+<li>我能用统计物理中的等概率原理推出上一段话</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -2552,33 +2579,6 @@
       </tags>
   </entry>
   <entry>
-    <title>理想气体的分子在永不停息地做无规则运动</title>
-    <url>/2021/06/01/%E7%90%86%E6%83%B3%E6%B0%94%E4%BD%93%E7%9A%84%E5%88%86%E5%AD%90%E5%9C%A8%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%81%AF%E5%9C%B0%E5%81%9A%E6%97%A0%E8%A7%84%E5%88%99%E8%BF%90%E5%8A%A8/</url>
-    <content><![CDATA[<ul>
-<li>初中<ul>
-<li>理想气体的分子在永不停息地做无规则运动</li>
-</ul>
-</li>
-<li>大一<ul>
-<li>速度大小是高斯分布</li>
-<li>速度方向是各向同性</li>
-</ul>
-</li>
-<li>大三<ul>
-<li>我能用统计物理中的等概率原理推出上一段话</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是灌水</title>
     <url>/2022/09/09/%E7%94%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%AF%9D%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E7%81%8C%E6%B0%B4/</url>
     <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
@@ -2591,21 +2591,6 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2667,6 +2652,21 @@
       </tags>
   </entry>
   <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>磁</title>
     <url>/2021/06/01/%E7%A3%81/</url>
     <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
@@ -2680,6 +2680,37 @@
       <tags>
         <tag>science</tag>
         <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>科学界视角下的社会主义</title>
+    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
+    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
+<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
+<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
+<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
+<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
+<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
+<p>但我的内心的天平已经向社会主义倾斜。</p>
+<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
+<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
+<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
+<p>而人类的发展显然是科学界推动的，那也就是说…</p>
+<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
+<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
+<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
+<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
+<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
+<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>socialism</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>socialism</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -2719,37 +2750,6 @@
       </tags>
   </entry>
   <entry>
-    <title>科学界视角下的社会主义</title>
-    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
-    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
-<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
-<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
-<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
-<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
-<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
-<p>但我的内心的天平已经向社会主义倾斜。</p>
-<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
-<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
-<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
-<p>而人类的发展显然是科学界推动的，那也就是说…</p>
-<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
-<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
-<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
-<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
-<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
-<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>socialism</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>socialism</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《秦妇吟》的失传和复得</title>
     <url>/2022/10/25/%E7%A7%A6%E5%A6%87%E5%90%9F%E7%9A%84%E5%A4%B1%E4%BC%A0%E5%92%8C%E5%A4%8D%E5%BE%97/</url>
     <content><![CDATA[<h1 id="秦妇吟的失传和复得"><a href="#秦妇吟的失传和复得" class="headerlink" title="秦妇吟的失传和复得"></a>秦妇吟的失传和复得</h1><p>韦庄，生于公元836年，死于公元910年。</p>
@@ -2775,6 +2775,22 @@
       <tags>
         <tag>war</tag>
         <tag>history</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>苏牙自传</title>
+    <url>/2020/07/26/%E8%8B%8F%E7%89%99%E8%87%AA%E4%BC%A0/</url>
+    <content><![CDATA[<blockquote>
+<p>当你还是一个青少年的时候，你仅仅是一个孩子，你并不知道其实你已经站在人生的十字路口了。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>biography</category>
+        <category>soccer</category>
+      </categories>
+      <tags>
+        <tag>biography</tag>
+        <tag>soccer</tag>
       </tags>
   </entry>
   <entry>
@@ -2804,22 +2820,6 @@
         <tag>science</tag>
         <tag>physics</tag>
         <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>苏牙自传</title>
-    <url>/2020/07/26/%E8%8B%8F%E7%89%99%E8%87%AA%E4%BC%A0/</url>
-    <content><![CDATA[<blockquote>
-<p>当你还是一个青少年的时候，你仅仅是一个孩子，你并不知道其实你已经站在人生的十字路口了。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>biography</category>
-        <category>soccer</category>
-      </categories>
-      <tags>
-        <tag>biography</tag>
-        <tag>soccer</tag>
       </tags>
   </entry>
   <entry>
@@ -2904,74 +2904,43 @@
       </tags>
   </entry>
   <entry>
-    <title>诺贝尔奖？fMRI不配！</title>
-    <url>/2022/09/30/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%EF%BC%9FfMRI%E4%B8%8D%E9%85%8D%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
-<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
-<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
-<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
-<p>fMRI有如下特点</p>
+    <title>金属阳离子淹没在自由电子的海洋里</title>
+    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
+    <content><![CDATA[<ul>
+<li><p>高中：Drude model </p>
 <ul>
-<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
-<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
-<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
+<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
+<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
+<li>热运动速率~10^5m&#x2F;s</li>
+<li>定向运动建立的速率&#x3D;c（c为光速）</li>
 </ul>
-<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
+</li>
+<li><p>大一：Drude model </p>
 <ul>
-<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
-<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
+<li>我在电磁学里又学了一遍上一段话。</li>
 </ul>
-<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
-<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
-<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
+</li>
+<li><p>大三：</p>
+<ul>
+<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
+<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>有一次，我和固体物理老师聊天。</p>
+<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
+<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
+<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
 ]]></content>
       <categories>
-        <category>scientific misconduct</category>
+        <category>science</category>
+        <category>teaching</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>边线talk</title>
-    <url>/2023/05/30/%E8%BE%B9%E7%BA%BFtalk/</url>
-    <content><![CDATA[<p>第一集 西热力江、林葳</p>
-<p>西热谈到自己第一次打cba，在替补席上看到外援绝杀，教练问，这个球如果我让你上，你紧不紧张。</p>
-<p>西热：不紧张。</p>
-<p>教练：好好训练。</p>
-<p>西热评林葳：他将来一定是现役nba球员</p>
-<p>西热：我如果早两年拿到去美国试训的机会，这个东西无论如何我也要一定一定抓住。</p>
-<p>西热：看笑话针对我个人，别牵连其他人。</p>
-<hr>
-<p>第二集 孙悦、曾凡博</p>
-<p>孙悦说自己当年试训时候打爆了首轮秀。但是他还是没能在首轮被选中。毕竟其他人的大学阶段都是一步一步上来的，他没有这些稳定的过去供参考。</p>
-<hr>
-<p>第三集 不是很喜欢</p>
-<hr>
-<p>第四集</p>
-<p>阿布和孙铭徽回忆2019年世界杯，他俩心里倒是已经放下了。</p>
-<p>主持人告诉两人要保持热爱、保持快乐，这是cba最缺少的东西。</p>
-<hr>
-<p>第五集</p>
-<p>新疆队的两个外援，一个来自美国，一个来自塞内加尔。</p>
-<p>俩人认为中国球员缺少对篮球的快乐、热爱、灵气，因为从小被管得太严了，篮球队像军队一样。PJ认为只有郭艾伦才有灵气。</p>
-<p>俩人对比了一下NBA和CBA的训练，<strong>NBA的训练分两拨，上场时间长的球员主要做康复训练，上场时间短的球员练得多一些，但是也不如中国多。</strong>区别是，CBA是教练逼着你练，NBA是靠自觉。区别是，NBA的竞争更激烈些，不练就会丢掉工作。</p>
-<p>CBA要不要扩大外援数量？这是一个很复杂的问题。扩大了也许会好也许会不好。可以试试看。</p>
-<p>中国篮球怎么才能变得更好？更自由、更浪漫的篮球教学。</p>
-<p>中国有哪些有潜力的球员？俩人回答当然有，王哲林、齐麟都是。</p>
-<hr>
-<p>第六集、第七集：不喜欢，没看完</p>
-<hr>
-<p>总得来说这是一个非常不错的节目，让我了解了篮球的另一面，也让我思考篮球界和学术界的一些异同。</p>
-<p>我了解到了阿布和孙铭徽是怎么看2019世界杯的。</p>
-<p>我了解到西热的狂、林葳的谦逊。</p>
-<p>我了解到了热爱、快乐、自由、浪漫的重要。</p>
-]]></content>
-      <categories>
-        <category>basketball</category>
-      </categories>
-      <tags>
-        <tag>basketball</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
@@ -3077,112 +3046,68 @@
       </tags>
   </entry>
   <entry>
-    <title>金属阳离子淹没在自由电子的海洋里</title>
-    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
-    <content><![CDATA[<ul>
-<li><p>高中：Drude model </p>
-<ul>
-<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
-<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
-<li>热运动速率~10^5m&#x2F;s</li>
-<li>定向运动建立的速率&#x3D;c（c为光速）</li>
-</ul>
-</li>
-<li><p>大一：Drude model </p>
-<ul>
-<li>我在电磁学里又学了一遍上一段话。</li>
-</ul>
-</li>
-<li><p>大三：</p>
-<ul>
-<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
-<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
-</ul>
-</li>
-</ul>
+    <title>边线talk</title>
+    <url>/2023/05/30/%E8%BE%B9%E7%BA%BFtalk/</url>
+    <content><![CDATA[<p>第一集 西热力江、林葳</p>
+<p>西热谈到自己第一次打cba，在替补席上看到外援绝杀，教练问，这个球如果我让你上，你紧不紧张。</p>
+<p>西热：不紧张。</p>
+<p>教练：好好训练。</p>
+<p>西热评林葳：他将来一定是现役nba球员</p>
+<p>西热：我如果早两年拿到去美国试训的机会，这个东西无论如何我也要一定一定抓住。</p>
+<p>西热：看笑话针对我个人，别牵连其他人。</p>
 <hr>
-<p>有一次，我和固体物理老师聊天。</p>
-<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
-<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
-<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
+<p>第二集 孙悦、曾凡博</p>
+<p>孙悦说自己当年试训时候打爆了首轮秀。但是他还是没能在首轮被选中。毕竟其他人的大学阶段都是一步一步上来的，他没有这些稳定的过去供参考。</p>
+<hr>
+<p>第三集 不是很喜欢</p>
+<hr>
+<p>第四集</p>
+<p>阿布和孙铭徽回忆2019年世界杯，他俩心里倒是已经放下了。</p>
+<p>主持人告诉两人要保持热爱、保持快乐，这是cba最缺少的东西。</p>
+<hr>
+<p>第五集</p>
+<p>新疆队的两个外援，一个来自美国，一个来自塞内加尔。</p>
+<p>俩人认为中国球员缺少对篮球的快乐、热爱、灵气，因为从小被管得太严了，篮球队像军队一样。PJ认为只有郭艾伦才有灵气。</p>
+<p>俩人对比了一下NBA和CBA的训练，<strong>NBA的训练分两拨，上场时间长的球员主要做康复训练，上场时间短的球员练得多一些，但是也不如中国多。</strong>区别是，CBA是教练逼着你练，NBA是靠自觉。区别是，NBA的竞争更激烈些，不练就会丢掉工作。</p>
+<p>CBA要不要扩大外援数量？这是一个很复杂的问题。扩大了也许会好也许会不好。可以试试看。</p>
+<p>中国篮球怎么才能变得更好？更自由、更浪漫的篮球教学。</p>
+<p>中国有哪些有潜力的球员？俩人回答当然有，王哲林、齐麟都是。</p>
+<hr>
+<p>第六集、第七集：不喜欢，没看完</p>
+<hr>
+<p>总得来说这是一个非常不错的节目，让我了解了篮球的另一面，也让我思考篮球界和学术界的一些异同。</p>
+<p>我了解到了阿布和孙铭徽是怎么看2019世界杯的。</p>
+<p>我了解到西热的狂、林葳的谦逊。</p>
+<p>我了解到了热爱、快乐、自由、浪漫的重要。</p>
 ]]></content>
       <categories>
-        <category>science</category>
-        <category>teaching</category>
+        <category>basketball</category>
       </categories>
       <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>senior high school</tag>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
-    <title>院士</title>
-    <url>/2021/10/01/%E9%99%A2%E5%A3%AB/</url>
-    <content><![CDATA[<h1 id="从我和C哥的一个玩笑说起"><a href="#从我和C哥的一个玩笑说起" class="headerlink" title="从我和C哥的一个玩笑说起"></a>从我和C哥的一个玩笑说起</h1><p>2021年的一天下午，我回到寝室，舍友C在。</p>
-<p>我：C哥，今天我突然想起了一件陈年往事。</p>
-<p>C：哦？</p>
-<p>我：那还是2012年下半年，我刚上初中。我和几个初中新认识的同学聊天，其中一个女生说，她小学时候当课代表，帮老师收作业，有的时候，她的好朋友没写作业，就会来跟她说，你可不可以不告诉老师。这个时候她就会很难办。</p>
-<p>我：如果是你，你会怎么做？</p>
-<p>C：这个嘛…</p>
-<p>我：今天我看到一个新闻，2021年的院士增选要开始了。</p>
-<p>我：你应该知道，新院士的提名者必须是院士。</p>
-<p>我：你说，院士选新院士的时候，是选他觉得厉害的呢，还是选和他关系好的呢？</p>
-<p>C：草。</p>
-<p>我和C哥都笑了，因为我们用屁股想也知道这个问题的答案。</p>
-<hr>
-<p>过去的我以为，院士都是郭永怀（为国尽忠只在今日）、赵忠尧（放弃优渥毅然回国）、严济慈（二战英雄国士无双）、钱临照（钟情科大不离不弃）这样的人。</p>
-<p>就算不拘泥于国别，至少也应该是狂热地追求科学的人。</p>
-<p>从有记忆开始，一直到2020年夏天，我都这么认为。</p>
-<p>现在的我发现，选院士、选长江、选杰青，很多时候，<strong>不是比谁学术更厉害，而是比谁更擅长拉关系、比谁更擅长酒桌文化、比谁更擅长饮食社交</strong>。</p>
-<p>去他妈的。</p>
-<p>院士这词，在我心里已经具有一些贬义。</p>
-<p>最后我说一句非常<strong>定量</strong>的话：<strong>中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</strong></p>
-<h1 id="院士和图片误用事件"><a href="#院士和图片误用事件" class="headerlink" title="院士和图片误用事件"></a>院士和图片误用事件</h1><p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.96.14.7922">1999年，裴钢院士的文章。</a></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S2589004220308622">2020年，张曙光“声援”裴钢的文章。</a></p>
-<p><a href="https://www.zhihu.com/question/440634424">对以上两篇文章比较科普性的解释。</a></p>
-<p>然而，中科院的生物领域的院士，<strong>没有一个站出来为真理说话，没有一个站出来为科学说话</strong>。</p>
-<p>他们全都因为权力、关系而保持沉默。</p>
-<p>在真理、科学和权力、关系中，他们选择了后者。</p>
-<p>他们都学过细胞生物学、生物化学、分子生物学，以他们的实力，完全能看懂这两篇文章。</p>
-<p>我不知道他们是否做过学术造假，但我知道他们至少是学术造假的<strong>默许者、纵容者、冷眼旁观者</strong>。</p>
-<p>钟南山院士是图片误用事件的总负责人，他就是那个最大的默许者、纵容者、冷眼旁观者，<strong>这是他永远洗刷不掉的污点</strong>。</p>
-<p>因此我说：中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</p>
-<p>至少生物领域的院士如此。</p>
-<h1 id="杨振宁对院士选新院士的看法"><a href="#杨振宁对院士选新院士的看法" class="headerlink" title="杨振宁对院士选新院士的看法"></a>杨振宁对院士选新院士的看法</h1><p>——2023-08-29 更新——</p>
-<p>最近读了杨振宁的《晨曦集》，在<a href="http://news.sohu.com/20111028/n323748764.shtml">一篇文章</a>中，记者问他如何看待2011年饶毅落选院士。</p>
-<p>杨：在中国，一个人是否能被选为院士，70%靠此人的拉关系，30%靠此人的学术能力；在美国，一个人是否能被选为院士，30%靠此人的拉关系，70%靠此人的学术能力。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔两则：剧本杀</title>
-    <url>/2022/07/20/%E9%9A%8F%E7%AC%94%E4%B8%A4%E5%88%99%EF%BC%9A%E5%89%A7%E6%9C%AC%E6%9D%80/</url>
-    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
-<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
-<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
-<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
-<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
-<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
-<p>许多天之后我和B谈起这事。</p>
-<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
-<p>B：…</p>
-<p>B：不是还有轩哥鞭策我吗？</p>
-<p>我：我们又不会一直在一起。</p>
-<p>B：擦，怎么突然gay起来了。</p>
-<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
-<p>因为他不管你是谁，只管你说的对不对。</p>
-<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
-<p>我在想，有没有人愿意当“生物学的良心”。</p>
-<p>不管你是谁，只管你有没有学术造假。</p>
-<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
-<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
-<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
+    <title>诺贝尔奖？fMRI不配！</title>
+    <url>/2022/09/30/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%EF%BC%9FfMRI%E4%B8%8D%E9%85%8D%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
+<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
+<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
+<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
+<p>fMRI有如下特点</p>
+<ul>
+<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
+<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
+<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
+</ul>
+<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
+<ul>
+<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
+<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
+</ul>
+<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
+<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
+<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -3283,6 +3208,37 @@
       </tags>
   </entry>
   <entry>
+    <title>随笔两则：剧本杀</title>
+    <url>/2022/07/20/%E9%9A%8F%E7%AC%94%E4%B8%A4%E5%88%99%EF%BC%9A%E5%89%A7%E6%9C%AC%E6%9D%80/</url>
+    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
+<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
+<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
+<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
+<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
+<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
+<p>许多天之后我和B谈起这事。</p>
+<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
+<p>B：…</p>
+<p>B：不是还有轩哥鞭策我吗？</p>
+<p>我：我们又不会一直在一起。</p>
+<p>B：擦，怎么突然gay起来了。</p>
+<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
+<p>因为他不管你是谁，只管你说的对不对。</p>
+<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
+<p>我在想，有没有人愿意当“生物学的良心”。</p>
+<p>不管你是谁，只管你有没有学术造假。</p>
+<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
+<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
+<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>颜宁回国</title>
     <url>/2022/11/01/%E9%A2%9C%E5%AE%81%E5%9B%9E%E5%9B%BD/</url>
     <content><![CDATA[<p>11月1日，看到新闻，颜宁宣布自己将全职回国，在深圳建立一个新单位——深圳医学研究院。</p>
@@ -3312,24 +3268,6 @@
 <p>我们年轻而狂热，我们冲动而激情。</p>
 <p>另外，我们的数理基础肯定比这五位好。</p>
 <p>我相信我们中间一定有人能做出比肩蒲饶的成就。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>饶毅2011年落选院士后所写的文章</title>
-    <url>/2022/11/20/%E9%A5%B6%E6%AF%852011%E5%B9%B4%E8%90%BD%E9%80%89%E9%99%A2%E5%A3%AB%E5%90%8E%E6%89%80%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>饶毅的观点</p>
-<ul>
-<li>施一公的论文个数比当选者加起来还多，因此施一公应该当选。</li>
-<li>韩家淮科研很厉害且为人低调，但他也没当选，因此当院士和低调高调关系小，而和拉关系关系大。</li>
-<li>中国科学院生命学部比数学物理学部、化学部更不清明。</li>
-<li>王中林当选化学部外籍院士是清明的体现。（2022年初，王中林因为“拓展麦克斯韦方程组”搞了个大笑话）</li>
-</ul>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
@@ -3370,6 +3308,68 @@
       <tags>
         <tag>science</tag>
         <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>饶毅2011年落选院士后所写的文章</title>
+    <url>/2022/11/20/%E9%A5%B6%E6%AF%852011%E5%B9%B4%E8%90%BD%E9%80%89%E9%99%A2%E5%A3%AB%E5%90%8E%E6%89%80%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>饶毅的观点</p>
+<ul>
+<li>施一公的论文个数比当选者加起来还多，因此施一公应该当选。</li>
+<li>韩家淮科研很厉害且为人低调，但他也没当选，因此当院士和低调高调关系小，而和拉关系关系大。</li>
+<li>中国科学院生命学部比数学物理学部、化学部更不清明。</li>
+<li>王中林当选化学部外籍院士是清明的体现。（2022年初，王中林因为“拓展麦克斯韦方程组”搞了个大笑话）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>院士</title>
+    <url>/2021/10/01/%E9%99%A2%E5%A3%AB/</url>
+    <content><![CDATA[<h1 id="从我和C哥的一个玩笑说起"><a href="#从我和C哥的一个玩笑说起" class="headerlink" title="从我和C哥的一个玩笑说起"></a>从我和C哥的一个玩笑说起</h1><p>2021年的一天下午，我回到寝室，舍友C在。</p>
+<p>我：C哥，今天我突然想起了一件陈年往事。</p>
+<p>C：哦？</p>
+<p>我：那还是2012年下半年，我刚上初中。我和几个初中新认识的同学聊天，其中一个女生说，她小学时候当课代表，帮老师收作业，有的时候，她的好朋友没写作业，就会来跟她说，你可不可以不告诉老师。这个时候她就会很难办。</p>
+<p>我：如果是你，你会怎么做？</p>
+<p>C：这个嘛…</p>
+<p>我：今天我看到一个新闻，2021年的院士增选要开始了。</p>
+<p>我：你应该知道，新院士的提名者必须是院士。</p>
+<p>我：你说，院士选新院士的时候，是选他觉得厉害的呢，还是选和他关系好的呢？</p>
+<p>C：草。</p>
+<p>我和C哥都笑了，因为我们用屁股想也知道这个问题的答案。</p>
+<hr>
+<p>过去的我以为，院士都是郭永怀（为国尽忠只在今日）、赵忠尧（放弃优渥毅然回国）、严济慈（二战英雄国士无双）、钱临照（钟情科大不离不弃）这样的人。</p>
+<p>就算不拘泥于国别，至少也应该是狂热地追求科学的人。</p>
+<p>从有记忆开始，一直到2020年夏天，我都这么认为。</p>
+<p>现在的我发现，选院士、选长江、选杰青，很多时候，<strong>不是比谁学术更厉害，而是比谁更擅长拉关系、比谁更擅长酒桌文化、比谁更擅长饮食社交</strong>。</p>
+<p>去他妈的。</p>
+<p>院士这词，在我心里已经具有一些贬义。</p>
+<p>最后我说一句非常<strong>定量</strong>的话：<strong>中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</strong></p>
+<h1 id="院士和图片误用事件"><a href="#院士和图片误用事件" class="headerlink" title="院士和图片误用事件"></a>院士和图片误用事件</h1><p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.96.14.7922">1999年，裴钢院士的文章。</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S2589004220308622">2020年，张曙光“声援”裴钢的文章。</a></p>
+<p><a href="https://www.zhihu.com/question/440634424">对以上两篇文章比较科普性的解释。</a></p>
+<p>然而，中科院的生物领域的院士，<strong>没有一个站出来为真理说话，没有一个站出来为科学说话</strong>。</p>
+<p>他们全都因为权力、关系而保持沉默。</p>
+<p>在真理、科学和权力、关系中，他们选择了后者。</p>
+<p>他们都学过细胞生物学、生物化学、分子生物学，以他们的实力，完全能看懂这两篇文章。</p>
+<p>我不知道他们是否做过学术造假，但我知道他们至少是学术造假的<strong>默许者、纵容者、冷眼旁观者</strong>。</p>
+<p>钟南山院士是图片误用事件的总负责人，他就是那个最大的默许者、纵容者、冷眼旁观者，<strong>这是他永远洗刷不掉的污点</strong>。</p>
+<p>因此我说：中国科学院一日不重新调查图片误用事件，院士这词一日在我心中具有贬义。</p>
+<p>至少生物领域的院士如此。</p>
+<h1 id="杨振宁对院士选新院士的看法"><a href="#杨振宁对院士选新院士的看法" class="headerlink" title="杨振宁对院士选新院士的看法"></a>杨振宁对院士选新院士的看法</h1><p>——2023-08-29 更新——</p>
+<p>最近读了杨振宁的《晨曦集》，在<a href="http://news.sohu.com/20111028/n323748764.shtml">一篇文章</a>中，记者问他如何看待2011年饶毅落选院士。</p>
+<p>杨：在中国，一个人是否能被选为院士，70%靠此人的拉关系，30%靠此人的学术能力；在美国，一个人是否能被选为院士，30%靠此人的拉关系，70%靠此人的学术能力。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
