@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://physics-lee.github.io/test.html</loc>
+    <loc>https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/</loc>
     
     <lastmod>2023-09-05</lastmod>
     
@@ -83,16 +83,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2023/09/03/%E4%BD%BF%E7%94%A8Hexo%20+%20Next%20+%20GitHub%20Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</loc>
-    
-    <lastmod>2023-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2022/04/10/Hold%20Big%20Tech%20and%20Big%20Porn%20Accountable/</loc>
+    <loc>https://physics-lee.github.io/2022/04/10/Hold-Big-Tech-and-Big-Porn-Accountable/</loc>
     
     <lastmod>2023-09-03</lastmod>
     
@@ -1073,6 +1064,20 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/tags/physics/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/cook/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/tags/teaching/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1101,14 +1106,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/physics/</loc>
-    <lastmod>2023-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/cook/</loc>
+    <loc>https://physics-lee.github.io/tags/AI/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1116,13 +1114,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/scientific-misconduct/</loc>
-    <lastmod>2023-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/AI/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1137,6 +1128,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/war/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/tools/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1178,13 +1176,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/tools/</loc>
-    <lastmod>2023-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/math/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1192,14 +1183,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/geometry/</loc>
+    <loc>https://physics-lee.github.io/tags/fun/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/fun/</loc>
+    <loc>https://physics-lee.github.io/tags/geometry/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1234,14 +1225,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/sex-trafficking/</loc>
+    <loc>https://physics-lee.github.io/tags/USTC/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/USTC/</loc>
+    <loc>https://physics-lee.github.io/tags/sex-trafficking/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1383,14 +1374,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/teaching/</loc>
+    <loc>https://physics-lee.github.io/categories/socialism/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/socialism/</loc>
+    <loc>https://physics-lee.github.io/categories/teaching/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1405,6 +1396,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/biography/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/tools/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1426,13 +1424,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/video-game/</loc>
-    <lastmod>2023-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/tools/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
