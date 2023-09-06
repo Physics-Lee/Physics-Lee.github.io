@@ -115,9 +115,9 @@ https://physics-lee.github.io/tags/romance/
 https://physics-lee.github.io/tags/science/
 https://physics-lee.github.io/tags/socialism/
 https://physics-lee.github.io/tags/running/
-https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/anti-illegal-pornography/
 https://physics-lee.github.io/tags/capitalism/
+https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/physics/
 https://physics-lee.github.io/tags/cook/
 https://physics-lee.github.io/tags/teaching/
@@ -129,8 +129,8 @@ https://physics-lee.github.io/tags/AI/
 https://physics-lee.github.io/tags/biography/
 https://physics-lee.github.io/tags/war/
 https://physics-lee.github.io/tags/tools/
-https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/biology/
+https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/video-game/
 https://physics-lee.github.io/tags/Life-Is-Strange/
 https://physics-lee.github.io/tags/family/
@@ -145,8 +145,8 @@ https://physics-lee.github.io/tags/sex-trafficking/
 https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/medicine/
 https://physics-lee.github.io/tags/psychology/
-https://physics-lee.github.io/tags/social/
 https://physics-lee.github.io/tags/travel/
+https://physics-lee.github.io/tags/social/
 https://physics-lee.github.io/tags/sports-science/
 https://physics-lee.github.io/tags/injury/
 https://physics-lee.github.io/tags/movie/
@@ -165,12 +165,12 @@ https://physics-lee.github.io/categories/nationalism/
 https://physics-lee.github.io/categories/socialism/
 https://physics-lee.github.io/categories/scientific-misconduct/
 https://physics-lee.github.io/categories/teaching/
+https://physics-lee.github.io/categories/capitalism/
 https://physics-lee.github.io/categories/biography/
 https://physics-lee.github.io/categories/tools/
-https://physics-lee.github.io/categories/capitalism/
 https://physics-lee.github.io/categories/raised-on-porn/
-https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/running/
+https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/poem/
 https://physics-lee.github.io/categories/sex-trafficking/
 https://physics-lee.github.io/categories/injury/
