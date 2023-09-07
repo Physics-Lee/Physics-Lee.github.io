@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/</loc>
+    <loc>https://physics-lee.github.io/2023/09/03/indecision/</loc>
     
     <lastmod>2023-09-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2023/09/03/indecision/</loc>
+    <loc>https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/</loc>
     
     <lastmod>2023-09-07</lastmod>
     
@@ -1124,14 +1124,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/scientific-misconduct/</loc>
+    <loc>https://physics-lee.github.io/tags/AI/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/AI/</loc>
+    <loc>https://physics-lee.github.io/tags/scientific-misconduct/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1145,14 +1145,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/war/</loc>
+    <loc>https://physics-lee.github.io/tags/tools/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/tools/</loc>
+    <loc>https://physics-lee.github.io/tags/war/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1236,6 +1236,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/tags/USTC/</loc>
+    <lastmod>2023-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/tags/poem/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1244,13 +1251,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/translation/</loc>
-    <lastmod>2023-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/USTC/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1292,13 +1292,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/sports-science/</loc>
-    <lastmod>2023-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/injury/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1306,7 +1299,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/history/</loc>
+    <loc>https://physics-lee.github.io/tags/sports-science/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1314,6 +1307,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/chaos/</loc>
+    <lastmod>2023-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/history/</loc>
     <lastmod>2023-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
