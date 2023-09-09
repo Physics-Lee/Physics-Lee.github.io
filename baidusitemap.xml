@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/</loc>
+    <lastmod>2023-09-09</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2023/09/03/indecision/</loc>
     <lastmod>2023-09-07</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>https://physics-lee.github.io/2022/09/23/%E6%97%A0%E9%A2%98/</loc>
     <lastmod>2023-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/</loc>
-    <lastmod>2023-09-05</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/</loc>
