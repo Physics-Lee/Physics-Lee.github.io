@@ -470,23 +470,6 @@
       </tags>
   </entry>
   <entry>
-    <title>It is time for Twitter to choose_Exodus Cry</title>
-    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
-    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2021-10-23</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-]]></content>
-      <categories>
-        <category>capitalism</category>
-        <category>raised on porn</category>
-      </categories>
-      <tags>
-        <tag>capitalism</tag>
-        <tag>raised on porn</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Life Is Strange</title>
     <url>/2023/08/24/Life%20Is%20Strange/</url>
     <content><![CDATA[<h1 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h1><p>游戏性太差了，有很多很蛋疼的任务（去寝室就不能让我直接去吗，上阁楼就不能让我直接上吗），远远没有打僵尸和打架有意思。</p>
@@ -502,6 +485,23 @@
         <tag>video game</tag>
         <tag>Life Is Strange</tag>
         <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>It is time for Twitter to choose_Exodus Cry</title>
+    <url>/2022/04/10/It%20is%20time%20for%20Twitter%20to%20choose/</url>
+    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2021-10-23</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUrqGYJZ3H4?si=6y0omrr_xy48yrPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+]]></content>
+      <categories>
+        <category>capitalism</category>
+        <category>raised on porn</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>raised on porn</tag>
       </tags>
   </entry>
   <entry>
@@ -1088,6 +1088,48 @@
       </tags>
   </entry>
   <entry>
+    <title>What does the asterisk mean?</title>
+    <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>romance</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>love</tag>
+        <tag>math</tag>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Welcome to Wenlab</title>
     <url>/2023/03/01/Welcome%20to%20Wenlab/</url>
     <content><![CDATA[<h1 id="What-do-we-pursuit"><a href="#What-do-we-pursuit" class="headerlink" title="What do we pursuit?"></a>What do we pursuit?</h1><p>我们希望用数学物理的手段去研究、理解生物的神经系统。</p>
@@ -1138,70 +1180,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What does the asterisk mean?</title>
-    <url>/2022/12/18/What%20does%20the%20asterisk%20mean/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>love</tag>
-        <tag>math</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>优柔寡断</title>
-    <url>/2023/09/03/indecision/</url>
-    <content><![CDATA[<p>优柔寡断，洒脱假里。</p>
-<p>萦怀绕抱，遗思憾缕。</p>
-<p>今夜悄然，月冷星黯。</p>
-<p>长路漫漫，唯剑作伴。</p>
-<p>志在四方，情长何须？</p>
-<p>东风万里，不问归期。</p>
-<p>想得不得，割舍何时？</p>
-<p>子在川上，逝者如斯。</p>
-<hr>
-<p>Acknowledgement:</p>
-<p>This poem is inspired by GPT-4 and <a href="https://c6.y.qq.com/base/fcgi-bin/u?__=QjOvaOC">this song</a>.</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>When I was a primary school student</title>
     <url>/2022/10/09/When%20I%20was%20a%20primary%20school%20student/</url>
     <content><![CDATA[<p>——2022-10-09——</p>
@@ -1225,6 +1203,28 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>优柔寡断</title>
+    <url>/2023/09/03/indecision/</url>
+    <content><![CDATA[<p>优柔寡断，洒脱假里。</p>
+<p>萦怀绕抱，遗思憾缕。</p>
+<p>今夜悄然，月冷星黯。</p>
+<p>长路漫漫，唯剑作伴。</p>
+<p>志在四方，情长何须？</p>
+<p>东风万里，不问归期。</p>
+<p>想得不得，割舍何时？</p>
+<p>子在川上，逝者如斯。</p>
+<hr>
+<p>Acknowledgement:</p>
+<p>This poem is inspired by GPT-4 and <a href="https://c6.y.qq.com/base/fcgi-bin/u?__=QjOvaOC">this song</a>.</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -1457,22 +1457,6 @@
       </tags>
   </entry>
   <entry>
-    <title>世界很大，不要藏着掖着</title>
-    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
-    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>teaching</tag>
-        <tag>USTC</tag>
-        <tag>social</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>中国 vs 南苏丹</title>
     <url>/2023/08/28/%E4%B8%AD%E5%9B%BD-vs-%E5%8D%97%E8%8B%8F%E4%B8%B9/</url>
     <content><![CDATA[<h1 id="惨败"><a href="#惨败" class="headerlink" title="惨败"></a>惨败</h1><p>中国队惨败20分之后，我很不爽。</p>
@@ -1533,6 +1517,22 @@
         <tag>science</tag>
         <tag>physics</tag>
         <tag>statistics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>世界很大，不要藏着掖着</title>
+    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
+    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>teaching</tag>
+        <tag>USTC</tag>
+        <tag>social</tag>
       </tags>
   </entry>
   <entry>
@@ -2242,6 +2242,27 @@
       </tags>
   </entry>
   <entry>
+    <title>数学，为了人类心智的荣耀</title>
+    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
+    <content><![CDATA[<blockquote>
+<p>雅可比：数学是为了应用</p>
+<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
+</blockquote>
+<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
+<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
+<p>我：数论从公元前几百年到1900年，都没有应用。</p>
+<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
+<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>日暮聊为秦妇吟</title>
     <url>/2022/10/25/%E6%97%A5%E6%9A%AE%E8%81%8A%E4%B8%BA%E7%A7%A6%E5%A6%87%E5%90%9F/</url>
     <content><![CDATA[<p>李唐的诸位昏君仍然可以入祠庙，黄巢千年之后仍然受到赞赏。既然如此，日暮时分我也要向韦庄学学如何写《秦妇吟》。</p>
@@ -2346,6 +2367,22 @@
       </tags>
   </entry>
   <entry>
+    <title>智者不入爱河</title>
+    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
+    <content><![CDATA[<p>智者不入爱河。</p>
+<p>寡王一路硕博。</p>
+<p>建设美丽中国。</p>
+<hr>
+<p>Sages never consider no love a pity.</p>
+<p>King of single dogs only cares about PhD.</p>
+<p>Together we will build a more beautiful society.</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>translation</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>星星意味着什么？</title>
     <url>/2022/12/18/%E6%98%9F%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
@@ -2385,43 +2422,6 @@
         <tag>love</tag>
         <tag>math</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>智者不入爱河</title>
-    <url>/2022/08/12/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3/</url>
-    <content><![CDATA[<p>智者不入爱河。</p>
-<p>寡王一路硕博。</p>
-<p>建设美丽中国。</p>
-<hr>
-<p>Sages never consider no love a pity.</p>
-<p>King of single dogs only cares about PhD.</p>
-<p>Together we will build a more beautiful society.</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学，为了人类心智的荣耀</title>
-    <url>/2022/11/01/%E6%95%B0%E5%AD%A6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BA%BA%E7%B1%BB%E5%BF%83%E6%99%BA%E7%9A%84%E8%8D%A3%E8%80%80/</url>
-    <content><![CDATA[<blockquote>
-<p>雅可比：数学是为了应用</p>
-<p>让·迪厄多内：数学是为了人类心智的荣耀</p>
-</blockquote>
-<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
-<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
-<p>我：数论从公元前几百年到1900年，都没有应用。</p>
-<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
-<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -2498,6 +2498,31 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪，那时候满街都是文盲。</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/%E9%B8%A6%E7%89%87%E7%A4%BC%E4%BB%AA.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>biography</category>
+        <category>drug</category>
+      </categories>
+      <tags>
+        <tag>biography</tag>
+        <tag>history</tag>
+        <tag>drug</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E3%80%81%E9%82%93%E7%A8%BC%E5%85%88%E3%80%81%E5%AF%92%E6%98%A5%20(Joan%20Hinton)/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -2523,31 +2548,6 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>history</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪，那时候满街都是文盲。</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/%E9%B8%A6%E7%89%87%E7%A4%BC%E4%BB%AA.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BF%86%E9%B8%A6%E7%89%87/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>biography</category>
-        <category>drug</category>
-      </categories>
-      <tags>
-        <tag>biography</tag>
-        <tag>history</tag>
-        <tag>drug</tag>
       </tags>
   </entry>
   <entry>
@@ -2754,6 +2754,37 @@
       </tags>
   </entry>
   <entry>
+    <title>科学界视角下的社会主义</title>
+    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
+    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
+<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
+<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
+<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
+<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
+<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
+<p>但我的内心的天平已经向社会主义倾斜。</p>
+<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
+<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
+<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
+<p>而人类的发展显然是科学界推动的，那也就是说…</p>
+<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
+<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
+<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
+<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
+<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
+<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>socialism</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>socialism</tag>
+        <tag>family</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>科学史相关</title>
     <url>/2023/03/01/%E7%A7%91%E5%AD%A6%E5%8F%B2%E7%9B%B8%E5%85%B3/</url>
     <content><![CDATA[<h1 id="2018-10-见潘建伟"><a href="#2018-10-见潘建伟" class="headerlink" title="2018-10 见潘建伟"></a>2018-10 见潘建伟</h1><p>我：您刚才说您对科学技术史也比较感兴趣？我有个比较简单的问题想问您。</p>
@@ -2787,37 +2818,6 @@
       </categories>
       <tags>
         <tag>history of science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科学界视角下的社会主义</title>
-    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
-    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
-<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
-<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
-<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
-<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
-<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
-<p>但我的内心的天平已经向社会主义倾斜。</p>
-<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
-<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
-<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
-<p>而人类的发展显然是科学界推动的，那也就是说…</p>
-<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
-<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
-<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
-<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
-<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
-<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>socialism</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>socialism</tag>
-        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -2932,19 +2932,6 @@
       </tags>
   </entry>
   <entry>
-    <title>讲课和听课</title>
-    <url>/2020/10/10/%E8%AE%B2%E8%AF%BE%E5%92%8C%E5%90%AC%E8%AF%BE/</url>
-    <content><![CDATA[<p>老师上课有点像<strong>表演</strong>，要假装自己也不会，然后把自己全都会的东西有逻辑地教给学生。</p>
-<p>听课也像艺术，现在时代变了，我不必再像小初高一样只会用纸笔记笔记。iPad手写、电脑思维导图、拍视频都是可以选择的方式，你也可以穿插着用防止疲劳、提供新鲜感。纸笔是最朴素的，也是你我最熟悉的，但是不一定是对你我最高效的。</p>
-]]></content>
-      <categories>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>teaching</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>说真话还是说假话</title>
     <url>/2022/12/01/%E8%AF%B4%E7%9C%9F%E8%AF%9D%E8%BF%98%E6%98%AF%E8%AF%B4%E5%81%87%E8%AF%9D/</url>
     <content><![CDATA[<p>在知乎上看到深圳、北京、温州的某些高中招聘到了许多清北的博士生，遂作此篇。</p>
@@ -2972,6 +2959,19 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>讲课和听课</title>
+    <url>/2020/10/10/%E8%AE%B2%E8%AF%BE%E5%92%8C%E5%90%AC%E8%AF%BE/</url>
+    <content><![CDATA[<p>老师上课有点像<strong>表演</strong>，要假装自己也不会，然后把自己全都会的东西有逻辑地教给学生。</p>
+<p>听课也像艺术，现在时代变了，我不必再像小初高一样只会用纸笔记笔记。iPad手写、电脑思维导图、拍视频都是可以选择的方式，你也可以穿插着用防止疲劳、提供新鲜感。纸笔是最朴素的，也是你我最熟悉的，但是不一定是对你我最高效的。</p>
+]]></content>
+      <categories>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>teaching</tag>
       </tags>
   </entry>
   <entry>
@@ -3354,24 +3354,6 @@
       </tags>
   </entry>
   <entry>
-    <title>饶毅2011年落选院士后所写的文章</title>
-    <url>/2022/11/20/%E9%A5%B6%E6%AF%852011%E5%B9%B4%E8%90%BD%E9%80%89%E9%99%A2%E5%A3%AB%E5%90%8E%E6%89%80%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>饶毅的观点</p>
-<ul>
-<li>施一公的论文个数比当选者加起来还多，因此施一公应该当选。</li>
-<li>韩家淮科研很厉害且为人低调，但他也没当选，因此当院士和低调高调关系小，而和拉关系关系大。</li>
-<li>中国科学院生命学部比数学物理学部、化学部更不清明。</li>
-<li>王中林当选化学部外籍院士是清明的体现。（2022年初，王中林因为“拓展麦克斯韦方程组”搞了个大笑话）</li>
-</ul>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>颜宁回国</title>
     <url>/2022/11/01/%E9%A2%9C%E5%AE%81%E5%9B%9E%E5%9B%BD/</url>
     <content><![CDATA[<p>11月1日，看到新闻，颜宁宣布自己将全职回国，在深圳建立一个新单位——深圳医学研究院。</p>
@@ -3401,6 +3383,24 @@
 <p>我们年轻而狂热，我们冲动而激情。</p>
 <p>另外，我们的数理基础肯定比这五位好。</p>
 <p>我相信我们中间一定有人能做出比肩蒲饶的成就。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>饶毅2011年落选院士后所写的文章</title>
+    <url>/2022/11/20/%E9%A5%B6%E6%AF%852011%E5%B9%B4%E8%90%BD%E9%80%89%E9%99%A2%E5%A3%AB%E5%90%8E%E6%89%80%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>饶毅的观点</p>
+<ul>
+<li>施一公的论文个数比当选者加起来还多，因此施一公应该当选。</li>
+<li>韩家淮科研很厉害且为人低调，但他也没当选，因此当院士和低调高调关系小，而和拉关系关系大。</li>
+<li>中国科学院生命学部比数学物理学部、化学部更不清明。</li>
+<li>王中林当选化学部外籍院士是清明的体现。（2022年初，王中林因为“拓展麦克斯韦方程组”搞了个大笑话）</li>
+</ul>
 ]]></content>
       <categories>
         <category>scientific misconduct</category>
