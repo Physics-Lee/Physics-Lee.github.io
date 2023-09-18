@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>你是否相信十二星座中的某些星座更适合在一起？</title>
+    <url>/2022/07/07/12_Constellations_and_Marriage/</url>
+    <content><![CDATA[<h1 id="2023-07"><a href="#2023-07" class="headerlink" title="2023-07"></a>2023-07</h1><p>今年5月的一天，我和一位朋友聊天，突然聊到了这个问题。</p>
+<p>我回忆了一下，初中的我是很相信<strong>星座理论</strong>的。</p>
+<p>我所看的那套<strong>理论</strong>提出了这样一个<strong>模型</strong>：把12星座分为水、火、土、风，每种元素包括3个星座，元素属性相同的星座更适合在一起。</p>
+<p>比如说，我是双子座，双子座、天秤座、水瓶座被该模型划分为风象星座，所以我更适合找双子座、天秤座、水瓶座的伴侣。</p>
+<p>我还记得该理论称，若把双子座和水瓶座的契合程度定为100，则双子座和双子座、天秤座为90+，双子座和其它9个星座在0-90不等。</p>
+<p>初中时班上有不少同学都相信<strong>星座理论</strong>和<strong>水火土风模型</strong>，我还记得一个初中同学告诉我楚子航是双子座。虽然我从未看过《龙族》，但我知道《龙族》的主要人物和大致剧情。</p>
+<p>上高中之后，我渐渐不再相信某些星座更适合在一起了，但我从未站在客观的、科学的角度思考过这个问题。</p>
+<hr>
+<p>今年5月的那天，我突然想到，我可以从相关部门那里拿到某一年结婚的夫妻的出生年月，从中随机挑1W对，然后看这1W对中是否真的会出现契合星座理论的结果。比如说，假如发现双子座和水瓶座结婚的频率是30%，那就可以说明在结果上确实出现了符合星座理论的现象。如果结果上真的出现了这种现象，那么下一步就要去找导致该结果的原因。</p>
+<p>上一段的30%是我随便扯的一个数。以大学生的知识水平，我应该问：<strong>哪种假设检验适合星座理论？</strong></p>
+<p>我想以前应该是有人做过这种研究的，于是，有一天，我终于去查了，查到一篇神级文章。</p>
+<p>cite: Helgertz, J. and Scott, K., 2020. The validity of astrological predictions on marriage and divorce: a longitudinal analysis of Swedish register data. <em>Genus</em>, <em>76</em>(1), pp.1-18.</p>
+<p>这篇2020年的文章有如下亮点：</p>
+<ul>
+<li>调查了<strong>瑞典</strong>的<strong>6W多对</strong>异性恋夫妻的结婚、离婚情况。</li>
+<li>introduction中说之前从未有人做过<strong>大样本</strong>的星座问题的研究，这是<strong>第一个</strong>。</li>
+<li>用的是<strong>t检验</strong>。</li>
+<li><strong>去除了不同星座出生人数不同的影响。</strong></li>
+<li>funding中说该研究没用任何基金。（即作者是<strong>用爱发电</strong>）</li>
+<li>该文章的背景介绍几乎涵盖了这个领域的所有重要研究。（因为这个领域的论文实在是太少了）</li>
+</ul>
+<p>太长不看版：<strong>该文章既没有发现某个星座和某个星座更容易结婚，也没有发现某个星座和某个星座结婚后更不容易离婚</strong>。(用统计学家的话说，两个假设检验都没达到显著性。)</p>
+<h1 id="2023-08-更新"><a href="#2023-08-更新" class="headerlink" title="2023-08 更新"></a>2023-08 更新</h1><p>暑假在家打球时，有一次，教练的刚上小学四年级的女儿热情地向我介绍她最近学到的星座知识，告诉我双子座会有双重人格。</p>
+<p>于是乎，我问她双子座更适合和谁当伴侣，她歪着脑袋想了好一会，缓缓地说她对风象星座不够了解，忘记了，回去可以帮我查查~</p>
+<h1 id="2022-12-更新"><a href="#2022-12-更新" class="headerlink" title="2022-12 更新"></a>2022-12 更新</h1><p>2022年7月的我的统计水平实在太差了。</p>
+<p>很明显，这个问题和抛硬币、抛骰子类似，就应该用$\chi^2$检验。</p>
+<p>文章的假设检验的做法是：</p>
+<blockquote>
+<p>Differences in means between the predicted and actual number of marriages are assessed using t tests.</p>
+</blockquote>
+<p>显然这种做法是错的。两样本t检验可以用来检测两个班的学生成绩是否有显著差异，成对t检验可以用来检测一个班的学生成绩在补习前后是否有显著差异，无论是哪种用在这里的predicted number和actual number上都是错的。</p>
+<h1 id="2023-01-更新"><a href="#2023-01-更新" class="headerlink" title="2023-01 更新"></a>2023-01 更新</h1><p>MBTI还不如星座呢，因为星座是一成不变的，而MBTI是变来变去的，嘿嘿。</p>
+<p>上一句话只是开玩笑的哈，别当真，hh</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>statistics</tag>
+        <tag>love</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>23</title>
     <url>/2023/06/08/23/</url>
     <content><![CDATA[<p>年年都在高考时过生日，这种感觉很奇妙。</p>
@@ -82,15 +129,15 @@
         <category>running</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>socialism</tag>
         <tag>running</tag>
       </tags>
   </entry>
   <entry>
-    <title>00年出的四名中国男子篮球运动员</title>
-    <url>/2023/09/18/4_Chinese_men_basketball_players_born_in_2000/</url>
+    <title>2000年出的四名中国男子篮球运动员</title>
+    <url>/2023/09/18/4_Chinese_Men_Basketball_Players_Born_in_2000/</url>
     <content><![CDATA[<h1 id="2023-03-01"><a href="#2023-03-01" class="headerlink" title="2023-03-01"></a>2023-03-01</h1><p>因为我出生于2000年，所以对00年出生的球员格外关注。男篮里有四人值得一说。</p>
 <p>郭昊文：1&#x2F;31生，身高203cm，123号位都能打。22年夏天去打了nba夏季联赛，目前在美国养伤。他和王泉泽的天赋是这批球员里最高的，以后还是有很大机会入选国家队的。不过他有一些缺点，西热力江曾经评价他说：“<strong>郭昊文很有天赋，他应多泡球场训练馆，少关注乱七八糟的事情</strong>”。仔细想想西热力江这话，不光对运动员，对所有人都是这样。</p>
 <p>王泉泽：6&#x2F;8生（和我一天生日），内线球员，性格很乐天，和姚明有点像。曾经也有机会冲击nba，但是受了大伤，他以后可能都不能打球了，很可惜。</p>
@@ -108,12 +155,15 @@
 <p>两颗新星还是没有成功冲进NBA。换句话说，他俩本来也可以成为王治郅、易建联，但是一个因为太浪，一个因为伤病，都没打出来。</p>
 <p>今天看了<a href="https://www.youtube.com/watch?v=TfUhpmLzAVY">2018年12月时王泉泽在NCAA的视频</a>，甚是热血。</p>
 <h1 id="2023-09-18-更新"><a href="#2023-09-18-更新" class="headerlink" title="2023-09-18 更新"></a>2023-09-18 更新</h1><h2 id="王哲林和郭昊文"><a href="#王哲林和郭昊文" class="headerlink" title="王哲林和郭昊文"></a>王哲林和郭昊文</h2><p>两个人都是挥霍天赋的典型，呵呵。</p>
-<p>看上去王哲林天赋似乎更高点，他2012年参加耐克高中联赛就技惊四座了，但郭昊文是中国少见的高个后卫，在这个时代，每个人都有一颗后卫的心。</p>
+<p>看上去王哲林天赋似乎更高点，他<a href="https://www.youtube.com/watch?v=iLOVzyAKH4c">2012年参加耐克篮球峰会 (Nike Hoop Summit)</a>就技惊四座了，但郭昊文是中国少见的高个后卫，在这个时代，每个人都有一颗后卫的心。</p>
 <h2 id="郭艾伦"><a href="#郭艾伦" class="headerlink" title="郭艾伦"></a>郭艾伦</h2><p>2015年是我关注篮球的第一年。那一天秋天，中国男篮重新夺回亚锦赛冠军，而且年轻球员发挥出色，并非全靠老大哥易建联。那一批年轻球员里，5个位置各有1人：周琦 (1996)、王哲林 (1994)、丁彦雨航 (1993)、郭艾伦 (1993)、赵继伟 (1995)。这场亚锦赛，周琦、郭艾伦、易建联入选最佳五人阵容。</p>
-<p>这五人里，除了赵继伟身高太矮之外，其他四人绝对有机会冲击NBA。周琦和丁彦雨航自不必说，郭艾伦和王哲林都被二轮选中过，只不过他俩不愿意去。</p>
-<p>其实站在郭艾伦的角度想想，他在CBA，对位后卫90%都比他明显地弱，他在NBA，对位后卫90%都比他明显地强。一边是在CBA舒舒服服虐菜，另一边是去NBA被人虐，他选择前者，似乎也可以理解。</p>
+<p>这五人里，除了赵继伟身高太矮之外，其他四人绝对有机会冲击NBA。周琦和丁彦雨航自不必说，王哲林被二轮选中过（2016），郭艾伦<a href="https://www.sohu.com/a/339558035_99919549#:~:text=%E8%80%8C%E6%9C%80%E8%BF%91%E5%8A%A0%E7%9B%9F%E5%8C%97%E4%BA%AC%E7%9A%84,%E4%BD%8F%E6%9C%BA%E4%BC%9A%E7%9A%84%E5%91%A8%E7%90%A6%E3%80%82">被林书豪评价完全可以打NBA</a>，但他俩不愿意去。</p>
+<p>其实站在郭艾伦的角度想想，他在CBA，对位后卫90%都比他明显地弱，他在NBA，对位后卫90%都比他明显地强。一边是在CBA舒舒服服虐菜，另一边是去NBA被人虐或者在场下看着别人玩，他选择前者，似乎也可以理解。</p>
 <p>郭艾伦倒没挥霍天赋，只不过选择了呆在舒适圈而已。</p>
-<p>我可以理解，但我不赞同，我也不赞同我和我的至爱亲朋这么做。</p>
+<p>我可以理解，但我不赞同，<strong>我也不赞同我和我的至爱亲朋这么做</strong>。</p>
+<hr>
+<p>按说郭艾伦也没老婆，干嘛不去国外拼一拼，这和他赛场上拼命三郎的性格并不一样。</p>
+<p>这么一看，虽然周琦在赛场上看上去懒散，但是他在场下，至少比郭艾伦更拼命地追求NBA和NBL，而且他已经结婚了。</p>
 <hr>
 <p>现在回忆2015年，只有一声叹息。</p>
 ]]></content>
@@ -238,7 +288,7 @@
   </entry>
   <entry>
     <title>Cook Inspirations</title>
-    <url>/2021/02/01/Cook%20Inspirations/</url>
+    <url>/2021/02/01/Cook_Inspirations/</url>
     <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
 <p>答：剪应力比正向应力更容易让物体断裂。</p>
 ]]></content>
@@ -663,34 +713,11 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>family</tag>
-        <tag>love</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>OneNote + Markdown</title>
-    <url>/2023/09/01/OneNote%20+%20Markdown/</url>
-    <content><![CDATA[<p>下载安装<a href="https://onemark.neuxlab.cn/">OneMark</a>后，即可在OneNote里使用Markdown。</p>
-<hr>
-<p>效果如图：</p>
-<img src="/2023/09/01/OneNote%20+%20Markdown/1.jpg" class="">
-
-<hr>
-<p>支持<a href="https://theme.typora.io/">Typora主题</a>，<a href="https://onemark.neuxlab.cn/docs/zh-cn/theme/">添加主题的方法</a>和Typora类似。</p>
-<hr>
-<p>目前我遇到的唯一一个缺点是——LaTeX中无法换行。</p>
-<p>我已经给OneMark开发者发邮件询问此事。</p>
-<hr>
-<p>Thanks for OneMark!!!</p>
-]]></content>
-      <categories>
-        <category>tools</category>
-      </categories>
-      <tags>
-        <tag>tools</tag>
       </tags>
   </entry>
   <entry>
@@ -755,8 +782,31 @@
       </tags>
   </entry>
   <entry>
+    <title>OneNote + Markdown</title>
+    <url>/2023/09/01/OneNote_AND_Markdown/</url>
+    <content><![CDATA[<p>下载安装<a href="https://onemark.neuxlab.cn/">OneMark</a>后，即可在OneNote里使用Markdown。</p>
+<hr>
+<p>效果如图：</p>
+
+
+<hr>
+<p>支持<a href="https://theme.typora.io/">Typora主题</a>，<a href="https://onemark.neuxlab.cn/docs/zh-cn/theme/">添加主题的方法</a>和Typora类似。</p>
+<hr>
+<p>目前我遇到的唯一一个缺点是——LaTeX中无法换行。</p>
+<p>我已经给OneMark开发者发邮件询问此事。</p>
+<hr>
+<p>Thanks for OneMark!!!</p>
+]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>P_choose n from 52 (炸金花)</title>
-    <url>/2022/10/01/P_choose%20n%20from%2052%20(%E7%82%B8%E9%87%91%E8%8A%B1)/</url>
+    <url>/2022/10/01/P_choose-n-from-52/</url>
     <content><![CDATA[<h1 id="52选3，4种花，13种点"><a href="#52选3，4种花，13种点" class="headerlink" title="52选3，4种花，13种点"></a>52选3，4种花，13种点</h1><table>
 <thead>
 <tr>
@@ -823,8 +873,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -920,13 +970,14 @@
   </entry>
   <entry>
     <title>是他们不配！</title>
-    <url>/2023/09/09/TA_training/</url>
+    <url>/2023/09/09/TA_Training/</url>
     <content><![CDATA[<p>草，潘海俊的助教培训差点给我讲哭了。</p>
 <p>希望多年以后无论我身处何方所做何事都别忘了本科时候在USTC学的物理，别忘了学物理时候遇到的那些人。</p>
 <p>接下来来点最近一直想说的话： 我们这个学校有波澜壮阔的历史，自从58年建校时就是反右运动的港湾之一，为很多右派提供了保护。共和国的历次运动，我们都有参与。</p>
 <p>严济慈、钱学森、郭永怀、钱临照、赵忠尧五人，都配得上“国士无双”这四个字，去维基百科查查他们的故事吧。1950s、60s、70s、80s的科大人可以说是这个国家乃至全人类的英雄，也不妨去查查。</p>
 <p>现在虽然没有往日荣光了，但还是有一些光荣传统留下来：至少物院的四大力学教学都不错，至少我遇到的半数以上的助教是很负责的。</p>
 <p>最近我的pyq和qq空间里骂科大的声音是越来越多了，我心里是很不高兴的。我知道科大有她的缺点，比如物院的普通物理教得不太好，比如生院各种烂事，比如有一些离谱的学生。但是我看到这些事，我会认为是那些离谱的老师和学生配不上中国科大，而不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。 </p>
+<p>我相信科大里干正事的老师是多数，搞乱七八糟的（造假、灌水、争名夺利）只是少数。</p>
 <p>好吧这只是一种信念，我没法证明。 </p>
 <p>物理是纯粹的，所以我希望我能永远记住我在科大学的物理。</p>
 <hr>
@@ -981,92 +1032,6 @@
       <tags>
         <tag>poem</tag>
         <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Children of Pornhub_Nicholas Kristof</title>
-    <url>/2022/04/01/The_Children_of_Pornhub_Nicholas_Kristof/</url>
-    <content><![CDATA[<p>Introduction：在2020年12月，正是这篇文章导致Master、Visa也封锁Pornhub，从而导致Pornhub删除了<a href="https://zhuanlan.zhihu.com/p/337448197">1,350万个视频中超过1050万个</a>。（让我伤心的是，这篇知乎专栏下的评论大多对此表示了反对）</p>
-<hr>
-<p>Author: <a href="https://en.wikipedia.org/wiki/Nicholas_Kristof">Nicholas Kristof</a></p>
-<p>Publish Date: 2020-12-04</p>
-<p><a href="https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html">原文链接</a></p>
-<ul>
-<li><p>Pornhub以其扮活泼鬼脸的调皮态度而自豪，这家网站会在时报广场购买<a href="https://www.adweek.com/creativity/pornhub-erects-huge-billboard-times-square-after-long-search-great-non-pornographic-ad-160632/">广告牌</a>，会<a href="https://nypost.com/2017/03/14/a-porn-website-is-plowing-boston/">提供扫雪机</a>清理波士顿的街道。它向争取种族平等的机构<a href="https://twitter.com/pornhub/status/1266929094329016325?lang=en">捐款</a>，并提供免费的色情内容帮助人们熬过新冠疫情期间的封锁。</p>
-</li>
-<li><p>这个所谓的“<a href="https://twitter.com/Pornhub/status/1261008734538600448">身心健全Pornhub</a>”每月能吸引<a href="https://www.pornhub.com/insights/2019-year-in-review">35亿次</a>访问，<a href="https://www.fasthosts.co.uk/web-hosting/busiest-websites/data">超过</a>了Netflix、雅虎或亚马逊。每天近<a href="https://www.trafficjunky.com/advertiser/sites-and-spots">30亿</a>的广告曝光量让Pornhub赚得盆满钵满。<a href="https://www.similarweb.com/top-websites/">一项排名</a>将Pornhub列为世界上访问量第十高的网站。</p>
-</li>
-<li><p>然而，这家公司也有另一面：它的网站上充斥着强奸视频。它将<strong>强奸</strong>、<strong>儿童色情</strong>、复仇式色情、偷拍女性洗澡、种族主义和厌女内容、以及妇女被困在塑料袋里窒息的片段当作盈利手段。每次搜索“girls under18”（女孩 不满18）或者“14yo”（14岁）都能得到超过10万条视频结果。<strong>大多数内容并非性侵儿童，但仍然有太多的确是</strong>。</p>
-<ul>
-<li>佛罗里达州一名<strong>15岁</strong>女孩失踪后，她的母亲在Pornhub上的58个色情视频中<a href="https://life.shared.com/58-porn-videos-of-florida-teen-girl-missing-for-a-year-found-on-pornhub-other-websites-by-mother">找到了她</a>。</li>
-<li>一名<strong>14岁</strong>的加州女孩遭受性侵的视频被发到了Pornhub上，将此事<a href="https://www.mercurynews.com/2018/10/26/pornhub-videos-lead-to-redwood-city-womans-arrest/">报告当局</a>的并非这家公司，而是女孩的一位看到这些视频的同学。两案中的罪犯都因侵犯行为被逮捕，但Pornhub逃脱了<strong>传播视频并从中获利</strong>的责任。</li>
-<li>“Pornhub成了我的人贩子，”一位名叫卡莉(Cali)的女性告诉我。她说自己从中国被美国家庭收养，然后被收养家庭贩卖，从<strong>9岁</strong>开始，她就被迫出现在色情视频中。她说，一些她被虐待的视频最终被放到了Pornhub上，并总在那里反复出现。“我还是在被贩卖，哪怕我已经离开那种生活五年之久了，”卡莉说。如今23岁的她正在一所大学读书，希望成为一名律师——但那些旧视频仍是她的心头阴影。“我可能永远无法摆脱，”她说。“就算到40岁、有8个孩子的时候，人们还会看着我的照片自慰。”</li>
-<li>今年秋天，Pornhub从一段裸体女子在<strong>中国</strong>被一群男人折磨的<a href="https://twitter.com/LailaMickelwait/status/1294494757520105472">视频</a>中获利。它也从有着诸如“青少年尖叫”、“青少年堕落”、“极度窒息”标题的视频片段中获利。观看一段窒息视频，它就可能推荐你再去搜索“她无法呼吸”。</li>
-<li>“他们从我的痛苦和煎熬中牟利，”一位名叫泰勒(Taylor)的18岁女性告诉我。警方证实，在她<strong>14岁</strong>的时候，一位男友秘密录制了她的性行为视频，而视频最终被发到了Pornhub上。“第二天上学的时候，当我走进大厅，所有人都边看手机边看我，”她哭着说。“他们都在笑。”</li>
-</ul>
-</li>
-<li><p>远不止一家公司面临这个问题。Pornhub的竞争对手<strong>XVideos可以说更肆无忌惮</strong>，当然可能也会吸引更多访问量。对虐待儿童的描绘也出现在了Twitter、Reddit和Facebook等主流网站上。<strong>谷歌则支持了那些靠猥亵儿童大发其财的公司的商业模式。</strong></p>
-<ul>
-<li>在谷歌搜索“young porn”（青少年色情）会得到9.2亿条视频结果。最热门的结果包括XVideo上一个“年纪非常小的青少年”赤裸参与性行为的视频，以及Pornhub上一个标题不宜刊印的视频。</li>
-<li>今年，Facebook在三个月内删除了<a href="https://transparency.facebook.com/community-standards-enforcement#child-nudity-and-sexual-exploitation">1240万</a>张与剥削儿童有关的图片。去年，Twitter在六个月内关闭了<a href="https://transparency.twitter.com/en/reports/rules-enforcement.html#2019-jul-dec">26.4万个</a>涉嫌儿童性剥削的账号。相较之下，Pornhub声称，总部设在英国、致力于打击儿童性虐待图像的非营利组织互联网观察基金会(Internet Watch Foundation)报告称，近三年来，其网站上仅有118起案例涉及儿童性虐待图像，这似乎是一个微不足道的数字。“对于每一家现代内容平台来说，消除违法内容都是一场持久战，我们承诺将站在这场战斗的最前线，”Pornhub在其声明中表示。</li>
-<li>互联网观察基金会无法解释为什么Pornhub的案例数量这么低。或许是因为Pornhub用户对此已经习以为常，不太可能举报。但如果你知道要找什么，可能用半小时就能在Pornhub上发现几百个明显有儿童性虐待的视频。Pornhub最近提供的播放列表标题包括“不满18岁”、“最佳男童收藏”和“未成年”。</li>
-<li>在这一问题愈演愈烈的情况下，<strong>国会和历届总统几乎没有作为。</strong></li>
-</ul>
-</li>
-<li><p>对Pornhub的担忧正在加剧</p>
-<ul>
-<li>内布拉斯加州共和党参议员本·萨斯 (Ben Sasse)<a href="https://physics-lee.github.io/2022/04/01/The%20Children%20of%20Pornhub_Nicholas%20Kristof/Ben_Sasse_to_William_Barr.pdf">致信</a>司法部长William Barr，要求对Pornhub进行调查。</li>
-<li>由活动人士<a href="https://twitter.com/lailamickelwait?lang=en">莱拉·米克尔韦特 (Laila Mickelwait)</a>领导的机构<a href="http://traffickinghub.com/">Traffickinghub</a>记录了这些虐待行为，并呼吁关闭该网站。<ul>
-<li>要求关闭该网站的<a href="https://traffickinghubpetition.com/">请愿</a>已经收到了210万人的签名。</li>
-</ul>
-</li>
-<li>加拿大议会的20位成员呼吁政府打击Pornhub，其总部正好位于蒙特利尔。</li>
-</ul>
-</li>
-<li><p>Pornhub和MindGeek</p>
-<ul>
-<li>Pornhub由<a href="https://www.mindgeek.com/">Mindgeek</a>所有，后者是一家私营色情内容集团，旗下拥有超过100家网站、制作公司和品牌。其网站包括Redtube、Youporn、XTube、SpankWire、ExtremeTube、Men.com、My Dirty Hobby、Thumbzilla、PornMD、Brazzers和GayTube。</li>
-<li>除了Mindgeek的麾下企业之外，色情产业中还有其他重要的公司，最著名就是XHamster和XVideos，但Mindgeek绝对是一个色情巨头。如果换个行业，司法部可能都已经在讨论针对它的反托拉斯诉讼了。</li>
-<li>Pornhub和Mindgeek也因其影响力而非同一般。今年，一家数字营销公司的<a href="https://diggitymarketing.com/most-influential-tech-companies-2020/">研究</a>得出结论称，Pornhub是21世纪对社会影响第三大的科技公司，仅次于Facebook和谷歌，领先于微软、苹果和亚马逊。</li>
-<li>Mindgeek名义上设在卢森堡，实际上是一家位于蒙特利尔的私营公司。</li>
-<li>加拿大总理贾斯汀·特鲁多(Justin Trudeau)自称是女权主义者，并对其政府为全球女性赋权的努力感到自豪。因此，这里有一个问题要问特鲁多和所有加拿大人：为什么加拿大会有一家向全世界传播强奸视频的公司？</li>
-</ul>
-</li>
-<li><p>Pornhub的审核</p>
-<ul>
-<li>“内容审核人的目的是让越多的内容通过越好，”一名Mindgeek前员工告诉我。他说他认为高管并不坏，但只关心如何让利润最大化。</li>
-<li>尽管Pornhub不愿意告诉我该公司雇佣了多少内容审核员，我的一个采访对象说全世界约有80人在Mindgeek的网站工作（相比之下，Facebook告诉我该公司有1.5万名内容审核员）。每年会有<a href="https://www.pornhub.com/insights/2019-year-in-review">136万小时的新视频</a>会上传到Pornhub，这意味着每个审核员必须每周要审核数以百计小时的内容。</li>
-<li>在过去，Pornhub的高管似乎认为，他们享受《通信规范法案》(Communications Decency Act)第230节赋予的豁免权。该法案保护有公众发布内容的互联网平台。但在2018年，国会对第230节做出了限制，因此不足以保护该公司，这也让Mindgeek做出了更好的表现。</li>
-<li>因此，尽管如今无法在Pornhub上用英文搜索“underage”（未成年）或“rape”（强奸），但该公司仍然没有努力删除此类视频。一位名为“13yoboyteen”（13岁男孩少年）的用户可以发布视频。搜索“r*pe”可以出现1901个视频。搜索“Girl with braces”（戴牙套女孩）可以出现1913个视频，并且联想功能还会出现“exxxtra small teens”（超小青少年）。搜索“13yo”（13岁）会出现15.5万个视频。要说明一点，这些视频大多数并非13岁青少年，但视频通过这种语言来宣传，似乎反映出他们在试图吸引恋童癖。</li>
-</ul>
-</li>
-<li><p>尽管Pornhub可能愈发小心对待这些爱打官司的美国人，但<strong>公司对海外受害者不闻不问</strong>。</p>
-<ul>
-<li>一个标题为《下课后的初中女生》(Junior High School Girl After Class)的印度尼西亚视频里面，一名年龄很小的青少年正在进行性交。</li>
-<li>一则刚刚被撤下的<strong>中国</strong>视频被标为“Beautiful High School Girl Is Tricked by Classmates and Taken to the Top of a Building Where She Is Insulted and Raped”（漂亮高中女孩被同学骗到顶楼侮辱强奸）。</li>
-</ul>
-</li>
-<li><p>解决方法</p>
-<ul>
-<li><p><strong>叫我伪君子好了</strong>，但我就是不明白，为什么搜索引擎、银行或者信用卡公司要支持一个靠性侵儿童或者昏迷女性挣钱的公司。如果PayPal可以暂停跟Pornhub的合作，美国运通(American Express)、万事达(Mastercard)、维萨(Visa)也可以。</p>
-</li>
-<li><p>专栏作家应该给出答案，但我却拿不出好办法。如果Pornhub对视频严格管理的话，那么最不堪入目的内容可能跑去暗网或者那些管理不严的国家的网站。不过这样一来，<strong>至少它们就不会在一个主流网站上成为常态。</strong></p>
-</li>
-<li><p>我看不到有任何周全的解决方案。以下三个步骤也会有所帮助：<strong>1）只允许经过验证的用户发布视频；2）禁止下载；3）加强审核。</strong></p>
-</li>
-</ul>
-</li>
-<li><p>有了Pornhub，我们就有了1000个杰弗里·爱泼斯坦。</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>anti illegal pornography</category>
-        <category>capitalism</category>
-      </categories>
-      <tags>
-        <tag>anti illegal pornography</tag>
-        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -1195,6 +1160,92 @@
       </tags>
   </entry>
   <entry>
+    <title>The Children of Pornhub_Nicholas Kristof</title>
+    <url>/2022/04/01/The_Children_of_Pornhub_Nicholas_Kristof/</url>
+    <content><![CDATA[<p>Introduction：在2020年12月，正是这篇文章导致Master、Visa也封锁Pornhub，从而导致Pornhub删除了<a href="https://zhuanlan.zhihu.com/p/337448197">1,350万个视频中超过1050万个</a>。（让我伤心的是，这篇知乎专栏下的评论大多对此表示了反对）</p>
+<hr>
+<p>Author: <a href="https://en.wikipedia.org/wiki/Nicholas_Kristof">Nicholas Kristof</a></p>
+<p>Publish Date: 2020-12-04</p>
+<p><a href="https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html">原文链接</a></p>
+<ul>
+<li><p>Pornhub以其扮活泼鬼脸的调皮态度而自豪，这家网站会在时报广场购买<a href="https://www.adweek.com/creativity/pornhub-erects-huge-billboard-times-square-after-long-search-great-non-pornographic-ad-160632/">广告牌</a>，会<a href="https://nypost.com/2017/03/14/a-porn-website-is-plowing-boston/">提供扫雪机</a>清理波士顿的街道。它向争取种族平等的机构<a href="https://twitter.com/pornhub/status/1266929094329016325?lang=en">捐款</a>，并提供免费的色情内容帮助人们熬过新冠疫情期间的封锁。</p>
+</li>
+<li><p>这个所谓的“<a href="https://twitter.com/Pornhub/status/1261008734538600448">身心健全Pornhub</a>”每月能吸引<a href="https://www.pornhub.com/insights/2019-year-in-review">35亿次</a>访问，<a href="https://www.fasthosts.co.uk/web-hosting/busiest-websites/data">超过</a>了Netflix、雅虎或亚马逊。每天近<a href="https://www.trafficjunky.com/advertiser/sites-and-spots">30亿</a>的广告曝光量让Pornhub赚得盆满钵满。<a href="https://www.similarweb.com/top-websites/">一项排名</a>将Pornhub列为世界上访问量第十高的网站。</p>
+</li>
+<li><p>然而，这家公司也有另一面：它的网站上充斥着强奸视频。它将<strong>强奸</strong>、<strong>儿童色情</strong>、复仇式色情、偷拍女性洗澡、种族主义和厌女内容、以及妇女被困在塑料袋里窒息的片段当作盈利手段。每次搜索“girls under18”（女孩 不满18）或者“14yo”（14岁）都能得到超过10万条视频结果。<strong>大多数内容并非性侵儿童，但仍然有太多的确是</strong>。</p>
+<ul>
+<li>佛罗里达州一名<strong>15岁</strong>女孩失踪后，她的母亲在Pornhub上的58个色情视频中<a href="https://life.shared.com/58-porn-videos-of-florida-teen-girl-missing-for-a-year-found-on-pornhub-other-websites-by-mother">找到了她</a>。</li>
+<li>一名<strong>14岁</strong>的加州女孩遭受性侵的视频被发到了Pornhub上，将此事<a href="https://www.mercurynews.com/2018/10/26/pornhub-videos-lead-to-redwood-city-womans-arrest/">报告当局</a>的并非这家公司，而是女孩的一位看到这些视频的同学。两案中的罪犯都因侵犯行为被逮捕，但Pornhub逃脱了<strong>传播视频并从中获利</strong>的责任。</li>
+<li>“Pornhub成了我的人贩子，”一位名叫卡莉(Cali)的女性告诉我。她说自己从中国被美国家庭收养，然后被收养家庭贩卖，从<strong>9岁</strong>开始，她就被迫出现在色情视频中。她说，一些她被虐待的视频最终被放到了Pornhub上，并总在那里反复出现。“我还是在被贩卖，哪怕我已经离开那种生活五年之久了，”卡莉说。如今23岁的她正在一所大学读书，希望成为一名律师——但那些旧视频仍是她的心头阴影。“我可能永远无法摆脱，”她说。“就算到40岁、有8个孩子的时候，人们还会看着我的照片自慰。”</li>
+<li>今年秋天，Pornhub从一段裸体女子在<strong>中国</strong>被一群男人折磨的<a href="https://twitter.com/LailaMickelwait/status/1294494757520105472">视频</a>中获利。它也从有着诸如“青少年尖叫”、“青少年堕落”、“极度窒息”标题的视频片段中获利。观看一段窒息视频，它就可能推荐你再去搜索“她无法呼吸”。</li>
+<li>“他们从我的痛苦和煎熬中牟利，”一位名叫泰勒(Taylor)的18岁女性告诉我。警方证实，在她<strong>14岁</strong>的时候，一位男友秘密录制了她的性行为视频，而视频最终被发到了Pornhub上。“第二天上学的时候，当我走进大厅，所有人都边看手机边看我，”她哭着说。“他们都在笑。”</li>
+</ul>
+</li>
+<li><p>远不止一家公司面临这个问题。Pornhub的竞争对手<strong>XVideos可以说更肆无忌惮</strong>，当然可能也会吸引更多访问量。对虐待儿童的描绘也出现在了Twitter、Reddit和Facebook等主流网站上。<strong>谷歌则支持了那些靠猥亵儿童大发其财的公司的商业模式。</strong></p>
+<ul>
+<li>在谷歌搜索“young porn”（青少年色情）会得到9.2亿条视频结果。最热门的结果包括XVideo上一个“年纪非常小的青少年”赤裸参与性行为的视频，以及Pornhub上一个标题不宜刊印的视频。</li>
+<li>今年，Facebook在三个月内删除了<a href="https://transparency.facebook.com/community-standards-enforcement#child-nudity-and-sexual-exploitation">1240万</a>张与剥削儿童有关的图片。去年，Twitter在六个月内关闭了<a href="https://transparency.twitter.com/en/reports/rules-enforcement.html#2019-jul-dec">26.4万个</a>涉嫌儿童性剥削的账号。相较之下，Pornhub声称，总部设在英国、致力于打击儿童性虐待图像的非营利组织互联网观察基金会(Internet Watch Foundation)报告称，近三年来，其网站上仅有118起案例涉及儿童性虐待图像，这似乎是一个微不足道的数字。“对于每一家现代内容平台来说，消除违法内容都是一场持久战，我们承诺将站在这场战斗的最前线，”Pornhub在其声明中表示。</li>
+<li>互联网观察基金会无法解释为什么Pornhub的案例数量这么低。或许是因为Pornhub用户对此已经习以为常，不太可能举报。但如果你知道要找什么，可能用半小时就能在Pornhub上发现几百个明显有儿童性虐待的视频。Pornhub最近提供的播放列表标题包括“不满18岁”、“最佳男童收藏”和“未成年”。</li>
+<li>在这一问题愈演愈烈的情况下，<strong>国会和历届总统几乎没有作为。</strong></li>
+</ul>
+</li>
+<li><p>对Pornhub的担忧正在加剧</p>
+<ul>
+<li>内布拉斯加州共和党参议员本·萨斯 (Ben Sasse)<a href="https://physics-lee.github.io/2022/04/01/The%20Children%20of%20Pornhub_Nicholas%20Kristof/Ben_Sasse_to_William_Barr.pdf">致信</a>司法部长William Barr，要求对Pornhub进行调查。</li>
+<li>由活动人士<a href="https://twitter.com/lailamickelwait?lang=en">莱拉·米克尔韦特 (Laila Mickelwait)</a>领导的机构<a href="http://traffickinghub.com/">Traffickinghub</a>记录了这些虐待行为，并呼吁关闭该网站。<ul>
+<li>要求关闭该网站的<a href="https://traffickinghubpetition.com/">请愿</a>已经收到了210万人的签名。</li>
+</ul>
+</li>
+<li>加拿大议会的20位成员呼吁政府打击Pornhub，其总部正好位于蒙特利尔。</li>
+</ul>
+</li>
+<li><p>Pornhub和MindGeek</p>
+<ul>
+<li>Pornhub由<a href="https://www.mindgeek.com/">Mindgeek</a>所有，后者是一家私营色情内容集团，旗下拥有超过100家网站、制作公司和品牌。其网站包括Redtube、Youporn、XTube、SpankWire、ExtremeTube、Men.com、My Dirty Hobby、Thumbzilla、PornMD、Brazzers和GayTube。</li>
+<li>除了Mindgeek的麾下企业之外，色情产业中还有其他重要的公司，最著名就是XHamster和XVideos，但Mindgeek绝对是一个色情巨头。如果换个行业，司法部可能都已经在讨论针对它的反托拉斯诉讼了。</li>
+<li>Pornhub和Mindgeek也因其影响力而非同一般。今年，一家数字营销公司的<a href="https://diggitymarketing.com/most-influential-tech-companies-2020/">研究</a>得出结论称，Pornhub是21世纪对社会影响第三大的科技公司，仅次于Facebook和谷歌，领先于微软、苹果和亚马逊。</li>
+<li>Mindgeek名义上设在卢森堡，实际上是一家位于蒙特利尔的私营公司。</li>
+<li>加拿大总理贾斯汀·特鲁多(Justin Trudeau)自称是女权主义者，并对其政府为全球女性赋权的努力感到自豪。因此，这里有一个问题要问特鲁多和所有加拿大人：为什么加拿大会有一家向全世界传播强奸视频的公司？</li>
+</ul>
+</li>
+<li><p>Pornhub的审核</p>
+<ul>
+<li>“内容审核人的目的是让越多的内容通过越好，”一名Mindgeek前员工告诉我。他说他认为高管并不坏，但只关心如何让利润最大化。</li>
+<li>尽管Pornhub不愿意告诉我该公司雇佣了多少内容审核员，我的一个采访对象说全世界约有80人在Mindgeek的网站工作（相比之下，Facebook告诉我该公司有1.5万名内容审核员）。每年会有<a href="https://www.pornhub.com/insights/2019-year-in-review">136万小时的新视频</a>会上传到Pornhub，这意味着每个审核员必须每周要审核数以百计小时的内容。</li>
+<li>在过去，Pornhub的高管似乎认为，他们享受《通信规范法案》(Communications Decency Act)第230节赋予的豁免权。该法案保护有公众发布内容的互联网平台。但在2018年，国会对第230节做出了限制，因此不足以保护该公司，这也让Mindgeek做出了更好的表现。</li>
+<li>因此，尽管如今无法在Pornhub上用英文搜索“underage”（未成年）或“rape”（强奸），但该公司仍然没有努力删除此类视频。一位名为“13yoboyteen”（13岁男孩少年）的用户可以发布视频。搜索“r*pe”可以出现1901个视频。搜索“Girl with braces”（戴牙套女孩）可以出现1913个视频，并且联想功能还会出现“exxxtra small teens”（超小青少年）。搜索“13yo”（13岁）会出现15.5万个视频。要说明一点，这些视频大多数并非13岁青少年，但视频通过这种语言来宣传，似乎反映出他们在试图吸引恋童癖。</li>
+</ul>
+</li>
+<li><p>尽管Pornhub可能愈发小心对待这些爱打官司的美国人，但<strong>公司对海外受害者不闻不问</strong>。</p>
+<ul>
+<li>一个标题为《下课后的初中女生》(Junior High School Girl After Class)的印度尼西亚视频里面，一名年龄很小的青少年正在进行性交。</li>
+<li>一则刚刚被撤下的<strong>中国</strong>视频被标为“Beautiful High School Girl Is Tricked by Classmates and Taken to the Top of a Building Where She Is Insulted and Raped”（漂亮高中女孩被同学骗到顶楼侮辱强奸）。</li>
+</ul>
+</li>
+<li><p>解决方法</p>
+<ul>
+<li><p><strong>叫我伪君子好了</strong>，但我就是不明白，为什么搜索引擎、银行或者信用卡公司要支持一个靠性侵儿童或者昏迷女性挣钱的公司。如果PayPal可以暂停跟Pornhub的合作，美国运通(American Express)、万事达(Mastercard)、维萨(Visa)也可以。</p>
+</li>
+<li><p>专栏作家应该给出答案，但我却拿不出好办法。如果Pornhub对视频严格管理的话，那么最不堪入目的内容可能跑去暗网或者那些管理不严的国家的网站。不过这样一来，<strong>至少它们就不会在一个主流网站上成为常态。</strong></p>
+</li>
+<li><p>我看不到有任何周全的解决方案。以下三个步骤也会有所帮助：<strong>1）只允许经过验证的用户发布视频；2）禁止下载；3）加强审核。</strong></p>
+</li>
+</ul>
+</li>
+<li><p>有了Pornhub，我们就有了1000个杰弗里·爱泼斯坦。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>anti illegal pornography</category>
+        <category>capitalism</category>
+      </categories>
+      <tags>
+        <tag>anti illegal pornography</tag>
+        <tag>capitalism</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Welcome to Wenlab</title>
     <url>/2023/03/01/Welcome%20to%20Wenlab/</url>
     <content><![CDATA[<h1 id="What-do-we-pursuit"><a href="#What-do-we-pursuit" class="headerlink" title="What do we pursuit?"></a>What do we pursuit?</h1><p>我们希望用数学物理的手段去研究、理解生物的神经系统。</p>
@@ -1278,11 +1329,11 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>physics</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -1368,19 +1419,9 @@
         <category>science</category>
       </categories>
       <tags>
+        <tag>fun</tag>
         <tag>science</tag>
-        <tag>fun</tag>
         <tag>senior high school</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一教下方发现金矿后第二天</title>
-    <url>/2019/04/02/%E4%B8%80%E6%95%99%E4%B8%8B%E6%96%B9%E5%8F%91%E7%8E%B0%E9%87%91%E7%9F%BF%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<p>今天我看到潘建伟在一教门口边打电话边来回踱步，估计是在摇人抢金矿吧！</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -1396,6 +1437,16 @@
       </categories>
       <tags>
         <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一教下方发现金矿后第二天</title>
+    <url>/2019/04/02/%E4%B8%80%E6%95%99%E4%B8%8B%E6%96%B9%E5%8F%91%E7%8E%B0%E9%87%91%E7%9F%BF%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<p>今天我看到潘建伟在一教门口边打电话边来回踱步，估计是在摇人抢金矿吧！</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -1510,9 +1561,9 @@
         <category>scientific misconduct</category>
       </categories>
       <tags>
+        <tag>fun</tag>
         <tag>science</tag>
         <tag>scientific misconduct</tag>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -1657,8 +1708,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>statistics</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -1757,9 +1808,9 @@
         <category>science</category>
       </categories>
       <tags>
+        <tag>fun</tag>
         <tag>science</tag>
         <tag>physics</tag>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -2280,8 +2331,8 @@
         <category>video game</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>video game</tag>
         <tag>chaos</tag>
       </tags>
@@ -2526,11 +2577,11 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>physics</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -2791,6 +2842,21 @@
       </tags>
   </entry>
   <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>poem</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>眼睛是心灵的窗户</title>
     <url>/2023/06/14/%E7%9C%BC%E7%9D%9B%E6%98%AF%E5%BF%83%E7%81%B5%E7%9A%84%E7%AA%97%E6%88%B7/</url>
     <content><![CDATA[<p>Today I finally understand what sclera is, what iris is, what pupil is an what cornea is.</p>
@@ -2807,40 +2873,9 @@
         <category>science</category>
       </categories>
       <tags>
+        <tag>science</tag>
         <tag>romance</tag>
-        <tag>science</tag>
         <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/%E7%9B%B8%E8%A7%81%E6%AC%A2%C2%B7%E5%8D%97%E5%9F%8E/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>磁</title>
-    <url>/2021/06/01/%E7%A3%81/</url>
-    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
-<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
-<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
-<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2877,6 +2912,22 @@
       </categories>
       <tags>
         <tag>science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>磁</title>
+    <url>/2021/06/01/%E7%A3%81/</url>
+    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
+<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
+<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
+<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2997,8 +3048,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>biology</tag>
       </tags>
@@ -3178,8 +3229,8 @@
 <p>看神雕时总以为自己是郭靖杨过，结果这次上机之后蓦然发现，自己像的是郭芙……………</p>
 ]]></content>
       <tags>
-        <tag>madness</tag>
         <tag>fun</tag>
+        <tag>madness</tag>
       </tags>
   </entry>
   <entry>
