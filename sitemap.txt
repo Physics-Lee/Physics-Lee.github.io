@@ -143,10 +143,10 @@ https://physics-lee.github.io/tags/war/
 https://physics-lee.github.io/tags/tools/
 https://physics-lee.github.io/tags/computational-neuroscience/
 https://physics-lee.github.io/tags/poem/
+https://physics-lee.github.io/tags/soccer/
 https://physics-lee.github.io/tags/video-game/
 https://physics-lee.github.io/tags/Life-Is-Strange/
 https://physics-lee.github.io/tags/family/
-https://physics-lee.github.io/tags/soccer/
 https://physics-lee.github.io/tags/math/
 https://physics-lee.github.io/tags/movie/
 https://physics-lee.github.io/tags/geometry/
@@ -160,8 +160,8 @@ https://physics-lee.github.io/tags/teaching/
 https://physics-lee.github.io/tags/social/
 https://physics-lee.github.io/tags/sports-science/
 https://physics-lee.github.io/tags/injury/
-https://physics-lee.github.io/tags/chaos/
 https://physics-lee.github.io/tags/history/
+https://physics-lee.github.io/tags/chaos/
 https://physics-lee.github.io/tags/feudalism/
 https://physics-lee.github.io/tags/drug/
 https://physics-lee.github.io/tags/history-of-science/
@@ -179,8 +179,8 @@ https://physics-lee.github.io/categories/raised-on-porn/
 https://physics-lee.github.io/categories/tools/
 https://physics-lee.github.io/categories/running/
 https://physics-lee.github.io/categories/poem/
-https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/soccer/
+https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/sex-trafficking/
 https://physics-lee.github.io/categories/teaching/
 https://physics-lee.github.io/categories/injury/

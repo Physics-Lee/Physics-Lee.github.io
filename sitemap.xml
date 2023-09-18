@@ -1257,6 +1257,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/tags/soccer/</loc>
+    <lastmod>2023-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/tags/video-game/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1272,13 +1279,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/family/</loc>
-    <lastmod>2023-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/soccer/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1376,14 +1376,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/chaos/</loc>
+    <loc>https://physics-lee.github.io/tags/history/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/history/</loc>
+    <loc>https://physics-lee.github.io/tags/chaos/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1511,14 +1511,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/video-game/</loc>
+    <loc>https://physics-lee.github.io/categories/soccer/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/soccer/</loc>
+    <loc>https://physics-lee.github.io/categories/video-game/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
