@@ -1,3 +1,6 @@
+https://physics-lee.github.io/2023/09/24/Zhizhen_Wang/
+https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/
+https://physics-lee.github.io/2023/09/03/Indecision/
 https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
 https://physics-lee.github.io/2023/09/18/My_Altitude_towards_Scientific_Misconduct/
 https://physics-lee.github.io/2022/09/30/The_Nobel_Prize_and_fMRI/
@@ -16,7 +19,6 @@ https://physics-lee.github.io/2020/04/25/George_Green/
 https://physics-lee.github.io/2023/09/11/Galois/
 https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/
 https://physics-lee.github.io/Video_Games/index.html
-https://physics-lee.github.io/2023/09/03/Indecision/
 https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/
 https://physics-lee.github.io/2022/09/23/%E6%97%A0%E9%A2%98/
 https://physics-lee.github.io/google6006d7edc401fe5a.html
@@ -155,11 +157,11 @@ https://physics-lee.github.io/tags/senior-high-school/
 https://physics-lee.github.io/tags/medicine/
 https://physics-lee.github.io/tags/psychology/
 https://physics-lee.github.io/tags/sex-trafficking/
+https://physics-lee.github.io/tags/injury/
 https://physics-lee.github.io/tags/travel/
 https://physics-lee.github.io/tags/teaching/
 https://physics-lee.github.io/tags/social/
 https://physics-lee.github.io/tags/sports-science/
-https://physics-lee.github.io/tags/injury/
 https://physics-lee.github.io/tags/chaos/
 https://physics-lee.github.io/tags/history/
 https://physics-lee.github.io/tags/feudalism/
@@ -182,7 +184,9 @@ https://physics-lee.github.io/categories/poem/
 https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/soccer/
 https://physics-lee.github.io/categories/sex-trafficking/
-https://physics-lee.github.io/categories/teaching/
 https://physics-lee.github.io/categories/injury/
+https://physics-lee.github.io/categories/teaching/
+https://physics-lee.github.io/categories/injury/running/
+https://physics-lee.github.io/categories/injury/running/basketball/
 https://physics-lee.github.io/categories/drug/
 https://physics-lee.github.io/categories/history-of-science/

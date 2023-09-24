@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2023/09/24/Zhizhen_Wang/</loc>
+    <lastmod>2023-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/</loc>
+    <lastmod>2023-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/09/03/Indecision/</loc>
+    <lastmod>2023-09-21</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/</loc>
     <lastmod>2023-09-18</lastmod>
   </url>
@@ -63,10 +75,6 @@
   <url>
     <loc>https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/</loc>
     <lastmod>2023-09-10</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/09/03/Indecision/</loc>
-    <lastmod>2023-09-07</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/</loc>
