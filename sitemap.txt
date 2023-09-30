@@ -1,5 +1,7 @@
+https://physics-lee.github.io/2023/09/21/Zhizhen_Wang/
+https://physics-lee.github.io/2023/09/29/%E4%B8%83%E5%BE%8B%C2%B7%E4%B8%AD%E7%A7%8B/
+https://physics-lee.github.io/2023/04/01/%E5%8F%A4%E4%BD%93%C2%B7%E9%BB%84%E5%B1%B1/
 https://physics-lee.github.io/2023/09/28/%E8%99%9E%E7%BE%8E%E4%BA%BA%C2%B7%E6%9E%95%E4%B8%8A/
-https://physics-lee.github.io/2023/09/24/Zhizhen_Wang/
 https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/
 https://physics-lee.github.io/2023/09/03/Indecision/
 https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
@@ -21,7 +23,7 @@ https://physics-lee.github.io/2023/09/11/Galois/
 https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/
 https://physics-lee.github.io/Video_Games/index.html
 https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/
-https://physics-lee.github.io/2022/09/23/%E6%97%A0%E9%A2%98/
+https://physics-lee.github.io/2022/09/23/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/
 https://physics-lee.github.io/google6006d7edc401fe5a.html
 https://physics-lee.github.io/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/
 https://physics-lee.github.io/about/index.html
@@ -68,7 +70,6 @@ https://physics-lee.github.io/2022/06/10/%E5%86%99%E5%86%99war3/
 https://physics-lee.github.io/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/
 https://physics-lee.github.io/2023/05/01/%E5%93%88%E5%93%88/
 https://physics-lee.github.io/2022/11/15/%E9%AA%82%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/
-https://physics-lee.github.io/2023/04/01/%E4%B8%83%E7%BB%9D%C2%B7%E9%BB%84%E5%B1%B1/
 https://physics-lee.github.io/2022/10/25/%E7%A7%A6%E5%A6%87%E5%90%9F%E7%9A%84%E5%A4%B1%E4%BC%A0%E5%92%8C%E5%A4%8D%E5%BE%97/
 https://physics-lee.github.io/2022/10/25/%E6%97%A5%E6%9A%AE%E8%81%8A%E4%B8%BA%E7%A7%A6%E5%A6%87%E5%90%9F/
 https://physics-lee.github.io/2022/08/02/%E4%BD%95%E5%BA%94%E9%92%A6%E7%AD%BE%E8%BF%87%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%9D%A1%E7%BA%A6%EF%BC%9A%E4%BD%95%E6%A2%85%E5%8D%8F%E5%AE%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%99%8D%E4%B9%A6/
@@ -139,8 +140,8 @@ https://physics-lee.github.io/tags/scientific-misconduct/
 https://physics-lee.github.io/tags/AI/
 https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/biology/
-https://physics-lee.github.io/tags/rush/
 https://physics-lee.github.io/tags/biography/
+https://physics-lee.github.io/tags/rush/
 https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/war/
 https://physics-lee.github.io/tags/tools/
