@@ -123,8 +123,11 @@ https://physics-lee.github.io/2021/09/01/%E5%90%90%E6%A7%BD%E4%B8%80%E4%B8%8B%E7
 https://physics-lee.github.io/2022/08/10/with%20Xuanhao/
 https://physics-lee.github.io/404/index.html
 https://physics-lee.github.io/
-https://physics-lee.github.io/tags/romance/
+https://physics-lee.github.io/tags/fun/
 https://physics-lee.github.io/tags/science/
+https://physics-lee.github.io/tags/statistics/
+https://physics-lee.github.io/tags/love/
+https://physics-lee.github.io/tags/romance/
 https://physics-lee.github.io/tags/socialism/
 https://physics-lee.github.io/tags/running/
 https://physics-lee.github.io/tags/basketball/
@@ -138,12 +141,9 @@ https://physics-lee.github.io/tags/scientific-misconduct/
 https://physics-lee.github.io/tags/AI/
 https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/biology/
-https://physics-lee.github.io/tags/biography/
-https://physics-lee.github.io/tags/fun/
-https://physics-lee.github.io/tags/statistics/
-https://physics-lee.github.io/tags/love/
-https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/rush/
+https://physics-lee.github.io/tags/biography/
+https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/war/
 https://physics-lee.github.io/tags/tools/
 https://physics-lee.github.io/tags/computational-neuroscience/
@@ -181,8 +181,8 @@ https://physics-lee.github.io/categories/nationalism/
 https://physics-lee.github.io/categories/capitalism/
 https://physics-lee.github.io/categories/biography/
 https://physics-lee.github.io/categories/raised-on-porn/
-https://physics-lee.github.io/categories/running/
 https://physics-lee.github.io/categories/tools/
+https://physics-lee.github.io/categories/running/
 https://physics-lee.github.io/categories/poem/
 https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/soccer/
