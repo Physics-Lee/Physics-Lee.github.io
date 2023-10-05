@@ -22,7 +22,7 @@ https://physics-lee.github.io/2022/12/11/Liverpool_and_Socialism/
 https://physics-lee.github.io/2020/04/25/George_Green/
 https://physics-lee.github.io/2023/09/11/Galois/
 https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/
-https://physics-lee.github.io/Video_Games/index.html
+https://physics-lee.github.io/Games/index.html
 https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/
 https://physics-lee.github.io/2022/09/23/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/
 https://physics-lee.github.io/google6006d7edc401fe5a.html
@@ -165,8 +165,8 @@ https://physics-lee.github.io/tags/travel/
 https://physics-lee.github.io/tags/teaching/
 https://physics-lee.github.io/tags/social/
 https://physics-lee.github.io/tags/sports-science/
-https://physics-lee.github.io/tags/chaos/
 https://physics-lee.github.io/tags/history/
+https://physics-lee.github.io/tags/chaos/
 https://physics-lee.github.io/tags/feudalism/
 https://physics-lee.github.io/tags/drug/
 https://physics-lee.github.io/tags/history-of-science/
