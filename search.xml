@@ -288,21 +288,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Cook Inspirations</title>
-    <url>/2021/02/01/Cook_Inspirations/</url>
-    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
-<p>答：剪应力比正向应力更容易让物体断裂。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>cook</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>David Marr如果生在今天，是否还会相信最新的心理学研究？</title>
     <url>/2022/12/30/David_Marr_and_Psychology/</url>
     <content><![CDATA[<p>2022SA，我走马观花地读了一遍David Marr的Vision。</p>
@@ -441,6 +426,27 @@
       </tags>
   </entry>
   <entry>
+    <title>争夺优先权</title>
+    <url>/2023/10/07/Fight_for_Priority/</url>
+    <content><![CDATA[<p>突然很想让全世界都知道我是第一个发现世界杯所有进球符合泊松过程的人。</p>
+<p>后来又觉得这很傻——很多前人早就知道它符合泊松过程，只是他们没搞到世界杯的全部数据；没有kaggle上那位老哥的无私分享，我什么也做不出来。</p>
+<p>就算我做出的是震古烁今的研究，微积分、万有引力定律、最小作用量原理、最小二乘法，难道我就要去争夺优先权了吗？</p>
+<p>小学的我觉得牛顿和莱布尼茨争、和胡克争，很傻，后世自有公论，但没想到大学的我反而不如小学了，做了一点小东西就迫不及待地宣告天下。</p>
+<p>静下心来，仔细思考——争夺优先权是很傻的，传播知识是很酷的。</p>
+<p>我当然不希望别人抢走我的发现，但是如果我设立优先权阻碍了知识的传播，那我宁可不设。</p>
+<p>我当然希望挣更多的钱，但是如果我申请专利阻碍了更多人使用，那我宁可不申。</p>
+<blockquote>
+<p>如果全人类都毁灭了，你们俩的那点荣誉还算个屁！</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片误用</title>
     <url>/2021/01/21/Figure_Misuse/</url>
     <content><![CDATA[<p>不要B脸。</p>
@@ -534,6 +540,38 @@
       </tags>
   </entry>
   <entry>
+    <title>Hausidoff et al.</title>
+    <url>/2021/10/06/Hausidoff/</url>
+    <content><![CDATA[<p>今天我又看到一些令人唏嘘的故事：</p>
+<p>Stefan Banach 1892-1945：波兰数学家。自学成才。好不容易活过二战，但在1945年因肺癌去世。</p>
+<p>Felix Hausidoff 1868-1942：德国数学家。犹太人。1942年在被送往集中营前服毒自杀。</p>
+<p>Richard Courant 1888-1972：德国数学家。犹太人。和希尔伯特合写过一本数理方程的教材。对有限元有很大贡献。1933年逃离德国。</p>
+<p>Nelly Neumann 1886-1942：德国数学家。第一批在德国取得博士学位的女性之一。Courant的第一任妻子。犹太人。1942年在明斯克遇害。</p>
+]]></content>
+      <categories>
+        <category>biography</category>
+      </categories>
+      <tags>
+        <tag>biography</tag>
+        <tag>war</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cook Inspirations</title>
+    <url>/2021/02/01/Cook_Inspirations/</url>
+    <content><![CDATA[<p>问：用刀切肉类、蔬菜时，从上向下并且从后向前用力比单纯从上向下用力更容易把物体切断，这是为什么？</p>
+<p>答：剪应力比正向应力更容易让物体断裂。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>cook</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Hexo + Next + GitHub Pages搭建个人网站</title>
     <url>/2023/09/03/Hexo_Next_GitHub-Pages/</url>
     <content><![CDATA[<h1 id="迅速上手"><a href="#迅速上手" class="headerlink" title="迅速上手"></a>迅速上手</h1><p>先跟着<a href="https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.337.search-card.all.click&vd_source=7f7311e573a7f2a9bab48f7645a4e660">这个视频</a>迅速走一遍完整流程。</p>
@@ -577,23 +615,6 @@
       </categories>
       <tags>
         <tag>tools</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hausidoff et al.</title>
-    <url>/2021/10/06/Hausidoff/</url>
-    <content><![CDATA[<p>今天我又看到一些令人唏嘘的故事：</p>
-<p>Stefan Banach 1892-1945：波兰数学家。自学成才。好不容易活过二战，但在1945年因肺癌去世。</p>
-<p>Felix Hausidoff 1868-1942：德国数学家。犹太人。1942年在被送往集中营前服毒自杀。</p>
-<p>Richard Courant 1888-1972：德国数学家。犹太人。和希尔伯特合写过一本数理方程的教材。对有限元有很大贡献。1933年逃离德国。</p>
-<p>Nelly Neumann 1886-1942：德国数学家。第一批在德国取得博士学位的女性之一。Courant的第一任妻子。犹太人。1942年在明斯克遇害。</p>
-]]></content>
-      <categories>
-        <category>biography</category>
-      </categories>
-      <tags>
-        <tag>biography</tag>
-        <tag>war</tag>
       </tags>
   </entry>
   <entry>
@@ -827,30 +848,8 @@
       </tags>
   </entry>
   <entry>
-    <title>怀念跑步</title>
-    <url>/2023/10/06/Miss_Running/</url>
-    <content><![CDATA[<p>路过操场的某个瞬间，突然开始怀念跑步。</p>
-<p>怀念风如霹雳般打在脸上的感觉。</p>
-<p>怀念大腿的酸痛感。</p>
-<p>怀念清冷的空气吸进鼻腔。</p>
-<p>怀念冲锋时拼命把沉重的腿向前送，像凌波一样点地。</p>
-<p>怀念一次又一次地交替送髋向前，如同分针和秒针。</p>
-<p>怀念一次又一次地突破PB，虽然是无人知晓的胜利。</p>
-<p>回首从前，我是那么的挥霍天赋。</p>
-<p>这次，我会重视力训，确保不再受伤，然后再图PB。</p>
-]]></content>
-      <categories>
-        <category>running</category>
-        <category>injury</category>
-      </categories>
-      <tags>
-        <tag>running</tag>
-        <tag>injury</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我对学术不端的看法 (My Attitude towards Scientific Misconduct)</title>
-    <url>/2023/09/18/My_Altitude_towards_Scientific_Misconduct/</url>
+    <url>/2023/09/18/My_Attitude_towards_Scientific_Misconduct/</url>
     <content><![CDATA[<h1 id="大物实验、科研实验"><a href="#大物实验、科研实验" class="headerlink" title="大物实验、科研实验"></a>大物实验、科研实验</h1><p>最近，在QQ空间里读到几位学弟学妹写的<del>《大物实验指南》</del>《大雾实验不完全指北》。</p>
 <p>总体来说，这篇指南写得是相当好的，价值观也很正，但是其中涉及到数据造假的部分，我个人认为应该修改一下。</p>
 <p>原文如下：</p>
@@ -916,6 +915,28 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怀念跑步</title>
+    <url>/2023/10/06/Miss_Running/</url>
+    <content><![CDATA[<p>路过操场的某个瞬间，突然开始怀念跑步。</p>
+<p>怀念风如霹雳般打在脸上的感觉。</p>
+<p>怀念大腿的酸痛感。</p>
+<p>怀念清冷的空气吸进鼻腔。</p>
+<p>怀念冲锋时拼命把沉重的腿向前送，像凌波一样点地。</p>
+<p>怀念一次又一次地交替送髋向前，如同分针和秒针。</p>
+<p>怀念一次又一次地突破PB，虽然是无人知晓的胜利。</p>
+<p>回首从前，我是那么的挥霍天赋。</p>
+<p>这次，我会重视力训，确保不再受伤，然后再图PB。</p>
+]]></content>
+      <categories>
+        <category>running</category>
+        <category>injury</category>
+      </categories>
+      <tags>
+        <tag>running</tag>
+        <tag>injury</tag>
       </tags>
   </entry>
   <entry>
@@ -1488,6 +1509,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Traffickinghub_Exodus Cry</title>
+    <url>/2022/04/15/Traffickinghub_Exodus%20Cry/</url>
+    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2020-06-30</p>
+<p><a href="https://www.youtube.com/watch?v=20x9xEzlODU">Traffickinghub</a></p>
+]]></content>
+      <categories>
+        <category>anti illegal pornography</category>
+        <category>capitalism</category>
+        <category>sex trafficking</category>
+      </categories>
+      <tags>
+        <tag>anti illegal pornography</tag>
+        <tag>capitalism</tag>
+        <tag>sex trafficking</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三个快要被学术造假毁掉的学科</title>
     <url>/2022/12/01/Three_Disciplines_on_the_Verge_of_Being_Destroyed_by_Scientific_Fraud/</url>
     <content><![CDATA[<p>学术造假已经快要毁了生物学、医学、心理学这三个学科。</p>
@@ -1509,24 +1548,6 @@
         <tag>biology</tag>
         <tag>medicine</tag>
         <tag>psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Traffickinghub_Exodus Cry</title>
-    <url>/2022/04/15/Traffickinghub_Exodus%20Cry/</url>
-    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2020-06-30</p>
-<p><a href="https://www.youtube.com/watch?v=20x9xEzlODU">Traffickinghub</a></p>
-]]></content>
-      <categories>
-        <category>anti illegal pornography</category>
-        <category>capitalism</category>
-        <category>sex trafficking</category>
-      </categories>
-      <tags>
-        <tag>anti illegal pornography</tag>
-        <tag>capitalism</tag>
-        <tag>sex trafficking</tag>
       </tags>
   </entry>
   <entry>
@@ -1835,19 +1856,6 @@
       </tags>
   </entry>
   <entry>
-    <title>七绝·新冠</title>
-    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
-    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
-<p>我为少壮无何惧，只恐潘杨难过关。</p>
-]]></content>
-      <categories>
-        <category>poem</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上大学前 vs 上大学后</title>
     <url>/2022/11/17/%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%20vs%20%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%8E/</url>
     <content><![CDATA[<h1 id="上大学前-vs-上大学后"><a href="#上大学前-vs-上大学后" class="headerlink" title="上大学前 vs 上大学后"></a>上大学前 vs 上大学后</h1><p>上大学前我只知道ADC指的是它们</p>
@@ -1931,6 +1939,22 @@
       </tags>
   </entry>
   <entry>
+    <title>世界很大，不要藏着掖着</title>
+    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
+    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>USTC</tag>
+        <tag>teaching</tag>
+        <tag>social</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>上海某所</title>
     <url>/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/</url>
     <content><![CDATA[<h1 id="2023-08-14"><a href="#2023-08-14" class="headerlink" title="2023-08-14"></a>2023-08-14</h1><p>12、13两日，去上海某个做生物的所拜访了一下，所见真是让我“大开眼界”。</p>
@@ -1970,8 +1994,8 @@
 </ul>
 ]]></content>
       <categories>
-        <category>socialism</category>
         <category>scientific misconduct</category>
+        <category>socialism</category>
         <category>capitalism</category>
       </categories>
       <tags>
@@ -1982,19 +2006,16 @@
       </tags>
   </entry>
   <entry>
-    <title>世界很大，不要藏着掖着</title>
-    <url>/2022/09/01/%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%97%8F%E7%9D%80%E6%8E%96%E7%9D%80/</url>
-    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+    <title>七绝·新冠</title>
+    <url>/2022/12/15/%E4%B8%83%E7%BB%9D%C2%B7%E6%96%B0%E5%86%A0/</url>
+    <content><![CDATA[<p>岁末阴阳摧肺肝，归家留校俱难安。</p>
+<p>我为少壮无何惧，只恐潘杨难过关。</p>
 ]]></content>
       <categories>
-        <category>science</category>
-        <category>teaching</category>
+        <category>poem</category>
       </categories>
       <tags>
-        <tag>science</tag>
-        <tag>USTC</tag>
-        <tag>teaching</tag>
-        <tag>social</tag>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -2281,23 +2302,6 @@
       </tags>
   </entry>
   <entry>
-    <title>剑桥晶体学数据库被污染事件_马督工</title>
-    <url>/2022/11/14/%E5%89%91%E6%A1%A5%E6%99%B6%E4%BD%93%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A2%AB%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6_%E9%A9%AC%E7%9D%A3%E5%B7%A5/</url>
-    <content><![CDATA[<p>Producer: 马督工</p>
-<p>Publish Date: 2022-11-14</p>
-<iframe src="//player.bilibili.com/player.html?aid=987516936&bvid=BV1rt4y1P73N&cid=890556288&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<hr>
-<p>Comment: 这个视频很适合给学术圈之外的人介绍什么是学术造假以及中国学术界学术造假的现状。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>力量训练到底能否降低受伤频率？</title>
     <url>/2023/09/01/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E5%88%B0%E5%BA%95%E8%83%BD%E5%90%A6%E9%99%8D%E4%BD%8E%E5%8F%97%E4%BC%A4%E9%A2%91%E7%8E%87%EF%BC%9F/</url>
     <content><![CDATA[<p>多年来，我一直听说过一种说法：加强力量训练可以减少在跑步、足球、篮球中受伤的频率。</p>
@@ -2321,6 +2325,23 @@
       <tags>
         <tag>science</tag>
         <tag>sports science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>剑桥晶体学数据库被污染事件_马督工</title>
+    <url>/2022/11/14/%E5%89%91%E6%A1%A5%E6%99%B6%E4%BD%93%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A2%AB%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6_%E9%A9%AC%E7%9D%A3%E5%B7%A5/</url>
+    <content><![CDATA[<p>Producer: 马督工</p>
+<p>Publish Date: 2022-11-14</p>
+<iframe src="//player.bilibili.com/player.html?aid=987516936&bvid=BV1rt4y1P73N&cid=890556288&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<hr>
+<p>Comment: 这个视频很适合给学术圈之外的人介绍什么是学术造假以及中国学术界学术造假的现状。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -2583,6 +2604,21 @@
       </tags>
   </entry>
   <entry>
+    <title>在清华生院2022年毕业典礼上的讲话_王志珍</title>
+    <url>/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/</url>
+    <content><![CDATA[<blockquote>
+<p>最后顺便提一句，last, but not least，最最起码的，千万不能搞什么“图片误用”！</p>
+</blockquote>
+<p><a href="http://zhishifenzi.com/news/multiple/12423.html">全文</a>。</p>
+]]></content>
+      <categories>
+        <category>scientific misconduct</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>诺兰新片Oppenheimer</title>
     <url>/2023/06/14/%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%92%8C%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/</url>
     <content><![CDATA[<p>今天看了诺兰新片<em>Oppenheimer</em>的预告片，质量极高，这部电影很可能会让诺兰终拿奥斯卡奖。诺兰的黑暗骑士、盗梦空间，我都甚爱。</p>
@@ -2621,21 +2657,6 @@
         <tag>physics</tag>
         <tag>family</tag>
         <tag>movie</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在清华生院2022年毕业典礼上的讲话_王志珍</title>
-    <url>/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/</url>
-    <content><![CDATA[<blockquote>
-<p>最后顺便提一句，last, but not least，最最起码的，千万不能搞什么“图片误用”！</p>
-</blockquote>
-<p><a href="http://zhishifenzi.com/news/multiple/12423.html">全文</a>。</p>
-]]></content>
-      <categories>
-        <category>scientific misconduct</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -2755,18 +2776,6 @@
       </tags>
   </entry>
   <entry>
-    <title>批评科大的卖弱</title>
-    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
-    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
-<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
-<p>连一个字都不能信。</p>
-]]></content>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>徐州八孩事件</title>
     <url>/2022/05/01/%E5%BE%90%E5%B7%9E%E5%85%AB%E5%AD%A9%E4%BA%8B%E4%BB%B6/</url>
     <content><![CDATA[<p>我突然明白过来——这是中国的sex trafficking。</p>
@@ -2778,6 +2787,18 @@
       <tags>
         <tag>capitalism</tag>
         <tag>sex trafficking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>批评科大的卖弱</title>
+    <url>/2018/11/29/%E6%89%B9%E8%AF%84%E7%A7%91%E5%A4%A7%E7%9A%84%E5%8D%96%E5%BC%B1/</url>
+    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
+<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
+<p>连一个字都不能信。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -3141,6 +3162,22 @@
       </tags>
   </entry>
   <entry>
+    <title>磁</title>
+    <url>/2021/06/01/%E7%A3%81/</url>
+    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
+<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
+<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
+<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何解决知识越来越多，人类似乎一辈子才能到一个小领域的前沿这一问题？</title>
     <url>/2023/05/30/%E7%9F%A5%E8%AF%86%E7%94%A8%E4%B8%80%E8%BE%88%E5%AD%90%E9%83%BD%E5%AD%A6%E4%B8%8D%E5%AE%8C%EF%BC%9F/</url>
     <content><![CDATA[<p>这个问题似乎很火。</p>
@@ -3177,53 +3214,6 @@
       </tags>
   </entry>
   <entry>
-    <title>磁</title>
-    <url>/2021/06/01/%E7%A3%81/</url>
-    <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
-<p>初中、高中：我知道了磁铁、指南针的磁场都是由电流产生的。</p>
-<p>大一：我知道了抗磁体、顺磁体、铁磁体的定性model。</p>
-<p>大三：抗磁体、顺磁体、铁磁体在热统中又出场了，我们终于有了一些定量model。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科学界视角下的社会主义</title>
-    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
-    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
-<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
-<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
-<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
-<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
-<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
-<p>但我的内心的天平已经向社会主义倾斜。</p>
-<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
-<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
-<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
-<p>而人类的发展显然是科学界推动的，那也就是说…</p>
-<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
-<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
-<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
-<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
-<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
-<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>socialism</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>socialism</tag>
-        <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>科学史相关</title>
     <url>/2023/03/01/%E7%A7%91%E5%AD%A6%E5%8F%B2%E7%9B%B8%E5%85%B3/</url>
     <content><![CDATA[<h1 id="2018-10-见潘建伟"><a href="#2018-10-见潘建伟" class="headerlink" title="2018-10 见潘建伟"></a>2018-10 见潘建伟</h1><p>我：您刚才说您对科学技术史也比较感兴趣？我有个比较简单的问题想问您。</p>
@@ -3257,6 +3247,37 @@
       </categories>
       <tags>
         <tag>history of science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>科学界视角下的社会主义</title>
+    <url>/2023/06/12/%E7%A7%91%E5%AD%A6%E7%95%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</url>
+    <content><![CDATA[<p>2022年夏天，我返回科大的那天上午，Mr. Ran塞给我一本《共产党宣言》，我在高铁和飞机上看完了这本小册子。</p>
+<p>我并不喜欢《共产党宣言》(1848)，因为恩格斯写的时候用了反讽的手法，阴阳怪气，很多地方我都看不懂他到底要说啥。</p>
+<p>但是Mr. Ran给我的书里有两个附录，<a href="https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1847-6-9.htm">《共产主义信条草案》</a>和<a href="https://www.marxists.org/chinese/history-of-communism/02/173.htm">《共产主义原理》</a>。这两篇文章很短，大概十来分钟就能看完。重点是，它们是问答式的，而且完全没有阴阳怪气。恩格斯想象有人提出问题，比如说，“你们共产党是不是要搞共妻制？”、“你们共产党是不是要拆散家庭？“、“你们共产党打算如何实现你们的目标？“，而后恩格斯一一对这些问题进行解答。</p>
+<p>和Mr. Ran, Mr. Hui的交流，以及看这些书，<strong>冲淡了我内心强烈的民族主义</strong>。回顾过去，我的民族主义肇始于小学初中时读的《明朝那些事儿》，我很喜欢这套书，读了有十几遍吧。<strong>这套书塑造了我内心极其强烈的民族主义</strong>。</p>
+<p>和他们的交流，以及看这些书，解答了从儿童和青少年时期困扰了我多年的几个问题，谢谢他们。</p>
+<p>可惜我依旧不是社会主义者。因为，说实话，我没觉得民族主义有什么错，我之所以这么爱锻炼，民族主义功不可没。另一方面，实话实说，我认可资本主义的某些观念，比如资本主义的家庭观，比如资本主义的自由竞争。</p>
+<p>但我的内心的天平已经向社会主义倾斜。</p>
+<p>因为我发现科学界有一点和社会主义的基本逻辑极其相似，有一点和资本主义的基本逻辑极其矛盾。</p>
+<p>科学界的每个人几乎都认可——知识属于全人类，即知识公有制。这和社会主义的关系自不必说。</p>
+<p>科学界的每个人几乎都认可——要争个对错。然而，资本主义、市场经济的基本逻辑是：Instead of doing what is right, we will do what the market want.</p>
+<p>而人类的发展显然是科学界推动的，那也就是说…</p>
+<p>我不喜欢政治，但我们每个人都身处在政治之中，思考这些是有利的。</p>
+<p>虽说几乎每个人都认可知识属于全人类，但学术圈距离open science还很远。</p>
+<p>2022-2023，我先后听说了Michael Eisen的两大著名事迹：</p>
+<p>2000年，我出生的那一年，<a href="https://en.wikipedia.org/wiki/Michael_Eisen">他和另外两人牵头写了一封请愿书</a>，这份请愿书呼吁所有科学家承诺，从2001年9月起，他们将停止向没有向所有人免费提供论文全文的期刊投稿。可惜的是，尽管数万人签署了请愿书，但大多数人并没有按照请愿书的条款行事。在我眼里，任何人都有权利学习知识，可惜很多人被挡在了科学的高墙之外。</p>
+<p>2022-2023，<a href="https://www.nature.com/articles/d41586-023-00831-6">他牵头了eLife改革</a>。eLife在同行评议后不再拒绝文章发表，而是会把评议意见附在文后，并且允许公众对文章进行评论。在我眼里，同行评审已经走到穷途末路，Eisen给出的解决方案是科学界的未来。这次他或许会失败，但历史会记住他所做的一切。</p>
+<p>看来我这二十三年就是Eisen追求open science的二十三年。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>socialism</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>socialism</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -3482,6 +3503,46 @@
       </tags>
   </entry>
   <entry>
+    <title>金属阳离子淹没在自由电子的海洋里</title>
+    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
+    <content><![CDATA[<ul>
+<li><p>高中：Drude model </p>
+<ul>
+<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
+<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
+<li>热运动速率~10^5m&#x2F;s</li>
+<li>定向运动建立的速率&#x3D;c（c为光速）</li>
+</ul>
+</li>
+<li><p>大一：Drude model </p>
+<ul>
+<li>我在电磁学里又学了一遍上一段话。</li>
+</ul>
+</li>
+<li><p>大三：</p>
+<ul>
+<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
+<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>有一次，我和固体物理老师聊天。</p>
+<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
+<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
+<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
+]]></content>
+      <categories>
+        <category>science</category>
+        <category>teaching</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>senior high school</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>钱学森的对粮食亩产量的估计为什么多了两个数量级？</title>
     <url>/2023/08/28/%E9%92%B1%E5%AD%A6%E6%A3%AE%E7%9A%84%E5%AF%B9%E7%B2%AE%E9%A3%9F%E4%BA%A9%E4%BA%A7%E9%87%8F%E7%9A%84%E4%BC%B0%E8%AE%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%9A%E4%BA%86%E4%B8%A4%E4%B8%AA%E6%95%B0%E9%87%8F%E7%BA%A7%EF%BC%9F/</url>
     <content><![CDATA[<h1 id="钱学森的原文"><a href="#钱学森的原文" class="headerlink" title="钱学森的原文"></a>钱学森的原文</h1><p>暑假第一天，我和堂弟偶然讨论到钱学森估计粮食亩产量的事情。这事我很小时候就听说了，这次我决定认真调查一下。</p>
@@ -3614,46 +3675,6 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>金属阳离子淹没在自由电子的海洋里</title>
-    <url>/2021/06/01/%E9%87%91%E5%B1%9E%E9%98%B3%E7%A6%BB%E5%AD%90%E6%B7%B9%E6%B2%A1%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B5%E5%AD%90%E7%9A%84%E6%B5%B7%E6%B4%8B%E9%87%8C/</url>
-    <content><![CDATA[<ul>
-<li><p>高中：Drude model </p>
-<ul>
-<li>金属可以看成“金属阳离子淹没在自由电子的海洋里”</li>
-<li>自由电子的定向运动速率~0.1mm&#x2F;s</li>
-<li>热运动速率~10^5m&#x2F;s</li>
-<li>定向运动建立的速率&#x3D;c（c为光速）</li>
-</ul>
-</li>
-<li><p>大一：Drude model </p>
-<ul>
-<li>我在电磁学里又学了一遍上一段话。</li>
-</ul>
-</li>
-<li><p>大三：</p>
-<ul>
-<li>Sommerfeld model: 即把Drude model中的自由电子气体看成费米气体而非经典气体</li>
-<li>能带model: 即考虑正离子对电子的影响（Drude model、Sommerfeld model都忽略了正离子对电子的影响）</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>有一次，我和固体物理老师聊天。</p>
-<p>我：在我的脑海里，Drude model根深蒂固、非常真实，“金属阳离子淹没在自由电子的海洋里”这句话就和水能喝、猫吃老鼠、太阳从东边升起一样是颠扑不破的真理。</p>
-<p>老师：你为什么会觉得它非常真实呢？它都忽略了正离子对电子的影响，怎么可能是真实的呢？</p>
-<p>后来我回去仔细思考了一下，之所以我的脑海了认定它是真的，是因为这是高中学的，那个时候我必须这么想，否则不能又快又准地刷题。</p>
-]]></content>
-      <categories>
-        <category>science</category>
-        <category>teaching</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
