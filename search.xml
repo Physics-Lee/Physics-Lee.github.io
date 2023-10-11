@@ -47,6 +47,20 @@
       </tags>
   </entry>
   <entry>
+    <title>你更喜欢鲨鱼还是海豚？</title>
+    <url>/2023/10/09/Shark_vs_Dolphin/</url>
+    <content><![CDATA[<p>我发现了一个奇怪的现象：</p>
+<p>当我问我身边的朋友，他们更喜欢鲨鱼还是海豚时，喜欢海豚的人更多。</p>
+<p>但是当我在淘宝和京东上搜索鲨鱼玩偶和海豚玩偶时，前者的销量是$10^4$的数量级，后者的销量是$10^2$的数量级。</p>
+<p>为什么会这样呢？</p>
+<hr>
+<p><a href="https://chat.openai.com/share/8ad1e2b9-6888-4591-82bc-15d9b9b984da">GPT-4对此问题的回答</a>。</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>怀念跑步</title>
     <url>/2023/10/06/Miss_Running/</url>
     <content><![CDATA[<p>路过操场的某个瞬间，突然开始怀念跑步。</p>
@@ -432,8 +446,8 @@
 <p>The porn industry has hit a wall, there won’t be much more explicit stimulation than pornographic videos for decades to come (Of course new technologies like VR and AIGC can be used to produce porn, but they are not much more provocative than porn videos). Although our generation is raised on porn, the change in western countries can benefit children in the next few decades!</p>
 ]]></content>
       <categories>
-        <category>capitalism</category>
         <category>raised on porn</category>
+        <category>capitalism</category>
       </categories>
       <tags>
         <tag>capitalism</tag>
@@ -650,16 +664,14 @@
   </entry>
   <entry>
     <title>随笔：和祖辈的谈话</title>
-    <url>/2023/08/25/Essay_Talking-to-my-grandparents/</url>
+    <url>/2023/08/25/Essay_Talk-to-my-grandparents/</url>
     <content><![CDATA[<h1 id="时代"><a href="#时代" class="headerlink" title="时代"></a>时代</h1><p>回家的这些天，我和爷爷（出生于1954），奶奶（1954），爷爷的姐姐（1947），爷爷的两位妹妹（1957, 1961）聊了聊天。奶奶是小学文化（她一直对此很难过），其它四位都是高中文化。</p>
 <p>我问他们：作为同时经历过两个时代的人，你更喜欢公有制还是私有制。</p>
 <p>有点出乎我的意料的是——他们都认为，公有制和私有制各有各的好。</p>
-<p>爷爷的姐姐在1958年已经11岁了，有终生记忆了。她告诉我，我们这里（吉林省）的大锅饭实行了1年就停了。</p>
-<p>爷爷还和我讨论了他对彭德怀、邓小平的看法。</p>
 <p>他们各自有各自的角度，在此不赘述。</p>
 <h1 id="谦逊"><a href="#谦逊" class="headerlink" title="谦逊"></a>谦逊</h1><p>他们每个人的话都让我思索良多。</p>
 <p>除此之外，我意识到我应该保持谦虚。</p>
-<p>我以前从没有和他们聊过这些，没想到他们也都有一些深邃的见解。想来，资本主义、社会主义、私有制、公有制，这些东西，初中文化也就可以理解了，甚至于，哪怕没上过小学也能提出一些见解。</p>
+<p>我以前从没有和他们聊过这些，没想到他们也都有一些深邃的见解。想来，资本主义、社会主义、私有制、公有制这些东西，初中文化也就可以理解了，甚至于，哪怕没上过小学也能提出一些见解。</p>
 <p>我想起实验室的一位师兄对我说的话：</p>
 <blockquote>
 <p>阻碍人类进步的，不是弱小和无知，而是傲慢和自大。对个体也是一样。</p>
@@ -703,9 +715,9 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>family</tag>
       </tags>
@@ -1034,8 +1046,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -1152,8 +1164,8 @@
         <category>running</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>socialism</tag>
         <tag>running</tag>
       </tags>
@@ -1429,7 +1441,7 @@
   </entry>
   <entry>
     <title>随笔：和一位警察朋友的谈话</title>
-    <url>/2023/02/01/Essay_Talking-to-a-policeman-friend/</url>
+    <url>/2023/02/01/Essay_Talk-to-a-policeman-friend/</url>
     <content><![CDATA[<h1 id="无奈"><a href="#无奈" class="headerlink" title="无奈"></a>无奈</h1><p>最近，我去拜访了我的一位警察朋友。他那里有两本厚厚的刑法。</p>
 <p>我们讨论了很多犯罪，包括毒品、人口贩卖&#x2F;性贩卖、卖淫、网络色情。</p>
 <p>我深深的感到了制定法律者的苦心和无奈。</p>
@@ -1442,8 +1454,8 @@
       <categories>
         <category>anti illegal pornography</category>
         <category>socialism</category>
-        <category>capitalism</category>
         <category>raised on porn</category>
+        <category>capitalism</category>
         <category>sex trafficking</category>
         <category>drug</category>
       </categories>
@@ -1626,10 +1638,10 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>math</tag>
       </tags>
@@ -1668,10 +1680,10 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>math</tag>
       </tags>
@@ -1907,8 +1919,8 @@
         <category>scientific misconduct</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>scientific misconduct</tag>
       </tags>
   </entry>
@@ -1967,8 +1979,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>biology</tag>
       </tags>
@@ -2425,8 +2437,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -2773,8 +2785,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>senior high school</tag>
       </tags>
   </entry>
@@ -2970,8 +2982,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>statistics</tag>
         <tag>love</tag>
       </tags>
@@ -3168,8 +3180,8 @@
 </ul>
 ]]></content>
       <categories>
-        <category>capitalism</category>
         <category>raised on porn</category>
+        <category>capitalism</category>
       </categories>
       <tags>
         <tag>capitalism</tag>
@@ -3185,8 +3197,8 @@
 
 ]]></content>
       <categories>
-        <category>capitalism</category>
         <category>raised on porn</category>
+        <category>capitalism</category>
       </categories>
       <tags>
         <tag>capitalism</tag>
@@ -3212,8 +3224,8 @@
 ]]></content>
       <categories>
         <category>anti illegal pornography</category>
-        <category>capitalism</category>
         <category>raised on porn</category>
+        <category>capitalism</category>
       </categories>
       <tags>
         <tag>anti illegal pornography</tag>
@@ -3516,8 +3528,8 @@
         <category>video game</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>video game</tag>
         <tag>chaos</tag>
       </tags>
@@ -3960,8 +3972,8 @@
         <category>science</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>physics</tag>
       </tags>
   </entry>

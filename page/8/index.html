@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-count">122</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,159 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/10/01/P_choose-n-from-52/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/10/01/P_choose-n-from-52/" class="post-title-link" itemprop="url">P_choose n from 52 (炸金花)</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-10-01 00:00:00" itemprop="dateCreated datePublished" datetime="2022-10-01T00:00:00+08:00">2022-10-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>273</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="52选3，4种花，13种点"><a href="#52选3，4种花，13种点" class="headerlink" title="52选3，4种花，13种点"></a>52选3，4种花，13种点</h1><table>
+<thead>
+<tr>
+<th>name</th>
+<th>P</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>三个相同</td>
+<td>$\frac{C_{13}^1 \cdot C_4^3}{C_{52}^{3}}&#x3D;\frac{52}{22100}$</td>
+</tr>
+<tr>
+<td>同花顺</td>
+<td>$\frac{C_{4}^1 \cdot C_{13-2}^1}{C_{52}^{3}}&#x3D;\frac{44}{22100}$</td>
+</tr>
+<tr>
+<td>同花且去除同花顺</td>
+<td>$\frac{C_4^1 \cdot C_{13}^3}{C_{52}^{3}} - \frac{44}{22100}&#x3D;\frac{1100}{22100}$</td>
+</tr>
+<tr>
+<td>顺子且去除同花顺</td>
+<td>$\frac{C_{11}^{1} \cdot {C_4^1}^3}{C_{52}^{3}} - \frac{44}{22100} &#x3D;\frac{660}{22100}$</td>
+</tr>
+<tr>
+<td>仅两个相同</td>
+<td>$\frac{C_{13}^1 \cdot C_4^2 \cdot C_{48}^1}{C_{52}^{3}}&#x3D;\frac{3744}{22100}$</td>
+</tr>
+<tr>
+<td>仅一个相同</td>
+<td>$\frac{C_{52}^{1} \cdot C_{48}^{1} \cdot C_{44}^{1}}{C_{52}^{3}} - \frac{1100}{22100} - \frac{660}{22100} - \frac{44}{22100} &#x3D;\frac{16500}{22100}$</td>
+</tr>
+</tbody></table>
+<h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><ul>
+<li>一个牌等价于一个元素，一个属性等价于一个集合</li>
+<li>花、点是两个属性&#x2F;集合</li>
+<li>因此，花同（同花）、点同、花顺、点顺（顺子）的概率都可以计算，结果如下 ($1 \le n \le 4$)</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>name</th>
+<th>P</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>花同（同花）</td>
+<td>$\frac{C_{4}^1 \cdot C_{13}^n}{C_{52}^{n}}$</td>
+</tr>
+<tr>
+<td>点同</td>
+<td>$\frac{C_{13}^1 \cdot C_{4}^n}{C_{52}^{n}}$</td>
+</tr>
+<tr>
+<td>花顺</td>
+<td>$\frac{C_{5-n}^1 \cdot {C_{13}^{1}}^n}{C_{52}^{n}}$</td>
+</tr>
+<tr>
+<td>点顺（顺子）</td>
+<td>$\frac{C_{14-n}^1 \cdot {C_{4}^{1}}^n}{C_{52}^{n}}$</td>
+</tr>
+</tbody></table>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -1210,105 +1363,6 @@
 <p>在频率学派眼里，H0要么成立要么不成立，不可以考虑P(H0)，也不可以考虑P(H0|data)。</p>
 <p>在贝叶斯学派眼里，H0不是要么成立要么不成立，可以考虑P(H0)，也可以考虑P(H0|data)。</p>
 <p>如果我们不那么学究，我们可以认为，频率学派 &#x3D; 贝叶斯学派 + 无信息先验。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/08/10/with%20Xuanhao/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/08/10/with%20Xuanhao/" class="post-title-link" itemprop="url">with Xuanhao</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-08-10 00:00:00" itemprop="dateCreated datePublished" datetime="2022-08-10T00:00:00+08:00">2022-08-10</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>193</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
-<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
-<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
-<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
-<p>煊昊：你他娘的高考还能带个电脑去？</p>
-<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
-<p>最后，我们还探讨了那个p-value的问题。</p>
 
       
     </div>
