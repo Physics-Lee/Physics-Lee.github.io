@@ -1,4 +1,4 @@
-https://physics-lee.github.io/2023/10/07/Fight_for_Priority/
+https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
 https://physics-lee.github.io/2023/09/18/My_Attitude_towards_Scientific_Misconduct/
 https://physics-lee.github.io/2023/10/06/Miss_Running/
 https://physics-lee.github.io/2023/09/29/%E4%B8%83%E5%BE%8B%C2%B7%E4%B8%AD%E7%A7%8B/
@@ -8,7 +8,6 @@ https://physics-lee.github.io/2023/09/21/Zhizhen_Wang/
 https://physics-lee.github.io/2023/04/01/%E5%8F%A4%E4%BD%93%C2%B7%E9%BB%84%E5%B1%B1/
 https://physics-lee.github.io/2023/09/28/%E8%99%9E%E7%BE%8E%E4%BA%BA%C2%B7%E6%9E%95%E4%B8%8A/
 https://physics-lee.github.io/2023/09/03/Indecision/
-https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
 https://physics-lee.github.io/2022/09/30/The_Nobel_Prize_and_fMRI/
 https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/
 https://physics-lee.github.io/2022/08/27/Barely-Legal_Exodus-Cry/
@@ -137,16 +136,16 @@ https://physics-lee.github.io/tags/nationalism/
 https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/anti-illegal-pornography/
 https://physics-lee.github.io/tags/capitalism/
-https://physics-lee.github.io/tags/scientific-misconduct/
 https://physics-lee.github.io/tags/physics/
+https://physics-lee.github.io/tags/cook/
 https://physics-lee.github.io/tags/AI/
+https://physics-lee.github.io/tags/scientific-misconduct/
 https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/biology/
 https://physics-lee.github.io/tags/rush/
 https://physics-lee.github.io/tags/biography/
 https://physics-lee.github.io/tags/raised-on-porn/
 https://physics-lee.github.io/tags/war/
-https://physics-lee.github.io/tags/cook/
 https://physics-lee.github.io/tags/tools/
 https://physics-lee.github.io/tags/computational-neuroscience/
 https://physics-lee.github.io/tags/poem/
@@ -160,9 +159,9 @@ https://physics-lee.github.io/tags/movie/
 https://physics-lee.github.io/tags/geometry/
 https://physics-lee.github.io/tags/translation/
 https://physics-lee.github.io/tags/senior-high-school/
-https://physics-lee.github.io/tags/sex-trafficking/
 https://physics-lee.github.io/tags/medicine/
 https://physics-lee.github.io/tags/psychology/
+https://physics-lee.github.io/tags/sex-trafficking/
 https://physics-lee.github.io/tags/travel/
 https://physics-lee.github.io/tags/teaching/
 https://physics-lee.github.io/tags/social/
@@ -177,8 +176,8 @@ https://physics-lee.github.io/tags/neuroscience/
 https://physics-lee.github.io/categories/science/
 https://physics-lee.github.io/categories/basketball/
 https://physics-lee.github.io/categories/anti-illegal-pornography/
-https://physics-lee.github.io/categories/scientific-misconduct/
 https://physics-lee.github.io/categories/socialism/
+https://physics-lee.github.io/categories/scientific-misconduct/
 https://physics-lee.github.io/categories/nationalism/
 https://physics-lee.github.io/categories/capitalism/
 https://physics-lee.github.io/categories/biography/

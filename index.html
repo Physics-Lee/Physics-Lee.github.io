@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">119</span>
+          <span class="site-state-item-count">118</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -189,7 +189,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/07/Fight_for_Priority/">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -207,7 +207,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/10/07/Fight_for_Priority/" class="post-title-link" itemprop="url">争夺优先权</a>
+          <a href="/2023/09/03/Hexo_Next_GitHub-Pages/" class="post-title-link" itemprop="url">使用Hexo + Next + GitHub Pages搭建个人网站</a>
         </h2>
 
         <div class="post-meta-container">
@@ -218,7 +218,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2023-10-07 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-07T00:00:00+08:00">2023-10-07</time>
+      <time title="Created: 2023-09-03 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-03T00:00:00+08:00">2023-09-03</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -226,7 +226,7 @@
       </span>
       <span class="post-meta-item-text">In</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+          <a href="/categories/tools/" itemprop="url" rel="index"><span itemprop="name">tools</span></a>
         </span>
     </span>
 
@@ -237,7 +237,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>315</span>
+      <span>307</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -255,16 +255,41 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <p>突然很想让全世界都知道我是第一个发现世界杯所有进球符合泊松过程的人。</p>
-<p>后来又觉得这很傻——很多前人早就知道它符合泊松过程，只是他们没搞到世界杯的全部数据；没有kaggle上那位老哥的无私分享，我什么也做不出来。</p>
-<p>就算我做出的是震古烁今的研究，微积分、万有引力定律、最小作用量原理、最小二乘法，难道我就要去争夺优先权了吗？</p>
-<p>小学的我觉得牛顿和莱布尼茨争、和胡克争，很傻，后世自有公论，但没想到大学的我反而不如小学了，做了一点小东西就迫不及待地宣告天下。</p>
-<p>静下心来，仔细思考——争夺优先权是很傻的，传播知识是很酷的。</p>
-<p>我当然不希望别人抢走我的发现，但是如果我设立优先权阻碍了知识的传播，那我宁可不设。</p>
-<p>我当然希望挣更多的钱，但是如果我申请专利阻碍了更多人使用，那我宁可不申。</p>
-<blockquote>
-<p>如果全人类都毁灭了，你们俩的那点荣誉还算个屁！</p>
-</blockquote>
+          <h1 id="迅速上手"><a href="#迅速上手" class="headerlink" title="迅速上手"></a>迅速上手</h1><p>先跟着<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.337.search-card.all.click&vd_source=7f7311e573a7f2a9bab48f7645a4e660">这个视频</a>迅速走一遍完整流程。</p>
+<p>绝大多数问题在两个官方帮助手册里可以找到答案：</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://hexo.io/docs/">Hexo Official Help</a></li>
+<li><a target="_blank" rel="noopener" href="https://theme-next.js.org/">Next Official Help</a><ul>
+<li>访问量统计</li>
+<li>开启评论</li>
+<li>谷歌流量统计、百度流量统计</li>
+</ul>
+</li>
+</ul>
+<p>从0开始GitHub Pages请看<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=o5g-lUuFgpg&t=0s">这个视频</a></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>第一步，你需要生成一个网站</p>
+<ul>
+<li>Hexo是用来生成静态网站的软件。类似的软件还有Jekyll, Hugo。</li>
+<li>Next是Hexo下的一个主题。Hexo下有<a target="_blank" rel="noopener" href="https://hexo.io/themes/">几百个主题</a>。</li>
+</ul>
+<p>第二步，你需要把你的网站连入互联网</p>
+<ul>
+<li>GitHub Pages是由GitHub推出的一个免费的静态网站托管平台（你可以理解成它可以提供一个免费域名）。类似的平台还有Gitee Pages。若你想要自己给自己网站取名字，可以去GoDaddy等网站购买。</li>
+</ul>
+<h1 id="Other-Useful-Links"><a href="#Other-Useful-Links" class="headerlink" title="Other Useful Links"></a>Other Useful Links</h1><ul>
+<li><p><a target="_blank" rel="noopener" href="http://yearito.cn/posts/hexo-theme-beautify.html">美化页面</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://ouyen.github.io/hexo-icon/">更改图标</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://www.duheweb.com/post/20210417143744.html">搜索引擎收录</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://nettee.github.io/posts/2018/Skip-rendering-files-in-Hexo/">skip render的原理</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://chat.openai.com/share/69187aaf-5bf2-45a1-9b9a-3074a58acc76">在Windows上，如何让Git对大小写敏感？</a></p>
+</li>
+</ul>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总体而言，只要稍微会一点命令行操作，就可以用Hexo + Next + GitHub Pages搭建个人网站啦！</p>
+<p>我觉得我妈她老人家都可以搞定，只要她愿意。</p>
 
       
     </div>
@@ -1340,7 +1365,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">3:07</span>
+    <span title="Reading time total">3:06</span>
   </span>
 </div>
 <div class="busuanzi-count">
