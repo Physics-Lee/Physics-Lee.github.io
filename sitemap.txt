@@ -1,3 +1,4 @@
+https://physics-lee.github.io/2023/07/15/Soccer_Markov/
 https://physics-lee.github.io/2023/10/12/The_Greatest_Scientific_Couple_of_All_Time/
 https://physics-lee.github.io/C_Neuro/index.html
 https://physics-lee.github.io/2023/10/09/Shark_vs_Dolphin/
@@ -137,8 +138,8 @@ https://physics-lee.github.io/tags/romance/
 https://physics-lee.github.io/tags/socialism/
 https://physics-lee.github.io/tags/running/
 https://physics-lee.github.io/tags/basketball/
-https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/nationalism/
+https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/anti-illegal-pornography/
 https://physics-lee.github.io/tags/capitalism/
 https://physics-lee.github.io/tags/physics/
@@ -185,15 +186,15 @@ https://physics-lee.github.io/categories/basketball/
 https://physics-lee.github.io/categories/anti-illegal-pornography/
 https://physics-lee.github.io/categories/socialism/
 https://physics-lee.github.io/categories/scientific-misconduct/
+https://physics-lee.github.io/categories/nationalism/
 https://physics-lee.github.io/categories/raised-on-porn/
 https://physics-lee.github.io/categories/injury/
-https://physics-lee.github.io/categories/nationalism/
 https://physics-lee.github.io/categories/capitalism/
-https://physics-lee.github.io/categories/running/
 https://physics-lee.github.io/categories/biography/
+https://physics-lee.github.io/categories/running/
 https://physics-lee.github.io/categories/tools/
-https://physics-lee.github.io/categories/sex-trafficking/
 https://physics-lee.github.io/categories/poem/
+https://physics-lee.github.io/categories/sex-trafficking/
 https://physics-lee.github.io/categories/video-game/
 https://physics-lee.github.io/categories/soccer/
 https://physics-lee.github.io/categories/drug/

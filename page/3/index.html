@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">123</span>
+          <span class="site-state-item-count">124</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -810,6 +810,123 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/07/15/Soccer_Markov/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/07/15/Soccer_Markov/" class="post-title-link" itemprop="url">在足球场上，下一分钟将发生什么？</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-07-15 00:00:00" itemprop="dateCreated datePublished" datetime="2023-07-15T00:00:00+08:00">2023-07-15</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>642</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>足球里有一句名言：足球是圆的。</p>
+<p>意思是，在足球里，什么都有可能发生。</p>
+<p>这句话背后隐藏着一个深刻的数学模型。</p>
+<hr>
+<p>统计学中，有一个被称为“随机过程”的子学科。</p>
+<p>在这个领域里，有这么一种过程，它满足一种性质：未来只和现在有关，和过去无关。</p>
+<p>听起来是不是很像足球比赛？</p>
+<p>这种过程被称为马尔可夫过程，这种性质被称为马尔可夫性。</p>
+<p>我们知道，足球比赛中的进球是一个累加过程，从0到1，再到2，以此类推。</p>
+<p>这种累加过程被统计学家称为计数过程。而有马尔可夫性的计数过程被称为泊松过程。</p>
+<p>你可能会问，足球比赛中的进球是否真的满足马尔可夫性，也就是说，下一分钟有没有进球真的只取决于现在的状态，而和过去无关吗？</p>
+<hr>
+<p>我一直听闻，足球中的进球满足泊松过程。</p>
+<p>要想知道它是不是满足泊松过程，只需要检查进球间的时间间隔是否满足指数分布。容易证明，两者是等价的。</p>
+<p>2023年7月14日上午，我终于去谷歌上进行了一番搜索。</p>
+<p>很多地方都声称足球中的进球满足泊松过程（或者声称进球间的时间间隔满足指数分布），比如<a target="_blank" rel="noopener" href="https://allendowney.github.io/ThinkBayes2/chap08.html">这篇博客</a>，但是却没有数据支持自己的说法。</p>
+<p>在谷歌学术上，我找到<a target="_blank" rel="noopener" href="https://pubsonline.informs.org/doi/abs/10.1287/ited.3.2.64">一篇有数据的论文</a>。文中，作者统计了1990-2002的四届世界杯的数据，发现进球间的时间间隔的分布和指数分布极其相似。但我觉得，只用四届世界杯的数据也太少了点。如果我用所有世界杯的数据呢？一百年来，世界杯一共也就几千个进球，FIFA应该会保存这些珍贵的数据吧？</p>
+<p>随后，我在Google上使用<code>site:www.kaggle.com goal data of FIFA World Cup</code>进行搜索，在kaggle上找到了<a target="_blank" rel="noopener" href="https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-all-goals-1930-2022-dataset">1930-2022世界杯的全部进球的数据</a>。</p>
+<p>之后，我分析了数据，发现进球间的时间间隔的分布和指数分布极其相似。</p>
+<img src="/2023/07/15/Soccer_Markov/histogram_connect-two-adjacent-games.jpg" class="">
+
+<hr>
+<p>于是乎，<strong>至少在足球场上，未来真的只在乎现在，而不念过往。</strong></p>
+<p>领先的一方不要得意，落后的一方不要放弃。</p>
+<p>如果人生真的是足球，那该多好！</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/07/08/%E6%9D%A8%E6%8C%AF%E5%AE%81%20vs%20%E6%9D%8E%E6%94%BF%E9%81%93/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1279,114 +1396,6 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/06/22/The%20Northern%20Town/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/06/22/The%20Northern%20Town/" class="post-title-link" itemprop="url">The Northern Town</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-06-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-06-22T00:00:00+08:00">2023-06-22</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/poem/" itemprop="url" rel="index"><span itemprop="name">poem</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>115</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>Silently I wander to the northern town, remembering the past so profound.</p>
-<p>Old words, old dreams, old promises abound.</p>
-<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
-<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
-<hr>
-<p>What we went through like sand lost in the hand.</p>
-<p>What we talked through like sound gone with the wind.</p>
-<p>Now your image is fading off my mind.</p>
-<p>But your word will hover till the end.</p>
-<hr>
-<p>Remember geometry and algebra,</p>
-<p>no more love in the cinema,</p>
-<p>no more laugh on the camera,</p>
-<p>everything seems to be in a new era.</p>
-<hr>
-<p>Copyright: The first 4 sentences are adapted from GPT-4’s translation of my poem.</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
     <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/page/2/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/13/">13</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/4/"><i class="fa fa-angle-right"></i></a>
   </nav>
@@ -1410,13 +1419,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">57k</span>
+    <span title="Word count total">58k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">3:11</span>
+    <span title="Reading time total">3:13</span>
   </span>
 </div>
 <div class="busuanzi-count">
