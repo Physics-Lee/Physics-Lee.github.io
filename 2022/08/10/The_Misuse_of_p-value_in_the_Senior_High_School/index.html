@@ -27,6 +27,14 @@
 <meta property="og:site_name" content="XuanJr&#39;s Land">
 <meta property="og:description" content="高中对于p值的误用写在最前：  本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：《2022新高考数学概率统计大题中的概念问题》 感谢Gian学长帮我理清了p-value、显著性水平的概念。  在2022年高考全国I卷中，有这么一个题：     这道题的第一问中，“能否有99%的把握认为患该疾病群体与未患该疾病群体的卫生习惯有差异？“是对p-value的错误使用。原因请往下看。 2005年">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png">
 <meta property="article:published_time" content="2022-08-09T16:00:00.000Z">
 <meta property="article:modified_time" content="2023-09-10T02:31:31.122Z">
 <meta property="article:author" content="Xuan Jr.">
@@ -34,6 +42,7 @@
 <meta property="article:tag" content="statistics">
 <meta property="article:tag" content="senior high school">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png">
 
 
 <link rel="canonical" href="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/">
@@ -276,18 +285,18 @@
 <li>感谢Gian学长帮我理清了p-value、显著性水平的概念。</li>
 </ul>
 <p>在2022年高考全国I卷中，有这么一个题：</p>
-
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png" class="">
 
 
 
 <p>这道题的第一问中，“能否有99%的把握认为患该疾病群体与未患该疾病群体的卫生习惯有差异？“是对p-value的错误使用。原因请往下看。</p>
 <h1 id="2005年过审的高中教材"><a href="#2005年过审的高中教材" class="headerlink" title="2005年过审的高中教材"></a>2005年过审的高中教材</h1><p>我去找到了我上高中时用的数学教材的电子版，这套教材于2005年初审通过。</p>
 <p>在选修2-3中，同样有”我们有99%的把握认为’吸烟与患肺癌有关系“这样的话。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png" class="">
 
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png" class="">
 
-
-
-
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png" class="">
 
 
 
@@ -332,11 +341,11 @@
 <p>用数学语言来说，p-value的真正定义是<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)<br>$$</p>
 <p>但选修2-3把p-value错误理解成：<br>$$<br>p-value&#x3D;P(H0不成立|出现现有数据)<br>$$<br>同时，选修2-3把1-(p-value)错误理解成：<br>$$<br>1-(p-value)&#x3D;P(H0成立|出现现有数据)<br>$$</p>
 <h1 id="2019年过审的高中教材"><a href="#2019年过审的高中教材" class="headerlink" title="2019年过审的高中教材"></a>2019年过审的高中教材</h1><p>2019年，高中教材出了新版。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png" class="">
 
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png" class="">
 
-
-
-
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png" class="">
 
 
 
@@ -353,7 +362,7 @@
 <p>但是有一句话仍然有一定的问题。这个问题不是错误，但容易引起歧义——当我们用自然语言写”犯错误的概率不超过$\alpha$时，我们容易理解为，$P(H0不成立|出现现有数据) \le \alpha$。</p>
 <p>为了避免歧义，我们不能用写”犯<strong>错误</strong>的概率“，而要写”犯<strong>第一类错误</strong>的概率”。（统计学家把第一类错误<strong>定义</strong>成$P(拒绝H0|H0成立)$，把第二类错误<strong>定义</strong>为$P(接受H0|H0不成立)$。）</p>
 <p>下图为陈希孺的《概率论与数理统计》，他的写法是正确的：</p>
-
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png" class="">
 
 <p>传统的频率学派使用假设检验时，如果他发现p-value小于某个给定的值，比如0.01，他就会拒绝H0。在这种做法下：<br>$$<br>p-value &#x3D; P(拒绝H0|H0成立)<br>$$</p>
 <p>总结：<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(拒绝H0|H0成立) &#x3D; P(犯第一类错误)<br>$$</p>
