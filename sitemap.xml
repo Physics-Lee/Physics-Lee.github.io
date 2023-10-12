@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2023/10/12/The_Greatest_Scientific_Couple_of_All_Time/</loc>
+    
+    <lastmod>2023-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/C_Neuro/index.html</loc>
     
     <lastmod>2023-10-11</lastmod>
@@ -1172,7 +1181,7 @@
 
   
   <url>
-    <loc>https://physics-lee.github.io/tags/romance/</loc>
+    <loc>https://physics-lee.github.io/tags/fun/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1180,27 +1189,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/science/</loc>
-    <lastmod>2023-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/socialism/</loc>
-    <lastmod>2023-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/running/</loc>
-    <lastmod>2023-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/fun/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1221,6 +1209,27 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/tags/romance/</loc>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/socialism/</loc>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/running/</loc>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/tags/basketball/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1228,14 +1237,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
+    <loc>https://physics-lee.github.io/tags/madness/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/madness/</loc>
+    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1566,13 +1575,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
-    <lastmod>2023-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/raised-on-porn/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1581,6 +1583,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/injury/</loc>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1615,14 +1624,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/poem/</loc>
+    <loc>https://physics-lee.github.io/categories/sex-trafficking/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/sex-trafficking/</loc>
+    <loc>https://physics-lee.github.io/categories/poem/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
