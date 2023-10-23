@@ -151,10 +151,10 @@ https://physics-lee.github.io/tags/scientific-misconduct/
 https://physics-lee.github.io/tags/physics/
 https://physics-lee.github.io/tags/biography/
 https://physics-lee.github.io/tags/history/
-https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/drug/
-https://physics-lee.github.io/tags/family/
+https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/cook/
+https://physics-lee.github.io/tags/family/
 https://physics-lee.github.io/tags/AI/
 https://physics-lee.github.io/tags/sports-science/
 https://physics-lee.github.io/tags/molecular-biology/
@@ -191,9 +191,9 @@ https://physics-lee.github.io/categories/basketball/
 https://physics-lee.github.io/categories/anti-illegal-pornography/
 https://physics-lee.github.io/categories/socialism/
 https://physics-lee.github.io/categories/scientific-misconduct/
+https://physics-lee.github.io/categories/drug/
 https://physics-lee.github.io/categories/biography/
 https://physics-lee.github.io/categories/nationalism/
-https://physics-lee.github.io/categories/drug/
 https://physics-lee.github.io/categories/capitalism/
 https://physics-lee.github.io/categories/raised-on-porn/
 https://physics-lee.github.io/categories/injury/
