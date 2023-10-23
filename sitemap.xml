@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2022/04/01/Memorize_Formulas/</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2023/02/10/Thought_to_3_Body/</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2022/10/15/What_Is_the_Meaning_of_Parameter/</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2023/09/21/Zhizhen_Wang/</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2023/10/22/Knockout_26/</loc>
     
     <lastmod>2023-10-23</lastmod>
@@ -167,15 +203,6 @@
     <loc>https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/</loc>
     
     <lastmod>2023-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2023/09/21/Zhizhen_Wang/</loc>
-    
-    <lastmod>2023-09-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -542,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2023/03/01/Welcome%20to%20Wenlab/</loc>
+    <loc>https://physics-lee.github.io/2023/03/01/Welcome_to_Wenlab/</loc>
     
     <lastmod>2023-09-02</lastmod>
     
@@ -1172,7 +1199,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2022/12/18/What%20does%20the%20asterisk%20mean/</loc>
+    <loc>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean/</loc>
     
     <lastmod>2023-08-28</lastmod>
     
@@ -1298,13 +1325,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/madness/</loc>
-    <lastmod>2023-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/anti-illegal-pornography/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1313,6 +1333,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/capitalism/</loc>
+    <lastmod>2023-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/madness/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1361,14 +1388,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/cook/</loc>
+    <loc>https://physics-lee.github.io/tags/family/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/family/</loc>
+    <loc>https://physics-lee.github.io/tags/cook/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
