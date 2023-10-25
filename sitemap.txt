@@ -1,3 +1,5 @@
+https://physics-lee.github.io/2023/09/22/Modesty/
+https://physics-lee.github.io/2022/10/25/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/
 https://physics-lee.github.io/2023/08/19/Be_Free_and_at_Leisure/
 https://physics-lee.github.io/2023/07/22/%E5%88%AB%E6%A2%A6%E4%BE%9D%E7%A8%80%E5%92%92%E9%80%9D%E5%B7%9D/
 https://physics-lee.github.io/2023/09/28/%E8%99%9E%E7%BE%8E%E4%BA%BA%C2%B7%E6%9E%95%E4%B8%8A/
@@ -43,7 +45,6 @@ https://physics-lee.github.io/2023/09/11/Galois/
 https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/
 https://physics-lee.github.io/Games/index.html
 https://physics-lee.github.io/2023/09/07/People_who_should_be_included_in_Oppernheimer/
-https://physics-lee.github.io/2022/09/23/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/
 https://physics-lee.github.io/google6006d7edc401fe5a.html
 https://physics-lee.github.io/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/
 https://physics-lee.github.io/about/index.html
@@ -174,8 +175,8 @@ https://physics-lee.github.io/tags/biology/
 https://physics-lee.github.io/tags/rush/
 https://physics-lee.github.io/tags/war/
 https://physics-lee.github.io/tags/tools/
-https://physics-lee.github.io/tags/computational-neuroscience/
 https://physics-lee.github.io/tags/poem/
+https://physics-lee.github.io/tags/computational-neuroscience/
 https://physics-lee.github.io/tags/video-game/
 https://physics-lee.github.io/tags/Life-Is-Strange/
 https://physics-lee.github.io/tags/soccer/

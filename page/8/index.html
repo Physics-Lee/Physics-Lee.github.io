@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">135</span>
+          <span class="site-state-item-count">136</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,132 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/11/01/Pythagorean_Means/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/11/01/Pythagorean_Means/" class="post-title-link" itemprop="url">Pythagorean Means</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-11-01 00:00:00" itemprop="dateCreated datePublished" datetime="2022-11-01T00:00:00+08:00">2022-11-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>255</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="2D"><a href="#2D" class="headerlink" title="2D"></a>2D</h1><h2 id="definition"><a href="#definition" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{2}(a^2+b^2)}$</li>
+<li>arithmetic mean :&#x3D; $\frac{a+b}{2}$</li>
+<li>geometric mean :&#x3D; $\sqrt{ab}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{2}(\frac{1}{a}+\frac{1}{b}))^{-1}$</li>
+</ul>
+<h2 id="TH"><a href="#TH" class="headerlink" title="TH"></a>TH</h2><p>$$<br>max(a,b) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(a,b)<br>$$<br>We can prove it as below:</p>
+<h3 id="geometry-prove-1"><a href="#geometry-prove-1" class="headerlink" title="geometry prove 1"></a>geometry prove 1</h3><img src="/2022/11/01/Pythagorean_Means/1.png" class="">
+
+<ul>
+<li>$max(a,b) \ge QM&#x2F;RMS$: use angle</li>
+<li>$QM&#x2F;RMS \ge AM$: obviously</li>
+<li>$AM \ge GM$: obviously</li>
+<li>$GM \ge HM$: obviously</li>
+<li>$HM \ge min(a,b)$: think about their dual length, i.e.: $AM-HM$ and $AM-min(a,b)$</li>
+</ul>
+<h3 id="geometry-prove-2"><a href="#geometry-prove-2" class="headerlink" title="geometry prove 2"></a>geometry prove 2</h3><img src="/2022/11/01/Pythagorean_Means/2.png" class="">
+
+<ul>
+<li>similar to geometry prove 1</li>
+</ul>
+<h1 id="more-than-2D"><a href="#more-than-2D" class="headerlink" title="more than 2D"></a>more than 2D</h1><h2 id="definition-1"><a href="#definition-1" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{n}(x_1^2+x_2^2+…+x_n^2)} &#x3D; \sqrt{&lt;X^2&gt;} &#x3D; &lt;X^2&gt;^{\frac{1}{2}}$</li>
+<li>arithmetic mean :&#x3D; $\frac{x_1+x_2+…+x_n}{n} &#x3D; <X> &#x3D; &lt;X^1&gt;^1$</li>
+<li>geometric mean :&#x3D; $\sqrt{x_1x_2…x_n}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{n}(\frac{1}{x_1}+\frac{1}{x_2}+…+\frac{1}{x_n}))^{-1} &#x3D; &lt;\frac{1}{X}&gt;^{-1} &#x3D; &lt;X^{-1}&gt;^{-1}$</li>
+</ul>
+<h2 id="TH-1"><a href="#TH-1" class="headerlink" title="TH"></a>TH</h2><p>We still have<br>$$<br>max(x_1,x_2,…,x_n) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(x_1,x_2,…,x_n)<br>$$<br>The prove is omitted</p>
+<h1 id="generalization"><a href="#generalization" class="headerlink" title="generalization"></a>generalization</h1><p>$Hölder \ mean :&#x3D; &lt;X^p&gt;^{\frac{1}{p}}$</p>
+<ul>
+<li>We can prove that $\displaystyle \lim_{p \to 0} Hölder \ mean &#x3D; GM$</li>
+<li>We can prove that $p \nearrow \Rightarrow Hölder \ mean \nearrow $</li>
+</ul>
+<p>By the way, We can call Hölder mean  “1&#x2F;p-mean-p” in analogy of “root-mean-square”</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -486,6 +612,100 @@
 <p>在<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E6%95%A6%E7%85%8C%E9%A1%B9%E7%9B%AE">国际敦煌项目</a>中，我们可以找到<a target="_blank" rel="noopener" href="http://www.booksloverhk.com/lit_11.add_2.htm">许多秦妇吟抄本</a>。</p>
 <p>最早的抄本写于905年，作者不知，这时韦庄尚在人世，因此后人一般以该抄本为主。</p>
 <img src="/2022/10/25/The_Loss_and_Recovery_of_Qin-Fu-Yin/%E5%85%AC%E5%85%83905%E5%B9%B4.jpg" class="">
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/10/25/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/10/25/%E5%8F%A4%E4%BD%93%C2%B7%E6%97%A0%E9%A2%98/" class="post-title-link" itemprop="url">无题</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-10-25 00:00:00" itemprop="dateCreated datePublished" datetime="2022-10-25T00:00:00+08:00">2022-10-25</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/poem/" itemprop="url" rel="index"><span itemprop="name">poem</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>28</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>灰雀声声秋日落，晚风似有红纱色。</p>
+<p>我为四载庐州客，多少蓬莱烟霭过。</p>
+
       
     </div>
 
@@ -1075,209 +1295,6 @@
 <li>$ (\frac{\mathrm{d} y}{\mathrm{d} x})^2 + y - x &#x3D; 0 $，1个方程2个变量</li>
 <li>$ (\frac{\mathrm{d} y}{\mathrm{d} x})^2 + y - x &#x3D; 0, (v-1)dx+2vdv&#x3D;0$，2个方程3个变量</li>
 </ul>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/10/09/When%20I%20was%20a%20primary%20school%20student/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/10/09/When%20I%20was%20a%20primary%20school%20student/" class="post-title-link" itemprop="url">When I was a primary school student</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-10-09 00:00:00" itemprop="dateCreated datePublished" datetime="2022-10-09T00:00:00+08:00">2022-10-09</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/scientific-misconduct/" itemprop="url" rel="index"><span itemprop="name">scientific misconduct</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>124</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>——2022-10-09——</p>
-<p>When I was a primary school student,</p>
-<p>I was told that science is <strong>finding what we don’t know from what we do know,</strong></p>
-<p>I was told that science is about <strong>blessing the entire human body</strong>.</p>
-<p>Lately, I was wondering,</p>
-<p>What is the meaning of science if we <strong>stop asking why?</strong></p>
-<p>What is the meaning of science if we couldn’t help the people around us?</p>
-<p>What is the meaning of science if we all just want to get some good papers?</p>
-<p>and some of us <strong>even do cheating, do scientific frauds?</strong></p>
-<p>——2023-08-29 update——</p>
-<p>In my opinion, there are 2 <strong>necessary conditions</strong> for becoming a scientist.</p>
-<ol>
-<li>You must have strong desire for the unknown.</li>
-<li>You must have scientific honesty.</li>
-</ol>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/10/04/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E5%9B%BD%E5%BA%86/" class="post-title-link" itemprop="url">一剪梅·国庆</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-10-04 00:00:00" itemprop="dateCreated datePublished" datetime="2022-10-04T00:00:00+08:00">2022-10-04</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/poem/" itemprop="url" rel="index"><span itemprop="name">poem</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>60</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>斜雨寒风踽踽行，天上无晴，心上无情。</p>
-<p>含风携雨过悬铃，湖上孤亭，水上飘萍。</p>
-<p>落叶萧萧薄暮瞑，桌上冰冰，椅上冰冰。</p>
-<p>闲敲键鼠筑模型，思上澄明，纸上流明。</p>
 
       
     </div>
