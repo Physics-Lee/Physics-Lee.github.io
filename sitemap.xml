@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2023/10/27/Sports_Meet/</loc>
+    
+    <lastmod>2023-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2023/09/29/%E4%B8%83%E5%BE%8B%C2%B7%E4%B8%AD%E7%A7%8B/</loc>
     
     <lastmod>2023-10-27</lastmod>
@@ -1363,14 +1372,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
+    <loc>https://physics-lee.github.io/tags/madness/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/madness/</loc>
+    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1426,14 +1435,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/family/</loc>
+    <loc>https://physics-lee.github.io/tags/USTC/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/USTC/</loc>
+    <loc>https://physics-lee.github.io/tags/family/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1701,13 +1710,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
-    <lastmod>2023-10-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/drug/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -1716,6 +1718,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/biography/</loc>
+    <lastmod>2023-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
