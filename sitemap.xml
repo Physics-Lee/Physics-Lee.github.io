@@ -1372,14 +1372,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/madness/</loc>
+    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/nationalism/</loc>
+    <loc>https://physics-lee.github.io/tags/madness/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1710,6 +1710,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
+    <lastmod>2023-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/drug/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -1718,13 +1725,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/biography/</loc>
-    <lastmod>2023-10-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/nationalism/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
