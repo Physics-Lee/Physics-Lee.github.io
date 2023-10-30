@@ -1,3 +1,4 @@
+https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
 https://physics-lee.github.io/2023/10/22/Knockout_26/
 https://physics-lee.github.io/2023/06/22/Five_Right_Guess/
 https://physics-lee.github.io/2023/10/28/Pipa/
@@ -27,7 +28,6 @@ https://physics-lee.github.io/2023/10/09/Shark_vs_Dolphin/
 https://physics-lee.github.io/2023/08/25/Essay_Talk-to-my-grandparents/
 https://physics-lee.github.io/2023/09/03/Soviet-Union_Little_John/
 https://physics-lee.github.io/2023/02/01/Essay_Talk-to-a-policeman-friend/
-https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/
 https://physics-lee.github.io/2023/09/18/My_Attitude_towards_Scientific_Misconduct/
 https://physics-lee.github.io/2023/10/06/Miss_Running/
 https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/
