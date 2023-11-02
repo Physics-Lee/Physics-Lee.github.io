@@ -2130,8 +2130,8 @@
         <tag>science</tag>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>physics</tag>
         <tag>math</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2173,8 +2173,8 @@
         <tag>science</tag>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>physics</tag>
         <tag>math</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -3688,6 +3688,46 @@
       <tags>
         <tag>fun</tag>
         <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A Math Quiz</title>
+    <url>/2022/05/01/A_Math_Quiz/</url>
+    <content><![CDATA[<h1 id="Q1"><a href="#Q1" class="headerlink" title="Q1"></a>Q1</h1><p>求证：任何一个足够大的正整数都可以写成任何两个质数的正整数系数线性组合。</p>
+<p>Proof: Any large enough positive integer can be written as a linear combination of any two primes, with positive integer coefficients.</p>
+<p>i.e.: $\exist N_0 &gt; 0, \forall N &gt; N_0, N &#x3D; N_1 X + X_2 Y$, where $N_1$, $N_2$ are prime numbers and $X$, $Y$ belongs to $\mathbb{N}$</p>
+<h2 id="Proof-1"><a href="#Proof-1" class="headerlink" title="Proof 1"></a>Proof 1</h2><p>By <a href="https://en.wikipedia.org/wiki/B%C3%A9zout's_identity">Bézout’s identity</a>, we know that<br>$$<br>\exist a_1, a_2 \in \mathbb{N} \quad s.t. (a_1)N_1 + (a_2)N_2 &#x3D; 1<br>$$</p>
+<p>We define<br>$$<br>\left{\begin{matrix}<br>Z_1 &amp; :&#x3D; &amp; max(N_1 - 1,N_2 - 1) \<br>Z_2 &amp; :&#x3D; &amp; max(|a_1|,|a_2|)<br>\end{matrix}\right.<br>$$<br>Now, it is obvious that we can choose $N_0$ as following<br>$$<br>N_0 &#x3D; Z_1 Z_2 \sum_{i&#x3D;1}^2 N_i<br>$$</p>
+<h2 id="Proof-2"><a href="#Proof-2" class="headerlink" title="Proof 2"></a>Proof 2</h2><p>$Without \ Loss \ Of \ Generality, N_1 &gt; N_2$</p>
+<p>$N$ is bigger enough $\Rightarrow N &#x3D; N_1 A + B$, where $A$ is the quotient and $B$ is the remainder.</p>
+<p>And we can write: $N &#x3D; N_1(A-xB) + B(N_1 x + 1)$</p>
+<p>Now we only need to prove （$where \ x,y \ \in \mathbb{N}$）<br>$$<br>\left{\begin{matrix}<br>N_1 x + 1 &amp; &#x3D; &amp; N_2 y \<br>A &amp; &gt; &amp; xB<br>\end{matrix}\right.<br>$$<br>We know that<br>$$<br>N_1 x + 1 &#x3D; N_2 y \<br>\Leftrightarrow + N_1 x - N_2 y &#x3D; -1 \<br>\Leftrightarrow - N_1 x + N_2 y &#x3D; +1 \<br>\Leftrightarrow (-x)N_1 + (y)N_2 &#x3D; +1<br>$$<br>The last equation is true because of <a href="https://en.wikipedia.org/wiki/B%C3%A9zout's_identity">Bézout’s identity</a>.</p>
+<p>Then<br>$$<br>N &#x3D; N_1 (A - x B) + N_2 (By)<br>$$<br>To make $A &gt; xB$, you can simply increase $N$.</p>
+<p>We can define<br>$$<br>\left{\begin{matrix}<br>X &amp; &#x3D; &amp; A - xB \<br>Y &amp; &#x3D; &amp; By<br>\end{matrix}\right.<br>$$<br>Then<br>$$<br>N &#x3D; N_1 X + N_2 Y<br>$$</p>
+<h1 id="Q2"><a href="#Q2" class="headerlink" title="Q2"></a>Q2</h1><p>How to find the smallest $N_0$?</p>
+<p>Answer:</p>
+<p>I haven’t find a general way to get the smallest $N_0$, but I already thought up a general way to find the upper bound of the smallest $N_0$.</p>
+<p>By <a href="https://en.wikipedia.org/wiki/B%C3%A9zout's_identity">Bézout’s identity</a>, we know that<br>$$<br>\exist a_1, a_2 \in \mathbb{N} \quad s.t. (a_1)N_1 + (a_2)N_2 &#x3D; 1<br>$$<br>If $a_1 &lt; 0 &lt; a_2$, we can choose $N_0 &#x3D; (-a_1)(N_2 - 1)N_1$</p>
+<p>If $a_1 &gt; 0 &gt; a_2$, we can choose $N_0 &#x3D; (-a_2)(N_1 - 1)N_2$</p>
+<h1 id="Q3"><a href="#Q3" class="headerlink" title="Q3"></a>Q3</h1><p>For 7 and 13, can you find the the smallest $N_0$ ?</p>
+<p>Answer:</p>
+<p>Yes!</p>
+<ul>
+<li>We know that $2 \times 7 + (-1) \times 13 &#x3D; + 1$</li>
+<li>So, $\forall N \ge 78$, $N$ can be expressed into $a_1 \cdot 7 + a_2 \cdot 13$.</li>
+<li>$77 &#x3D; 7 \times 11$</li>
+<li>We also know that $72 &#x3D; 1 \times 7 + 5 \times 13$, so $72 \sim 76$ can also be written as $a_1 \cdot 7 + a_2 \cdot 13$.</li>
+<li>71 can’t be expressed into $a_1 \cdot 7 + a_2 \cdot 13$, you can go through $a_2$ from 0 to 6 to prove it (<a href="https://en.wikipedia.org/wiki/Proof_by_contradiction">Proof by contradiction</a>).</li>
+</ul>
+<p>In summary, 71 is the smallest $N_0$.</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
