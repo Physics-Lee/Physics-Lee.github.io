@@ -769,14 +769,14 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>669</span>
+      <span>2</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
         <i class="far fa-clock"></i>
       </span>
       <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>2 mins.</span>
+      <span>1 mins.</span>
     </span>
 </div>
 
@@ -787,38 +787,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="Main"><a href="#Main" class="headerlink" title="Main"></a>Main</h1><p>Suppose you get some data from the experiment, say:<br>$$<br>X_1, X_2, X_3,…,X_n<br>$$<br>We can easily define<br>$$<br>mean \ of \ the \ data :&#x3D; \frac{1}{n}  \sum_{i&#x3D;1}^n X_i<br>$$<br>The above equation is without any arguments.</p>
-<p>But when you want to define a thing to capture the deviance of the data, what should you do?</p>
-<p>There are 2 candidates<br>$$<br>deviance \ of \ the \ data \ version \ 1 :&#x3D; \frac{1}{n}  \sum_{i&#x3D;1}^n (X_i - mean \ of \ the \ data)^2 \<br>deviance \ of \ the \ data \ version \ 2 :&#x3D; \frac{1}{n-1}  \sum_{i&#x3D;1}^n (X_i - mean \ of \ the \ data)^2<br>$$</p>
-<p>Q: Which is better?</p>
-<p>A: </p>
-<p>First let us use some new notations<br>$$<br>M :&#x3D; mean \ of \ the \ data \<br>D_1 :&#x3D; deviance \ of \ the \ data \ version \ 1 \<br>D_2 :&#x3D; deviance \ of \ the \ data \ version \ 2<br>$$<br>Obviously, $M, D_1, D_2$ are the functions of $\vec{X}$<br>$$<br>M &#x3D; M(\vec{X}) \<br>D_1 &#x3D; D_1(\vec{X}) \<br>D_2 &#x3D; D_2(\vec{X})<br>$$</p>
-<p>If we assume that $X_i \sim (\mu,\sigma^2) i.i.d.$</p>
-<p>i.e.<br>$$<br>E(X_i) &#x3D; \mu \<br>Var(X_i) &#x3D; \sigma^2 \<br>X_i \ i.i.d.<br>$$<br>Then we can get (proof see below)<br>$$<br>E(M) &#x3D; \mu \<br>E(D_1) &#x3D; \frac{n-1}{n} \sigma^2 \<br>E(D_2) &#x3D; \sigma^2<br>$$<br>So, $D_2$ is better than $D_1$</p>
-<h1 id="Proof"><a href="#Proof" class="headerlink" title="Proof"></a>Proof</h1><p>$$<br>E(D_1) &amp; &#x3D; &amp; E(\frac{1}{n}  \sum_{i&#x3D;1}^n (X_i -M)^2) \<br>&amp; &#x3D; &amp; \frac{1}{n}  \sum_{i&#x3D;1}^n E((X_i -M)^2) \<br>&amp; &#x3D; &amp; \frac{1}{n}  \sum_{i&#x3D;1}^n E(X_i^2 + M^2 - 2 X_i M) \<br>&amp; &#x3D; &amp; \frac{1}{n}  \sum_{i&#x3D;1}^n E(X_i^2) + E(M^2) - 2 E(X_i M)<br>$$</p>
-<p>From<br>$$<br>E(X_i) &#x3D; \mu \Var(X_i) &#x3D; \sigma^2 \X_i \ i.i.d.<br>$$<br>We get<br>$$<br>E(X_i^2) &amp; &#x3D; &amp; \mu^2 + \sigma^2 \<br>E(M) &amp; &#x3D; &amp; \mu \<br>Var(M) &amp; &#x3D; &amp; \frac{\sigma^2}{n} \<br>E(M^2) &amp; &#x3D; &amp; \mu^2 + \frac{\sigma^2}{n}<br>$$<br>and<br>$$<br>E(X_i X_j) &amp; &#x3D; &amp; \left{\begin{matrix}<br>\mu^2 + \sigma^2, i &#x3D; j \<br>\mu^2, i \ne j<br>\end{matrix}\right.<br>$$<br>So<br>$$<br>E(X_i M) &#x3D; \frac{1}{n} \sum_{j&#x3D;1}^n E(X_i X_j) &#x3D; \mu^2 + \frac{\sigma^2}{n}<br>$$<br>So<br>$$<br>E(D_1) &amp; &#x3D; &amp; \frac{1}{n}  \sum_{i&#x3D;1}^n ((\mu^2 + \sigma^2)+(\mu^2 + \frac{\sigma^2}{n})-2(\mu^2 + \frac{\sigma^2}{n})) \<br>&amp; &#x3D; &amp; \frac{1}{n}  \sum_{i&#x3D;1}^n (\frac{n-1}{n}\sigma^2) \<br>&amp; &#x3D; &amp; \frac{1}{n} (\frac{n-1}{n}\sigma^2) \sum_{i&#x3D;1}^n 1 \<br>&amp; &#x3D; &amp; \frac{n-1}{n}\sigma^2<br>$$<br>And obviously,<br>$$<br>E(D_2) &#x3D; \sigma^2<br>$$</p>
-<h1 id="QA"><a href="#QA" class="headerlink" title="QA"></a>QA</h1><p>Q: Can’t I just use $D_1$</p>
-<p>A: In fact, you can, I just say that $D_2$ is better than $D_1$.</p>
-<p>Q: What if not i.i.d.?</p>
-<p>A:</p>
-<p>If not, it really doesn’t matter too much to use $D_1$ or $D_2$.</p>
-<p><strong>It is recommended to find a new random variable from your data which is likely to be $i.i.d.$</strong></p>
-<p>Another similar method is that, if the $D_1$ or $D_2$ of a variable is too big, then you must find a new random variable with smaller  $D_1$ or $D_2$.</p>
-<p>Q: In your taxis project?</p>
-<p>A:</p>
-<p>In my project:</p>
-<ul>
-<li>runs are not $i.i.d.$.</li>
-<li>tracks&#x2F;worms are $i.i.d.$!</li>
-</ul>
-<p>So, it doesn’t matter I use $D_1$ or $D_2$ when handling runs.</p>
-<p>When handling tracks&#x2F;worms, I will use $D_2$</p>
-<p>Q: How do you know if a variable is i.i.d. or not? You are not the god!</p>
-<p>A:</p>
-<p><strong>Yes, you are right, only the God know if a variable is i.i.d or not.</strong></p>
-<p>But, we can guess.</p>
-<p>For example, $X_1, X_2, X_3,…,X_n$ can be the height of a human. If you choose $X_1$ from Jilin and $X_{2}$ from Anhui, then it is likely that they are not i.i.d. But if you choose $X_{1}$ from Changchun and $X_2$ from Songyuan, it is likely that they are i.i.d..</p>
-<p>For another example, $X_1, X_2, X_3,…,X_n$ can be the run speed of a worm. If you choose $X_1$ from $N_2$ and $X_{2}$ from $RIA-twk18$, then it is likely that they are not i.i.d. But if you choose $X_{1}$ from $N_2$ and $X_2$ from $N_2$, it is likely that they are i.i.d..</p>
+          <p>See <a href="https://physics-lee.github.io/pdfs/n_or_n-1.pdf">here</a>!</p>
 
       
     </div>
@@ -897,7 +866,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>306</span>
+      <span>303</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -958,7 +927,9 @@
 </tr>
 </tbody></table>
 <p>We can easily get</p>
-<p>$$<br>E(X) &#x3D; \frac{12}{5} &#x3D; 2.4 \<br>E(Y) &#x3D; \frac{24}{5} &#x3D; 4.8 \<br>Cov(X,Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
+<p>$$<br>E(X) &#x3D; \frac{12}{5} &#x3D; 2.4<br>$$</p>
+<p>$$<br>E(Y) &#x3D; \frac{24}{5} &#x3D; 4.8<br>$$</p>
+<p>$$<br>Cov(X,Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
 <h1 id="An-Example-of-Before-Sampling"><a href="#An-Example-of-Before-Sampling" class="headerlink" title="An Example of Before Sampling"></a>An Example of Before Sampling</h1><p>So, based on the data, the simplest model (completely over-fitting) is</p>
 <table>
 <thead>
@@ -1033,7 +1004,9 @@
 </tr>
 </tbody></table>
 <p>We can easily get</p>
-<p>$$<br>E(X) &#x3D; E_{w}(X(w)) &#x3D; \frac{12}{5} &#x3D; 2.4 \<br>E(Y) &#x3D; E_{w}(Y(w)) &#x3D; \frac{24}{5} &#x3D; 4.8 \<br>Cov(X,Y) &#x3D; Cov_{w}(X(w),Y(w)) &#x3D; E_{w}((X-E(X))(Y-E(Y))) &#x3D; \<br>E_w(X(w)Y(w)) - E(X)E(Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
+<p>$$<br>E(X) &#x3D; E_{w}(X(w)) &#x3D; \frac{12}{5} &#x3D; 2.4<br>$$</p>
+<p>$$<br>E(Y) &#x3D; E_{w}(Y(w)) &#x3D; \frac{24}{5} &#x3D; 4.8<br>$$</p>
+<p>$$<br>Cov(X,Y) &#x3D; Cov_{w}(X(w),Y(w)) &#x3D; E_{w}((X-E(X))(Y-E(Y))) &#x3D;<br>E(XY) - E(X)E(Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
 <h1 id="THINK"><a href="#THINK" class="headerlink" title="THINK"></a>THINK</h1><h2 id="w-vs-t"><a href="#w-vs-t" class="headerlink" title="w vs t"></a>w vs t</h2><p>For stochastic process $X(w,t)$ and $Y(w,t)$,</p>
 <p>We can calculate $F(t) &#x3D; Cov_{w}(X(w,t),Y(w,t))$</p>
 <p>We can also calculate $F(w) &#x3D; Cov_{t}(X(w,t),Y(w,t))$</p>
@@ -1557,7 +1530,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">3:48</span>
+    <span title="Reading time total">3:46</span>
   </span>
 </div>
 <div class="busuanzi-count">
