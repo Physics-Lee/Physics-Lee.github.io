@@ -1,3 +1,4 @@
+https://physics-lee.github.io/2023/11/03/Microsoft_Activision_Blizzard_OpenAI/
 https://physics-lee.github.io/2023/10/18/Heartless/
 https://physics-lee.github.io/2023/10/30/Milk_Tea/
 https://physics-lee.github.io/2023/10/25/n_or_n-1/
@@ -153,11 +154,11 @@ https://physics-lee.github.io/tags/fun/
 https://physics-lee.github.io/tags/science/
 https://physics-lee.github.io/tags/statistics/
 https://physics-lee.github.io/tags/love/
+https://physics-lee.github.io/tags/basketball/
+https://physics-lee.github.io/tags/nationalism/
 https://physics-lee.github.io/tags/romance/
 https://physics-lee.github.io/tags/socialism/
 https://physics-lee.github.io/tags/running/
-https://physics-lee.github.io/tags/basketball/
-https://physics-lee.github.io/tags/nationalism/
 https://physics-lee.github.io/tags/madness/
 https://physics-lee.github.io/tags/math/
 https://physics-lee.github.io/tags/capitalism/
@@ -168,8 +169,8 @@ https://physics-lee.github.io/tags/biography/
 https://physics-lee.github.io/tags/physics/
 https://physics-lee.github.io/tags/history/
 https://physics-lee.github.io/tags/drug/
-https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/poem/
+https://physics-lee.github.io/tags/USTC/
 https://physics-lee.github.io/tags/sports-science/
 https://physics-lee.github.io/tags/family/
 https://physics-lee.github.io/tags/cook/
@@ -185,8 +186,8 @@ https://physics-lee.github.io/tags/modesty/
 https://physics-lee.github.io/tags/biology/
 https://physics-lee.github.io/tags/rush/
 https://physics-lee.github.io/tags/war/
-https://physics-lee.github.io/tags/history-of-science/
 https://physics-lee.github.io/tags/tools/
+https://physics-lee.github.io/tags/history-of-science/
 https://physics-lee.github.io/tags/travel/
 https://physics-lee.github.io/tags/computational-neuroscience/
 https://physics-lee.github.io/tags/feudalism/
@@ -206,11 +207,11 @@ https://physics-lee.github.io/categories/2023/
 https://physics-lee.github.io/categories/2022/2022-07/
 https://physics-lee.github.io/categories/2022/2022-05/
 https://physics-lee.github.io/categories/2023/2023-09/
-https://physics-lee.github.io/categories/2023/2023-06/
 https://physics-lee.github.io/categories/2021/
 https://physics-lee.github.io/categories/2022/2022-04/
-https://physics-lee.github.io/categories/2020/
+https://physics-lee.github.io/categories/2023/2023-06/
 https://physics-lee.github.io/categories/2022/2022-08/
+https://physics-lee.github.io/categories/2020/
 https://physics-lee.github.io/categories/2023/2023-01/
 https://physics-lee.github.io/categories/2023/2023-08/
 https://physics-lee.github.io/categories/2023/2023-10/
@@ -222,8 +223,8 @@ https://physics-lee.github.io/categories/2021/2021-10/
 https://physics-lee.github.io/categories/2019/
 https://physics-lee.github.io/categories/2022/2022-10/
 https://physics-lee.github.io/categories/2023/2023-02/
-https://physics-lee.github.io/categories/2020/2020-07/
 https://physics-lee.github.io/categories/2022/2022-09/
+https://physics-lee.github.io/categories/2020/2020-07/
 https://physics-lee.github.io/categories/2021/2021-01/
 https://physics-lee.github.io/categories/2021/2021-02/
 https://physics-lee.github.io/categories/2020/2020-04/
