@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/about/index.html</loc>
+    
+    <lastmod>2023-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2020/01/02/USTCer_Attitude_towards_Smoking/</loc>
     
     <lastmod>2023-11-11</lastmod>
@@ -1433,15 +1442,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/about/index.html</loc>
-    
-    <lastmod>2023-09-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/index.html</loc>
     
     <lastmod>2023-09-03</lastmod>
@@ -1602,14 +1602,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/USTC/</loc>
+    <loc>https://physics-lee.github.io/tags/drug/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/drug/</loc>
+    <loc>https://physics-lee.github.io/tags/USTC/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1961,7 +1961,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2023/2023-07/</loc>
+    <loc>https://physics-lee.github.io/categories/2022/2022-11/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1975,7 +1975,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2022/2022-11/</loc>
+    <loc>https://physics-lee.github.io/categories/2023/2023-07/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2003,14 +2003,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2021/2021-10/</loc>
+    <loc>https://physics-lee.github.io/categories/2019/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2019/</loc>
+    <loc>https://physics-lee.github.io/categories/2021/2021-10/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2171,14 +2171,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2019/2019-05/</loc>
+    <loc>https://physics-lee.github.io/categories/2018/2018-10/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2018/2018-10/</loc>
+    <loc>https://physics-lee.github.io/categories/2019/2019-05/</loc>
     <lastmod>2023-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
