@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2021/08/01/Global_Illumination_Rendering/</loc>
+    
+    <lastmod>2023-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2023/06/09/Manuscripts_of_Data_Structure/</loc>
     
     <lastmod>2023-11-13</lastmod>
@@ -1568,14 +1577,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/geography/</loc>
+    <loc>https://physics-lee.github.io/tags/madness/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/madness/</loc>
+    <loc>https://physics-lee.github.io/tags/geography/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1603,13 +1612,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/anti-illegal-pornography/</loc>
-    <lastmod>2023-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/soccer/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1618,6 +1620,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/biography/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/anti-illegal-pornography/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1920,14 +1929,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2022/2022-01/</loc>
+    <loc>https://physics-lee.github.io/categories/2022/2022-07/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2022/2022-07/</loc>
+    <loc>https://physics-lee.github.io/categories/2022/2022-01/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1962,6 +1971,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/2020/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/2022/2022-04/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1969,7 +1985,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2020/</loc>
+    <loc>https://physics-lee.github.io/categories/2023/2023-01/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1998,13 +2014,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2022/2022-11/</loc>
-    <lastmod>2023-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/2023/2023-01/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2068,6 +2077,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2020/2020-07/</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/2020/2020-10/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2145,13 +2161,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2021/2021-09/</loc>
-    <lastmod>2023-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/2020/2020-10/</loc>
     <lastmod>2023-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
