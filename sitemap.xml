@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2023/06/09/Manuscripts_of_Data_Structure/</loc>
+    
+    <lastmod>2023-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2023/11/13/Taxis_Behavior_of_Birds/</loc>
     
     <lastmod>2023-11-13</lastmod>
