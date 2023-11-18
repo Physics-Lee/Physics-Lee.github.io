@@ -1,3 +1,4 @@
+https://physics-lee.github.io/2023/11/19/List_of_Wars_by_Death_Toll/
 https://physics-lee.github.io/2023/06/08/23/
 https://physics-lee.github.io/2022/06/09/Manuscripts_of_Data_Structure/
 https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/
@@ -237,8 +238,8 @@ https://physics-lee.github.io/categories/2021/
 https://physics-lee.github.io/categories/2022/2022-04/
 https://physics-lee.github.io/categories/2020/
 https://physics-lee.github.io/categories/2022/2022-08/
-https://physics-lee.github.io/categories/2023/2023-08/
 https://physics-lee.github.io/categories/2023/2023-10/
+https://physics-lee.github.io/categories/2023/2023-08/
 https://physics-lee.github.io/categories/2022/2022-11/
 https://physics-lee.github.io/categories/2023/2023-01/
 https://physics-lee.github.io/categories/2023/2023-11/
@@ -259,8 +260,8 @@ https://physics-lee.github.io/categories/2020/2020-04/
 https://physics-lee.github.io/categories/2021/2021-08/
 https://physics-lee.github.io/categories/2023/2023-05/
 https://physics-lee.github.io/categories/2023/2023-03/
-https://physics-lee.github.io/categories/2023/2023-04/
 https://physics-lee.github.io/categories/2021/2021-06/
+https://physics-lee.github.io/categories/2023/2023-04/
 https://physics-lee.github.io/categories/2018/2018-11/
 https://physics-lee.github.io/categories/2019/2019-10/
 https://physics-lee.github.io/categories/2022/2022-06/
