@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">163</span>
+          <span class="site-state-item-count">164</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,196 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/" class="post-title-link" itemprop="url">The Misuse of p-value in the Senior High School</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-08-10 00:00:00" itemprop="dateCreated datePublished" datetime="2022-08-10T00:00:00+08:00">2022-08-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/2022-08/" itemprop="url" rel="index"><span itemprop="name">2022-08</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.6k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>5 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="高中对于p值的误用"><a href="#高中对于p值的误用" class="headerlink" title="高中对于p值的误用"></a>高中对于p值的误用</h1><p>写在最前：</p>
+<ul>
+<li>本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/525629496">《2022新高考数学概率统计大题中的概念问题》</a></li>
+<li>感谢Gian学长帮我理清了p-value、显著性水平的概念。</li>
+</ul>
+<p>在2022年高考全国I卷中，有这么一个题：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png" class="">
+
+
+
+<p>这道题的第一问中，“能否有99%的把握认为患该疾病群体与未患该疾病群体的卫生习惯有差异？“是对p-value的错误使用。原因请往下看。</p>
+<h1 id="2005年过审的高中教材"><a href="#2005年过审的高中教材" class="headerlink" title="2005年过审的高中教材"></a>2005年过审的高中教材</h1><p>我去找到了我上高中时用的数学教材的电子版，这套教材于2005年初审通过。</p>
+<p>在选修2-3中，同样有”我们有99%的把握认为’吸烟与患肺癌有关系“这样的话。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png" class="">
+
+
+
+<p>上图里的$K^2$，就是大学数理统计教材里的$\chi^2$。</p>
+<p>上图里的$P(K^2 \ge k_0)$，就是大学数理统计教材里的p-value。</p>
+<p>值得一提的是，上图用一通错得很离谱的推导得到了(1)式。不过这个错误在新版的教材中得到了更改。</p>
+<p>上图中对p-value的解释同样错得很离谱。</p>
+<p>p-value的定义是：<strong>假设H0成立，出现现有数据或更极端数据的概率</strong>。</p>
+<p>写成数学语言是：$p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)$</p>
+<p>上式可以简写为：$p-value :&#x3D; P(data|H0)$</p>
+<p>这里解释一下什么是假设检验，什么是H0。</p>
+<ul>
+<li><p>假设检验说白了就是提出一个假设，然后对其做出检验。</p>
+<ul>
+<li><p>比如说，如果我们想探究吸烟和肺癌是否有关，假设可以是“吸烟和肺癌独立”（独立是无关的一种更严谨的数学说法，这里不展开讨论）</p>
+</li>
+<li><p>比如说，如果我们想探究身高和国家是否有关，假设可以是“身高和国家独立”</p>
+</li>
+<li><p>再比如说，如果我们想探究弹跳高度和种族是否有关，假设可以是“弹跳高度和种族独立”</p>
+</li>
+</ul>
+</li>
+<li><p>H0指假设检验中的原假设，比如说“吸烟和肺癌独立”、“身高和国家独立”、“弹跳高度和种族独立”。</p>
+</li>
+<li><p>如前所述，p-value的定义是，假设H0成立，出现现有数据或更极端数据的概率。</p>
+</li>
+</ul>
+<p><strong>很显然，“p-value &#x3D; 0.01”和”我们有99%的把握认为H0成立“是不一样的。</strong></p>
+<p>在Yves S的专栏《2022新高考数学概率统计大题中的概念问题》中，他举了一个绝妙的例子：</p>
+<ul>
+<li>假设一个工厂生产了100万个硬币，其中10个硬币是有问题的，导致掷这些硬币时，正面朝上的概率明显超过1&#x2F;2。</li>
+<li>为了找到这些硬币，我们对每一枚硬币做假设检验：抛它100次，做$\chi ^2$检验，把p-value的阈值设为0.01，把p-value小于0.01的硬币认为是有质量问题的。</li>
+<li>阈值为0.01，意味着有1%的出错概率，即在$（10^7-10）$的正常硬币，会有大约1万个硬币的p-value小于0.01。</li>
+<li>那么问题来了，按照选修2-3和高考题的说法，这1W个硬币每个硬币都”有99%的把握有质量问题“</li>
+</ul>
+<p>正确的说法是：</p>
+<ul>
+<li>假设硬币没有问题，出现现有数据或更极端数据的概率是1%</li>
+<li>假设患该疾病群体与未患该疾病群体的卫生习惯独立，出现现有数据或更极端数据的概率是1%</li>
+<li>假设吸烟和肺癌独立，出现现有数据或更极端数据的概率是1%</li>
+</ul>
+<p>用数学语言来说，p-value的真正定义是<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)<br>$$</p>
+<p>但选修2-3把p-value错误理解成：<br>$$<br>p-value&#x3D;P(H0不成立|出现现有数据)<br>$$<br>同时，选修2-3把1-(p-value)错误理解成：<br>$$<br>1-(p-value)&#x3D;P(H0成立|出现现有数据)<br>$$</p>
+<h1 id="2019年过审的高中教材"><a href="#2019年过审的高中教材" class="headerlink" title="2019年过审的高中教材"></a>2019年过审的高中教材</h1><p>2019年，高中教材出了新版。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png" class="">
+
+
+
+<p>在数学的《选择性必修3》中，有以下进步</p>
+<ul>
+<li>那句大错特错的”99%的把握“被去掉了</li>
+<li>给出了正确的推导</li>
+<li>采用了和大学数理统计教材一样的符号<ul>
+<li>用$\chi ^2$代替了$K^2$</li>
+<li>用了$\alpha$</li>
+</ul>
+</li>
+</ul>
+<p>但是有一句话仍然有一定的问题。这个问题不是错误，但容易引起歧义——当我们用自然语言写”犯错误的概率不超过$\alpha$时，我们容易理解为，$P(H0不成立|出现现有数据) \le \alpha$。</p>
+<p>为了避免歧义，我们不能用写”犯<strong>错误</strong>的概率“，而要写”犯<strong>第一类错误</strong>的概率”。（统计学家把第一类错误<strong>定义</strong>成$P(拒绝H0|H0成立)$，把第二类错误<strong>定义</strong>为$P(接受H0|H0不成立)$。）</p>
+<p>下图为陈希孺的《概率论与数理统计》，他的写法是正确的：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png" class="">
+
+<p>传统的频率学派使用假设检验时，如果他发现p-value小于某个给定的值，比如0.01，他就会拒绝H0。在这种做法下：<br>$$<br>p-value &#x3D; P(拒绝H0|H0成立)<br>$$</p>
+<p>总结：<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(拒绝H0|H0成立) &#x3D; P(犯第一类错误)<br>$$</p>
+<h1 id="Bayes"><a href="#Bayes" class="headerlink" title="Bayes"></a>Bayes</h1><p>——2023-01-05 更新——</p>
+<p>以上所写的都是频率学派的假设检验。</p>
+<p>接下来我将写一下贝叶斯学派的假设检验。</p>
+<p>我们把p-value简记为<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(data|H0)<br>$$<br>利用贝叶斯公式<br>$$<br>P(H0|data) &#x3D; \frac{P(data|H0)P(H0)}{P(data)}<br>$$<br>P(H0)被称为先验(prior)，P(data|H0)被称为似然(likelihood)，P(H0|data)被称为后验(posterior)，P(data)可以认为是一个常数。</p>
+<p>在频率学派眼里，H0要么成立要么不成立，不可以考虑P(H0)，也不可以考虑P(H0|data)。</p>
+<p>在贝叶斯学派眼里，H0不是要么成立要么不成立，可以考虑P(H0)，也可以考虑P(H0|data)。</p>
+<p>如果我们不那么学究，我们可以认为，频率学派 &#x3D; 贝叶斯学派 + 无信息先验。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -1210,183 +1400,6 @@
 <p><strong>我所做的一切，最后都要由我的孩子评判。</strong></p>
 <p><strong>我不希望有一天我的儿子&#x2F;女儿打开Wikipedia，发现我的名字跟在舍恩等人后面。</strong></p>
 <p><strong>如果真是这样，等我的孩子长大到足以理解什么是学术造假后，他&#x2F;她一定会说：我爸是个傻逼。</strong></p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/06/10/Writing_About_Warcraft_III/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/06/10/Writing_About_Warcraft_III/" class="post-title-link" itemprop="url">写写war3</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-06-10 00:00:00" itemprop="dateCreated datePublished" datetime="2022-06-10T00:00:00+08:00">2022-06-10</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/2022-06/" itemprop="url" rel="index"><span itemprop="name">2022-06</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>1.4k</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>5 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="2022SP"><a href="#2022SP" class="headerlink" title="2022SP"></a>2022SP</h1><p>我：锟，你之前听说过war3的剧情吗？</p>
-<p>锟：高中舍友给我讲过一点。人族王子阿尔萨斯拿了剑变成不死族了。</p>
-<p>我：</p>
-<p>故事是这样的。</p>
-<p>从前有一个王子，叫Arthas；有一个公主，叫Jaina。</p>
-<p>Arthas学的是圣光，职业是圣骑士。</p>
-<p>Jaina学的是魔法，职业是法师。</p>
-<p>然后他们相爱了。</p>
-<p>然后他们在一起了。</p>
-<p>然后他们生了很多孩子，从此过上了幸福的生活。</p>
-<p>锟：？？？</p>
-<p>我：</p>
-<p>好吧，这是原本的故事。</p>
-<p>Arthas的王国发生了一场瘟疫，他爹派他去调查。</p>
-<p>这场瘟疫是由不死族引起的，不死族是一种类似于丧尸的东西。不死族的头头叫巫妖王。</p>
-<p>锟：巫妖王我听说过啊。</p>
-<p>我：</p>
-<p>按照设定，巫妖王的上司叫燃烧军团，巫妖王有几个同事叫恐惧魔王。</p>
-<p>恐惧魔王是一个种族。每个恐惧魔王有不同的名字，不过在这个故事里我们可以统称为恐惧魔王。</p>
-<p>巫妖王其实很恨燃烧军团和恐惧魔王。</p>
-<p>至于他为什么恨，那是第二部的剧情。</p>
-<p>设定是，巫妖王被封印在冰封王座里，但是有很强的心灵操纵能力。</p>
-<p>他想要出来，需要一个肉身，他看重了Arthas，就想把他引诱过来。</p>
-<p>于是他派他的手下到Arthas的王国散布瘟疫，感染瘟疫的人死后会变成不死族。</p>
-<p>不死族比丧尸恐怖多了，不死族走过的地方，土地都会腐烂，而人只要碰到腐烂的土地，之后就会变成不死族。</p>
-<p>在游戏的第三关和第四关，Arthas和他的暧昧对象Jaina以及他手下的军队一起收拾了巫妖王的几个手下。</p>
-<p>第五关，他们被不死族团团包围，Arthas让Jaina传送走（法师的技能之一是传送）去搬救兵。</p>
-<p>然后自己和手下军队在要塞的保护下击退一波又一波的不死族。</p>
-<p>在原剧情里俩人只是有暧昧关系的朋友，并没有说是男女朋友。</p>
-<p>这三关，Arthas对不死族越来越仇恨。</p>
-<p>特别是第五关一开始，Jaina传送走之后，Arthas和部下亲眼看到了吃下含有瘟疫的粮食的村民变成不死族，极其震撼。在这之前他们并不知道不死族是活人变的。</p>
-<p>第五关需要你坚持30min，这一关可以感受到压迫感和绝望感溢出屏幕。</p>
-<p>打完第五关之后，Jaina会带着救兵回来，救兵是Arthas的师父，Uther。</p>
-<p>第六关，三个人赶到一个大城市，不幸的是这里不少市民都已经吃了含有瘟疫的粮食。</p>
-<p>Arthas决定屠城，但是Uther和Jaina不同意，我猜毕竟后两者都没有亲眼看到活人变成不死族。</p>
-<p>他俩选择了离开。</p>
-<p>Arthas屠城之后，遇到一个恐惧魔王，恐惧魔王说，想来报仇的话，就来北极找我。</p>
-<p>于是Arthas就傻了吧唧地带着部队去北极了。</p>
-<p>锟：呃？</p>
-<p>我：</p>
-<p>但是恐惧魔王的实力太强了，Arthas打不过他。</p>
-<p>这时候，Arthas听说有一把魔剑，叫霜之哀伤。</p>
-<p>锟：霜之哀伤我当然听说过。</p>
-<p>我：</p>
-<p>Arthas越靠近北极，巫妖王对他的心控能力就越强。</p>
-<p>尽管Arthas知道拿了这把剑之后会有不好的后果，但他还是拿起了这把剑。</p>
-<p>按照设定，拿了这把剑之后，遭受的心灵控制更强，几乎就是完全听从巫妖王的话。</p>
-<p>拿了剑的Arthas很牛逼，很快率领自己的军队打败了恐惧魔王的部下，来到了恐惧魔王面前。</p>
-<p>恐惧魔王看着他拿着霜之哀伤，很高兴，说：“你现在能听到巫妖王对你说话了吗？”（恐惧魔王不知道巫妖王心里恨他）</p>
-<p>Arthas说：“能。”</p>
-<p>恐惧魔王：“哦？他对你说什么？”</p>
-<p>Arthas：“他对我说，现在就是我复仇的时刻！”</p>
-<p>然后Arthas拿着剑就把恐惧魔王砍了。</p>
-<p>锟：可怜的恐惧魔王。</p>
-<p>我：</p>
-<p>Arthas复仇之后，内心十分地空虚，巫妖王正好趁虚而入，侵占了他的所有心灵。</p>
-<p>刚才我说的是第一章的剧情。</p>
-<p>Reign of Chaos一共有四章。</p>
-<p>第二章讲的是变成死亡骑士的Arthas的故事。</p>
-<p>Arthas回来之后，</p>
-<p>先是砍了自己的父亲，</p>
-<p>然后又砍了自己的老师，</p>
-<p>然后又砍了自己的暧昧对象的老师。</p>
-<p>最后他开了一个传送门，把整个燃烧军团传送了过来。</p>
-<p>第二章到此结束。</p>
-<p>前两章是一个彻头彻尾的悲剧，我估计如果只有两章的话，这游戏不会有人玩的。</p>
-<p>但是后两章是好结局。</p>
-<p>因此，整个Reign of Chaos也是一个好结局。</p>
-<p>但是Arthas的故事是一个悲剧。</p>
-<p>这段剧情，太震撼了。</p>
-<p>我想我一辈子也不会忘记这个故事。</p>
-<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>我和锟哥的聊天到这里就结束了。</p>
-<p>后来，我在想，</p>
-<p>我们的思维不要这么的僵化。</p>
-<p>霜之哀伤可以是任何东西，</p>
-<p>任何你为了完成你的目的（比如复仇）需要获得的东西。</p>
-<p>但同时，它也会让你付出代价。</p>
-<hr>
-<p>如果你为了达成目标不择手段，</p>
-<p>你就会不顾一切地追求这样的东西。</p>
-<p>而要获得它，你就要付出惨重的代价。</p>
 
       
     </div>
