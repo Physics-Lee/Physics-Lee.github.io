@@ -566,9 +566,6 @@
         <category>2023</category>
         <category>2023-11</category>
       </categories>
-      <tags>
-        <tag>hesitation</tag>
-      </tags>
   </entry>
   <entry>
     <title>USTC，我的心碎之地。</title>
@@ -1952,7 +1949,6 @@
       <tags>
         <tag>family</tag>
         <tag>video game</tag>
-        <tag>Life Is Strange</tag>
       </tags>
   </entry>
   <entry>
@@ -2483,7 +2479,6 @@
       <tags>
         <tag>science</tag>
         <tag>rush</tag>
-        <tag>computational neuroscience</tag>
       </tags>
   </entry>
   <entry>
@@ -3248,43 +3243,6 @@
       </tags>
   </entry>
   <entry>
-    <title>科学史相关</title>
-    <url>/2023/03/01/History_of_Science/</url>
-    <content><![CDATA[<h1 id="2018-10-见潘建伟"><a href="#2018-10-见潘建伟" class="headerlink" title="2018-10 见潘建伟"></a>2018-10 见潘建伟</h1><p>我：您刚才说您对科学技术史也比较感兴趣？我有个比较简单的问题想问您。</p>
-<p>他：嗯</p>
-<p>我：我总感觉教科书的体系和历史上数学物理的发展很不一样。比如说，爱因斯坦提相对论的时候肯定完全掌握了理论力学和电动力学，而现在我们在普通物理的力学里就教授相对论。再比如说，高等数学里本来是先有导数和积分，然后才有连续，然后才有极限的概念，现在教科书上却先介绍极限，然后讲连续，再讲导数和积分。您觉得它为什么不按历史的顺序来讲？</p>
-<p>他：我明白你的意思了。我觉得中国的教科书的模式确实不太好，虽然按照它的模式体系很清晰，而且减少了大量的篇幅，可以把原来那么厚的书（他比划了一下）变成薄薄一册。但是的确有不利的地方，不利于物理思想，没有展现人们在已有知识基础上进行的探索的过程和过程中的思想。我在哥廷根大学时是先教授的物理学史，然后按照历史的顺序来介绍各个概念。</p>
-<h1 id="2020-12-见刘钝"><a href="#2020-12-见刘钝" class="headerlink" title="2020-12 见刘钝"></a>2020-12 见刘钝</h1><p>我总觉得对科学史的研究应该由接触过数学和自科前沿的学者来做。（这句话等价于说该由数学家和自然科学家来做）（这句话等价于说不应该有“只是数学史学家而不是数学家”这样的人的存在。）原因我还没有完全想清楚，但我确信这是对的。</p>
-<p>原因：</p>
-<p>今天晚上我在腾讯会议上听了一个科学史讲座，然而讲座的质量很低。</p>
-<p>P1P2是刘钝教授的介绍。（注：虽然他有这么多头衔，但我感觉他的数学水平不如学习成绩好的我科数院本科生）</p>
-<p>P3是2019年12月秋，丘成桐来科大也讲了一下数学史。说心里话，我觉得那次报告比我今天晚上听的这个强一百倍。可惜当时我做笔记的习惯还不够好，没有把邱说的都记下来。</p>
-<h1 id="2021-02-读《细胞生物学》"><a href="#2021-02-读《细胞生物学》" class="headerlink" title="2021-02 读《细胞生物学》"></a>2021-02 读《细胞生物学》</h1><p>原书所写：</p>
-<blockquote>
-<p>回顾学科发展史，不仅是简单地知道一些著名科学家的名字和他们对学科发展的贡献，更重要的是要了解人们在认知细胞的过程中，在每个时期所面临的核心问题及相关的代表人物，他们是如何分析和解决这些问题，最终形成学科的基本概念和基本理论。</p>
-</blockquote>
-<p>思索：</p>
-<p>小初高的科学史：罗列科学家的名字和他们的贡献。</p>
-<p>人文科学家研究的科学史：同上，但是更加精细。例如：牛顿在1665年1月干了xx，在1665年2月干了xx，在1665年3月干了xx。</p>
-<p>数学家和自然科学家眼中的科学史：牛顿和莱布尼茨面对的问题是什么？他们解决问题的思路是什么？</p>
-<p>PS：论文制度建立之后，很容易就能知道薛定谔在1926年1月干了什么，2月干了什么。</p>
-<h1 id="2023-03"><a href="#2023-03" class="headerlink" title="2023-03"></a>2023-03</h1><p>潘校所说完全正确：打乱历史的书，优点是把厚厚的书变成薄薄一册，缺点是不利于数学物理思想。</p>
-<hr>
-<p>现在的我对这些“只是科学史学家而不是科学家”的人没那么讨厌了。</p>
-<p>既然有这么多“只是科学史学家而不是科学家”的人存在，说明他们还是有价值的。毕竟科学家很忙，不能指望科学家像历史学家一样去考究细节。</p>
-<p>但是，这些人应该多提升自己的知识水平，而不是只是考古、考究细节。</p>
-<hr>
-<p>《细胞生物学》所写的我完全同意。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-03</category>
-      </categories>
-      <tags>
-        <tag>history of science</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Welcome to Wenlab</title>
     <url>/2023/03/01/Welcome_to_Wenlab/</url>
     <content><![CDATA[<h1 id="What-do-we-pursuit"><a href="#What-do-we-pursuit" class="headerlink" title="What do we pursuit?"></a>What do we pursuit?</h1><p>我们希望用数学物理的手段去研究、理解生物的神经系统。</p>
@@ -3332,7 +3290,6 @@
       <tags>
         <tag>science</tag>
         <tag>USTC</tag>
-        <tag>computational neuroscience</tag>
       </tags>
   </entry>
   <entry>
@@ -3471,8 +3428,6 @@
         <tag>science</tag>
         <tag>sports science</tag>
         <tag>AI</tag>
-        <tag>molecular biology</tag>
-        <tag>neuroscience</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -3741,8 +3696,6 @@
       <tags>
         <tag>scientific misconduct</tag>
         <tag>biology</tag>
-        <tag>medicine</tag>
-        <tag>psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -4282,7 +4235,6 @@
       <tags>
         <tag>science</tag>
         <tag>video game</tag>
-        <tag>art</tag>
       </tags>
   </entry>
   <entry>
@@ -4661,6 +4613,22 @@
       </tags>
   </entry>
   <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -4724,22 +4692,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
@@ -7045,7 +6997,6 @@
         <tag>fun</tag>
         <tag>science</tag>
         <tag>video game</tag>
-        <tag>chaos</tag>
       </tags>
   </entry>
   <entry>
@@ -7248,7 +7199,6 @@
       <tags>
         <tag>science</tag>
         <tag>physics</tag>
-        <tag>cook</tag>
       </tags>
   </entry>
   <entry>
@@ -7669,7 +7619,6 @@
       </categories>
       <tags>
         <tag>USTC</tag>
-        <tag>addiction</tag>
       </tags>
   </entry>
   <entry>
@@ -7797,6 +7746,40 @@
         <tag>fun</tag>
         <tag>madness</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>科学史相关</title>
+    <url>/2018/10/16/History_of_Science/</url>
+    <content><![CDATA[<h1 id="2018-10-见潘建伟"><a href="#2018-10-见潘建伟" class="headerlink" title="2018-10 见潘建伟"></a>2018-10 见潘建伟</h1><p>我：您刚才说您对科学技术史也比较感兴趣？我有个比较简单的问题想问您。</p>
+<p>他：嗯</p>
+<p>我：我总感觉教科书的体系和历史上数学物理的发展很不一样。比如说，爱因斯坦提相对论的时候肯定完全掌握了理论力学和电动力学，而现在我们在普通物理的力学里就教授相对论。再比如说，高等数学里本来是先有导数和积分，然后才有连续，然后才有极限的概念，现在教科书上却先介绍极限，然后讲连续，再讲导数和积分。您觉得它为什么不按历史的顺序来讲？</p>
+<p>他：我明白你的意思了。我觉得中国的教科书的模式确实不太好，虽然按照它的模式体系很清晰，而且减少了大量的篇幅，可以把原来那么厚的书（他比划了一下）变成薄薄一册。但是的确有不利的地方，不利于物理思想，没有展现人们在已有知识基础上进行的探索的过程和过程中的思想。我在哥廷根大学时是先教授的物理学史，然后按照历史的顺序来介绍各个概念。</p>
+<h1 id="2020-12-见刘钝"><a href="#2020-12-见刘钝" class="headerlink" title="2020-12 见刘钝"></a>2020-12 见刘钝</h1><p>我总觉得对科学史的研究应该由接触过数学和自科前沿的学者来做。（这句话等价于说该由数学家和自然科学家来做）（这句话等价于说不应该有“只是数学史学家而不是数学家”这样的人的存在。）原因我还没有完全想清楚，但我确信这是对的。</p>
+<p>原因：</p>
+<p>今天晚上我在腾讯会议上听了一个科学史讲座，然而讲座的质量很低。</p>
+<p>P1P2是刘钝教授的介绍。（注：虽然他有这么多头衔，但我感觉他的数学水平不如学习成绩好的我科数院本科生）</p>
+<p>P3是2019年12月秋，丘成桐来科大也讲了一下数学史。说心里话，我觉得那次报告比我今天晚上听的这个强一百倍。可惜当时我做笔记的习惯还不够好，没有把邱说的都记下来。</p>
+<h1 id="2021-02-读《细胞生物学》"><a href="#2021-02-读《细胞生物学》" class="headerlink" title="2021-02 读《细胞生物学》"></a>2021-02 读《细胞生物学》</h1><p>原书所写：</p>
+<blockquote>
+<p>回顾学科发展史，不仅是简单地知道一些著名科学家的名字和他们对学科发展的贡献，更重要的是要了解人们在认知细胞的过程中，在每个时期所面临的核心问题及相关的代表人物，他们是如何分析和解决这些问题，最终形成学科的基本概念和基本理论。</p>
+</blockquote>
+<p>思索：</p>
+<p>小初高的科学史：罗列科学家的名字和他们的贡献。</p>
+<p>人文科学家研究的科学史：同上，但是更加精细。例如：牛顿在1665年1月干了xx，在1665年2月干了xx，在1665年3月干了xx。</p>
+<p>数学家和自然科学家眼中的科学史：牛顿和莱布尼茨面对的问题是什么？他们解决问题的思路是什么？</p>
+<p>PS：论文制度建立之后，很容易就能知道薛定谔在1926年1月干了什么，2月干了什么。</p>
+<h1 id="2023-03"><a href="#2023-03" class="headerlink" title="2023-03"></a>2023-03</h1><p>潘校所说完全正确：打乱历史的书，优点是把厚厚的书变成薄薄一册，缺点是不利于数学物理思想。</p>
+<hr>
+<p>现在的我对这些“只是科学史学家而不是科学家”的人没那么讨厌了。</p>
+<p>既然有这么多“只是科学史学家而不是科学家”的人存在，说明他们还是有价值的。毕竟科学家很忙，不能指望科学家像历史学家一样去考究细节。</p>
+<p>但是，这些人应该多提升自己的知识水平，而不是只是考古、考究细节。</p>
+<hr>
+<p>《细胞生物学》所写的我完全同意。</p>
+]]></content>
+      <categories>
+        <category>2018</category>
+        <category>2018-10</category>
+      </categories>
   </entry>
   <entry>
     <title>反派杀好人前为什么总要废话一阵？</title>
