@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>武汉的雨</title>
+    <url>/2023/12/10/Rain_in_Wu_Han/</url>
+    <content><![CDATA[<p>此情无计可消除</p>
+<p>狂飙化作潇湘雨</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+  </entry>
+  <entry>
     <title>力量训练指南</title>
     <url>/2023/12/10/Strength_Trainning_Tutorial/</url>
-    <content><![CDATA[<p>听博士答辩到一半，实在停不下去，去中南财找润农去健身房玩。</p>
+    <content><![CDATA[<p>听博士答辩到一半，实在听不下去，去中南财找润农去健身房玩。</p>
 <p>我把我会的都说了一遍，现在做个文字记录。</p>
 <ul>
 <li><p>卧推</p>
@@ -159,6 +170,29 @@
         <category>2023</category>
         <category>2023-12</category>
       </categories>
+  </entry>
+  <entry>
+    <title>名人堂</title>
+    <url>/2023/12/01/Hall_of_Fame/</url>
+    <content><![CDATA[<p><a href="https://physics-lee.github.io/pdfs/Hall_of_Fame.pdf">我心中的名人堂。</a></p>
+<p>2018的我和2023的我选出的人有何不同？</p>
+<p>2018的我选出了阿基米德、牛顿、欧拉、高斯和伽利略、牛顿、法拉第、麦克斯韦、爱因斯坦。</p>
+<p>现在想来，当时的我对于牛顿、欧拉、高斯和后五者的理解基本正确，但是阿基米德就是道听途说的了。</p>
+<p>今天我把阿基米德换成了欧几里得，因为欧几里得的公理化思想是数学的开端。</p>
+<p>今天我加上了黎曼，因为他象征着那个严格化微积分的时代。</p>
+<p>高中毕业的我对于统计、计算机一无所知。对于化学，我压根不知道何为价键，何为分子轨道。对于生物，我对达尔文、孟德尔的地位的理解并不深刻。</p>
+<hr>
+<p>说明：每个人代表的都是一群人。比如，欧几里得代表了欧多克索斯、他自己、阿基米德、阿波罗尼斯，黎曼代表了他自己、戴德金、康托尔、维尔斯特拉斯。</p>
+<p>还有一个意外发现——高斯没有照片，法拉第有照片。</p>
+<hr>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
   </entry>
   <entry>
     <title>Salvador Allende</title>
