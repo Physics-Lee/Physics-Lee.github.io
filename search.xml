@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>List of Wars by Death Toll</title>
-    <url>/2023/12/19/List_of_Wars_by_Death_Toll/</url>
-    <content><![CDATA[<p><em><a href="https://en.wikipedia.org/wiki/List_of_wars_by_death_toll">Wikipedia Link.</a></em></p>
-<p>战争不成就英雄，只留下孤儿寡母。</p>
-<p>War does not make heroes, only orphans and widows.</p>
-<p><a href="https://chat.openai.com/share/6e94bbfb-cfc5-41f3-8943-0e172905535c">Insights from GPT-4.</a></p>
-<hr>
-<p>Also see:</p>
-<ul>
-<li><p><a href="https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics">List of pandemics</a></p>
-</li>
-<li><p><a href="https://en.wikipedia.org/wiki/World_population">world population</a></p>
-</li>
-</ul>
+    <title>任务完成</title>
+    <url>/2023/12/20/Done/</url>
+    <content><![CDATA[<p>今天终于把所有的文件都保护了起来。要么用坚果云同步，要么用Synology备份。</p>
+<p>哦耶~</p>
 ]]></content>
       <categories>
         <category>2023</category>
-        <category>2023-11</category>
+        <category>2023-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
-        <tag>history</tag>
-        <tag>break cognitive limits</tag>
-        <tag>war</tag>
-        <tag>feudalism</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -592,6 +577,35 @@
       </categories>
       <tags>
         <tag>injury</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>List of Wars by Death Toll</title>
+    <url>/2023/11/19/List_of_Wars_by_Death_Toll/</url>
+    <content><![CDATA[<p><em><a href="https://en.wikipedia.org/wiki/List_of_wars_by_death_toll">Wikipedia Link.</a></em></p>
+<p>战争不成就英雄，只留下孤儿寡母。</p>
+<p>War does not make heroes, only orphans and widows.</p>
+<p><a href="https://chat.openai.com/share/6e94bbfb-cfc5-41f3-8943-0e172905535c">Insights from GPT-4.</a></p>
+<hr>
+<p>Also see:</p>
+<ul>
+<li><p><a href="https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics">List of pandemics</a></p>
+</li>
+<li><p><a href="https://en.wikipedia.org/wiki/World_population">world population</a></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>capitalism</tag>
+        <tag>history</tag>
+        <tag>break cognitive limits</tag>
+        <tag>war</tag>
+        <tag>feudalism</tag>
       </tags>
   </entry>
   <entry>
