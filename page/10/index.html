@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">228</span>
+          <span class="site-state-item-count">230</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,181 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/04/01/Across_Programming_Language/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/04/01/Across_Programming_Language/" class="post-title-link" itemprop="url">跨编程语言</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-04-01 00:00:00" itemprop="dateCreated datePublished" datetime="2023-04-01T00:00:00+08:00">2023-04-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-04/" itemprop="url" rel="index"><span itemprop="name">2023-04</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>460</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="浅复制和深复制"><a href="#浅复制和深复制" class="headerlink" title="浅复制和深复制"></a>浅复制和深复制</h1><p>当你把A复制到B，有两种可能</p>
+<ul>
+<li><p>浅复制：只复制指针。更改B会改A</p>
+</li>
+<li><p>深复制：复制到另一个不同的地址。更改B不会改A</p>
+</li>
+</ul>
+<p>三种语言</p>
+<ul>
+<li><p>C语言中，写函数时很明显。函数的参数若为<code>int</code>，则不会传地址进来，是深复制；若为<code>int*</code>，则会传地址，是浅复制。</p>
+</li>
+<li><p>MATLAB中，在函数中，若声明<code>global</code>，则会传地址进来，是浅复制；<strong>若什么操作都不做，则是深复制。</strong></p>
+</li>
+<li><p>Python中，若用<code>.copy()</code>，则为深复制；<strong>若什么操作都不做，则是浅复制。</strong></p>
+</li>
+</ul>
+<h1 id="匿名函数和普通函数"><a href="#匿名函数和普通函数" class="headerlink" title="匿名函数和普通函数"></a>匿名函数和普通函数</h1><p><strong>前者适合较短的、只用1次的函数，后者适合较长的、用多次的函数。</strong></p>
+<p>Python</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">square = lambda x: x**2</span><br></pre></td></tr></table></figure>
+
+<p>MATLAB</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double = @(x) x * 2;</span><br></pre></td></tr></table></figure>
+
+<p>R</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double &lt;- function(x) &#123; x * 2 &#125;</span><br></pre></td></tr></table></figure>
+
+<p>Julia</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double = x -&gt; x * 2</span><br></pre></td></tr></table></figure>
+
+<p>C++</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">auto double_fn = [](int x) &#123; return x * 2; &#125;;</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="续行符"><a href="#续行符" class="headerlink" title="续行符"></a>续行符</h1><p>C++: <code>\</code></p>
+<p>MATLAB: <code>...</code></p>
+<p>Python: \</p>
+<p>R: +</p>
+<h1 id="多用函数"><a href="#多用函数" class="headerlink" title="多用函数"></a>多用函数</h1><ul>
+<li>傻孩子，你想复制粘贴的时候就用函数，不然你怎么同时更改所有你复制粘贴的代码？！！！</li>
+<li>写Machine Label这个小工程项目后，我发现，用函数的好处不仅仅是用来代替复制粘贴，还有<ul>
+<li>模块化，让流程更清晰。你可以清楚地看到每个模块的输入和输出</li>
+<li>不同函数里可以用相同名称的局部变量，比如mask。否则，你就必须用mask_1，mask_2</li>
+</ul>
+</li>
+</ul>
+<h1 id="scanf-和-printf-到底是啥的缩写？"><a href="#scanf-和-printf-到底是啥的缩写？" class="headerlink" title="scanf 和 printf 到底是啥的缩写？"></a>scanf 和 printf 到底是啥的缩写？</h1><p><code>scanf</code> stands for “scan formatted”, which is used to read formatted input from the standard input stream, such as keyboard input.</p>
+<p><code>printf</code> stands for “print formatted”, which is used to output formatted data to the standard output stream, such as the console or terminal.</p>
+<p><code>fscanf</code> stands for “file scan formatted”, which is used to read formatted data from a file.</p>
+<p><code>fprintf</code> stands for “file print formatted”, which is used to output formatted data to a file.</p>
+<table>
+<thead>
+<tr>
+<th>C</th>
+<th>MATLAB</th>
+<th>Python</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>scanf</td>
+<td>input</td>
+<td>input</td>
+</tr>
+<tr>
+<td>printf</td>
+<td>disp</td>
+<td>print</td>
+</tr>
+<tr>
+<td>fscanf</td>
+<td>fscanf</td>
+<td>read</td>
+</tr>
+<tr>
+<td>fprintf</td>
+<td>fprintf</td>
+<td>write</td>
+</tr>
+</tbody></table>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -480,6 +655,105 @@
 </ul>
 </li>
 </ul>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/03/24/0324/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/03/24/0324/" class="post-title-link" itemprop="url">324</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-03-24 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-24T00:00:00+08:00">2023-03-24</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-03/" itemprop="url" rel="index"><span itemprop="name">2023-03</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>68</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>好好吃饭，好好睡觉，好好锻炼。</p>
+<p>继续做一个有责任心的人，继续做一个真诚的人，继续做一个光明正直磊落的人。</p>
+<p>我的那些缺点，情绪不稳定，太科却不认真钻研，我改即可。</p>
 
       
     </div>
@@ -1095,221 +1369,6 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/01/01/500_Free_Throw/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/01/01/500_Free_Throw/" class="post-title-link" itemprop="url">500罚球</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-01-01 00:00:00" itemprop="dateCreated datePublished" datetime="2023-01-01T00:00:00+08:00">2023-01-01</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-01/" itemprop="url" rel="index"><span itemprop="name">2023-01</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>110</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>6&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>6&#x2F;10<br>2&#x2F;10</p>
-<p>36&#x2F;100</p>
-<p>8&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>5&#x2F;10<br>2&#x2F;10<br>6&#x2F;10<br>7&#x2F;10<br>6&#x2F;10</p>
-<p>50&#x2F;100</p>
-<p>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>7&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
-<p>35&#x2F;100</p>
-<p>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>1&#x2F;10<br>2&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>3&#x2F;10</p>
-<p>32&#x2F;100</p>
-<p>7&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
-<p>40&#x2F;100</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/12/30/David_Marr_and_Psychology/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/12/30/David_Marr_and_Psychology/" class="post-title-link" itemprop="url">David Marr如果生在今天，是否还会相信最新的心理学研究？</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-12-30 00:00:00" itemprop="dateCreated datePublished" datetime="2022-12-30T00:00:00+08:00">2022-12-30</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/2022-12/" itemprop="url" rel="index"><span itemprop="name">2022-12</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>436</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>2022SA，我走马观花地读了一遍David Marr的Vision。</p>
-<p>Marr在此书中试图提出一种算法，来实现人类的视觉。这本书催生了后来被称之为Computer Vision的学科。</p>
-<p>这本书的第一句话是：What does it mean, to see?</p>
-<p>这本书的最后一章是以Francis Crick为首的科学家对Marr的方法提出质疑，而Marr反驳这些质疑。</p>
-<p>写这本书时Marr已经知道他患上了白血病，时日无多。这本书有种《九阴真经》、《武穆遗书》的味道。</p>
-<p>David Marr死时年仅35岁，堪称计算神经科学、人工智能领域的伽罗瓦。</p>
-<p>以他的实力，如果他能活到70岁，也许他能成为诺贝尔奖和图灵奖双料得主。</p>
-<hr>
-<p>我注意到，Marr在本书中引用了特别多的心理学研究，而且很多是最近一两年发表的——换句话说，Marr利用了他当时所能找到的一切资源。</p>
-<p>这本书写于1980年，而近二三十年生物学、医学、心理学领域造假频出，我很好奇David Marr如果生在我们这个时代，是否还会相信最新的心理学研究？</p>
-<p>以我肤浅的知识，生物学、心理学学术造假频出是近二十年计算神经科学发展速度远远逊于人工智能的原因之一。</p>
-<p>我们不要妄自菲薄。我们所处的这个时代是一个<strong>过去从来没有出现过，未来也可能不会再出现</strong>的时代——<strong>有史以来第一次，学术造假严重阻碍学科发展。</strong></p>
-<p>我们每个人都必须学会在这个新时代生存下去。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
     <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/page/9/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/9/">9</a><span class="page-number current">10</span><a class="page-number" href="/page/11/">11</a><span class="space">&hellip;</span><a class="page-number" href="/page/23/">23</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/11/"><i class="fa fa-angle-right"></i></a>
   </nav>
@@ -1333,13 +1392,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">119k</span>
+    <span title="Word count total">120k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">6:36</span>
+    <span title="Reading time total">6:39</span>
   </span>
 </div>
 <div class="busuanzi-count">
