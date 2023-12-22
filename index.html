@@ -189,102 +189,6 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/12/22/Sub_Repository_in_Git/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/12/22/Sub_Repository_in_Git/" class="post-title-link" itemprop="url">Untitled</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-12-22 15:44:03" itemprop="dateCreated datePublished" datetime="2023-12-22T15:44:03+08:00">2023-12-22</time>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>52</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p>只需要一行代码</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git submodule add &lt;repository-url&gt; &lt;path-to-submodule&gt;</span><br></pre></td></tr></table></figure>
-
-<p>例如</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git submodule add https://github.com/example/library.git libs/library</span><br></pre></td></tr></table></figure>
-
-
-
-<h1 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h1><p>需要两行代码</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git submodule deinit -f submodule_name</span><br><span class="line">git config -f .git/config --remove-section submodule.submodule_name</span><br></pre></td></tr></table></figure>
-
-
-
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/12/22/Cold_Wind/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -314,7 +218,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2023-12-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-12-22T00:00:00+08:00">2023-12-22</time>
+      <time title="Created: 2023-12-22 21:48:20" itemprop="dateCreated datePublished" datetime="2023-12-22T21:48:20+08:00">2023-12-22</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -442,7 +346,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>882</span>
+      <span>892</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -484,23 +388,25 @@
 <p>2023年年末，和两位师兄有如下对话，这次对话直接催生了<a href="https://physics-lee.github.io/2023/11/26/Close_Loop/">思维闭环</a>，让我想清楚了之前从未想清楚的事情。</p>
 <blockquote>
 <p>我：二位师兄觉得，学术界和企业界，哪个更有良心？</p>
-<p>师兄X：良心有什么用？重要的是制度！</p>
+<p>天琦：良心有什么用？重要的是制度！</p>
 <p>我：我一直都认为学术界更有良心。</p>
-<p>师兄M：为什么？</p>
+<p>宇明：为什么？</p>
 <p>我：学术界一直标榜自己是在为全人类做贡献，这就是最大的良心。</p>
-<p>师兄X、M：谁会相信？</p>
+<p>天琦、宇明：谁会相信？</p>
 <p>我：孩子们会相信。</p>
-<p>师兄M：如果有一天连孩子们都不相信科学家是在为全人类做贡献了，那人类还有未来吗？并且，学术圈里还有少数人是真的在为全人类做贡献的。</p>
+<p>宇明：如果有一天连孩子们都不相信科学家是在为全人类做贡献了，那人类还有未来吗？并且，学术圈里还有少数人是真的在为全人类做贡献的。</p>
 <p>我：在今天，2023年，有百分之多少的科学家是在为全人类做贡献？又有百分之多少的科学家是为了升官发财？我们不应该对未成年人撒谎。在教育中，真诚是最重要的品质之一。我认为实话实说更好，二战前都不错，二战后出了一些问题。</p>
 <p>我：科学家是为了全人类做贡献、科学家做研究是出于好奇心、科学家不会学术造假，这是二战后人类社会最大的三个谎言。</p>
 </blockquote>
 <hr>
 <p>2023年杰出文章</p>
 <ol>
+<li><a href="https://physics-lee.github.io/pdfs/Machine_Learning.pdf">Notes of Machine Learning Class</a></li>
 <li><a href="https://physics-lee.github.io/2023/03/24/0324/">0324</a></li>
 <li><a href="https://physics-lee.github.io/2023/06/08/23/">23</a></li>
 <li><a href="https://physics-lee.github.io/2023/06/30/Journey_to_the_Southern_City/">南城一游</a></li>
 <li><a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/">杨振宁回忆鸦片</a></li>
+<li><a href="https://physics-lee.github.io/pdfs/C_Neuro_Course/Welcome-to-Computational-Neuroscience-Course_Chinese.pdf">Welcome to the Computational Neuroscience Course!</a></li>
 <li><a href="https://physics-lee.github.io/2023/08/28/China-vs-South_Sudan/">中国 vs 南苏丹</a></li>
 <li><a href="https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/">使用Hexo + Next + GitHub Pages搭建个人网站</a></li>
 <li><a href="https://physics-lee.github.io/2023/10/30/Milk_Tea/">奶茶</a></li>
@@ -1287,6 +1193,164 @@
 
 
 
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/12/10/Strength_Trainning_Tutorial/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/12/10/Strength_Trainning_Tutorial/" class="post-title-link" itemprop="url">力量训练指南</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-12-10 16:00:00" itemprop="dateCreated datePublished" datetime="2023-12-10T16:00:00+08:00">2023-12-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-12/" itemprop="url" rel="index"><span itemprop="name">2023-12</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>450</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>听博士答辩到一半，实在听不下去，去中南财找润农去健身房玩。</p>
+<p>我把我会的都说了一遍，现在做个文字记录。</p>
+<ul>
+<li><p>卧推</p>
+<ul>
+<li>每周2-3次</li>
+<li>注意事项<ul>
+<li>眼睛在杠铃正下方</li>
+<li>反弓背部</li>
+<li>大臂和躯干呈45°-60°</li>
+<li>快起慢放</li>
+<li>下落时吸气，上推时吐气</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>引体向上</p>
+<ul>
+<li>每周5-6次</li>
+<li>注意事项<ul>
+<li>推拉平衡：当你能做1个自重的卧推时，你必须能做至少一个标准引体向上，否则会圆肩。</li>
+<li>上拉时手肘靠近躯干</li>
+<li>快起慢放</li>
+<li>下落时吸气，上拉时吐气</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>深蹲</p>
+<ul>
+<li>徒手深蹲&#x2F;壶铃深蹲每周5-6次，杠铃深蹲每周2-3次</li>
+<li>注意事项<ul>
+<li>先屈髋再屈膝</li>
+<li>若膝盖有伤，可以蹲到大腿和地面呈120°即可。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>硬拉：我没怎么练过，因为我身体柔韧度一般（坐位体前屈70多分）。</p>
+</li>
+<li><p>提踵：每周5-6次，甚至可以没事就找个台阶练练。</p>
+</li>
+<li><p>俯卧撑</p>
+<ul>
+<li>没事就练练。我压力大的时候喜欢狂做俯卧撑。</li>
+<li>注意事项<ul>
+<li>大臂和躯干呈45°-60°</li>
+<li>头和躯干保持一条直线</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>背起：没事就练练。</p>
+</li>
+<li><p>腹部：包括仰卧起坐、卷腹、俄罗斯转体、举腿，没事就练练。</p>
+</li>
+<li><p>手臂、肩部：包括哑铃弯举、肱三头肌、哑铃前平举、哑铃侧平举，没事就练练。</p>
+</li>
+<li><p>转化：我没怎么练过，以后可以找篮球队的朋友教一教。</p>
+</li>
+</ul>
+<p><a href="https://physics-lee.github.io/2023/08/31/What_Is_Your_Goal_of_Strengh_Training/">力量训练前一定要搞清楚自己的目的</a>。以上的频率都是对我而言的，是为我的目的服务的（防受伤 &gt; 突破极限 &gt; 功能性 &gt; 其它）。如果你有不同的目的，频率当然会和我不同。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
   <nav class="pagination">
     <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/page/24/">24</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/2/"><i class="fa fa-angle-right"></i></a>
   </nav>
@@ -1310,13 +1374,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">120k</span>
+    <span title="Word count total">125k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">6:41</span>
+    <span title="Reading time total">6:56</span>
   </span>
 </div>
 <div class="busuanzi-count">
