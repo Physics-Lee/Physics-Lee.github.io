@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2023/12/31/Questions_About_Me/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>修硬件</title>
+    <url>/2023/12/31/Fix_Hardware/</url>
+    <content><![CDATA[<p>2023年最后一天，来到联想售后中心。</p>
+<p>2022年12月，我也来到过这里，换电脑充电器的变压器。</p>
+<p>小哥人不错，解答了我很多问题——CPU在哪里、GPU在哪里、内存在哪里、外存在哪里、显存在哪里。</p>
+<p>从小到大，我的动手能力，只能算一般——我甚至从来都没有自己拆过笔记本电脑或手机。</p>
+<p>家里还有很多报废的电脑和手机，我回去拆一拆。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>break cognitive limit</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Tesla | Respect</title>
     <url>/2023/12/27/Tesla/</url>
     <content><![CDATA[<p>牛顿宣流数，高斯竞二乘。</p>
@@ -2734,22 +2756,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -2846,6 +2852,22 @@
         <tag>biography</tag>
         <tag>physics</tag>
         <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -4990,8 +5012,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
         <tag>madness</tag>
+        <tag>scientific misconduct</tag>
         <tag>USTC</tag>
       </tags>
   </entry>
@@ -5442,8 +5464,8 @@
         <category>2022-09</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
         <tag>madness</tag>
+        <tag>scientific misconduct</tag>
         <tag>biology</tag>
         <tag>USTC</tag>
       </tags>
