@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>给出更高级知识的来源</title>
+    <url>/2024/01/02/Give_Sources_of_More_Advanced_Knowledge/</url>
+    <content><![CDATA[<h1 id="简单答案"><a href="#简单答案" class="headerlink" title="简单答案"></a>简单答案</h1><p>今天在七七的朋友圈里看到<a href="https://mp.weixin.qq.com/s/r_TOPEx5zJahRXE0fyrr2w">这篇文章</a>，感触极大，挥毫。</p>
+<p>此文发文：如何让学生学会思考？“</p>
+<p>我直接给出我的解决方法——给出更高级知识的来源。</p>
+<p>具体做法：小学教材引用初中教材，初中教材引用高中教材，高中教材引用所有资料。引用，即，在文字旁边加个角标，在此页的下方写出这些知识的来源或其更高级知识的来源。</p>
+<h1 id="Q-A"><a href="#Q-A" class="headerlink" title="Q &amp; A"></a>Q &amp; A</h1><p>当然有的人会不同意我这种做法，我思考了一些可能的反驳意见：</p>
+<p>问：你在高中教材上引用《古今数学思想》或者《费曼物理学讲义》或者<em>Statistics</em> (David Freeman)，高中生能看懂吗？</p>
+<p>答：永远不要低估一颗求知的心。</p>
+<p>问：你给了之后有多少人会看？</p>
+<p>答：就算只有1%的人看，也值得。而且，我觉得，如果一个人从小学开始看的书都有引用，这个百分比会大于50%。</p>
+<p>问：除了纸质资源之外，对互联网上的资源，你认为哪些适合高中生？</p>
+<p>答：Wikipedia, <a href="https://www.khanacademy.org/">Khan Academy</a>, <a href="https://artofproblemsolving.com/">Art of Problem Solving</a>, <a href="https://www.3blue1brown.com/">3Blue1Brown</a>, <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">StatQuest</a>, <a href="https://mathworld.wolfram.com/">Math World</a>.</p>
+<p>问：如何取得它们的授权？</p>
+<p>答：花点钱不就完了。这些人都很友善，不会狮子大开口的。</p>
+<p>问：维基百科上有很多政治内容，如何处理？</p>
+<p>答：只把数学和自然科学相关的搞进来。这件事仔细去做是可以办到的。</p>
+<p>问：你为什么觉得给出更高级知识的来源如此重要？</p>
+<p>答：</p>
+<ul>
+<li>永远不要低估一颗求知的心。</li>
+<li>引用，非常适合构建知识体系。我第一次看到维基百科时，就发现它无处不在的超链接非常适合学知识！</li>
+<li>知识上不封顶，这样极其有利于一个孩子找到自己的兴趣所在。我在大一大二也感到迷茫，不知道对什么感兴趣，但是现在，有四五个方向我都很感兴趣，我从里面挑一个我最喜欢做的就可以了。</li>
+</ul>
+<p>问：这件事可行性如何？</p>
+<p>答：可行性很高。因为没有触及各派的利益。衡水中学、毛坦厂中学依然可以延续他们的模式。高考命题组依然可以延续他们的命题模式。</p>
+<p>问：LLM可以帮助给出更高级知识的来源吗？</p>
+<p>答：当然可以！事实上，LLM非常适合一个人去了解自己从未听说过的领域。</p>
+<h1 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h1><p>最后，扯一点有的没的。</p>
+<p>我以前写过</p>
+<blockquote>
+<p>我希望有一天<strong>让100%的人都能接触到大学的知识</strong>。</p>
+<p><strong>“接触”，指的是，有获取的渠道！</strong></p>
+<p>小学、初中、高中的大学最大的不同点是，大学的知识是没有天花板的，是无限的。如果一个人没有渠道获取大学的知识，他各个领域的知识就都有了天花板。我们必须让下一代有获取大学知识的渠道！这样才能让每个人发现自己感兴趣的东西</p>
+<p>我身边的很多本科同学，都说自己不知道对什么感兴趣，这主要是因为，我们的渠道被堵死了。<strong>没有人教我们怎么用谷歌，没有人教我们怎么用维基百科，没有人教我们怎么查到Einstein的原始论文，没有人教我们怎么查到Max Born的《光学》。</strong></p>
+<p>我、我爱的人、爱我的人、本科寝室的三个兄弟、关系较好的学长学姐、同级朋友、学弟学妹、几乎所有高中同学，在高中、大学前期，全都吃了信息、知识渠道被堵的亏。这些人几乎占了和我社交距离近者的全部了。</p>
+</blockquote>
+<p>我依然记得它们。吾之初心，永世不忘。</p>
+<p>我现在是爽了，左手Google，右手GPT，天下没有我查不到的知识和信息。但是我忘不了初中高中翻来覆去学同样东西看不到更广阔世界的痛苦，忘不了大一大二查不到有用的东西闭门造车的痛苦。我知道天下还有很多中学生大学生在承受这种痛苦。甚至于，我在社团里就能亲眼看到很多学弟学妹在重蹈我的覆辙，他们就像我的弟弟妹妹一样。我不能坐视不理。</p>
+<p>下班后，经过中国第二梯队的学府和第一梯队的科研场所的校门，我深深地思考着这个国家的过去、现在和未来。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023 终焉</title>
     <url>/2023/12/31/2023_Over/</url>
     <content><![CDATA[<p>今天，在朋友圈和空间中看到了QQ音乐和Steam的年终总结。</p>
@@ -116,8 +166,6 @@
 <p>从小到大，我的动手能力，只能算一般——我甚至从来都没有自己拆过笔记本电脑或手机。</p>
 <p>家里还有很多报废的电脑和手机，我回去拆一拆。</p>
 <img src="/2023/12/31/Fix_Hardware/1.jpg" class="">
-
-<p><img src="/Fix_Hardware/1.jpg" alt="1"></p>
 ]]></content>
       <categories>
         <category>2023</category>
@@ -326,10 +374,16 @@
     <title>且看LLM如何改变电子游戏</title>
     <url>/2023/12/19/Game_Industry_by_Lin/</url>
     <content><![CDATA[<p>今日看了小林最新一期讲电子游戏产业的<a href="https://www.youtube.com/watch?v=8BbG1Jr94o8&lc=UgwSl0pet4Y3sqqeXnJ4AaABAg">视频</a>，有感而发，遂作此文。</p>
-<p><img src="/Game_Industry_by_Lin.assets/img_v3_0269_1318ea08-1efe-48ed-bfac-261b5f3c5d2g.jpg" alt="img_v3_0269_1318ea08-1efe-48ed-bfac-261b5f3c5d2g"></p>
-<p><img src="/Game_Industry_by_Lin.assets/image-20231219192702386.png" alt="image-20231219192702386"></p>
-<p><img src="/Game_Industry_by_Lin.assets/image-20231219193109769.png" alt="image-20231219193109769"></p>
-<p><img src="/Game_Industry_by_Lin.assets/image-20231219193254775.png" alt="image-20231219193254775"></p>
+<img src="/2023/12/19/Game_Industry_by_Lin/1.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/2.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/3.png" class="">
+
+
+
+
+
 <p>虽然数据满满，但是小林在视频里没有提到LLM将会对电子游戏产生的影响。我个人认为，LLM会改变一切产业，科技、教育、游戏、农业、工业、服务业，所有的一切！</p>
 <p>且看LLM如何改变游戏！</p>
 ]]></content>
@@ -1064,8 +1118,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
@@ -1110,8 +1164,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
@@ -2208,8 +2262,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -2812,6 +2866,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -2835,22 +2905,6 @@
         <tag>biography</tag>
         <tag>drug</tag>
         <tag>break cognitive limits</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -2973,7 +3027,7 @@
 <h1 id="Wen-Lab"><a href="#Wen-Lab" class="headerlink" title="Wen Lab"></a>Wen Lab</h1><p>鱼组的光场显微镜，每秒能拍100个volume，每个volume包含27个frame。即，frame per second &#x3D; 2700。</p>
 <p>聪明的你应该已经意识到了，我们有27个相机，从不同的角度拍摄。</p>
 <p>具体地说，27个相机分成2组，1组13个，1组14个，两组在z轴上有2个焦点，每组的焦平面绕焦点转动。即，换句话说，在焦点1，13个相机从不同的角度拍，在焦点2，另外14个相机从不同的角度拍。</p>
-<p>最后，鱼组得到了重构后的体帧。体帧，其实就是300·300·300的小格子以及每个小格子的Calcium Trace。</p>
+<p>最后，鱼组得到了重构后的体帧。体帧，其实就是600·600·300的小格子以及每个小格子的Calcium Trace。</p>
 ]]></content>
       <categories>
         <category>2023</category>
