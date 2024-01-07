@@ -29,7 +29,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://physics-lee.github.io/2023/06/28/Light_Field_Microscope/1.png">
 <meta property="article:published_time" content="2023-06-27T16:00:00.000Z">
-<meta property="article:modified_time" content="2024-01-02T02:12:21.000Z">
+<meta property="article:modified_time" content="2024-01-03T02:40:45.000Z">
 <meta property="article:author" content="Xuan Jr.">
 <meta property="article:tag" content="fun">
 <meta property="article:tag" content="physics">
@@ -148,7 +148,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%89%E5%9C%BA-Light-Field"><span class="nav-number">1.</span> <span class="nav-text">光场 (Light Field)</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%89%E5%9C%BA%E6%98%BE%E5%BE%AE%E9%95%9C-Light-Field-Microscope"><span class="nav-number">2.</span> <span class="nav-text">光场显微镜 (Light Field Microscope)</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Wen-Lab"><span class="nav-number">3.</span> <span class="nav-text">Wen Lab</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%89%E5%9C%BA-Light-Field"><span class="nav-number">1.</span> <span class="nav-text">光场 (Light Field)</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%89%E5%9C%BA%E6%98%BE%E5%BE%AE%E9%95%9C-Light-Field-Microscope"><span class="nav-number">2.</span> <span class="nav-text">光场显微镜 (Light Field Microscope)</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Wen-Lab"><span class="nav-number">3.</span> <span class="nav-text">Wen Lab</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%AF%E8%A7%86%E5%8C%96"><span class="nav-number">3.1.</span> <span class="nav-text">可视化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90"><span class="nav-number">3.2.</span> <span class="nav-text">数据分析</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -161,7 +161,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">242</span>
+          <span class="site-state-item-count">243</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -258,14 +258,14 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>643</span>
+      <span>795</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
         <i class="far fa-clock"></i>
       </span>
       <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>2 mins.</span>
+      <span>3 mins.</span>
     </span>
 </div>
 
@@ -291,8 +291,13 @@
 <h1 id="Wen-Lab"><a href="#Wen-Lab" class="headerlink" title="Wen Lab"></a>Wen Lab</h1><p>鱼组的光场显微镜，每秒能拍100个volume，每个volume包含27个frame。即，frame per second &#x3D; 2700。</p>
 <p>聪明的你应该已经意识到了，我们有27个相机，从不同的角度拍摄。</p>
 <p>具体地说，27个相机分成2组，1组13个，1组14个，两组在z轴上有2个焦点，每组的焦平面绕焦点转动。即，换句话说，在焦点1，13个相机从不同的角度拍，在焦点2，另外14个相机从不同的角度拍。</p>
-<p>最后，鱼组得到了重构后的体帧。体帧，其实就是600·600·300的小格子以及每个小格子的Calcium Trace。</p>
-
+<p>最后，鱼组得到了重构后的体帧。体帧，说白了就是，600·600·300个小正方体。</p>
+<h2 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h2><p>得到每一个体帧之后，如何进行可视化呢？要知道，可视化三维的东西是很难的，我们总不能为了这个专门编写一个3D游戏吧。</p>
+<p>一种方法是，采用三视图来表示一个体帧。即，用3个二维平面帧来表示1个三维体帧。</p>
+<p>那么用哪个平面作为代表呢？</p>
+<p>鱼组采用了所谓的Max Intensity Projection，即，对每个体帧，算出其在x, y, z三个方向上的亮度最大的平面帧，作为代表。</p>
+<p>当然，也可以用Mean Intensity Projection或Medium Intensity Projection。</p>
+<h2 id="数据分析"><a href="#数据分析" class="headerlink" title="数据分析"></a>数据分析</h2>
     </div>
 
     
