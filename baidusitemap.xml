@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2023/12/01/Hall_of_Fame/</loc>
+    <lastmod>2024-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/04/04/Introduction_to_C_elegans/</loc>
+    <lastmod>2024-01-10</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2024/01/10/Harbin/</loc>
     <lastmod>2024-01-10</lastmod>
   </url>
@@ -139,10 +147,6 @@
   <url>
     <loc>https://physics-lee.github.io/2021/06/17/The_End_of_College_Physics_Exps/</loc>
     <lastmod>2023-12-18</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/12/01/Hall_of_Fame/</loc>
-    <lastmod>2023-12-14</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2022/07/07/12_Constellations_and_Marriage/</loc>
