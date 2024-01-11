@@ -29,6 +29,37 @@
       </categories>
   </entry>
   <entry>
+    <title>Markov and Temporal Difference Learning</title>
+    <url>/2024/01/11/Markov_and_Temporal_Difference_Learning/</url>
+    <content><![CDATA[<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/1.png" class="">
+
+<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/2.png" class="">
+
+<p>准备明天的幻灯片时，又读到西瓜书上的这两段故事，我的心情依旧和2022年夏天，第一次读这本书时一样激动。</p>
+<p>那个暑假，这是我带回家的唯一一本书。</p>
+<p>我和某人开玩笑说，我拿到书之后，最先看的是章后小故事。</p>
+<p>耳机里放着《我们都一样》的回忆版。</p>
+<blockquote>
+<p>你知道我的梦，你知道我的痛。</p>
+<p>你知道我们感受都相同。</p>
+<p>就算有再大的风，</p>
+<p>也挡不住，</p>
+<p>勇敢的，</p>
+<p>冲动。</p>
+<p>努力的往前飞，再累也无所谓。</p>
+<p>黑夜过后的光芒有多美。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
+      <tags>
+        <tag>statistics</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>哈尔滨</title>
     <url>/2024/01/10/Harbin/</url>
     <content><![CDATA[<p>昨天，看到<a href="https://mp.weixin.qq.com/s/p5YDCEcFEtD9nsBz5_hKQw">一篇哈尔滨的推送</a>，瞬间就上头了。情绪有些压制不住。</p>
@@ -1080,8 +1111,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>romance</tag>
+        <tag>fun</tag>
         <tag>biology</tag>
         <tag>break cognitive limits</tag>
       </tags>
@@ -2530,9 +2561,9 @@
         <category>2023-08</category>
       </categories>
       <tags>
+        <tag>romance</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>romance</tag>
         <tag>biology</tag>
         <tag>family</tag>
       </tags>
@@ -2909,35 +2940,9 @@
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>statistics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -2966,6 +2971,32 @@
         <tag>history</tag>
         <tag>biography</tag>
         <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -3241,8 +3272,8 @@
         <category>2023-06</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>romance</tag>
+        <tag>science</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -3358,8 +3389,8 @@
         <category>2023-06</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>romance</tag>
+        <tag>science</tag>
         <tag>socialism</tag>
         <tag>running</tag>
       </tags>
@@ -3630,8 +3661,8 @@
         <category>2023-04</category>
       </categories>
       <tags>
-        <tag>love</tag>
         <tag>romance</tag>
+        <tag>love</tag>
       </tags>
   </entry>
   <entry>
@@ -4395,8 +4426,8 @@
         <category>2023-02</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -4602,10 +4633,10 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
         <tag>romance</tag>
+        <tag>science</tag>
+        <tag>fun</tag>
+        <tag>love</tag>
         <tag>math</tag>
         <tag>physics</tag>
       </tags>
@@ -4645,10 +4676,10 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
         <tag>romance</tag>
+        <tag>science</tag>
+        <tag>fun</tag>
+        <tag>love</tag>
         <tag>math</tag>
         <tag>physics</tag>
       </tags>
@@ -4851,8 +4882,8 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>scientific misconduct</tag>
       </tags>
   </entry>
@@ -4914,8 +4945,8 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>romance</tag>
+        <tag>science</tag>
         <tag>biology</tag>
         <tag>physics</tag>
       </tags>
@@ -5284,8 +5315,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>madness</tag>
         <tag>scientific misconduct</tag>
+        <tag>madness</tag>
         <tag>USTC</tag>
       </tags>
   </entry>
@@ -5591,8 +5622,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -5736,8 +5767,8 @@
         <category>2022-09</category>
       </categories>
       <tags>
-        <tag>madness</tag>
         <tag>scientific misconduct</tag>
+        <tag>madness</tag>
         <tag>biology</tag>
         <tag>USTC</tag>
       </tags>
@@ -5940,8 +5971,8 @@
         <category>2022-08</category>
       </categories>
       <tags>
-        <tag>statistics</tag>
         <tag>socialism</tag>
+        <tag>statistics</tag>
         <tag>capitalism</tag>
         <tag>history</tag>
         <tag>break cognitive limits</tag>
@@ -6181,8 +6212,8 @@
         <category>2022-08</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>senior high school</tag>
       </tags>
   </entry>
@@ -7263,8 +7294,8 @@
         <category>2022-07</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>statistics</tag>
         <tag>love</tag>
       </tags>
@@ -8069,8 +8100,8 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>love</tag>
         <tag>romance</tag>
+        <tag>love</tag>
         <tag>biography</tag>
       </tags>
   </entry>
@@ -8157,8 +8188,8 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>video game</tag>
       </tags>
   </entry>
@@ -8756,8 +8787,8 @@
         <category>2020-05</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -9040,8 +9071,8 @@
         <category>2018-08</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>science</tag>
+        <tag>fun</tag>
         <tag>physics</tag>
       </tags>
   </entry>
