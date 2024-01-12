@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2024/01/12/Sleep_Story/</loc>
+    <lastmod>2024-01-12</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/12/31/Questions_About_Me/</loc>
+    <lastmod>2024-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/12/31/2023_Over/</loc>
+    <lastmod>2024-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2024/01/04/The_End_of_TA/</loc>
+    <lastmod>2024-01-11</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2024/01/11/Markov_and_Temporal_Difference_Learning/</loc>
     <lastmod>2024-01-11</lastmod>
   </url>
@@ -59,14 +75,6 @@
   <url>
     <loc>https://physics-lee.github.io/2023/12/19/Game_Industry_by_Lin/</loc>
     <lastmod>2024-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/12/31/Questions_About_Me/</loc>
-    <lastmod>2024-01-01</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/12/31/2023_Over/</loc>
-    <lastmod>2024-01-01</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2022/10/25/Talk_With_B/</loc>
