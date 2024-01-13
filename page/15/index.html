@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">254</span>
+          <span class="site-state-item-count">255</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,136 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/11/01/Pythagorean_Means/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/11/01/Pythagorean_Means/" class="post-title-link" itemprop="url">Pythagorean Means</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-11-01 00:00:00" itemprop="dateCreated datePublished" datetime="2022-11-01T00:00:00+08:00">2022-11-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/2022-11/" itemprop="url" rel="index"><span itemprop="name">2022-11</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>255</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="2D"><a href="#2D" class="headerlink" title="2D"></a>2D</h1><h2 id="definition"><a href="#definition" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{2}(a^2+b^2)}$</li>
+<li>arithmetic mean :&#x3D; $\frac{a+b}{2}$</li>
+<li>geometric mean :&#x3D; $\sqrt{ab}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{2}(\frac{1}{a}+\frac{1}{b}))^{-1}$</li>
+</ul>
+<h2 id="TH"><a href="#TH" class="headerlink" title="TH"></a>TH</h2><p>$$<br>max(a,b) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(a,b)<br>$$<br>We can prove it as below:</p>
+<h3 id="geometry-prove-1"><a href="#geometry-prove-1" class="headerlink" title="geometry prove 1"></a>geometry prove 1</h3><img src="/2022/11/01/Pythagorean_Means/1.png" class="">
+
+<ul>
+<li>$max(a,b) \ge QM&#x2F;RMS$: use angle</li>
+<li>$QM&#x2F;RMS \ge AM$: obviously</li>
+<li>$AM \ge GM$: obviously</li>
+<li>$GM \ge HM$: obviously</li>
+<li>$HM \ge min(a,b)$: think about their dual length, i.e.: $AM-HM$ and $AM-min(a,b)$</li>
+</ul>
+<h3 id="geometry-prove-2"><a href="#geometry-prove-2" class="headerlink" title="geometry prove 2"></a>geometry prove 2</h3><img src="/2022/11/01/Pythagorean_Means/2.png" class="">
+
+<ul>
+<li>similar to geometry prove 1</li>
+</ul>
+<h1 id="more-than-2D"><a href="#more-than-2D" class="headerlink" title="more than 2D"></a>more than 2D</h1><h2 id="definition-1"><a href="#definition-1" class="headerlink" title="definition"></a>definition</h2><ul>
+<li>quadratic mean&#x2F;root mean square :&#x3D; $\sqrt{\frac{1}{n}(x_1^2+x_2^2+…+x_n^2)} &#x3D; \sqrt{&lt;X^2&gt;} &#x3D; &lt;X^2&gt;^{\frac{1}{2}}$</li>
+<li>arithmetic mean :&#x3D; $\frac{x_1+x_2+…+x_n}{n} &#x3D; <X> &#x3D; &lt;X^1&gt;^1$</li>
+<li>geometric mean :&#x3D; $\sqrt{x_1x_2…x_n}$</li>
+<li>harmonic mean :&#x3D; $(\frac{1}{n}(\frac{1}{x_1}+\frac{1}{x_2}+…+\frac{1}{x_n}))^{-1} &#x3D; &lt;\frac{1}{X}&gt;^{-1} &#x3D; &lt;X^{-1}&gt;^{-1}$</li>
+</ul>
+<h2 id="TH-1"><a href="#TH-1" class="headerlink" title="TH"></a>TH</h2><p>We still have<br>$$<br>max(x_1,x_2,…,x_n) \ge QM&#x2F;RMS \ge AM \ge GM \ge HM \ge min(x_1,x_2,…,x_n)<br>$$<br>The prove is omitted</p>
+<h1 id="generalization"><a href="#generalization" class="headerlink" title="generalization"></a>generalization</h1><p>$Hölder \ mean :&#x3D; &lt;X^p&gt;^{\frac{1}{p}}$</p>
+<ul>
+<li>We can prove that $\displaystyle \lim_{p \to 0} Hölder \ mean &#x3D; GM$</li>
+<li>We can prove that $p \nearrow \Rightarrow Hölder \ mean \nearrow $</li>
+</ul>
+<p>By the way, We can call Hölder mean  “1&#x2F;p-mean-p” in analogy of “root-mean-square”</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -1248,118 +1378,6 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/10/15/What_Is_the_Meaning_of_Parameter/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/10/15/What_Is_the_Meaning_of_Parameter/" class="post-title-link" itemprop="url">参数到底是什么意思？</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-10-15 00:00:00" itemprop="dateCreated datePublished" datetime="2022-10-15T00:00:00+08:00">2022-10-15</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/2022-10/" itemprop="url" rel="index"><span itemprop="name">2022-10</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>159</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>参数在不同的数学分支里有不同的意思。</p>
-<p>在参数方程中，参数这个词的意思，不过是——多引入1个方程和1个变量。</p>
-<h1 id="代数方程"><a href="#代数方程" class="headerlink" title="代数方程"></a>代数方程</h1><ul>
-<li>$x^2 + y^2 &#x3D; 1$，1个方程2个变量<ul>
-<li>$x&#x3D;cos(\theta), y&#x3D;sin(\theta)$，2个方程3个变量</li>
-</ul>
-</li>
-<li>$x^3+y^3&#x3D;Cxy$，1个方程2个自变量<ul>
-<li>$x &#x3D; \frac{ct}{1+t^{3}}, y &#x3D; \frac{ct^2}{1+t^{3}}$，2个方程3个变量</li>
-</ul>
-</li>
-</ul>
-<h1 id="微分方程"><a href="#微分方程" class="headerlink" title="微分方程"></a>微分方程</h1><ul>
-<li>$ (\frac{\mathrm{d} y}{\mathrm{d} x})^2 + y - x &#x3D; 0 $，1个方程2个变量</li>
-<li>$ (\frac{\mathrm{d} y}{\mathrm{d} x})^2 + y - x &#x3D; 0, (v-1)dx+2vdv&#x3D;0$，2个方程3个变量</li>
-</ul>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
     <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/page/14/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/14/">14</a><span class="page-number current">15</span><a class="page-number" href="/page/16/">16</a><span class="space">&hellip;</span><a class="page-number" href="/page/26/">26</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/16/"><i class="fa fa-angle-right"></i></a>
   </nav>
@@ -1383,13 +1401,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">135k</span>
+    <span title="Word count total">136k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">7:29</span>
+    <span title="Reading time total">7:33</span>
   </span>
 </div>
 <div class="busuanzi-count">
