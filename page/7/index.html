@@ -152,18 +152,18 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">256</span>
+          <span class="site-state-item-count">276</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">55</span>
+        <span class="site-state-item-count">56</span>
         <span class="site-state-item-name">categories</span></a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">47</span>
+        <span class="site-state-item-count">49</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -180,6 +180,903 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/22/Before_Sampling_vs_After_Sampling/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/22/Before_Sampling_vs_After_Sampling/" class="post-title-link" itemprop="url">Before Sampling vs After Sampling</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-22T00:00:00+08:00">2023-10-22</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>303</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>There is a famous sentence in statistics.</p>
+<blockquote>
+<p>Before sampling, X is a random variable.</p>
+<p>After sampling, X is a number.</p>
+</blockquote>
+<p>These are not useless sentence.</p>
+<p>Before sample, $X, E(X), Var(X), Cov(X,Y), r(X,Y)$ are random variables or random vectors.</p>
+<p>After sample, $X$ is a number or a vector and $E(X), Var(X), Cov(X,Y), r(X,Y)$ are numbers.</p>
+<h1 id="An-Example-of-After-Sampling"><a href="#An-Example-of-After-Sampling" class="headerlink" title="An Example of After Sampling"></a>An Example of After Sampling</h1><table>
+<thead>
+<tr>
+<th></th>
+<th>X</th>
+<th>Y</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>trial 1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>trial 2</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>trial 3</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+<td>trial 4</td>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>trial 5</td>
+<td>2</td>
+<td>4</td>
+</tr>
+</tbody></table>
+<p>We can easily get</p>
+<p>$$<br>E(X) &#x3D; \frac{12}{5} &#x3D; 2.4<br>$$</p>
+<p>$$<br>E(Y) &#x3D; \frac{24}{5} &#x3D; 4.8<br>$$</p>
+<p>$$<br>Cov(X,Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
+<h1 id="An-Example-of-Before-Sampling"><a href="#An-Example-of-Before-Sampling" class="headerlink" title="An Example of Before Sampling"></a>An Example of Before Sampling</h1><p>So, based on the data, the simplest model (completely over-fitting) is</p>
+<table>
+<thead>
+<tr>
+<th>Probability</th>
+<th>X</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\frac{1}{5}$</td>
+<td>1</td>
+</tr>
+<tr>
+<td>$\frac{2}{5}$</td>
+<td>2</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>3</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>4</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>Probability</th>
+<th>Y</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\frac{1}{5}$</td>
+<td>2</td>
+</tr>
+<tr>
+<td>$\frac{2}{5}$</td>
+<td>4</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>6</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>8</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>Probability</th>
+<th>(X,Y)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\frac{1}{5}$</td>
+<td>(1,2)</td>
+</tr>
+<tr>
+<td>$\frac{2}{5}$</td>
+<td>(2,4)</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>(3,6)</td>
+</tr>
+<tr>
+<td>$\frac{1}{5}$</td>
+<td>(4,8)</td>
+</tr>
+</tbody></table>
+<p>We can easily get</p>
+<p>$$<br>E(X) &#x3D; E_{w}(X(w)) &#x3D; \frac{12}{5} &#x3D; 2.4<br>$$</p>
+<p>$$<br>E(Y) &#x3D; E_{w}(Y(w)) &#x3D; \frac{24}{5} &#x3D; 4.8<br>$$</p>
+<p>$$<br>Cov(X,Y) &#x3D; Cov_{w}(X(w),Y(w)) &#x3D; E_{w}((X-E(X))(Y-E(Y))) &#x3D;<br>E(XY) - E(X)E(Y) &#x3D; \frac{242}{125} &#x3D; 1.936<br>$$</p>
+<h1 id="THINK"><a href="#THINK" class="headerlink" title="THINK"></a>THINK</h1><h2 id="w-vs-t"><a href="#w-vs-t" class="headerlink" title="w vs t"></a>w vs t</h2><p>For stochastic process $X(w,t)$ and $Y(w,t)$,</p>
+<p>We can calculate $F(t) &#x3D; Cov_{w}(X(w,t),Y(w,t))$</p>
+<p>We can also calculate $F(w) &#x3D; Cov_{t}(X(w,t),Y(w,t))$</p>
+<h2 id="Connection-with-Calculus"><a href="#Connection-with-Calculus" class="headerlink" title="Connection with Calculus"></a>Connection with Calculus</h2><p>Random variable is the same as independent variable or dependent variable.</p>
+<p>Number is a variable which only has 1 value.</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/22/Knock_Out/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/22/Knock_Out/" class="post-title-link" itemprop="url">狂飙</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-22T00:00:00+08:00">2023-10-22</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>2.2k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>7 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <video src="/2023/10/22/Knock_Out/Political_Consultative_Conference.mp4" preload="metadata" controlslist="nodownload" controls playsinline poster=""></video>
+
+<video src="/2023/10/22/Knock_Out/Ending.mp4" preload="metadata" controlslist="nodownload" controls playsinline poster=""></video>
+
+<img src="/2023/10/22/Knock_Out/Invitation.png" class="">
+
+
+
+<h1 id="对话"><a href="#对话" class="headerlink" title="对话"></a>对话</h1><p>B：晚上打桌游吗？</p>
+<p>我：不打。</p>
+<p>B：怎么了？</p>
+<p>我：复习了一集狂飙，又陷入了对人类、对社会深深的思考。</p>
+<p>B：你需要走出去。</p>
+<p>我：何意？</p>
+<p>B：社会科学需要和人沟通。你在科大见到的这些科学家们只是一小撮人，而且是和全人类相比有很大的偏差（bias）的一小撮人。</p>
+<p>我：国际悲歌歌一曲，狂飙为我从天落。</p>
+<h1 id="一些极其不成熟的思考"><a href="#一些极其不成熟的思考" class="headerlink" title="一些极其不成熟的思考"></a>一些极其不成熟的思考</h1><p>重看狂飙，潸然。</p>
+<p>狂飙确实很适合26集结局。</p>
+<hr>
+<p>高启强和 John D. Rockerfeller, Andrew Carnegie 均有共同点，我相信编剧是有所借鉴。</p>
+<p>Andrew Carnegie手下的工人中，每年每10人中就有1人死于意外事故（这段话出自<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/The_Men_Who_Built_America"><em>The Men Who Built America</em></a>，我谷歌了一下没查到统计数字的出处，但这部纪录片不太可能数据造假） 。Carnegie手下的人命比高启强多多了。</p>
+<p>John D. Rockerfeller和高启强一辈子都只有一个伴侣。</p>
+<hr>
+<p>曾经，资本主义代表着光明，代表着进步。</p>
+<p>拿破仑用他的军事才能征服整个欧洲，摧毁了一个又一个封建王朝，摧毁了一个又一个落后的生产关系，颁布了第一部民法典。</p>
+<p>那部法典，象征着光明，象征着进步。</p>
+<hr>
+<p>在Rockerfeller和Carnegie的时代，资本主义依旧是光明和进步的。</p>
+<p>他俩均白手起家，靠自己的天赋、努力、运气赢得了一切。</p>
+<hr>
+<p>然而，当时代再往前发展，情况出现了变化。</p>
+<p>Rockerfeller和Carnegie是很努力，但是，他们的努力足以让他们的子子孙孙都受到荫蔽吗？</p>
+<p>就算你的才华十倍于Rockerfeller，你也不可能竞争得过Rockerfeller的儿子。</p>
+<hr>
+<p>各国政府，也都是Rockerfeller和Carnegie的代言人而已。</p>
+<p>偶尔会涨落出一个像西奥多·罗斯福一样的反对者，但是，他不可能带来颠覆。</p>
+<hr>
+<p>斯大林、毛泽东希望走另一条路。</p>
+<p>他们的国家，刚开始上升极快，但之后却遇到瓶颈。</p>
+<p>大清洗、布拉格之春、大跃进、文革，这他妈的都是什么东西。</p>
+<p>如果毛泽东对刘邓感到不满，他应该只局限于这两人，他干什么把整个国家的教育都停止？</p>
+<hr>
+<p>邓小平，帮助中国人的物质生活变好了。</p>
+<p>但是，从他决定改革开放的那天起，他心里就清楚，会有高启强这样的人存在。</p>
+<p>但我不知道，他是否清楚，整个社会，主流思想会崇拜高启强。</p>
+<hr>
+<p>诚然，Rockerfeller, Carnegie, 高启强，有他们值得尊敬的一面。</p>
+<p>但是他们背后，是无数像老李、谭思言、安欣这样的人。</p>
+<p>Rockerfeller和Carnegie手下的工人，每个都有家庭，每个都是孩子的父亲。</p>
+<hr>
+<p>Rockefeller, Carnegie和高启强到底有什么区别？</p>
+<p>我提一点：</p>
+<p>Rockefeller, Carnegie会认为，他们手下的工人死了，要么是没有天赋，要么是不够努力，要么是运气不好。物竞天择，适者生存。他们是坚定的社会达尔文主义者。他们会为了自己的利益牺牲当代其他人的利益。</p>
+<p><strong>但是，他们不会为了自己的利益牺牲全人类未来的利益，而会牺牲自己的利益以助全人类未来的利益。</strong></p>
+<p>比如，投资建设Rockefeller University, Chicago, CMU。</p>
+<p>在过去的几十年里，埃克森美孚资助了一些科学家来反对气候变化、反对全球变暖，见<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/Lf1XGb4yeZ1zHGvDLQ1EPg">此处</a>。</p>
+<p>以我对Rockefeller的了解，如果埃克森美孚还是他独裁，他绝对不会干这种傻逼事情。</p>
+<p>现在回答这一问题——书中、电视剧中塑造的高启强都没有讲清楚，他是否会干为自己享受而祸害全人类未来的事。</p>
+<hr>
+<p>我的心不够狠，至少目前的我心不够狠。</p>
+<p>毛泽东的土地改革、肃反。</p>
+<p>邓小平的改革开放、允许军队经商。</p>
+<p>江泽民禁止军队经商。</p>
+<p>这些事情，必然会有利一部分人，不利另一部分人。</p>
+<p>说白了，如果站在生物学的角度看，无非是有些人会死而已。</p>
+<p>只是，我没法太狠心，我总是不想伤害任何人，让所有人都过上好日子，这恐怕也是和平年代的人的通病。因此，我不适合当政治家。</p>
+<p>我最近找到了一条新路——我参加了OCED旗下<a target="_blank" rel="noopener" href="https://www.oecd.org/pisa/">PISA</a>的线上会议。</p>
+<hr>
+<p>无论如何，逝者已逝，只有未来可以把握。</p>
+<p>地主也有好的，资本家有好的，大部分资本家并未杀人放火，也在凭自己的努力，遵纪守法。</p>
+<p>Duolingo的<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Luis_von_Ahn">创始人</a>，就是好的资本家。</p>
+<p>但，停留在资本主义社会，就注定，会有Rockerfeller, Carnegie，高启强这样的人。无论他们主观是想做好人还是坏人。</p>
+<p>但，走社会主义道路，从来没有成功过。</p>
+<hr>
+<p>我当然也可以只看好的。</p>
+<p>只看资本主义好的一面，</p>
+<p>只看社会主义好的一面，</p>
+<p>但这没卵用。</p>
+<hr>
+<p>在这个全世界都转向资本主义的时代，如果我有了更多的钱，我可以用我的钱去推动时代。</p>
+<p>如果我有资金，我就不用自己申各种国自然。</p>
+<p>如果我有资金，我就可以资助百年翻译运动。</p>
+<p>如果我有资金，我就可以改变一个国家的教育，提高全民教育水平，让全人类更快地进入下一个时代。</p>
+<p>虽然这听上去有些讽刺，就像在电视上宣传不要看电视一样。（这是《娱乐至死》的作者对于一个在电视上宣传不要看电视的政治家的讽刺）</p>
+<p>但实际上不是这样的。</p>
+<p>我不是在电视上宣传不要看电视，而是发明了互联网，让大家获得了比电视更高级、更多样的信息来源。</p>
+<h1 id="最后的话"><a href="#最后的话" class="headerlink" title="最后的话"></a>最后的话</h1><p>若有机会，我会走出去。</p>
+<p>我在科大里，对这种社会主义vs资本主义的问题思来想去，除了把自己心情搞得很差以外，别无他用。</p>
+<p>从现在起，我将不会再在这种问题上内耗。天生我材必有用，如果我把时间和精力放在这事上，对我个人、对国家、对全人类都是巨大的损失。</p>
+<h1 id="2023-10-29-更新"><a href="#2023-10-29-更新" class="headerlink" title="2023-10-29 更新"></a>2023-10-29 更新</h1><p>10&#x2F;29，发现图书馆有《狂飙》的书，去借来读了读。</p>
+<p>速读的功底还在，两三个小时就从头到尾读完了。</p>
+<p>我讲几个书和电视剧重要的区别：</p>
+<ul>
+<li>2000，徐江做的是器官买卖。</li>
+<li>2000，书里删掉了《孙子兵法》。</li>
+<li>2006，高启盛为自己辩解：麻古在欧美不是毒品。</li>
+<li>2006，安欣和孟钰的分别没有电视剧里那么撕心裂肺。</li>
+<li>2006，是高启强举报高启盛。但这里高启盛点名找李响来，有点牵强。</li>
+<li>2006，书里加上了一段对袁宝璟的评论（真实人物）。</li>
+<li>2021，书里加上了徐忠和安欣互相怀疑的一段。</li>
+<li>2021，孟德海没收高启强的钱，他老婆、他女婿收了钱。</li>
+<li>2021，孟德海竟然同意让孟钰去毒害安欣，他说他为了家人什么都可以做。</li>
+<li>2021，退休的老黄刚开始想帮赵立冬、孟德海、高启强说和，但后来决定和高启强断绝关系。</li>
+</ul>
+<p>既然话都说到这份上了，我就写写我的理解。</p>
+<p>器官买卖：在市场经济里，像杜绝这事，就只能想办法解决需求。否则，就像人口贩卖、性贩卖一样，有需求就有市场。</p>
+<p>“麻古、大麻在欧美不是毒品”：美国大麻合法化也是在各种利益集团的推动下、不得已而为之的行为。毒品无非就是生物神经网络进化时留下的BUG，连秀丽隐杆线虫都能对酒精、尼古丁成瘾。我不认为这种东西对人类的未来会有什么好处。当然有人会反驳我的话，但这是我的看法。</p>
+<p>袁宝璟：我想起黄金荣、赖昌星。黄金荣的事情看看维基百科吧，赖昌星的可以看看这个<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=cde8EzM1UvM">简介视频</a>（特别是最后对比1998和1999收上来的关税）。有时候我在想，毛泽东、邓小平会如何处理黄金荣、赖昌星、袁宝璟、高启强这样的人呢？</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/18/Heartless/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/18/Heartless/" class="post-title-link" itemprop="url">死于非命</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-18 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-18T00:00:00+08:00">2023-10-18</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>6 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="2023-10-18"><a href="#2023-10-18" class="headerlink" title="2023-10-18"></a>2023-10-18</h1><p>今天神游时看到了<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=LGvJpCv9f6w">此视频</a>。</p>
+<p>哦，我以前确实想当然的以为，“不生儿子不罢休”会导致男多女少。</p>
+<p>但看到这个标题之后我算了一下，这无非是个几何分布的问题。这种策略并不会导致男多女少。</p>
+<p>此视频中，李永乐老师没有讲几何分布（高中生不会无穷级数），而是用错位相减法解决此问题。</p>
+<hr>
+<p>另一种思考方式是，当一个孩子将要出生，他&#x2F;她是男是女的概率都是50%，因此，无论采用什么生育策略，都不会导致男女比失衡。</p>
+<hr>
+<p>但在<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%BA%E5%8F%A3">中国大陆各年龄段人口比例</a>中，从1990年出生的人开始，男性的确多于女性，比例常年超过110：100。</p>
+<p><a target="_blank" rel="noopener" href="http://health.people.com.cn/n/2015/0204/c14739-26503659.html">2014年中国大陆出生人口性别比为115.88:100</a>。（<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E9%A1%9E%E6%80%A7%E5%88%A5%E6%AF%94">自然条件下，这个数字会是104：100</a>）</p>
+<hr>
+<p>这可就是说，每100名女婴中，就有9.86名死于非命。</p>
+<p>This is, too ruthless, too heartless, even humanless。</p>
+<h1 id="2023-11-03"><a href="#2023-11-03" class="headerlink" title="2023-11-03"></a>2023-11-03</h1><p>心中郁闷，走到外面看了看星空。天空是多么的浩瀚、神秘与浪漫。但我低下头，看周围的世界时，却看到了各种不平等，性别之间的不平等，国家之间的不平等，民族&#x2F;种族之间的不平等，阶级之间的不平等。每当我看到这些时，总会异常地生气和愤怒。</p>
+<p>织女、牵牛、天津四这三颗恒星，已经存在了几亿年。如果它们有意识，看着一个蔚蓝星球上寿命不过几十年的某种生物因为一些差异而吵来吵去，因为下一代是男是女而挑选，是否会觉得可笑与难以理解。</p>
+<p>从小我就觉得，每个人都应该是平等的，至少每个孩子都应该是平等的，社会应该让每个孩子都成为自己想成为的人。我没有说必须成为科学家，科学和艺术是相辅相成的。</p>
+<p>为什么我会这么想？今天我有点想清楚了。</p>
+<p>从非功利的角度，我觉得一个人做错了事情才应该受到惩罚，而刚出生的孩子没有做错任何事情，应该是平等的。</p>
+<p>从功利的角度，人类，在浩瀚星空下，在茫茫宇宙中，是多么渺小。唯有教育和科学，才能让这个物种走出地球，走出太阳系，走出银河系。这些不平等，只会拖慢人类进步的步伐，别无他用。比如，我奶奶就只上了小学，因为她父母只愿意供儿子上初中。比如，巴以之间、俄乌之间，战争花的这些钱，如果投入在教育上，会产生多大的进步。</p>
+<p>诸位都是很有才华、很有知识的人，你们的才华已经足够支撑你们去改变一些事情。希望你们以后都能帮助更多的人。就像吴思，他写这本书，能帮助几千人，他本来可以不写这本书；就像饶毅和蒲慕明，他俩肯定呆在美国更爽啊，何必回中国受气，但是那样他俩不过普通院士，能帮助的不过几千人，他俩在中国，可以帮助几万人甚至几十万人。你们的才华并不逊于他们。温老师和我，努力地准备这个课，每年能帮的不过二三十人，希望你们能超过我们。</p>
+<p>当然了，我不是要道德绑架你们。像上一段那么做会过得很累。如果你只是想早日财富自由，自己舒舒服服、快快乐乐地过一生，那也无可非议，只要不伤害其他人。有多少能力就帮多少人吧。</p>
+<hr>
+<p>后记：</p>
+<p>上面那段话是我发给我的学生们的。</p>
+<p>我生气，是因为，从1990年到2020年，中国每年出生1000W人，每年二十分之一，那就是每年50W人。五十万条生命啊！这他妈的和德国日本有什么区别？而且，哪怕是在这个看似已经很进步的<a target="_blank" rel="noopener" href="https://wallstreetcn.com/articles/3699472">2021年</a>和<a target="_blank" rel="noopener" href="https://finance.eastmoney.com/a/202310122867937895.html">2022年</a>，性别比竟然还超过110：100，草。</p>
+<p>fyx同学安慰我说，她相信这是马尔科夫链，即，只要从2023年开始，大家的思想全都转变，那2023的新生儿男女比就会立刻回归正常。希望如此吧。</p>
+<p>以下是我和她的对话，涉及此问题，也涉及要不要报仇，她的话对我启发良多，现在记录下来。</p>
+<blockquote>
+<p>她：我感觉男生可能很晚才意识到很多女孩子被谋杀了，我妈妈刚出生就差点被杀了，学生物很早就知道出生人口比例不对劲。</p>
+<p>我：我也不知道该怎么回。。。只是感觉到深深的悲哀。。。我可以说一句抱歉，但是我说一句抱歉也于事无补。。。我只能说之后的中国出生人口比例会变正常。。。像李永乐视频里说的一样，我之前一直以为，不生儿子不罢休就会导致男多女少。。。</p>
+<p>她：不过其实堕胎的话，不算谋杀，太小了不认为有意识，受精卵还是属于财产的，人类胚胎实验一直也有的吧，不过那都是很小的胚胎，彩超能看出来性别的时候已经没那么小了（18-22周），更别提对母亲身体心理都伤害很大。我比较能接受的堕胎是那种查出来有先天疾病的。</p>
+<p>我：我也是。</p>
+<p>我：我这句抱歉，其实是想替所有男性说的。从某种意义上说，我们每个男生都有罪，哪怕我们并没有做什么，但就像德国和日本在二战后赔偿了很多战争赔款，每个德国人和日本人都有罪，哪怕他们并没有侵略其它国家。我这么说似乎很伪君子，但是我确实是这么想的，一个国家犯了罪，有时只能让所有国民一起承担责任。</p>
+<p>她：我觉得是马尔可夫的</p>
+<p>我：yep，如果我们这代人观念上全都男女平等</p>
+<p>她：那以后就没罪了</p>
+<p>她：如果历史的仇都要报的话，那就没完没了了。虽然，好像现在确实是没完没了。只不过我不觉得就该这样。</p>
+<p>我：中国官方的发言一直是铭记二战，不提倡仇恨，珍爱和平，中国人民和日本人民之间没有仇恨。但是民间确实也有没完没了的声音。我小时候，内心民族主义很强烈，总觉得有一天应该去找日本报仇。现在想来，如果他们珍爱和平，那当然不必，如果他们不承认历史，那要抗议，但也不要通过战争的方式来报仇。</p>
+<p>她：确实。</p>
+<p>我：观念上男女平等，做一些有益于男女平等的事（比如平等的教育？），也算是赎罪了。就像日本人民，如果珍爱和平的话，也算是赎罪了。</p>
+<p>她：是的</p>
+</blockquote>
+<p>”如果历史的仇都要报的话，那就没完没了了“，划线记下来。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/16/GitHub_Copilot_and_Paypal/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/16/GitHub_Copilot_and_Paypal/" class="post-title-link" itemprop="url">GitHub Copilot and PayPal</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-16 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-16T00:00:00+08:00">2023-10-16</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>8</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>Today I have my PayPal and GitHub Copilot!</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/12/The_Greatest_Scientific_Couple_of_All_Time/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/12/The_Greatest_Scientific_Couple_of_All_Time/" class="post-title-link" itemprop="url">GOAT Science Couple</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-12 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-12T00:00:00+08:00">2023-10-12</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>371</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="GOAT"><a href="#GOAT" class="headerlink" title="GOAT"></a>GOAT</h1><p>Carl Cori (1896-1984) and Gerty Cori (1896-1957).</p>
+<p>生于布拉格，觅于医学院，共爱户外与爬山。</p>
+<p>为避反犹，逃往异国他乡。</p>
+<p>艰难困苦。</p>
+<blockquote>
+<p>Although the Coris were discouraged from working together at Roswell, they continued, specializing in investigating carbohydrate metabolism. </p>
+<p>Gerty was informed during one university interview that it was considered “un-American” for a married couple to work together.</p>
+<p>Carl refused a position at the University at Buffalo because the school would not allow him to work with his wife.</p>
+<p>In 1931, they moved to St. Louis, Missouri, when <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Washington_University_in_St._Louis">Washington University</a> offered positions to both Carl and Gerty, although Gerty’s rank and salary were much lower than her husband’s.</p>
+</blockquote>
+<p>扬名立万</p>
+<blockquote>
+<p>Carl and Gerty Cori shared the Nobel Prize in Physiology or Medicine in 1947, for for their discovery of the course of the catalytic conversion of glycogen. Along with Bernardo Houssay of Argentina, for his studies of hormonal regulation of carbohydrate metabolism.</p>
+</blockquote>
+<p>桃李不言，下自成蹊</p>
+<blockquote>
+<p>The Cori laboratories in St. Louis became an international center of biochemical research in the 1940s and 1950s, and at least six scientists who trained with the Coris became Nobel laureates:</p>
+<ul>
+<li><p>Arthur Kornberg (for DNA synthesis, 1959)</p>
+</li>
+<li><p>Severo Ochoa (for RNA synthesis, 1959)</p>
+</li>
+<li><p>Luis Leloir (for the role of sugar nucleotides in polysaccharide synthesis, 1970), </p>
+</li>
+<li><p>Earl Sutherland (for the discovery of cAMP in the regulation of carbohydrate metabolism, 1971)</p>
+</li>
+<li><p>Christian de Duve (for subcellular fractionation, 1974)</p>
+</li>
+<li><p>Edwin Krebs (for the discovery of phosphorylase kinase, 1991)</p>
+</li>
+</ul>
+</blockquote>
+<h1 id="闲谈"><a href="#闲谈" class="headerlink" title="闲谈"></a>闲谈</h1><p>有一次吃完晚饭，我和B哥讨论说，怎么才能让中国科学超过日本。</p>
+<p>我俩数了一下，21世纪，日本已经出了7.5个诺贝尔物理学奖（双重国籍算0.5）。</p>
+<p>我笑着说，你只要拿8个诺贝尔物理学奖，就能以一己之力让中国科学超过日本。</p>
+<p>B：TMD，有人拿过8个诺贝尔奖吗？</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/09/Shark_vs_Dolphin/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2023/10/09/Shark_vs_Dolphin/" class="post-title-link" itemprop="url">你更喜欢鲨鱼还是海豚？</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-09 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-09T00:00:00+08:00">2023-10-09</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>103</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>我发现了一个奇怪的现象：</p>
+<p>当我问我身边的朋友，他们更喜欢鲨鱼还是海豚时，喜欢海豚的人更多。</p>
+<p>但是当我在淘宝和京东上搜索鲨鱼玩偶和海豚玩偶时，前者的销量是$10^4$的数量级，后者的销量是$10^2$的数量级。</p>
+<p>为什么会这样呢？</p>
+<hr>
+<p><a target="_blank" rel="noopener" href="https://chat.openai.com/share/8ad1e2b9-6888-4591-82bc-15d9b9b984da">GPT-4对此问题的回答</a>。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -608,739 +1505,8 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/22/Modesty/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/22/Modesty/" class="post-title-link" itemprop="url">谦逊</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-22 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-22T00:00:00+08:00">2023-09-22</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>170</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>今日讲完理论JC，和一位师兄一起去吃饭，他所言让我思考良多。</p>
-<p>从前的我，对其他人的职业非常傲慢，总认为科学家才是最高尚的职业。比如，我就总跟母亲说，我研究的东西比你的要难很多。从前的我，当其他人不懂某个东西时，也会非常傲慢。这些都是很不对的——职业并没有高下之分，其他人也都有我不懂的东西。</p>
-<p>我在此郑重承诺——今后我将保持谦逊。</p>
-<p>弱小和无知不是进步的阻碍，傲慢才是。</p>
-<p>对全人类和个人都是这样的。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/21/A_Speech_in_1958_by_Zhizhen_Wang/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/21/A_Speech_in_1958_by_Zhizhen_Wang/" class="post-title-link" itemprop="url">在1958的讲话_王志珍</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-21 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-21T00:00:00+08:00">2023-09-21</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>1.2k</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>4 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="面对面"><a href="#面对面" class="headerlink" title="面对面"></a>面对面</h1><h2 id="胰岛素"><a href="#胰岛素" class="headerlink" title="胰岛素"></a>胰岛素</h2><p>王志珍老师出生于1942年，我以前写过一篇和她有关的<a href="https://physics-lee.github.io/2022/07/08/%E5%9C%A8%E6%B8%85%E5%8D%8E%E7%94%9F%E9%99%A22022%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D_%E7%8E%8B%E5%BF%97%E7%8F%8D/">文章</a>。</p>
-<p>2023年9月20日，星期三，王志珍老师参加了科大65周年校庆大会。</p>
-<p>9月21日，学校组织了一个面对面谈话的机会，王志珍老师和几十位学生（包括我在内）在科大的1958咖啡厅开怀畅谈。</p>
-<p>这种谈话，有一些官僚气息，但王老师的几句话瞬间增加了科学氛围，我相信在场的认真听了的学生都不会空手而归。</p>
-<p>王老师参加了人工合成胰岛素的后续工作。她说，这个工作全称应叫“人工从头全合成有100%活性的结晶牛胰岛素”。重点有从头、全、100%活性、结晶、牛这几个词。</p>
-<ul>
-<li>从头：指的是先用小分子合成氨基酸，再用氨基酸合成蛋白质。王说，当时中国只能合成20种标准氨基酸中的3种，合成其他的还费了一番劲。</li>
-<li>全：指的是最后要把A、B链合起来。这步之所以能成功，是有很大运气成分的——<strong>牛胰岛素在溶液中自动折叠成了正确的三维结构，因此二硫键自动就连到了正确的位置</strong>。</li>
-<li>100%活性、结晶：如果手艺不好，合成出来的蛋白质活性会很低，且不能结晶</li>
-<li>牛：<a target="_blank" rel="noopener" href="https://www.google.com/search?q=Frederick+Sanger+resolved+whether+bovine+insulin+or+human+insulin?&sca_esv=567928140&sxsrf=AM9HkKnWpFYdmn5PdIvPdtl8x6rB7fjixg:1695524442489&ei=WqYPZce6HefK1e8PyeqM2AQ&ved=0ahUKEwjHz-jgoMKBAxVnZfUHHUk1A0sQ4dUDCBA&uact=5&oq=Frederick+Sanger+resolved+whether+bovine+insulin+or+human+insulin?&gs_lp=Egxnd3Mtd2l6LXNlcnAiQkZyZWRlcmljayBTYW5nZXIgcmVzb2x2ZWQgd2hldGhlciBib3ZpbmUgaW5zdWxpbiBvciBodW1hbiBpbnN1bGluP0iWElAAWIgOcAF4AZABAJgBrQGgAa0BqgEDMC4xuAEDyAEA-AEB4gMEGAAgQYgGAQ&sclient=gws-wiz-serp&bshm=rimc/1">Sanger解析的是牛胰岛素</a>。</li>
-</ul>
-<p>王老师指出了关键的一点——<strong>当时世界上，只有一个蛋白质的氨基酸序列是已知的，那就是Sanger解出的牛胰岛素。</strong>因此他们别无选择。</p>
-<p>我曾在Crick的自传里读到过Crick, Brenner和Sanger合作的故事，对Sanger很有好感。</p>
-<p>值得一体的是，王老师参加的后续工作中，应该（我不能100%确定）包括用X射线衍射测定牛胰岛素的三维结构。中国解出的结构的精细程度超过了Dorothy Hodgkin的。<a target="_blank" rel="noopener" href="https://www.nature.com/articles/255103a0">虚怀若谷的Dorothy Hodgkin公正、客观地评价了中国科学家的贡献</a>。</p>
-<h2 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h2><p>等到提问环节，我问了两个问题</p>
-<ul>
-<li>为什么自然界的蛋白质可以非常迅速地($ms$ 甚至 $\mu s$)折叠到正确的构象？</li>
-<li>您年纪大了之后如何搞科研？</li>
-</ul>
-<p>第一个问题这里就不谈了。第二个问题，王老师说，她现在还会参加组会，但思维活跃程度、看文章速度已经远远比不上年轻时候了，她已经后撤，让年轻人扛大旗。</p>
-<hr>
-<p>王老师还谈了谈文革那些历史，客观地对比了那个时代和这个时代的优缺点，这里我只说一件事。</p>
-<p>王老师说，<strong>文革开始后，北京生物物理所里除了人工合成胰岛素外的工作都停了</strong>，也包括她原本的工作，大家都开始互相写大字报。王老师想继续搞科研，于是就三番五次（她黯然说，现在回想起来，这很危险）去找党委书记，请求调到做人工合成胰岛素的组。</p>
-<hr>
-<p>王老师体育极强，拿到过体操一级运动员证。当时，高中老师希望她能报考体育大学，但是她不乐意，想学理科。她笑着说，高中还组织了两场“帮助王志珍服从组织安排”的讨论会。上文写过，她出生于1942年，1964年大学毕业，这个故事估计发生在1957-1960。</p>
-<h1 id="附录：胰岛素相关的历史"><a href="#附录：胰岛素相关的历史" class="headerlink" title="附录：胰岛素相关的历史"></a>附录：胰岛素相关的历史</h1><p>首先，你需要知道</p>
-<ul>
-<li>哺乳动物都有胰岛素</li>
-<li>人、猪、牛的胰岛素非常类似：牛胰岛素和人胰岛素只相差3个氨基酸，猪胰岛素和人胰岛素只相差1个氨基酸。</li>
-<li>1921年之前，糖尿病是绝症。</li>
-</ul>
-<p>历史</p>
-<ul>
-<li>1889，Oskar Minkowski 和 Joseph von Mering 在狗的胰脏移除实验中发现，其尿液中存在糖分，从而首次将胰脏与糖尿病联系在一起。</li>
-<li>1920-1922，Frederick Banting，Charles Best，John Macleod，James Collip 从狗的胰脏中成功提取了狗胰岛素。Frederick Banting，John Macleod因此获得诺贝尔奖。</li>
-<li>1951，Frederick Sanger测出牛胰岛素的氨基酸序列。他因此获得诺贝尔奖。</li>
-<li>1964-1966，<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Insulin#History_of_study">两个实验室</a>同时做到了”人工合成牛胰岛素（无活性、不能结晶）“。</li>
-<li>1965，中国做到了”人工合成牛胰岛素（有活性、能结晶）“。</li>
-<li>1969，Dorothy Hodgkin用X射线衍射解析了胰岛素的三维结构。她部分因此获诺贝尔奖。</li>
-</ul>
-<p>注</p>
-<ul>
-<li>Oskar Minkowski是数学家Minkowski的父亲。</li>
-<li>Dorothy Hodgkin是J.D. Bernal的学生。</li>
-</ul>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/18/4_Chinese_Men_Basketball_Players_Born_in_2000/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/18/4_Chinese_Men_Basketball_Players_Born_in_2000/" class="post-title-link" itemprop="url">2000年出的四名中国男子篮球运动员</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-18 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-18T00:00:00+08:00">2023-09-18</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>1.4k</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>5 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="2023-03-01"><a href="#2023-03-01" class="headerlink" title="2023-03-01"></a>2023-03-01</h1><p>因为我出生于2000年，所以对00年出生的球员格外关注。男篮里有四人值得一说。</p>
-<p>郭昊文：1&#x2F;31生，身高203cm，123号位都能打。22年夏天去打了nba夏季联赛，目前在美国养伤。他和王泉泽的天赋是这批球员里最高的，以后还是有很大机会入选国家队的。不过他有一些缺点，西热力江曾经评价他说：“<strong>郭昊文很有天赋，他应多泡球场训练馆，少关注乱七八糟的事情</strong>”。仔细想想西热力江这话，不光对运动员，对所有人都是这样。</p>
-<p>王泉泽：6&#x2F;8生（和我一天生日），内线球员，性格很乐天，和姚明有点像。曾经也有机会冲击nba，但是受了大伤，他以后可能都不能打球了，很可惜。</p>
-<p>徐杰：1&#x2F;16生，广东队的三连冠后卫。打球很有灵气，和赵继伟很像，但是相比继伟还是差点意思。之前杜峰当国家队主教练时一直带着徐杰，他表现也还算差强人意。新来的乔帅喜欢高个球员，徐杰(179cm)和姜伟泽(181cm)都太矮了，他俩这几年应该都不会入选国家队了。</p>
-<p>姜伟泽：5&#x2F;6生，吉林队的后卫。最大的优点是三分(18岁进入cba以来三分命中率一直40%+)，但他当然不是光会扔三分。跑动灵活，体力充沛 (<strong>cba体测第一</strong>)，防守积极都是他的优点。场外他谦虚而努力，和队友关系融洽，如此小姜，谁人不爱。</p>
-<hr>
-<p>2018年，00的这批球员去打了U18亚锦赛，表现还是相当不错的。可惜后来王泉泽伤了，郭昊文挥霍了自己的天赋，否则他俩还是能冲冲nba的。那时徐杰就是主力控卫，姜伟泽只是替补。但这四年半小姜的数据一年比一年涨，而且不是刷出来的。吉林队这赛季新来的主教练实在是太垃圾，否则小姜这赛季应该就能冲击常规赛MVP了。</p>
-<p>18年夏天我上大学，00这批球员去打了亚锦赛表现不错，而周琦和丁彦雨航带着半只国家队就拿了亚洲杯冠军。那时男篮前景一片光芒。丁本来18-19就要去nba了，可惜还没去就大伤。19年世界杯男篮失利的的确确有运气因素，周鹏和丁彦雨航都受伤，锋线没人，只能用三后卫。</p>
-<hr>
-<p>前几天的打伊朗的比赛 (2023-02-26)我看了，感觉男篮未来还是才俊辈出的。崔永熙也许能成为下一个丁彦雨航去冲冲nba。</p>
-<p>未来迷茫不清却终将到来，希望这四个人，整个男篮，以及我们都能有美好的前程。</p>
-<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>又一个赛季过去了。</p>
-<p>郭昊文在2022-2023赛季一直没有拿到机会，<a target="_blank" rel="noopener" href="https://www.sohu.com/a/655176936_343291">下赛季他会返回CBA</a>。</p>
-<p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=46FaBDZIlus">王泉泽下赛季也会在CBA打球</a>。</p>
-<p>两颗新星还是没有成功冲进NBA。换句话说，他俩本来也可以成为王治郅、易建联，但是一个因为太浪，一个因为伤病，都没打出来。</p>
-<p>今天看了<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=TfUhpmLzAVY">2018年12月时王泉泽在NCAA的视频</a>，甚是热血。</p>
-<h1 id="2023-09-18-更新"><a href="#2023-09-18-更新" class="headerlink" title="2023-09-18 更新"></a>2023-09-18 更新</h1><h2 id="王哲林和郭昊文"><a href="#王哲林和郭昊文" class="headerlink" title="王哲林和郭昊文"></a>王哲林和郭昊文</h2><p>两个人都是挥霍天赋的典型，呵呵。</p>
-<p>看上去王哲林天赋似乎更高点，他<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=iLOVzyAKH4c">2012年参加耐克篮球峰会 (Nike Hoop Summit)</a>就技惊四座了，但郭昊文是中国少见的高个后卫，在这个时代，每个人都有一颗后卫的心。</p>
-<h2 id="郭艾伦"><a href="#郭艾伦" class="headerlink" title="郭艾伦"></a>郭艾伦</h2><p>2015年是我关注篮球的第一年。那一年秋天，中国男篮重新夺回亚锦赛冠军，而且年轻球员发挥出色，并非全靠老大哥易建联。那一批年轻球员里，5个位置各有1人：周琦 (1996)、王哲林 (1994)、丁彦雨航 (1993)、郭艾伦 (1993)、赵继伟 (1995)。这场亚锦赛，周琦、郭艾伦、易建联入选最佳五人阵容。</p>
-<p>这五人里，除了赵继伟身高太矮之外，其他四人绝对有机会冲击NBA。周琦和丁彦雨航自不必说，王哲林被二轮选中过（2016），郭艾伦<a target="_blank" rel="noopener" href="https://www.sohu.com/a/339558035_99919549#:~:text=%E8%80%8C%E6%9C%80%E8%BF%91%E5%8A%A0%E7%9B%9F%E5%8C%97%E4%BA%AC%E7%9A%84,%E4%BD%8F%E6%9C%BA%E4%BC%9A%E7%9A%84%E5%91%A8%E7%90%A6%E3%80%82">被林书豪评价完全可以打NBA</a>，但他俩不愿意去。</p>
-<p>其实站在郭艾伦的角度想想，他在CBA，对位后卫90%都比他明显地弱，他在NBA，对位后卫90%都比他明显地强。一边是在CBA舒舒服服虐菜，另一边是去NBA被人虐或者在场下看着别人玩，他选择前者，似乎也可以理解</p>
-<p>如果你是郭艾伦，选择A是——虽然实力止步不前，但是身边人大都比自己弱；选择B是——虽然能变强，但是身边人大都比自己强，你会选哪个呢？</p>
-<p>郭艾伦倒没挥霍天赋，只不过选择了呆在舒适圈而已。</p>
-<p>我可以理解，但我不赞同，<strong>我也不赞同我和我的至爱亲朋这么做</strong>。</p>
-<hr>
-<p>按说郭艾伦也没老婆，干嘛不去国外拼一拼，这和他赛场上拼命三郎的性格并不一样。</p>
-<p>这么一看，虽然周琦在赛场上看上去懒散，但是他在场下，至少比郭艾伦更拼命地追求NBA和NBL，而且他已经结婚了。</p>
-<hr>
-<p>现在回忆2015年，只有一声叹息。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/18/My_Attitude_towards_Scientific_Misconduct/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/18/My_Attitude_towards_Scientific_Misconduct/" class="post-title-link" itemprop="url">我对学术不端的看法 (My Attitude towards Scientific Misconduct)</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-18 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-18T00:00:00+08:00">2023-09-18</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>1.7k</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>6 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="大物实验、科研实验"><a href="#大物实验、科研实验" class="headerlink" title="大物实验、科研实验"></a>大物实验、科研实验</h1><p>最近，在QQ空间里读到几位学弟学妹写的<del>《大物实验指南》</del>《大雾实验不完全指北》。</p>
-<p>总体来说，这篇指南写得是相当好的，价值观也很正，但是其中涉及到数据造假的部分，我个人认为应该修改一下。</p>
-<p>原文如下：</p>
-<blockquote>
-<p>那么到底要不要编数据呢？笔者的观点是：倘若在了解实验原理和实验操作的基础上，始终得不到误差在正常范围内的数据，在不被老师和助教发现的前提下，可以编．但是一定要记住，编数据只是应对大雾实验的不合理课程设置与畸形评分机制的无奈之举，绝不是做实验或者科研的正确方法。</p>
-</blockquote>
-<p>作者在这里的缺点是——<strong>把重点放在了”不被老师和助教发现”，而没有指明大物实验里的学术造假和科研实验里的学术造假的危害性的差距。</strong></p>
-<p>在我眼里，<strong>大物实验和科研实验并无本质区别</strong>，在大物实验里进行数据造假是一件<strong>非常危险</strong>的事情。如果你决定在大物实验里进行数据造假，<strong>你最好，想清楚，在科研实验里如果造假会有什么后果。</strong></p>
-<p>我个人的话，我在1-2级大物中有过2-3次数据造假，4-5次数据挑选。我在大物实验里从来没有p-hacking，这是因为大物实验不需要算p-value。3-5级大物，我不记得我有数据造假和数据挑选过。3级大物是2020春季学期在家线上做的仿真实验，因此没有数据造假；4级大物时，只有4个实验+自选实验，都还容易，因此我没有数据造假；5级大物时，”图片误用“事件已经发生，我总不能既当婊子又立牌坊。</p>
-<p>现在想来，<a href="https://physics-lee.github.io/2021/01/21/Figure_Misuse/">我对学术造假的理解，是从2021年1月的”图片误用“事件开始的</a>，距今已经2年又8个月。</p>
-<p>我已经写过很多有关学术造假的文章了，这次正好来个总结，写一个《我对学术不端的看法》(<em>My Attitude towards Scientific Misconduct</em>)。我对学术造假的理解已经足够成熟，可以盖棺定论了。</p>
-<h1 id="学术造假、学术抄袭"><a href="#学术造假、学术抄袭" class="headerlink" title="学术造假、学术抄袭"></a>学术造假、学术抄袭</h1><p>学术不端 (scientific misconduct)主要有2种——学术造假 (scientific fraud)、学术抄袭 (scientific plagiarism)。</p>
-<p>学术造假主要有3种——数据造假 (data fabrication)、数据挑选 (cherry-picking)、p-hacking。前两个很好理解，最后一个稍微有些难以理解，需要一些统计知识。我之前写过<a href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/">一篇文章</a>讲这三种都是什么意思。图片造假、图片PS是数据造假的子集。</p>
-<p><a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E6%8A%84%E8%A2%AD">学术抄袭</a>很好理解，维基百科写得很清楚，我就不解释了。学术界（包括形式科学、自然科学、社会科学）的抄袭比文学界好判断很多，只需要看论文查重结果就可以了。</p>
-<h1 id="科研实验中学术造假的危害性"><a href="#科研实验中学术造假的危害性" class="headerlink" title="科研实验中学术造假的危害性"></a>科研实验中学术造假的危害性</h1><p>我们今天<strong>不谈道德，只谈利益</strong>。</p>
-<p>学术造假对人类社会的害处如下：</p>
-<ol>
-<li><p>降低公众对科学家的信任程度</p>
-<ol>
-<li>例子：2023年7月，<strong>斯坦福校长</strong>，“神经科学家”，Marc Tessier Lavigne因涉嫌鼓励学术造假被迫辞职。一言以蔽之，他倾向于奖励能够生成有利结果的博士后，并边缘化或削弱无法或难以生成此类数据的博士后。<a target="_blank" rel="noopener" href="https://www.pingwest.com/a/285634">link 1</a>, <a target="_blank" rel="noopener" href="https://www.google.com/search?q=Marc+Tessier+Lavigne+tends+to+reward+postdocs+who+can+generate+favorable+results+and+marginalize+or+weaken+postdocs+who+are+unable+or+difficult+to+generate+such+data&sca_esv=566259592&sxsrf=AM9HkKktdRpFuO_XXHsk8Jq_j_hH0sagYA:1695041034830&ei=CkYIZa6nMs_N1e8P3Z-6iAw&ved=0ahUKEwiu1Ir2l7SBAxXPZvUHHd2PDsEQ4dUDCBA&uact=5&oq=Marc+Tessier+Lavigne+tends+to+reward+postdocs+who+can+generate+favorable+results+and+marginalize+or+weaken+postdocs+who+are+unable+or+difficult+to+generate+such+data&gs_lp=Egxnd3Mtd2l6LXNlcnAipQFNYXJjIFRlc3NpZXIgTGF2aWduZSB0ZW5kcyB0byByZXdhcmQgcG9zdGRvY3Mgd2hvIGNhbiBnZW5lcmF0ZSBmYXZvcmFibGUgcmVzdWx0cyBhbmQgbWFyZ2luYWxpemUgb3Igd2Vha2VuIHBvc3Rkb2NzIHdobyBhcmUgdW5hYmxlIG9yIGRpZmZpY3VsdCB0byBnZW5lcmF0ZSBzdWNoIGRhdGFIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEB4gMEGAAgQQ&sclient=gws-wiz-serp&bshm=rimc/1">link 2</a>。</li>
-<li>例子：<strong>2019年诺贝尔生理学和医学奖得主</strong>，“生物学家”、“医学家”，Gregg L. Semenza，撤稿四篇论文。虽然这些撤稿的论文和他的诺贝尔奖关系不大。<a target="_blank" rel="noopener" href="https://www.google.com/search?q=Do+Gregg+Semenza%27s+retraction+papers+have+anything+to+do+with+his+Nobel+Prize?&sca_esv=566259592&sxsrf=AM9HkKmNsJ5bvcfdPiQAZqgttYJ8PqasEw:1695040898702&ei=gkUIZZ-mKqO12roP7-m9wA4&ved=0ahUKEwif75W1l7SBAxWjmlYBHe90D-gQ4dUDCBA&uact=5&oq=Do+Gregg+Semenza%27s+retraction+papers+have+anything+to+do+with+his+Nobel+Prize?&gs_lp=Egxnd3Mtd2l6LXNlcnAiTkRvIEdyZWdnIFNlbWVuemEncyByZXRyYWN0aW9uIHBhcGVycyBoYXZlIGFueXRoaW5nIHRvIGRvIHdpdGggaGlzIE5vYmVsIFByaXplP0gAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQHiAwQYACBB&sclient=gws-wiz-serp&bshm=rimc/1">link</a>。</li>
-</ol>
-</li>
-<li><p>降低一个学科的发展速度，甚至毁掉一个学科</p>
-<ol>
-<li>例子：<a href="https://physics-lee.github.io/2022/12/30/David_Marr_and_Psychology/">David Marr如果生在今天，是否还会相信最新的心理学研究？</a></li>
-<li>例子：<a href="https://physics-lee.github.io/2022/12/01/Three_Disciplines_on_the_Verge_of_Being_Destroyed_by_Scientific_Fraud/">生物学、医学、心理学</a></li>
-</ol>
-</li>
-<li><p>降低一个领域的发展速度，甚至毁掉一个领域</p>
-<ol>
-<li>例子：<a href="https://physics-lee.github.io/2022/09/30/The_Nobel_Prize_and_fMRI">认知神经科学中的fMRI (fMRI in cognitive neuroscience)</a></li>
-<li>例子：<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E5%86%85%E6%BA%90%E6%80%A7%E5%BF%83%E8%84%8F%E5%B9%B2%E7%BB%86%E8%83%9E">心脏干细胞 (Endogenous cardiac stem cells)</a></li>
-<li>例子：<a target="_blank" rel="noopener" href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease">阿兹海默症中的$A\beta$蛋白 ($A\beta$ protein in AD)</a></li>
-</ol>
-</li>
-<li><p>浪费纳税人的钱</p>
-</li>
-</ol>
-<p>总得来说，学术造假对人类社会的危害性之巨大，比一起故意杀人案严重多了。如果说科学技术是第一生产力，那么学术造假就是在扼制甚至毁灭第一生产力。</p>
-<hr>
-<p>当然了，既然学术造假这么普遍，那它肯定是有一定好处的。究竟是什么好处呢？</p>
-<p>学术造假对人类社会的好处如下：</p>
-<ol>
-<li>我实在想不到有什么好处，除了帮助少数”科学家“升官发财。</li>
-</ol>
-<h1 id="科学界中学术抄袭的危害性"><a href="#科学界中学术抄袭的危害性" class="headerlink" title="科学界中学术抄袭的危害性"></a>科学界中学术抄袭的危害性</h1><p>和上一节是类似的。</p>
-<ol>
-<li>降低公众对科学家的信任程度</li>
-<li>降低一个学科的发展速度</li>
-<li>降低一个领域的发展速度</li>
-<li>浪费纳税人的钱</li>
-</ol>
-<h1 id="回想"><a href="#回想" class="headerlink" title="回想"></a>回想</h1><p>现在回想一下，大物实验中学术造假的危害性是——侵害了认真做实验、不造假的同学的利益。与之相对，科研实验中学术造假的危害性是——侵害了全人类的利益。</p>
-<p>再往前回忆，小学、中学中考试抄袭、考试作弊的危害性是——侵害了不抄袭、不作弊的同学的利益。与之相对，科学界中学术抄袭的危害性是——侵害了全人类的利益。</p>
-<p>当年，翟天临论文抄袭事件之后，有的网友评论，很多人小学时候都考试抄袭过，为什么要这么严重处罚翟天临。他们就是没有想清楚两者危害性的巨大差距。</p>
-<p>同样，《大物实验指南》的作者，<strong>把重点放在了”不被老师和助教发现”，而没有指明大物实验里的学术造假和科研实验里的学术造假的危害性的差距</strong>。</p>
-<h1 id="怎么办？"><a href="#怎么办？" class="headerlink" title="怎么办？"></a>怎么办？</h1><p>对于全人类而言：一个良好的社会制度是——犯了多严重的错误就受到多严重的惩罚。对于小学中学中的作弊，判成0分，也就可以了；对于大物中的造假，判成0分，同样也是对等惩罚；对于科学界中的学术造假、学术抄袭，对等惩罚是吊销院士长江杰青称号、吊销教授职称、吊销博士学位。</p>
-<p>对于个人而言：我之前写过两次这个问题。一次是<a href="https://physics-lee.github.io/2022/10/20/%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E9%80%A0%E5%81%87%E5%92%8C%E7%81%8C%E6%B0%B4%EF%BC%9F/">如何防范造假和灌水</a>，一次是<a href="https://physics-lee.github.io/2023/08/14/%E4%B8%8A%E6%B5%B7%E6%9F%90%E6%89%80/">如何调整好心态</a>。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/11/Galois/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/11/Galois/" class="post-title-link" itemprop="url">Galois</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-11 00:00:00" itemprop="dateCreated datePublished" datetime="2023-09-11T00:00:00+08:00">2023-09-11</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>16</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>1 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <blockquote>
-<p>我们是孩子，</p>
-<p>但我们精力充沛，</p>
-<p>勇往直前。</p>
-</blockquote>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/09/09/TA_Training/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/09/09/TA_Training/" class="post-title-link" itemprop="url">是他们不配！</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2023-09-09 00:26:00" itemprop="dateCreated datePublished" datetime="2023-09-09T00:26:00+08:00">2023-09-09</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2023/2023-09/" itemprop="url" rel="index"><span itemprop="name">2023-09</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>549</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>2 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>草，潘海俊的助教培训差点给我讲哭了。</p>
-<p>希望多年以后无论我身处何方所做何事都别忘了本科时候在USTC学的物理，别忘了学物理时候遇到的那些人。</p>
-<p>接下来来点最近一直想说的话： 我们这个学校有波澜壮阔的历史，自从58年建校时就是反右运动的港湾之一，为很多右派提供了保护。共和国的历次运动，我们都有参与。</p>
-<p>严济慈、钱学森、郭永怀、钱临照、赵忠尧五人，都配得上“国士无双”这四个字，去维基百科查查他们的故事吧。1950s、60s、70s、80s的科大人可以说是这个国家乃至全人类的英雄，也不妨去查查。</p>
-<p>现在虽然没有往日荣光了，但还是有一些光荣传统留下来：至少物院的四大力学教学都不错，至少我遇到的半数以上的助教是很负责的。</p>
-<p>最近我的pyq和qq空间里骂科大的声音是越来越多了，我心里是很不高兴的。我知道科大有她的缺点，比如物院的普通物理教得不太好，比如生院各种烂事，比如有一些离谱的学生。但是我看到这些事，我会认为是那些离谱的老师和学生配不上中国科大，而不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。 </p>
-<p>我相信科大里干正事的老师是多数，搞乱七八糟的（造假、灌水、争名夺利）只是少数。</p>
-<p>好吧这只是一种信念，我没法证明。 </p>
-<p>物理是纯粹的，所以我希望我能永远记住我在科大学的物理。</p>
-<hr>
-<p>这篇文章可以看作我是对之前的我写的几篇文章的回答，包括<a href="https://physics-lee.github.io/2022/10/22/Kencheng_Zeng/">纪念曾肯成的</a>，以及<a href="https://physics-lee.github.io/2022/09/15/fuck_biology/">“感谢”生院的</a>。</p>
-<p><strong>不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。</strong></p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
-    <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/page/6/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/26/">26</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/8/"><i class="fa fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" title="Previous page" aria-label="Previous page" href="/page/6/"><i class="fa fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/28/">28</a><a class="extend next" rel="next" title="Next page" aria-label="Next page" href="/page/8/"><i class="fa fa-angle-right"></i></a>
   </nav>
 
 </div>
@@ -1362,13 +1528,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">136k</span>
+    <span title="Word count total">141k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">7:34</span>
+    <span title="Reading time total">7:48</span>
   </span>
 </div>
 <div class="busuanzi-count">
