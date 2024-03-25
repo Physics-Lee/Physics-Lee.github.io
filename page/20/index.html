@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">276</span>
+          <span class="site-state-item-count">277</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -180,6 +180,196 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xuan Jr.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | XuanJr's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/" class="post-title-link" itemprop="url">The Misuse of p-value in the Senior High School</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-08-10 00:00:00" itemprop="dateCreated datePublished" datetime="2022-08-10T00:00:00+08:00">2022-08-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/2022-08/" itemprop="url" rel="index"><span itemprop="name">2022-08</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.6k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>5 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="高中对于p值的误用"><a href="#高中对于p值的误用" class="headerlink" title="高中对于p值的误用"></a>高中对于p值的误用</h1><p>写在最前：</p>
+<ul>
+<li>本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/525629496">《2022新高考数学概率统计大题中的概念问题》</a></li>
+<li>感谢Gian学长帮我理清了p-value、显著性水平的概念。</li>
+</ul>
+<p>在2022年高考全国I卷中，有这么一个题：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png" class="">
+
+
+
+<p>这道题的第一问中，“能否有99%的把握认为患该疾病群体与未患该疾病群体的卫生习惯有差异？“是对p-value的错误使用。原因请往下看。</p>
+<h1 id="2005年过审的高中教材"><a href="#2005年过审的高中教材" class="headerlink" title="2005年过审的高中教材"></a>2005年过审的高中教材</h1><p>我去找到了我上高中时用的数学教材的电子版，这套教材于2005年初审通过。</p>
+<p>在选修2-3中，同样有”我们有99%的把握认为’吸烟与患肺癌有关系“这样的话。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png" class="">
+
+
+
+<p>上图里的$K^2$，就是大学数理统计教材里的$\chi^2$。</p>
+<p>上图里的$P(K^2 \ge k_0)$，就是大学数理统计教材里的p-value。</p>
+<p>值得一提的是，上图用一通错得很离谱的推导得到了(1)式。不过这个错误在新版的教材中得到了更改。</p>
+<p>上图中对p-value的解释同样错得很离谱。</p>
+<p>p-value的定义是：<strong>假设H0成立，出现现有数据或更极端数据的概率</strong>。</p>
+<p>写成数学语言是：$p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)$</p>
+<p>上式可以简写为：$p-value :&#x3D; P(data|H0)$</p>
+<p>这里解释一下什么是假设检验，什么是H0。</p>
+<ul>
+<li><p>假设检验说白了就是提出一个假设，然后对其做出检验。</p>
+<ul>
+<li><p>比如说，如果我们想探究吸烟和肺癌是否有关，假设可以是“吸烟和肺癌独立”（独立是无关的一种更严谨的数学说法，这里不展开讨论）</p>
+</li>
+<li><p>比如说，如果我们想探究身高和国家是否有关，假设可以是“身高和国家独立”</p>
+</li>
+<li><p>再比如说，如果我们想探究弹跳高度和种族是否有关，假设可以是“弹跳高度和种族独立”</p>
+</li>
+</ul>
+</li>
+<li><p>H0指假设检验中的原假设，比如说“吸烟和肺癌独立”、“身高和国家独立”、“弹跳高度和种族独立”。</p>
+</li>
+<li><p>如前所述，p-value的定义是，假设H0成立，出现现有数据或更极端数据的概率。</p>
+</li>
+</ul>
+<p><strong>很显然，“p-value &#x3D; 0.01”和”我们有99%的把握认为H0成立“是不一样的。</strong></p>
+<p>在Yves S的专栏《2022新高考数学概率统计大题中的概念问题》中，他举了一个绝妙的例子：</p>
+<ul>
+<li>假设一个工厂生产了100万个硬币，其中10个硬币是有问题的，导致掷这些硬币时，正面朝上的概率明显超过1&#x2F;2。</li>
+<li>为了找到这些硬币，我们对每一枚硬币做假设检验：抛它100次，做$\chi ^2$检验，把p-value的阈值设为0.01，把p-value小于0.01的硬币认为是有质量问题的。</li>
+<li>阈值为0.01，意味着有1%的出错概率，即在$（10^7-10）$的正常硬币，会有大约1万个硬币的p-value小于0.01。</li>
+<li>那么问题来了，按照选修2-3和高考题的说法，这1W个硬币每个硬币都”有99%的把握有质量问题“</li>
+</ul>
+<p>正确的说法是：</p>
+<ul>
+<li>假设硬币没有问题，出现现有数据或更极端数据的概率是1%</li>
+<li>假设患该疾病群体与未患该疾病群体的卫生习惯独立，出现现有数据或更极端数据的概率是1%</li>
+<li>假设吸烟和肺癌独立，出现现有数据或更极端数据的概率是1%</li>
+</ul>
+<p>用数学语言来说，p-value的真正定义是<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)<br>$$</p>
+<p>但选修2-3把p-value错误理解成：<br>$$<br>p-value&#x3D;P(H0不成立|出现现有数据)<br>$$<br>同时，选修2-3把1-(p-value)错误理解成：<br>$$<br>1-(p-value)&#x3D;P(H0成立|出现现有数据)<br>$$</p>
+<h1 id="2019年过审的高中教材"><a href="#2019年过审的高中教材" class="headerlink" title="2019年过审的高中教材"></a>2019年过审的高中教材</h1><p>2019年，高中教材出了新版。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png" class="">
+
+
+
+<p>在数学的《选择性必修3》中，有以下进步</p>
+<ul>
+<li>那句大错特错的”99%的把握“被去掉了</li>
+<li>给出了正确的推导</li>
+<li>采用了和大学数理统计教材一样的符号<ul>
+<li>用$\chi ^2$代替了$K^2$</li>
+<li>用了$\alpha$</li>
+</ul>
+</li>
+</ul>
+<p>但是有一句话仍然有一定的问题。这个问题不是错误，但容易引起歧义——当我们用自然语言写”犯错误的概率不超过$\alpha$时，我们容易理解为，$P(H0不成立|出现现有数据) \le \alpha$。</p>
+<p>为了避免歧义，我们不能用写”犯<strong>错误</strong>的概率“，而要写”犯<strong>第一类错误</strong>的概率”。（统计学家把第一类错误<strong>定义</strong>成$P(拒绝H0|H0成立)$，把第二类错误<strong>定义</strong>为$P(接受H0|H0不成立)$。）</p>
+<p>下图为陈希孺的《概率论与数理统计》，他的写法是正确的：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png" class="">
+
+<p>传统的频率学派使用假设检验时，如果他发现p-value小于某个给定的值，比如0.01，他就会拒绝H0。在这种做法下：<br>$$<br>p-value &#x3D; P(拒绝H0|H0成立)<br>$$</p>
+<p>总结：<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(拒绝H0|H0成立) &#x3D; P(犯第一类错误)<br>$$</p>
+<h1 id="Bayes"><a href="#Bayes" class="headerlink" title="Bayes"></a>Bayes</h1><p>——2023-01-05 更新——</p>
+<p>以上所写的都是频率学派的假设检验。</p>
+<p>接下来我将写一下贝叶斯学派的假设检验。</p>
+<p>我们把p-value简记为<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(data|H0)<br>$$<br>利用贝叶斯公式<br>$$<br>P(H0|data) &#x3D; \frac{P(data|H0)P(H0)}{P(data)}<br>$$<br>P(H0)被称为先验(prior)，P(data|H0)被称为似然(likelihood)，P(H0|data)被称为后验(posterior)，P(data)可以认为是一个常数。</p>
+<p>在频率学派眼里，H0要么成立要么不成立，不可以考虑P(H0)，也不可以考虑P(H0|data)。</p>
+<p>在贝叶斯学派眼里，H0不是要么成立要么不成立，可以考虑P(H0)，也可以考虑P(H0|data)。</p>
+<p>如果我们不那么学究，我们可以认为，频率学派 &#x3D; 贝叶斯学派 + 无信息先验。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -1277,135 +1467,6 @@
 <p>1976年，克里克决心去研究脑，研究意识。他离开伦敦的卡文迪许，来到加州的索尔克研究所。</p>
 <p>这部分工作将在CH14介绍</p>
 <p>[1]RNA world, the dream of molecular biology也是Walter Gilbert提出的。RNA world指生命首先起源于RNA，合成一个能自己催化自己复制的RNA被称为分子生物学之梦。这是一个拉风的名字。</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/07/18/CH11_The_Discovery_of_mRNA/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Xuan Jr.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | XuanJr's Land">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2022/07/18/CH11_The_Discovery_of_mRNA/" class="post-title-link" itemprop="url">CH11 The Discovery of mRNA</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2022-07-18 00:00:11" itemprop="dateCreated datePublished" datetime="2022-07-18T00:00:11+08:00">2022-07-18</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
-        </span>
-          , 
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2022/2022-07/" itemprop="url" rel="index"><span itemprop="name">2022-07</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="Word count in article">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">Word count in article: </span>
-      <span>850</span>
-    </span>
-    <span class="post-meta-item" title="Reading time">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">Reading time &asymp;</span>
-      <span>3 mins.</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>主要人物</p>
-<ul>
-<li><p>Francis Crick：1916年出生，英国物理学家、生物学家。</p>
-</li>
-<li><p>Sydney Brenner：1927年出生，南非生物学家。</p>
-</li>
-<li><p>PaJaMo：三位生物学家。</p>
-</li>
-</ul>
-<p>次要人物</p>
-<ul>
-<li>James Watson: 1928年出生，美国生物学家，卡文迪许实验室的学者。</li>
-</ul>
-<hr>
-<p>沃森喊出过一句著名的口号: DNA makes RNA makes protein. 这也正是CH8、CH9、CH10在说的东西。用高中生的话说，叫复制、转录、翻译。</p>
-<p>然而，这个理论中间有缺失的一环——当时还没有人发现过mRNA。</p>
-<p>沃森、克里克、布伦纳把这种暂未发现的RNA成为messenger RNA。</p>
-<p>这一章的标题本来叫“缺席的信使”。</p>
-<p>20世纪50年代后期，人们已经发现了核糖体，并且知道核糖体由RNA和蛋白质组成。</p>
-<p>克里克和布伦纳很自然地想到，核糖体就是mRNA。如果是这样的话，那么1种蛋白质就应该对应1种核糖体。然而，实验上却有两个费解的点：</p>
-<ul>
-<li>按此假设，核糖体的质量应该不同，然而实验上却发现核糖体只有两种质量。</li>
-<li>按此假设，核糖体的碱基组成差别应该很大，然而实验上发现核糖体的碱基组成差别不大。</li>
-</ul>
-<p>克里克和布伦纳感到十分困惑，说不出所以然来。</p>
-<p>这时，法国巴斯德研究所的三位学者，Pardee, Jacob, Monod做了一个名为PaJaMo的实验。实验的物理图像是：把一个基因，比如$\beta-galactosidase  $，引入一个细胞。</p>
-<p>若假设核糖体就是mRNA，那么新基因会产生自己的核糖体，核糖体会慢慢累积，然后蛋白质的合成速度才能越来越快并达到饱和。</p>
-<p>然而，PaJaMo实验发现，新基因刚刚加入不久，蛋白质就开始合成，并且合成速度一下子就特别快，几乎没有加速过程，且保持恒定。也就是说，没有核糖体慢慢累积的过程。除非核糖体产生得特别快，否则该假设不可能是对的。</p>
-<p>一开始，克里克和布伦纳并不相信这个实验的结果。</p>
-<p>1960年的耶稣受难日，Jacob来到剑桥访问，几个人在教学楼里会面。克里克上来就问实验的各种详细信息，Jacob一一解释。慢慢地，克里克意识到，他们的实验是正确的，自己必须接受事实，核糖体不可能是mRNA。</p>
-<p>布伦纳大喊了一声，猜到了答案：有另一种新的RNA，而核糖体只是一种惰性的阅读探头，不需要含有任何遗传信息，一个核糖体只需要沿着这种新RNA走就可以了。PaJaMo实验也因此得到了解释，新基因产生了mRNA，mRNA可以直接用原来的核糖体，因此蛋白质合成速度才能一下子特别快，没有加速过程。</p>
-<p>这是分子生物学历史上一件惊天动地的大事，克里克说，他至今仍然记得布伦纳、雅各布、自己在那间屋子里坐的位置。在那个耶稣受难日的早晨，仿佛命中注定一般，mRNA被发现了。</p>
-<p>随后，布伦纳访问了Caltech，和雅各布等人一起完成了后续工作。</p>
 
       
     </div>
