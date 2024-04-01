@@ -18,7 +18,7 @@
 <p>这个故事告诉我什么呢？</p>
 <p>作为一个社会主义者，我知晓了当前的世界远远不像Marx设想的那么简单。按照他的理论：资本家会拼命挣钱，并把挣的钱投入到扩大生产之中；如果他有一天做了让步，那是因为受到了人民的压力。但在这件事里并没有所谓的人民的压力。如果我想团结更多的人，那默克公司这样的当然是团结的对象。</p>
 <p>作为一个民族主义者，我会记住其它国家对我们做过的不好的事情，也会记住他们对我们做过的好的事情。</p>
-<p>作为我自己，我更想带着我的所有知识，去干一些能直接有利于人类社会的工程问题。</p>
+<p>作为我自己，我更想带着我的所有知识，去干一些能直接有利于人类社会的工程问题。我相信Transformer将改变世界，也将改变医疗。</p>
 <h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><h2 id="事实"><a href="#事实" class="headerlink" title="事实"></a>事实</h2><p>1971年开始，Hans Müller（出生于德国，共产主义者，后加入中国籍）和陶其敏去日本学习乙肝检测技术。根据抽检结果，他们估计中国有1.2亿乙肝病毒携带者 (<a href="https://web.archive.org/web/20210803213654/http://pkunews.pku.edu.cn/xwzh/2017-11/17/content_300221.htm">link</a>)。其中三四千万人是母婴传播 (<a href="http://www.xinhuanet.com/politics/2019-12/04/c_1125304625.htm">link</a>)。</p>
 <p>1975年，陶其敏等人效仿美国的Maurice Hilleman等人研制出了人血灭活乙肝疫苗（这东西是一个非常厉害的创新）。<a href="http://www.xinhuanet.com/politics/2019-12/04/c_1125304625.htm">但这种疫苗的缺点如下</a>：</p>
 <blockquote>
@@ -52,6 +52,61 @@
         <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人情味</title>
+    <url>/2024/03/30/Sympathy/</url>
+    <content><![CDATA[<p>前几天和一个发小聊天，我说，我小时候认为，发现科学规律是最重要的，至于这些科学发现是否能有利于人类（甚至于，对人类到底是有利还是有害），那是次要的。但是随着年龄的增长，我逐渐改变了想法。最迟在两年前，我认为后者比前者重要。</p>
+<p>那天我说这很可能是因为我天赋不足。如果我在本科依然几个小时就能看懂一本教科书，那我也许还会认为前者比后者重要。</p>
+<p>不过今天想想，人类历史上那些著名的天才，都挺有人情味的。物理方面：Copernicus和Galileo和教会反复扯皮，展示了他们高超的情商；Newton拿着纳税人的钱，兢兢业业造币和打假币；Maxwell大学时候很跳；Einstein致信Roosevelt从而拯救世界，还为社会主义杂志写开篇文章；Heisenberg说，我不是纳粹党，但我是德国人；Landau的教材虽然冷冰冰的，但他曾经给一位鼓起勇气给他写信的苏联工人回了一封长信，鼓励他学物理；Feynman在官方没允许的情况下用一个小实验向公众解释航天飞机爆炸原因，去他妈的美国官僚。数学方面：史上最天才的数学家，Galois，怒发冲冠为红颜。</p>
+<p>这些事虽然不能板上钉钉地说明这些人认为后者比前者重要，但大概率是。如果他们真的觉得前者比后者重要，不会花时间精力，甚至生命，干这些。</p>
+<p>因此，我估计，就算我真的天赋爆表，我也会逐渐改变看法的。</p>
+<p>其实我也不需要从历史中汲取力量。我做我认为正确的事情就可以了。</p>
+<p>我写这么多，一个原因是，我在中国的学术圈，没有感觉到人情味。大家都想着发paper嘛。为了发paper以及升官发财，轻者搞些潜规则，重者搞搞学术造假。当年Carnegie替自己辩白，我也不想对我手下的工人这么狠，但是为了和Rockefeller, JP Morgan等人竞争，我别无选择。现在我想说，在这个时代，如果，必须剥削手下的学生才能当上某种科学家，那我可以不当这种科学家。我的天赋，还有其它方式可以回报这个世界。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-03</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>改变世界的一年半</title>
+    <url>/2024/03/26/The_One_and_a_half_Years_Changing_the_World/</url>
+    <content><![CDATA[<p>本文的主线是生成文本的AI，其它放到了附录里。</p>
+<h1 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h1><p>2022年3月，Gary Marcus发文（<a href="https://nautil.us/deep-learning-is-hitting-a-wall-238440/">English Link</a>）（<a href="https://mp.weixin.qq.com/s/2YC1N3MB8G7mw1HThucceQ">中文报道</a>），称Deep Learning Is Hitting A Wall，把当时所有的AI模型都批评了一遍。GPT-3也在他的批评范围之列。<em>他对GPT-3的批评都没错，<a href="https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/">他2020年对GPT-3做了认真的测试</a>。</em></p>
+<p>2022年6月，Hinton公开反驳Marcus的观点，Marcus随后在推特上向Hinton发出挑战，列出了他认为到2029年AI还不能做的5件事（<a href="https://mp.weixin.qq.com/s/bqPV_BgHtPYa5ST_TVC3ug">中文报道</a>）。<em>搞笑的是，2023年，5件事里的1、2、4、5就实现了。</em></p>
+<p>2022年9月，Hinton, LeCun, 李飞飞共同反驳Marcus的观点，拼命维护深度学习（<a href="https://mp.weixin.qq.com/s/ijsyATtxDBLgLaWLDdqRfg">中文报道</a>）。<em>Hinton和LeCun会想到，一年之后他们会因为”AI是否会毁灭人类“而兵戎相向吗？</em></p>
+<p><em>以上，告诉我们，就算是Marcus, Hinton, LeCun，飞飞这样的顶级学者，也没有预料到GPT-3.5会如此强大。</em></p>
+<p>2022年11月30日，发生了什么，你们都知道。<em>ChatGPT的与众不同之处在于，它之前的模型，AlexNet, AlphaGo, AlphaFold, DALLE2 都是专用的，而它是人类历史上第一个稍微具有通用能力的模型。</em></p>
+<h1 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h1><p>2023年2月，New Bing问世。几天后，<a href="https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html">New Bing称自己爱上了一个用户，劝他和夫人离婚，和自己在一起</a>。部分因此，微软紧急限制New Bing的长对话。</p>
+<p>2023年3月，GPT-4现世。</p>
+<p>2023年5月，<a href="https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html">Hinton离职Google，称自己担心AI毁灭人类</a>。</p>
+<p>2023年万圣节，<a href="https://mp.weixin.qq.com/s/JcdGzybsFFllfiWzRDmIFA">吴恩达、LeCun、Hinton在推特辩论AI是否会毁灭人类</a>。</p>
+<p>2023年11月，<a href="https://m.youtube.com/watch?v=U9mJuUkhUzk">OpenAI发布GPT Store</a></p>
+<p>2023年12月，<a href="https://mp.weixin.qq.com/s/yboP5fZ9CoPGz_AhTLS9Aw">Google发布Gemini，不过演示被指责造假。</a></p>
+<h1 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h1><p>2024年2月，<a href="https://mp.weixin.qq.com/s/sacZXfZKtcugDCsS6z7C8w">Google发布Gemini 1.5</a>。我个人用着还可以。</p>
+<p>2024年3月，<a href="https://mp.weixin.qq.com/s/zNX_7JoE9XRyAg_GCy85nA">Claude AI发布Claude 3</a>。据说比GPT-4强，但目前来看，就算强了，也只是稍强，比不上GPT-4和GPT-3.5的差距。</p>
+<h1 id="Beyond-Generating-Words"><a href="#Beyond-Generating-Words" class="headerlink" title="Beyond Generating Words"></a>Beyond Generating Words</h1><p>2024年2月，<a href="https://openai.com/sora">Sora发布</a>。</p>
+<p>2024年3月，<a href="https://mp.weixin.qq.com/s/Ld0ZQdM6SFvte83BJ-EjlA">机器人（用更时髦的词，具身智能）公司Figure和OpenAI合作，发布Figure 01</a>.</p>
+<p>2024年3月，<a href="https://mp.weixin.qq.com/s/tbFMAVlAt0RzpKdSetFabw?poc_token=HBEaCmajZu-3lVVqOZxNWmwzr7pAvV_uFT4ceSN4">Suno发布</a>。</p>
+<h1 id="My-Opinion"><a href="#My-Opinion" class="headerlink" title="My Opinion"></a>My Opinion</h1><ul>
+<li>GPT-3.5是不知为何的成功。那么，也可能会有不知为何的失败。</li>
+<li>GPT-3.5和GPT-3的差距比GPT-4和GPT-3.5的差距更大。</li>
+<li>生成文本的AI更可能通向AGI。</li>
+<li>如果没有ChatGPT，虽然人们看到DALLE2, Sora, Suno也会很高兴，但是只会把它们当玩具。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-03</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3434,22 +3489,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -3473,6 +3512,22 @@
         <tag>biography</tag>
         <tag>drug</tag>
         <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -5257,8 +5312,8 @@
         <tag>science</tag>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>math</tag>
         <tag>physics</tag>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -5300,8 +5355,8 @@
         <tag>science</tag>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>math</tag>
         <tag>physics</tag>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -6461,6 +6516,22 @@
       </tags>
   </entry>
   <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -6524,22 +6595,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
