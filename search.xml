@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Annual Parallax</title>
+    <url>/2024/04/03/Annual_Parallax/</url>
+    <content><![CDATA[<p>Today, finally I understand the meaning of “parallax” and “annual parallax”~</p>
+<img src="Annual_Parallax/Parallax_Example.png" alt="Parallax_Example" style="zoom:25%;" />
+
+<img src="Annual_Parallax/1.png" alt="1" style="zoom: 25%;" />
+
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-04</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Stephan Hawking Talking About AI</title>
     <url>/2024/04/02/Stephan_Hawking_Answering_AI/</url>
     <content><![CDATA[<p>Today, when I searched for whether Hawking used eye-tracking for typing or speaking, I found a <a href="https://www.youtube.com/watch?v=IGorZafXOFY">video</a> on YouTube, which is the Q &amp; A of Hawking at the Imperial College London.</p>
@@ -1662,8 +1679,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>fun</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>break cognitive limits</tag>
       </tags>
@@ -3125,9 +3142,9 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>family</tag>
       </tags>
@@ -3504,35 +3521,9 @@
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>statistics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -3561,6 +3552,32 @@
         <tag>physics</tag>
         <tag>history</tag>
         <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -3836,8 +3853,8 @@
         <category>2023-06</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -3953,8 +3970,8 @@
         <category>2023-06</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>socialism</tag>
         <tag>running</tag>
       </tags>
@@ -4362,8 +4379,8 @@
         <category>2023-04</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>love</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -5150,8 +5167,8 @@
         <category>2023-02</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -5357,10 +5374,10 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>math</tag>
       </tags>
@@ -5400,10 +5417,10 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>math</tag>
       </tags>
@@ -5606,8 +5623,8 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>scientific misconduct</tag>
       </tags>
   </entry>
@@ -5669,8 +5686,8 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>biology</tag>
       </tags>
@@ -6378,8 +6395,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -6727,8 +6744,8 @@
         <category>2022-08</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>statistics</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>history</tag>
         <tag>break cognitive limits</tag>
@@ -6968,8 +6985,8 @@
         <category>2022-08</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>senior high school</tag>
       </tags>
   </entry>
@@ -8088,8 +8105,8 @@
         <category>2022-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>statistics</tag>
         <tag>love</tag>
       </tags>
@@ -8894,8 +8911,8 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>biography</tag>
       </tags>
   </entry>
@@ -9018,8 +9035,8 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>video game</tag>
       </tags>
   </entry>
@@ -9653,8 +9670,8 @@
         <category>2020-05</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -9937,8 +9954,8 @@
         <category>2018-08</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>physics</tag>
       </tags>
   </entry>
