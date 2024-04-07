@@ -173,13 +173,13 @@
         <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
       </span>
       <span class="links-of-author-item">
-        <a href="/hyperdunk2019@mail.ustc.edu.cn" title="E-Mail → hyperdunk2019@mail.ustc.edu.cn" rel="noopener me"><i class="fa fa-envelope fa-fw"></i></a>
-      </span>
-      <span class="links-of-author-item">
         <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
       </span>
       <span class="links-of-author-item">
         <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/hyperdunk2019@mail.ustc.edu.cn" title="E-Mail → hyperdunk2019@mail.ustc.edu.cn" rel="noopener me"><i class="fa fa-envelope fa-fw"></i></a>
       </span>
   </div>
 
@@ -291,6 +291,14 @@
 <li>Stay Hungry. Stay Foolish.</li>
 </ul>
 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/23/Talk_of_Jobs_on_Stanford_Commencement/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -402,14 +410,15 @@
 <p><strong>做研究、给talk（以及写书、写论文、讲课）和game都是输出。</strong></p>
 <p><strong>读书、读论文、上课、听talk、记笔记和train都是输入。</strong></p>
 <p>两种人都需要休息。（只不过前者的休息可能是打篮球，后者的休息可能是看书）</p>
-<h1 id="从小学到大学"><a href="#从小学到大学" class="headerlink" title="从小学到大学"></a>从小学到大学</h1><p>小学时，只有</p>
-<ul>
-<li>read books; attend class.</li>
-<li>relax</li>
-</ul>
-<p>初中、高中、大一也是如此。</p>
-<p>从大一到大四，逐渐地，看的东西从books变为papers，听的东西从class变为talks，你也会站上讲台讲课或者给报告，你也会开始做自己的突破人类极限的研究。</p>
-
+<h1 id="从小学到大学"><a href="#从小学到大学" class="headerlink" title="从小学到大学"></a>从小学到大学</h1>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/22/Scientists_vs_Basketball_Players/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -524,89 +533,14 @@
 <p>以上几点都将在本文中得到体现。</p>
 <p>除了ChatGPT，我也使用了New Bing, Bard。</p>
 <p>简单地说，New Bing的感觉和ChatGPT类似，Bard不如两者好用。</p>
-<h2 id="Large-Language-Model的原理简介"><a href="#Large-Language-Model的原理简介" class="headerlink" title="Large Language Model的原理简介"></a>Large Language Model的原理简介</h2><h3 id="给一个小学生解释"><a href="#给一个小学生解释" class="headerlink" title="给一个小学生解释"></a>给一个小学生解释</h3><p>如果给一个7岁小孩解释大语言模型，那就是——大语言模型通过上下文之间的相关性来生成一句话。</p>
-<h3 id="给一个本科生解释"><a href="#给一个本科生解释" class="headerlink" title="给一个本科生解释"></a>给一个本科生解释</h3><ul>
-<li><p>Large Language Model是一个巨大的人工神经网络，可以有1000亿个weight和bias。</p>
-</li>
-<li><p>Transformer: 它通常采用Transformer架构。Transformer采用了self-attention，可以按输入数据各部分重要性的不同而分配不同的权重。</p>
-</li>
-<li><p>self-supervised learning: 它通过self-supervised learning利用无标签的数据。self-supervised learning有三种常见的形式，它用的是第一种。</p>
-<ul>
-<li>文本处理：在文本数据中，可以移除某些单词或句子，并让模型预测这些缺失的部分。这种方法让模型学会了语言的结构和语义，而不需要任何外部的标签。</li>
-<li>图像处理：在图像处理中，可以遮蔽图像的一部分，并让模型尝试重建被遮蔽的部分。这种方法使得模型学习到图像的特征和结构。</li>
-<li>音频处理：在音频数据中，可以移除音频的一部分，并让模型预测缺失的音频。这样的训练帮助模型理解音频的模式和结构。</li>
-</ul>
-</li>
-<li><p>auto-regressive: 某次输出中，每一个新生成的单词依赖于之前的所有输入、之前的所有输出、本次输出中之前的所有输出。</p>
-</li>
-<li><p>Reinforcement-Learning-Human-Feedback: 第一步，准备一个大量的由人类构造的问答对（比如，对于广义相对论的标准答案），让GPT进行有监督学习；第二步，让GPT生成自己的回答，让人类进行打分，进行所谓的人类反馈强化学习。</p>
-<ul>
-<li>第二步选择强化学习不是必须的，也可以选择其它ML方法，但是，强化学习根据奖励、惩罚来调整行为，因此比较适合这种训练。</li>
-</ul>
-</li>
-<li><p>说了这么多，还不如<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA">60行代码就能构建自己的GPT！</a></p>
-</li>
-</ul>
-<p>我个人认为，Reinforcement-Learning-Human-Feedback是让GPT-3.5远远强于GPT-3的关键。当然我还只是门外汉啦。<a target="_blank" rel="noopener" href="https://www.51cto.com/article/743023.html">这里有位学者和我由类似的看法。</a></p>
-<p>这是很重要的一点，我个人认为GPT3.5和GPT3的区别大于GPT4和GPT3.5的区别。</p>
-<p>要知道，GPT3可只有<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/2YC1N3MB8G7mw1HThucceQ">这种水平</a>。</p>
-<h2 id="Large-Language-Model对教育的影响"><a href="#Large-Language-Model对教育的影响" class="headerlink" title="Large Language Model对教育的影响"></a>Large Language Model对教育的影响</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LsO_-VvPtcb1H5yyBzqc1w">GPT-4最震撼我的一点</a></p>
-<p>在这篇文章中，作者展示了GPT如何能一步一步引导初一学生学会解二元一次方程。GPT循循善诱，一步一步引导，而不是直接灌输。</p>
-<p><a target="_blank" rel="noopener" href="https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/">可汗学院已经在开发用于教育的AI</a></p>
-<p>可汗学院是世界文明的非盈利组织，他们教授小学、初中、高中、本科的课程。我曾经看过他们的许多课。</p>
-<p>之前说过，ChatGPT具有极强的人文关怀。我的一个朋友假装自己是一个留守儿童，ChatGPT贴心地给了很多建议。我的一个老师假装自己是高考前压力大的学生，New Bing也贴心地帮忙。</p>
-<p>GPT对于我自己的学习而言（我的学习也隶属于教育嘛）：</p>
-<p>编程上</p>
-<ul>
-<li>刚出时，我惊讶地发现它可以用5种不同的方法实现Support Vector Machine，而我憋了一个月啥也写不出来。</li>
-<li>随后，我用它掌握了很多Python, MATLAB的技巧，让我的代码远远比以前优雅。</li>
-</ul>
-<p>计算机上：我经常问它一些和ML、AI有关的问题，它都能解释。解释的结果可以通过搜索引擎验证。</p>
-<p>数学物理上：因为我最近半年的数学物理课不多，我用得较少</p>
-<p>化学生物上：和计算机类似，它给出的答案可以通过搜索引擎验证。</p>
-<p>总而言之，在编程上，LLM让我的学习效率高了2-4倍。</p>
-<p>尽管如此，我要写下两个警告</p>
-<ul>
-<li>不要傻傻地复制粘贴AI给的代码，要理解它写的代码的原理。它用了什么样的库函数避免重复造轮子？它如何更优雅？</li>
-<li>不要问AI你无法查证的东西，除非你只是想问着玩玩。</li>
-</ul>
-<h2 id="Large-Language-Model对科学的影响"><a href="#Large-Language-Model对科学的影响" class="headerlink" title="Large Language Model对科学的影响"></a>Large Language Model对科学的影响</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA">陶哲轩发文称自己已经把GPT加入工作流</a></p>
-<p>这篇文章对我最大的启发是——陶认为ChatGPT的逻辑很有问题，但是可以给出解题的灵感。</p>
-<p>对此，我想感慨一下——Two mathematicians used ChatGPT, one saw mistakes, the other saw inspirations.</p>
-<p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/40lR75jbv4L0IuTfWF4mrw">陶哲轩再发文展示自己玩GPT</a></p>
-<p>在此文中，陶给GPT看了自己的工作，让GPT问自己问题，而不是自己问GPT问题，这是一个很nb的创新。</p>
-<p>GPT给陶挑刺之后，陶收益颇丰。</p>
-<p>这两篇文章对我启发极大，特别是第二篇（第一篇因为我目前工作涉及到的数学物理较少，暂时用不上），我可以让AI作为学生、作为editor、作为review，去给我挑刺。</p>
-<h2 id="Large-Language-Model的未来"><a href="#Large-Language-Model的未来" class="headerlink" title="Large Language Model的未来"></a>Large Language Model的未来</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/XaWPP0GRsCCvkVUCQAZulg">微软154页研究报告</a></p>
-<p>这个报告写了GPT-4对于各行各业的影响。</p>
-<p>值得注意的是，LeCun一直不喜欢LLM，认为LLM是通用人工智能的邪路。</p>
-<p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/0Nk2jpWkxXQ-mZKjKQNvnw">GPT-4已经可以使用插件，从而联网，从而使用Wolfram</a></p>
-<p>可惜由于种种原因，我现在用不上GPT-4</p>
-<p><a target="_blank" rel="noopener" href="https://www.nature.com/articles/s41467-023-37180-x">下一代人工智能：NeuroAI</a></p>
-<p>这篇论文里，作者们认为，光具备语言能力的机器不能称之为人工智能，还需要有感觉、运动、学习、记忆的能力。</p>
-<p>这里打个广告，这也是我们实验室未来5年的目标。欢迎联系中科大生命学院温泉老师。</p>
-<h1 id="2-思维导图截图"><a href="#2-思维导图截图" class="headerlink" title="2 思维导图截图"></a>2 思维导图截图</h1><img src="/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/1.png" class="">
-
-
-
-<h1 id="3-收获、感悟、评价"><a href="#3-收获、感悟、评价" class="headerlink" title="3 收获、感悟、评价"></a>3 收获、感悟、评价</h1><p>我之前已经很会使用搜索引擎了，所以这方面提升不大。</p>
-<p>对我提升大的是，我整合了很多和GPT有关的信息，我之前一直没有整合。</p>
-<h1 id="4-在哪里检索"><a href="#4-在哪里检索" class="headerlink" title="4 在哪里检索"></a>4 在哪里检索</h1><p>主动搜索：Google, GPT.</p>
-<p>被动搜索：之前我的朋友发给了我很多这方面的微信推送，质量都极高。</p>
-<h1 id="5-参考资料"><a href="#5-参考资料" class="headerlink" title="5 参考资料"></a>5 参考资料</h1><ol>
-<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Large_language_model">LLM in Wikipedia</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA">60行代码就能构建GPT！</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LsO_-VvPtcb1H5yyBzqc1w">GPT-4最震撼我的一点</a></li>
-<li><a target="_blank" rel="noopener" href="https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/">可汗学院已经在开发用于教育的AI</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA">陶哲轩发文称自己已经把GPT加入工作流</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/40lR75jbv4L0IuTfWF4mrw">陶哲轩再发文展示自己玩GPT</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/XaWPP0GRsCCvkVUCQAZulg">微软154页研究报告</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/0Nk2jpWkxXQ-mZKjKQNvnw">GPT-4已经可以使用插件，从而联网，从而使用Wolfram</a></li>
-<li><a target="_blank" rel="noopener" href="https://www.nature.com/articles/s41467-023-37180-x">下一代人工智能：NeuroAI</a></li>
-<li><a target="_blank" rel="noopener" href="https://www.51cto.com/article/743023.html">Why is GPT-3.5 so much better than GPT-3?</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/2YC1N3MB8G7mw1HThucceQ">Deep Learning Is Hitting a Wall.</a></li>
-</ol>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -704,6 +638,14 @@
     <div class="post-body" itemprop="articleBody">
           <p>先挖个坑，有空写完。</p>
 <h1 id="日常生活中所说的虫子可能来自哪些门？"><a href="#日常生活中所说的虫子可能来自哪些门？" class="headerlink" title="日常生活中所说的虫子可能来自哪些门？"></a>日常生活中所说的虫子可能来自哪些门？</h1><h1 id="生存"><a href="#生存" class="headerlink" title="生存"></a>生存</h1><h2 id="进食"><a href="#进食" class="headerlink" title="进食"></a>进食</h2><h2 id="排便"><a href="#排便" class="headerlink" title="排便"></a>排便</h2><h2 id="寻找食物"><a href="#寻找食物" class="headerlink" title="寻找食物"></a>寻找食物</h2><h1 id="繁殖"><a href="#繁殖" class="headerlink" title="繁殖"></a>繁殖</h1><h1 id="线虫-vs-涡虫"><a href="#线虫-vs-涡虫" class="headerlink" title="线虫 vs 涡虫"></a>线虫 vs 涡虫</h1><h1 id="为什么有1-500是雄性？"><a href="#为什么有1-500是雄性？" class="headerlink" title="为什么有1&#x2F;500是雄性？"></a>为什么有1&#x2F;500是雄性？</h1>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/04/Introduction_to_C_elegans/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -820,65 +762,14 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">square = lambda x: x**2</span><br></pre></td></tr></table></figure>
 
 <p>MATLAB</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double = @(x) x * 2;</span><br></pre></td></tr></table></figure>
-
-<p>R</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double &lt;- function(x) &#123; x * 2 &#125;</span><br></pre></td></tr></table></figure>
-
-<p>Julia</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">double = x -&gt; x * 2</span><br></pre></td></tr></table></figure>
-
-<p>C++</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">auto double_fn = [](int x) &#123; return x * 2; &#125;;</span><br></pre></td></tr></table></figure>
-
-
-
-<h1 id="续行符"><a href="#续行符" class="headerlink" title="续行符"></a>续行符</h1><p>C++: <code>\</code></p>
-<p>MATLAB: <code>...</code></p>
-<p>Python: \</p>
-<p>R: +</p>
-<h1 id="多用函数"><a href="#多用函数" class="headerlink" title="多用函数"></a>多用函数</h1><ul>
-<li>傻孩子，你想复制粘贴的时候就用函数，不然你怎么同时更改所有你复制粘贴的代码？！！！</li>
-<li>写Machine Label这个小工程项目后，我发现，用函数的好处不仅仅是用来代替复制粘贴，还有<ul>
-<li>模块化，让流程更清晰。你可以清楚地看到每个模块的输入和输出</li>
-<li>不同函数里可以用相同名称的局部变量，比如mask。否则，你就必须用mask_1，mask_2</li>
-</ul>
-</li>
-</ul>
-<h1 id="scanf-和-printf-到底是啥的缩写？"><a href="#scanf-和-printf-到底是啥的缩写？" class="headerlink" title="scanf 和 printf 到底是啥的缩写？"></a>scanf 和 printf 到底是啥的缩写？</h1><p><code>scanf</code> stands for “scan formatted”, which is used to read formatted input from the standard input stream, such as keyboard input.</p>
-<p><code>printf</code> stands for “print formatted”, which is used to output formatted data to the standard output stream, such as the console or terminal.</p>
-<p><code>fscanf</code> stands for “file scan formatted”, which is used to read formatted data from a file.</p>
-<p><code>fprintf</code> stands for “file print formatted”, which is used to output formatted data to a file.</p>
-<table>
-<thead>
-<tr>
-<th>C</th>
-<th>MATLAB</th>
-<th>Python</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>scanf</td>
-<td>input</td>
-<td>input</td>
-</tr>
-<tr>
-<td>printf</td>
-<td>disp</td>
-<td>print</td>
-</tr>
-<tr>
-<td>fscanf</td>
-<td>fscanf</td>
-<td>read</td>
-</tr>
-<tr>
-<td>fprintf</td>
-<td>fprintf</td>
-<td>write</td>
-</tr>
-</tbody></table>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/01/Across_Programming_Language/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -977,6 +868,14 @@
           <p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
 <p>好水好山虽逸乐，难以新游忘故人。</p>
 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/01/Huang_Mountain/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -1080,6 +979,14 @@
 <li>00 00 00 00代表4个Byte，每个Byte都是0，因此下次创建时给的后缀是空</li>
 </ul>
 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/01/Remove_Postfix/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -1196,6 +1103,14 @@
 </li>
 </ul>
 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/01/Text_and_Binary/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -1295,6 +1210,14 @@
 <p>继续做一个有责任心的人，继续做一个真诚的人，继续做一个光明正直磊落的人。</p>
 <p>我的那些缺点，情绪不稳定，太科却不认真钻研，我改即可。</p>
 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/24/0324/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -1399,35 +1322,14 @@
 <p>2 How does a worm taste?</p>
 <p>对于线虫和许多其它动物而言，驱动运动行为的是自主运动和外部刺激的结合。通过光学、遗传学、钙成像，我们研究了线虫的趋盐行为并发现ASER神经元在其中起重要作用。</p>
 <p>3 How does a worm think?</p>
-<p>虽然线虫的神经网络相对简单，但是其复杂程度还是比科学家们之前想象的要复杂很多。我们利用人工神经网络、机器学习开发了自由运动线虫的全脑成像系统，记录了线虫脑部所有神经元的钙信号。有了这一工具，我们可以以之前前所未有的精度研究线虫的运动和感觉、学习和记忆。在中国，我们是唯一一个能做到自由运动线虫全脑成像的实验室。</p>
-<p><a target="_blank" rel="noopener" href="http://www.wenlab.org/research/">在我们的网站上观看这三个课题相关的有趣视频！</a></p>
-<h1 id="Experiments-we-need-you-to-do"><a href="#Experiments-we-need-you-to-do" class="headerlink" title="Experiments we need you to do"></a>Experiments we need you to do</h1><p>1 趋向：</p>
-<p>在上文所述的趋盐研究的基础上，我们正在进行更进一步的趋向方面的研究，并且希望把我们开发的全脑钙成像利用在趋向研究上。</p>
-<p>2 光遗传：</p>
-<p>光遗传技术允许我们激活或者抑制单个神经元。这项技术在我们实验室的许多课题中都有用武之地。</p>
-<p>3 钙成像：</p>
-<p>我们实验室开发的全脑钙成像技术允许我们以历史上从未有过的精度去研究线虫的运动、感觉、学习、记忆等行为。和光遗传一样，这项技术在我们实验室的许多课题中都有用处。</p>
-<p>4 分子生物学相关实验：</p>
-<p>包括PCR、构建质粒等。</p>
-<h1 id="Beyond-your-project"><a href="#Beyond-your-project" class="headerlink" title="Beyond your project"></a>Beyond your project</h1><p>在自己的课题之外，你还会有如下收获：</p>
-<p>编程能力：你可以参与数据处理，学会MATLAB或Python。如果你愿意，你还可以掌握基本的Git、Anaconda、Linux命令，以及Markdown、$\LaTeX$的用法，师兄师姐们都会很乐意地帮助大家学习。</p>
-<p>数理基础：除了每周一次的普通JC之外，我们约每两周会进行一次Theoretical JC，讨论一篇涉及数学物理知识较多的文章。<strong>自愿参加</strong>。2022年秋季学期，我们在Theoretical JC中先后讨论了：</p>
-<ul>
-<li>Latent Markov Chain.</li>
-<li>Diffusion Model.</li>
-<li>The deep learning lecture given by Haim Sompolinsky.</li>
-</ul>
-<p>同样，只要你对某一方面的数理知识感兴趣，只要你愿意学习，师兄师姐都会慷慨教学。</p>
-<h1 id="Contact-us"><a href="#Contact-us" class="headerlink" title="Contact us"></a>Contact us</h1><p>我们希望你有对科学的激情、热爱、追求以及对自己工作的责任心。我们非常欢迎你在Wenlab完成本科毕业论文，有很多有趣的课题供你研究与探索。我们更欢迎你保研到Wenlab进行更进一步的求索。</p>
-<hr>
-<p><a target="_blank" rel="noopener" href="http://www.wenlab.org/">我们的主页</a></p>
-<p><a target="_blank" rel="noopener" href="https://github.com/Wenlab">我们的GitHub</a></p>
-<p><a target="_blank" rel="noopener" href="https://github.com/Wenlab/Computation-Neuro-Course">我们的Computational Neuroscience课程</a></p>
-<p><a target="_blank" rel="noopener" href="https://cneuroustc.github.io/">我们的历次JC文章</a></p>
-<hr>
-<p>温泉老师的邮箱：<a href="mailto:qwen@ustc.edu.cn">qwen@ustc.edu.cn</a></p>
-<p>感兴趣的同学请以邮件方式联系温泉老师！</p>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/01/Welcome_to_Wenlab/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 

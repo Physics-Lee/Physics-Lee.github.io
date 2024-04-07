@@ -2679,6 +2679,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/tags/geography/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/tags/basketball/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2693,28 +2700,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/tags/geography/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/tags/madness/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/scientific-misconduct/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/tags/math/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2729,6 +2715,20 @@
   
   <url>
     <loc>https://physics-lee.github.io/tags/AI/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/scientific-misconduct/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/tags/math/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3017,13 +3017,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2022/2022-01/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/2022/2022-07/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3032,6 +3025,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2023/2023-01/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/2024/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3052,13 +3052,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2024/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/2021/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3067,6 +3060,13 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2023/2023-04/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/2022/2022-01/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3094,6 +3094,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/2023/2023-08/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/2022/2022-08/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3108,13 +3115,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2023/2023-08/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/2022/2022-11/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3122,14 +3122,14 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2023/2023-11/</loc>
+    <loc>https://physics-lee.github.io/categories/2024/2024-01/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2024/2024-01/</loc>
+    <loc>https://physics-lee.github.io/categories/2023/2023-11/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3150,6 +3150,13 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/2022/2022-10/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/2024/2024-04/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3164,7 +3171,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2022/2022-10/</loc>
+    <loc>https://physics-lee.github.io/categories/2024/2024-03/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3172,13 +3179,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/categories/2020/2020-07/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/2024/2024-03/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3213,7 +3213,21 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/2018/2018-11/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/2020/2020-10/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/categories/2019/2019-10/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3241,13 +3255,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/categories/2023/2023-05/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/categories/2020/2020-04/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3255,21 +3262,14 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/categories/2023/2023-05/</loc>
+    <lastmod>2024-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/categories/2021/2021-08/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/2018/2018-11/</loc>
-    <lastmod>2024-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/categories/2019/2019-10/</loc>
     <lastmod>2024-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
