@@ -1184,9 +1184,6 @@ pre code {
 .links-of-author a {
   font-size: 0.8125em;
 }
-.links-of-author i[class^='fa'] {
-  margin-right: 2px;
-}
 .sidebar .sidebar-button:not(:first-child) {
   margin-top: 15px;
 }
@@ -2624,7 +2621,6 @@ header.header {
 }
 .links-of-author-item {
   margin: 5px 0 0;
-  width: 50%;
 }
 .links-of-author-item a {
   box-sizing: border-box;
