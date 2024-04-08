@@ -22,12 +22,12 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。  高中水平：我们只能求出1天之中总共有多少人去面包店买面包。 概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。 随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。">
+    <meta name="description" content="科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。  高中水平：我们只能求出1天之中总共有多少人去面包店买面包。 概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。 随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。  当然了，要想算这个，我们需要一些假设。  高中水平时需要的假设 独立假设：假设每个">
 <meta property="og:type" content="article">
 <meta property="og:title" content="二项分布——泊松分布——泊松过程">
 <meta property="og:url" content="https://physics-lee.github.io/2021/02/01/From_Binomial_to_Poisson/index.html">
 <meta property="og:site_name" content="XuanJr&#39;s Land">
-<meta property="og:description" content="科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。  高中水平：我们只能求出1天之中总共有多少人去面包店买面包。 概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。 随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。">
+<meta property="og:description" content="科大有一个面包店，我们想求出1天之中去面包店买面包的人的个数随时间t的函数。  高中水平：我们只能求出1天之中总共有多少人去面包店买面包。 概率论水平：我们同样只能求出1天之中总共有多少人去面包店买面包，但是我们可以比高中更快地算出结果。 随机过程水平：我们可以求出1天之中去面包店买面包的人的个数随时间t的函数。  当然了，要想算这个，我们需要一些假设。  高中水平时需要的假设 独立假设：假设每个">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2021-01-31T16:00:00.000Z">
 <meta property="article:modified_time" content="2023-11-01T07:41:31.762Z">
@@ -329,13 +329,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2021/02/01/GPCR_5_trans-membrane/" rel="prev" title="GPCR, 五重跨膜">
-                  <i class="fa fa-angle-left"></i> GPCR, 五重跨膜
+                <a href="/2021/02/01/Journey_to_Haihua_Island/" rel="prev" title="海花岛一游">
+                  <i class="fa fa-angle-left"></i> 海花岛一游
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2021/02/01/Cook_Inspirations/" rel="next" title="Cook Inspirations">
-                  Cook Inspirations <i class="fa fa-angle-right"></i>
+                <a href="/2021/02/01/GPCR_5_trans-membrane/" rel="next" title="GPCR, 五重跨膜">
+                  GPCR, 五重跨膜 <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/Compu_Neuro/index.html</loc>
+    
+    <lastmod>2024-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/03/31/Hepatitis_B_vaccine_and_Merck/</loc>
     
     <lastmod>2024-04-07</lastmod>
@@ -20,16 +29,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/Compu_Neuro/index.html</loc>
-    
-    <lastmod>2024-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/pdfs/Info_for_Comp_Neuro_Hackers.html</loc>
+    <loc>https://physics-lee.github.io/pdfs/Info_for_Compu_Neuro_Hackers.html</loc>
     
     <lastmod>2024-04-07</lastmod>
     
@@ -2623,7 +2623,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2024-04-07</lastmod>
+    <lastmod>2024-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
