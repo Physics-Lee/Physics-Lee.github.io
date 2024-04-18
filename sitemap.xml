@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/about/index.html</loc>
+    
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/</loc>
     
     <lastmod>2024-04-11</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/</loc>
-    
-    <lastmod>2024-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/pdfs/Info_for_Compu_Neuro_Hackers.html</loc>
     
     <lastmod>2024-04-07</lastmod>
     
@@ -104,15 +104,6 @@
     <loc>https://physics-lee.github.io/2024/03/18/Cloud_Penetrating_Moon/</loc>
     
     <lastmod>2024-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/about/index.html</loc>
-    
-    <lastmod>2024-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2641,7 +2632,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2024-04-11</lastmod>
+    <lastmod>2024-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
