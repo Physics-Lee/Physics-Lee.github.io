@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2024/02/03/Restaurant/</loc>
+    <lastmod>2024-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2023/10/30/Milk_Tea/</loc>
+    <lastmod>2024-05-14</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2022/10/01/DeepMind_and_Intuitive_Physics/</loc>
     <lastmod>2024-05-14</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2024/01/13/A_Physicist_and_a_Statistician/</loc>
-    <lastmod>2024-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2023/10/30/Milk_Tea/</loc>
     <lastmod>2024-05-14</lastmod>
   </url>
   <url>
@@ -115,10 +119,6 @@
   <url>
     <loc>https://physics-lee.github.io/2024/02/08/Ping_Pong/</loc>
     <lastmod>2024-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2024/02/03/Restaurant/</loc>
-    <lastmod>2024-02-16</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2024/01/12/Sleep_Story/</loc>
