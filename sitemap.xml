@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2024/05/28/Naruto/</loc>
+    
+    <lastmod>2024-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/02/03/Restaurant/</loc>
     
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2686,7 +2695,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
