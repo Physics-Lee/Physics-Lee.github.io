@@ -13,6 +13,113 @@
       </categories>
   </entry>
   <entry>
+    <title>你是否相信十二星座中的某些星座更适合在一起？</title>
+    <url>/2022/07/07/12_Constellations_and_Marriage/</url>
+    <content><![CDATA[<h1 id="2022-07"><a href="#2022-07" class="headerlink" title="2022-07"></a>2022-07</h1><p>今年5月的一天，我和一位朋友聊天，突然聊到了这个问题。</p>
+<p>我回忆了一下，初中的我是很相信<strong>星座理论</strong>的。</p>
+<p>我所看的那套<strong>理论</strong>提出了这样一个<strong>模型</strong>：把12星座分为水、火、土、风，每种元素包括3个星座，元素属性相同的星座更适合在一起。</p>
+<p>比如说，我是双子座，双子座、天秤座、水瓶座被该模型划分为风象星座，所以我更适合找双子座、天秤座、水瓶座的伴侣。</p>
+<p>我还记得该理论称，若把双子座和水瓶座的契合程度定为100，则双子座和双子座、天秤座为90+，双子座和其它9个星座在0-90不等。</p>
+<p>初中时班上有不少同学都相信<strong>星座理论</strong>和<strong>水火土风模型</strong>，我还记得一个初中同学告诉我楚子航是双子座。虽然我从未看过《龙族》，但我知道《龙族》的主要人物和大致剧情。</p>
+<p>上高中之后，我渐渐不再相信某些星座更适合在一起了，但我从未站在客观的、科学的角度思考过这个问题。</p>
+<hr>
+<p>今年5月的那天，我突然想到，我可以从相关部门那里拿到某一年结婚的夫妻的出生年月，从中随机挑1W对，然后看这1W对中是否真的会出现契合星座理论的结果。比如说，假如发现双子座和水瓶座结婚的频率是30%，那就可以说明在结果上确实出现了符合星座理论的现象。如果结果上真的出现了这种现象，那么下一步就要去找导致该结果的原因。</p>
+<p>上一段的30%是我随便扯的一个数。以大学生的知识水平，我应该问：<strong>哪种假设检验适合星座理论？</strong></p>
+<p>我想以前应该是有人做过这种研究的，于是，有一天，我终于去查了，查到一篇神级文章。</p>
+<p>cite: Helgertz, J. and Scott, K., 2020. The validity of astrological predictions on marriage and divorce: a longitudinal analysis of Swedish register data. <em>Genus</em>, <em>76</em>(1), pp.1-18.</p>
+<p>这篇2020年的文章有如下亮点：</p>
+<ul>
+<li>调查了<strong>瑞典</strong>的<strong>6W多对</strong>异性恋夫妻的结婚、离婚情况。</li>
+<li>introduction中说之前从未有人做过<strong>大样本</strong>的星座问题的研究，这是<strong>第一个</strong>。</li>
+<li>用的是<strong>t检验</strong>。</li>
+<li><strong>去除了不同星座出生人数不同的影响。</strong></li>
+<li>funding中说该研究没用任何基金。（即作者是<strong>用爱发电</strong>）</li>
+<li>该文章的背景介绍几乎涵盖了这个领域的所有重要研究。（因为这个领域的论文实在是太少了）</li>
+</ul>
+<p>太长不看版：<strong>该文章既没有发现某个星座和某个星座更容易结婚，也没有发现某个星座和某个星座结婚后更不容易离婚</strong>。(用统计学家的话说，两个假设检验都没达到显著性。)</p>
+<h1 id="2022-08-更新"><a href="#2022-08-更新" class="headerlink" title="2022-08 更新"></a>2022-08 更新</h1><p>暑假在家打球时，有一次，教练的刚上小学四年级的女儿热情地向我介绍她最近学到的星座知识，告诉我双子座会有双重人格。</p>
+<p>于是乎，我问她双子座更适合和谁当伴侣，她歪着脑袋想了好一会，缓缓地说她对风象星座不够了解，忘记了，回去可以帮我查查~</p>
+<h1 id="2022-12-更新"><a href="#2022-12-更新" class="headerlink" title="2022-12 更新"></a>2022-12 更新</h1><p>2022年7月的我的统计水平实在太差了。</p>
+<p>很明显，这个问题和抛硬币、抛骰子类似，就应该用$\chi^2$检验。</p>
+<p>文章的假设检验的做法是：</p>
+<blockquote>
+<p>Differences in means between the predicted and actual number of marriages are assessed using t tests.</p>
+</blockquote>
+<p>显然这种做法是错的。两样本t检验可以用来检测两个班的学生成绩是否有显著差异，成对t检验可以用来检测一个班的学生成绩在补习前后是否有显著差异，无论是哪种用在这里的predicted number和actual number上都是错的。</p>
+<h1 id="2023-01-更新"><a href="#2023-01-更新" class="headerlink" title="2023-01 更新"></a>2023-01 更新</h1><p>MBTI还不如星座呢，因为星座是一成不变的，而MBTI是变来变去的，嘿嘿。</p>
+<p>上一句话只是开玩笑的哈，别当真，hh</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>statistics</tag>
+        <tag>love</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023 终焉</title>
+    <url>/2023/12/31/2023_Over/</url>
+    <content><![CDATA[<p>今天，在朋友圈和空间中看到了QQ音乐和Steam的年终总结。</p>
+<p>我也来个年终总结吧！</p>
+<hr>
+<p>2023年年初，做了很多错误的事情。</p>
+<p>每个时期的我都是不同的。高中的我，在很多事情上做的比现在的我好。</p>
+<p>如果今年年初让2017年的我来做决定，会远远超过现在的我。那时的我，更自信，更洒脱，更我行我素。</p>
+<hr>
+<p>2023年年中，在中国于世界杯惨败后，和章子斌有一段对话</p>
+<blockquote>
+<p>我：王哲林是2016年的二轮秀</p>
+<p>子斌：那他为什么不去打NBA？约基奇也是二轮秀。</p>
+<p>我：王哲林在CBA呼风唤雨，身边的人大多不如他，他随随便便就能赛季场均20+；他去了NBA，身边的人大多比他强，他拼死拼活也只能每场上场几分钟。而且大王在CBA的工资还比NBA高。如果你是王哲林，你会怎么做？</p>
+<p>子斌：呵呵，我可能也会选择一直留在CBA吧。</p>
+<p>我：但是后果之一是，2023年的他和2012年相比，水平没有任何的进步。</p>
+</blockquote>
+<p>郭艾伦、王哲林，他俩都有能力打NBA，但是放弃了。</p>
+<p>没有人会同情他们。</p>
+<p>普通人可以选择安逸，但，能力越大，责任越大。（这八个字没什么逻辑，但我认为它是对的）</p>
+<p>像他俩这种国手，选择了安逸，选择了水平止步不前，那就只能千夫所指。</p>
+<p>同样，能看到这篇的文章的人，大多也都有改变这个国家、这个世界的实力。我们不像郭、王一样，每天都生活在聚光灯下。但是我们心里清楚，我们的才华足以改变世界。如果我们选择了安逸，不会千夫所指，但能过得去自己这关吗？</p>
+<hr>
+<p>2023年年末，和两位师兄有如下对话，这次对话直接催生了<a href="https://physics-lee.github.io/2023/11/26/Close_Loop/">思维闭环</a>，让我想清楚了之前从未想清楚的事情。</p>
+<blockquote>
+<p>我：二位师兄觉得，学术界和企业界，哪个更有良心？</p>
+<p>师兄Q：良心有什么用？重要的是制度！</p>
+<p>我：我一直都认为学术界更有良心。</p>
+<p>师兄M：为什么？</p>
+<p>我：学术界一直标榜自己是在为全人类做贡献，这就是最大的良心。</p>
+<p>Q、M：谁会相信？</p>
+<p>我：孩子们会相信。</p>
+<p>M：如果有一天连孩子们都不相信科学家是在为全人类做贡献了，那人类还有未来吗？并且，学术圈里还有少数人是真的在为全人类做贡献的。</p>
+<p>我：在今天，2023年，有百分之多少的科学家是在为全人类做贡献？又有百分之多少的科学家是为了升官发财？我们不应该对未成年人撒谎。在教育中，真诚是最重要的品质之一。我认为实话实说更好，二战前都不错，二战后出了一些问题。</p>
+<p>我：科学家是为了全人类做贡献、科学家做研究是出于好奇心、科学家不会学术造假，这是二战后人类社会最大的三个谎言。</p>
+</blockquote>
+<hr>
+<p>2023年杰出文章</p>
+<ol>
+<li><a href="https://physics-lee.github.io/pdfs/Machine_Learning.pdf">Notes of the Machine Learning Course of USTC in 2022FA</a></li>
+<li><a href="https://physics-lee.github.io/2023/03/24/0324/">0324</a></li>
+<li><a href="https://physics-lee.github.io/2023/06/08/23/">23</a></li>
+<li><a href="https://physics-lee.github.io/2023/06/30/Journey_to_the_Southern_City/">南城一游</a></li>
+<li><a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/">杨振宁回忆鸦片</a></li>
+<li><a href="https://physics-lee.github.io/pdfs/C_Neuro_Course/Welcome-to-Computational-Neuroscience-Course_Chinese.pdf">Welcome to the Computational Neuroscience Course!</a></li>
+<li><a href="https://physics-lee.github.io/2023/08/28/China-vs-South_Sudan/">中国 vs 南苏丹</a></li>
+<li><a href="https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/">使用Hexo + Next + GitHub Pages搭建个人网站</a></li>
+<li><a href="https://physics-lee.github.io/2023/10/30/Milk_Tea/">奶茶</a></li>
+<li><a href="https://physics-lee.github.io/2023/11/08/Congratulations_for_GPT-4/">庆贺GPT-4的新生</a></li>
+<li><a href="https://physics-lee.github.io/2023/12/20/Miss_Tang/">因汤晓鸥，立一个flag</a></li>
+<li><a href="https://physics-lee.github.io/2023/12/31/Questions_About_Me/">我的问答箱</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+  </entry>
+  <entry>
     <title>23</title>
     <url>/2023/06/08/23/</url>
     <content><![CDATA[<p>年年都在高考时过生日，这种感觉很奇妙。</p>
@@ -93,195 +200,10 @@
         <category>2023-06</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>socialism</tag>
         <tag>running</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你是否相信十二星座中的某些星座更适合在一起？</title>
-    <url>/2022/07/07/12_Constellations_and_Marriage/</url>
-    <content><![CDATA[<h1 id="2022-07"><a href="#2022-07" class="headerlink" title="2022-07"></a>2022-07</h1><p>今年5月的一天，我和一位朋友聊天，突然聊到了这个问题。</p>
-<p>我回忆了一下，初中的我是很相信<strong>星座理论</strong>的。</p>
-<p>我所看的那套<strong>理论</strong>提出了这样一个<strong>模型</strong>：把12星座分为水、火、土、风，每种元素包括3个星座，元素属性相同的星座更适合在一起。</p>
-<p>比如说，我是双子座，双子座、天秤座、水瓶座被该模型划分为风象星座，所以我更适合找双子座、天秤座、水瓶座的伴侣。</p>
-<p>我还记得该理论称，若把双子座和水瓶座的契合程度定为100，则双子座和双子座、天秤座为90+，双子座和其它9个星座在0-90不等。</p>
-<p>初中时班上有不少同学都相信<strong>星座理论</strong>和<strong>水火土风模型</strong>，我还记得一个初中同学告诉我楚子航是双子座。虽然我从未看过《龙族》，但我知道《龙族》的主要人物和大致剧情。</p>
-<p>上高中之后，我渐渐不再相信某些星座更适合在一起了，但我从未站在客观的、科学的角度思考过这个问题。</p>
-<hr>
-<p>今年5月的那天，我突然想到，我可以从相关部门那里拿到某一年结婚的夫妻的出生年月，从中随机挑1W对，然后看这1W对中是否真的会出现契合星座理论的结果。比如说，假如发现双子座和水瓶座结婚的频率是30%，那就可以说明在结果上确实出现了符合星座理论的现象。如果结果上真的出现了这种现象，那么下一步就要去找导致该结果的原因。</p>
-<p>上一段的30%是我随便扯的一个数。以大学生的知识水平，我应该问：<strong>哪种假设检验适合星座理论？</strong></p>
-<p>我想以前应该是有人做过这种研究的，于是，有一天，我终于去查了，查到一篇神级文章。</p>
-<p>cite: Helgertz, J. and Scott, K., 2020. The validity of astrological predictions on marriage and divorce: a longitudinal analysis of Swedish register data. <em>Genus</em>, <em>76</em>(1), pp.1-18.</p>
-<p>这篇2020年的文章有如下亮点：</p>
-<ul>
-<li>调查了<strong>瑞典</strong>的<strong>6W多对</strong>异性恋夫妻的结婚、离婚情况。</li>
-<li>introduction中说之前从未有人做过<strong>大样本</strong>的星座问题的研究，这是<strong>第一个</strong>。</li>
-<li>用的是<strong>t检验</strong>。</li>
-<li><strong>去除了不同星座出生人数不同的影响。</strong></li>
-<li>funding中说该研究没用任何基金。（即作者是<strong>用爱发电</strong>）</li>
-<li>该文章的背景介绍几乎涵盖了这个领域的所有重要研究。（因为这个领域的论文实在是太少了）</li>
-</ul>
-<p>太长不看版：<strong>该文章既没有发现某个星座和某个星座更容易结婚，也没有发现某个星座和某个星座结婚后更不容易离婚</strong>。(用统计学家的话说，两个假设检验都没达到显著性。)</p>
-<h1 id="2022-08-更新"><a href="#2022-08-更新" class="headerlink" title="2022-08 更新"></a>2022-08 更新</h1><p>暑假在家打球时，有一次，教练的刚上小学四年级的女儿热情地向我介绍她最近学到的星座知识，告诉我双子座会有双重人格。</p>
-<p>于是乎，我问她双子座更适合和谁当伴侣，她歪着脑袋想了好一会，缓缓地说她对风象星座不够了解，忘记了，回去可以帮我查查~</p>
-<h1 id="2022-12-更新"><a href="#2022-12-更新" class="headerlink" title="2022-12 更新"></a>2022-12 更新</h1><p>2022年7月的我的统计水平实在太差了。</p>
-<p>很明显，这个问题和抛硬币、抛骰子类似，就应该用$\chi^2$检验。</p>
-<p>文章的假设检验的做法是：</p>
-<blockquote>
-<p>Differences in means between the predicted and actual number of marriages are assessed using t tests.</p>
-</blockquote>
-<p>显然这种做法是错的。两样本t检验可以用来检测两个班的学生成绩是否有显著差异，成对t检验可以用来检测一个班的学生成绩在补习前后是否有显著差异，无论是哪种用在这里的predicted number和actual number上都是错的。</p>
-<h1 id="2023-01-更新"><a href="#2023-01-更新" class="headerlink" title="2023-01 更新"></a>2023-01 更新</h1><p>MBTI还不如星座呢，因为星座是一成不变的，而MBTI是变来变去的，嘿嘿。</p>
-<p>上一句话只是开玩笑的哈，别当真，hh</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-07</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>statistics</tag>
-        <tag>love</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023 终焉</title>
-    <url>/2023/12/31/2023_Over/</url>
-    <content><![CDATA[<p>今天，在朋友圈和空间中看到了QQ音乐和Steam的年终总结。</p>
-<p>我也来个年终总结吧！</p>
-<hr>
-<p>2023年年初，做了很多错误的事情。</p>
-<p>每个时期的我都是不同的。高中的我，在很多事情上做的比现在的我好。</p>
-<p>如果今年年初让2017年的我来做决定，会远远超过现在的我。那时的我，更自信，更洒脱，更我行我素。</p>
-<hr>
-<p>2023年年中，在中国于世界杯惨败后，和章子斌有一段对话</p>
-<blockquote>
-<p>我：王哲林是2016年的二轮秀</p>
-<p>子斌：那他为什么不去打NBA？约基奇也是二轮秀。</p>
-<p>我：王哲林在CBA呼风唤雨，身边的人大多不如他，他随随便便就能赛季场均20+；他去了NBA，身边的人大多比他强，他拼死拼活也只能每场上场几分钟。而且大王在CBA的工资还比NBA高。如果你是王哲林，你会怎么做？</p>
-<p>子斌：呵呵，我可能也会选择一直留在CBA吧。</p>
-<p>我：但是后果之一是，2023年的他和2012年相比，水平没有任何的进步。</p>
-</blockquote>
-<p>郭艾伦、王哲林，他俩都有能力打NBA，但是放弃了。</p>
-<p>没有人会同情他们。</p>
-<p>普通人可以选择安逸，但，能力越大，责任越大。（这八个字没什么逻辑，但我认为它是对的）</p>
-<p>像他俩这种国手，选择了安逸，选择了水平止步不前，那就只能千夫所指。</p>
-<p>同样，能看到这篇的文章的人，大多也都有改变这个国家、这个世界的实力。我们不像郭、王一样，每天都生活在聚光灯下。但是我们心里清楚，我们的才华足以改变世界。如果我们选择了安逸，不会千夫所指，但能过得去自己这关吗？</p>
-<hr>
-<p>2023年年末，和两位师兄有如下对话，这次对话直接催生了<a href="https://physics-lee.github.io/2023/11/26/Close_Loop/">思维闭环</a>，让我想清楚了之前从未想清楚的事情。</p>
-<blockquote>
-<p>我：二位师兄觉得，学术界和企业界，哪个更有良心？</p>
-<p>师兄Q：良心有什么用？重要的是制度！</p>
-<p>我：我一直都认为学术界更有良心。</p>
-<p>师兄M：为什么？</p>
-<p>我：学术界一直标榜自己是在为全人类做贡献，这就是最大的良心。</p>
-<p>Q、M：谁会相信？</p>
-<p>我：孩子们会相信。</p>
-<p>M：如果有一天连孩子们都不相信科学家是在为全人类做贡献了，那人类还有未来吗？并且，学术圈里还有少数人是真的在为全人类做贡献的。</p>
-<p>我：在今天，2023年，有百分之多少的科学家是在为全人类做贡献？又有百分之多少的科学家是为了升官发财？我们不应该对未成年人撒谎。在教育中，真诚是最重要的品质之一。我认为实话实说更好，二战前都不错，二战后出了一些问题。</p>
-<p>我：科学家是为了全人类做贡献、科学家做研究是出于好奇心、科学家不会学术造假，这是二战后人类社会最大的三个谎言。</p>
-</blockquote>
-<hr>
-<p>2023年杰出文章</p>
-<ol>
-<li><a href="https://physics-lee.github.io/pdfs/Machine_Learning.pdf">Notes of the Machine Learning Course of USTC in 2022FA</a></li>
-<li><a href="https://physics-lee.github.io/2023/03/24/0324/">0324</a></li>
-<li><a href="https://physics-lee.github.io/2023/06/08/23/">23</a></li>
-<li><a href="https://physics-lee.github.io/2023/06/30/Journey_to_the_Southern_City/">南城一游</a></li>
-<li><a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/">杨振宁回忆鸦片</a></li>
-<li><a href="https://physics-lee.github.io/pdfs/C_Neuro_Course/Welcome-to-Computational-Neuroscience-Course_Chinese.pdf">Welcome to the Computational Neuroscience Course!</a></li>
-<li><a href="https://physics-lee.github.io/2023/08/28/China-vs-South_Sudan/">中国 vs 南苏丹</a></li>
-<li><a href="https://physics-lee.github.io/2023/09/03/Hexo_Next_GitHub-Pages/">使用Hexo + Next + GitHub Pages搭建个人网站</a></li>
-<li><a href="https://physics-lee.github.io/2023/10/30/Milk_Tea/">奶茶</a></li>
-<li><a href="https://physics-lee.github.io/2023/11/08/Congratulations_for_GPT-4/">庆贺GPT-4的新生</a></li>
-<li><a href="https://physics-lee.github.io/2023/12/20/Miss_Tang/">因汤晓鸥，立一个flag</a></li>
-<li><a href="https://physics-lee.github.io/2023/12/31/Questions_About_Me/">我的问答箱</a></li>
-</ol>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>500罚球</title>
-    <url>/2023/01/01/500_Free_Throw/</url>
-    <content><![CDATA[<p>6&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>6&#x2F;10<br>2&#x2F;10</p>
-<p>36&#x2F;100</p>
-<p>8&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>5&#x2F;10<br>2&#x2F;10<br>6&#x2F;10<br>7&#x2F;10<br>6&#x2F;10</p>
-<p>50&#x2F;100</p>
-<p>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>7&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
-<p>35&#x2F;100</p>
-<p>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>1&#x2F;10<br>2&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>3&#x2F;10</p>
-<p>32&#x2F;100</p>
-<p>7&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
-<p>40&#x2F;100</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-01</category>
-      </categories>
-      <tags>
-        <tag>basketball</tag>
-        <tag>madness</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2000年出的四名中国男子篮球运动员</title>
-    <url>/2023/09/18/4_Chinese_Men_Basketball_Players_Born_in_2000/</url>
-    <content><![CDATA[<h1 id="2023-03-01"><a href="#2023-03-01" class="headerlink" title="2023-03-01"></a>2023-03-01</h1><p>因为我出生于2000年，所以对00年出生的球员格外关注。男篮里有四人值得一说。</p>
-<p>郭昊文：1&#x2F;31生，身高203cm，123号位都能打。22年夏天去打了nba夏季联赛，目前在美国养伤。他和王泉泽的天赋是这批球员里最高的，以后还是有很大机会入选国家队的。不过他有一些缺点，西热力江曾经评价他说：“<strong>郭昊文很有天赋，他应多泡球场训练馆，少关注乱七八糟的事情</strong>”。仔细想想西热力江这话，不光对运动员，对所有人都是这样。</p>
-<p>王泉泽：6&#x2F;8生（和我一天生日），内线球员，性格很乐天，和姚明有点像。曾经也有机会冲击nba，但是受了大伤，他以后可能都不能打球了，很可惜。</p>
-<p>徐杰：1&#x2F;16生，广东队的三连冠后卫。打球很有灵气，和赵继伟很像，但是相比继伟还是差点意思。之前杜峰当国家队主教练时一直带着徐杰，他表现也还算差强人意。新来的乔帅喜欢高个球员，徐杰(179cm)和姜伟泽(181cm)都太矮了，他俩这几年应该都不会入选国家队了。</p>
-<p>姜伟泽：5&#x2F;6生，吉林队的后卫。最大的优点是三分(18岁进入cba以来三分命中率一直40%+)，但他当然不是光会扔三分。跑动灵活，体力充沛 (<strong>cba体测第一</strong>)，防守积极都是他的优点。场外他谦虚而努力，和队友关系融洽，如此小姜，谁人不爱。</p>
-<hr>
-<p>2018年，00的这批球员去打了U18亚锦赛，表现还是相当不错的。可惜后来王泉泽伤了，郭昊文挥霍了自己的天赋，否则他俩还是能冲冲nba的。那时徐杰就是主力控卫，姜伟泽只是替补。但这四年半小姜的数据一年比一年涨，而且不是刷出来的。吉林队这赛季新来的主教练实在是太垃圾，否则小姜这赛季应该就能冲击常规赛MVP了。</p>
-<p>18年夏天我上大学，00这批球员去打了亚锦赛表现不错，而周琦和丁彦雨航带着半只国家队就拿了亚洲杯冠军。那时男篮前景一片光芒。丁本来18-19就要去nba了，可惜还没去就大伤。19年世界杯男篮失利的的确确有运气因素，周鹏和丁彦雨航都受伤，锋线没人，只能用三后卫。</p>
-<hr>
-<p>前几天的打伊朗的比赛 (2023-02-26)我看了，感觉男篮未来还是才俊辈出的。崔永熙也许能成为下一个丁彦雨航去冲冲nba。</p>
-<p>未来迷茫不清却终将到来，希望这四个人，整个男篮，以及我们都能有美好的前程。</p>
-<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>又一个赛季过去了。</p>
-<p>郭昊文在2022-2023赛季一直没有拿到机会，<a href="https://www.sohu.com/a/655176936_343291">下赛季他会返回CBA</a>。</p>
-<p><a href="https://www.youtube.com/watch?v=46FaBDZIlus">王泉泽下赛季也会在CBA打球</a>。</p>
-<p>两颗新星还是没有成功冲进NBA。换句话说，他俩本来也可以成为王治郅、易建联，但是一个因为太浪，一个因为伤病，都没打出来。</p>
-<p>今天看了<a href="https://www.youtube.com/watch?v=TfUhpmLzAVY">2018年12月时王泉泽在NCAA的视频</a>，甚是热血。</p>
-<h1 id="2023-09-18-更新"><a href="#2023-09-18-更新" class="headerlink" title="2023-09-18 更新"></a>2023-09-18 更新</h1><h2 id="王哲林和郭昊文"><a href="#王哲林和郭昊文" class="headerlink" title="王哲林和郭昊文"></a>王哲林和郭昊文</h2><p>两个人都是挥霍天赋的典型，呵呵。</p>
-<p>看上去王哲林天赋似乎更高点，他<a href="https://www.youtube.com/watch?v=iLOVzyAKH4c">2012年参加耐克篮球峰会 (Nike Hoop Summit)</a>就技惊四座了，但郭昊文是中国少见的高个后卫，在这个时代，每个人都有一颗后卫的心。</p>
-<h2 id="郭艾伦"><a href="#郭艾伦" class="headerlink" title="郭艾伦"></a>郭艾伦</h2><p>2015年是我关注篮球的第一年。那一年秋天，中国男篮重新夺回亚锦赛冠军，而且年轻球员发挥出色，并非全靠老大哥易建联。那一批年轻球员里，5个位置各有1人：周琦 (1996)、王哲林 (1994)、丁彦雨航 (1993)、郭艾伦 (1993)、赵继伟 (1995)。这场亚锦赛，周琦、郭艾伦、易建联入选最佳五人阵容。</p>
-<p>这五人里，除了赵继伟身高太矮之外，其他四人绝对有机会冲击NBA。周琦和丁彦雨航自不必说，王哲林被二轮选中过（2016），郭艾伦<a href="https://www.sohu.com/a/339558035_99919549#:~:text=%E8%80%8C%E6%9C%80%E8%BF%91%E5%8A%A0%E7%9B%9F%E5%8C%97%E4%BA%AC%E7%9A%84,%E4%BD%8F%E6%9C%BA%E4%BC%9A%E7%9A%84%E5%91%A8%E7%90%A6%E3%80%82">被林书豪评价完全可以打NBA</a>，但他俩不愿意去。</p>
-<p>其实站在郭艾伦的角度想想，他在CBA，对位后卫90%都比他明显地弱，他在NBA，对位后卫90%都比他明显地强。一边是在CBA舒舒服服虐菜，另一边是去NBA被人虐或者在场下看着别人玩，他选择前者，似乎也可以理解</p>
-<p>如果你是郭艾伦，选择A是——虽然实力止步不前，但是身边人大都比自己弱；选择B是——虽然能变强，但是身边人大都比自己强，你会选哪个呢？</p>
-<p>郭艾伦倒没挥霍天赋，只不过选择了呆在舒适圈而已。</p>
-<p>我可以理解，但我不赞同，<strong>我也不赞同我和我的至爱亲朋这么做</strong>。</p>
-<hr>
-<p>按说郭艾伦也没老婆，干嘛不去国外拼一拼，这和他赛场上拼命三郎的性格并不一样。</p>
-<p>这么一看，虽然周琦在赛场上看上去懒散，但是他在场下，至少比郭艾伦更拼命地追求NBA和NBL，而且他已经结婚了。</p>
-<hr>
-<p>现在回忆2015年，只有一声叹息。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-09</category>
-      </categories>
-      <tags>
-        <tag>basketball</tag>
-        <tag>nationalism</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AD</title>
-    <url>/2023/12/08/AD/</url>
-    <content><![CDATA[<p>他只是AD子领域的第一（AD+血脑屏障），不是AD的第一。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -342,6 +264,71 @@
       </tags>
   </entry>
   <entry>
+    <title>2000年出的四名中国男子篮球运动员</title>
+    <url>/2023/09/18/4_Chinese_Men_Basketball_Players_Born_in_2000/</url>
+    <content><![CDATA[<h1 id="2023-03-01"><a href="#2023-03-01" class="headerlink" title="2023-03-01"></a>2023-03-01</h1><p>因为我出生于2000年，所以对00年出生的球员格外关注。男篮里有四人值得一说。</p>
+<p>郭昊文：1&#x2F;31生，身高203cm，123号位都能打。22年夏天去打了nba夏季联赛，目前在美国养伤。他和王泉泽的天赋是这批球员里最高的，以后还是有很大机会入选国家队的。不过他有一些缺点，西热力江曾经评价他说：“<strong>郭昊文很有天赋，他应多泡球场训练馆，少关注乱七八糟的事情</strong>”。仔细想想西热力江这话，不光对运动员，对所有人都是这样。</p>
+<p>王泉泽：6&#x2F;8生（和我一天生日），内线球员，性格很乐天，和姚明有点像。曾经也有机会冲击nba，但是受了大伤，他以后可能都不能打球了，很可惜。</p>
+<p>徐杰：1&#x2F;16生，广东队的三连冠后卫。打球很有灵气，和赵继伟很像，但是相比继伟还是差点意思。之前杜峰当国家队主教练时一直带着徐杰，他表现也还算差强人意。新来的乔帅喜欢高个球员，徐杰(179cm)和姜伟泽(181cm)都太矮了，他俩这几年应该都不会入选国家队了。</p>
+<p>姜伟泽：5&#x2F;6生，吉林队的后卫。最大的优点是三分(18岁进入cba以来三分命中率一直40%+)，但他当然不是光会扔三分。跑动灵活，体力充沛 (<strong>cba体测第一</strong>)，防守积极都是他的优点。场外他谦虚而努力，和队友关系融洽，如此小姜，谁人不爱。</p>
+<hr>
+<p>2018年，00的这批球员去打了U18亚锦赛，表现还是相当不错的。可惜后来王泉泽伤了，郭昊文挥霍了自己的天赋，否则他俩还是能冲冲nba的。那时徐杰就是主力控卫，姜伟泽只是替补。但这四年半小姜的数据一年比一年涨，而且不是刷出来的。吉林队这赛季新来的主教练实在是太垃圾，否则小姜这赛季应该就能冲击常规赛MVP了。</p>
+<p>18年夏天我上大学，00这批球员去打了亚锦赛表现不错，而周琦和丁彦雨航带着半只国家队就拿了亚洲杯冠军。那时男篮前景一片光芒。丁本来18-19就要去nba了，可惜还没去就大伤。19年世界杯男篮失利的的确确有运气因素，周鹏和丁彦雨航都受伤，锋线没人，只能用三后卫。</p>
+<hr>
+<p>前几天的打伊朗的比赛 (2023-02-26)我看了，感觉男篮未来还是才俊辈出的。崔永熙也许能成为下一个丁彦雨航去冲冲nba。</p>
+<p>未来迷茫不清却终将到来，希望这四个人，整个男篮，以及我们都能有美好的前程。</p>
+<h1 id="2023-08-29-更新"><a href="#2023-08-29-更新" class="headerlink" title="2023-08-29 更新"></a>2023-08-29 更新</h1><p>又一个赛季过去了。</p>
+<p>郭昊文在2022-2023赛季一直没有拿到机会，<a href="https://www.sohu.com/a/655176936_343291">下赛季他会返回CBA</a>。</p>
+<p><a href="https://www.youtube.com/watch?v=46FaBDZIlus">王泉泽下赛季也会在CBA打球</a>。</p>
+<p>两颗新星还是没有成功冲进NBA。换句话说，他俩本来也可以成为王治郅、易建联，但是一个因为太浪，一个因为伤病，都没打出来。</p>
+<p>今天看了<a href="https://www.youtube.com/watch?v=TfUhpmLzAVY">2018年12月时王泉泽在NCAA的视频</a>，甚是热血。</p>
+<h1 id="2023-09-18-更新"><a href="#2023-09-18-更新" class="headerlink" title="2023-09-18 更新"></a>2023-09-18 更新</h1><h2 id="王哲林和郭昊文"><a href="#王哲林和郭昊文" class="headerlink" title="王哲林和郭昊文"></a>王哲林和郭昊文</h2><p>两个人都是挥霍天赋的典型，呵呵。</p>
+<p>看上去王哲林天赋似乎更高点，他<a href="https://www.youtube.com/watch?v=iLOVzyAKH4c">2012年参加耐克篮球峰会 (Nike Hoop Summit)</a>就技惊四座了，但郭昊文是中国少见的高个后卫，在这个时代，每个人都有一颗后卫的心。</p>
+<h2 id="郭艾伦"><a href="#郭艾伦" class="headerlink" title="郭艾伦"></a>郭艾伦</h2><p>2015年是我关注篮球的第一年。那一年秋天，中国男篮重新夺回亚锦赛冠军，而且年轻球员发挥出色，并非全靠老大哥易建联。那一批年轻球员里，5个位置各有1人：周琦 (1996)、王哲林 (1994)、丁彦雨航 (1993)、郭艾伦 (1993)、赵继伟 (1995)。这场亚锦赛，周琦、郭艾伦、易建联入选最佳五人阵容。</p>
+<p>这五人里，除了赵继伟身高太矮之外，其他四人绝对有机会冲击NBA。周琦和丁彦雨航自不必说，王哲林被二轮选中过（2016），郭艾伦<a href="https://www.sohu.com/a/339558035_99919549#:~:text=%E8%80%8C%E6%9C%80%E8%BF%91%E5%8A%A0%E7%9B%9F%E5%8C%97%E4%BA%AC%E7%9A%84,%E4%BD%8F%E6%9C%BA%E4%BC%9A%E7%9A%84%E5%91%A8%E7%90%A6%E3%80%82">被林书豪评价完全可以打NBA</a>，但他俩不愿意去。</p>
+<p>其实站在郭艾伦的角度想想，他在CBA，对位后卫90%都比他明显地弱，他在NBA，对位后卫90%都比他明显地强。一边是在CBA舒舒服服虐菜，另一边是去NBA被人虐或者在场下看着别人玩，他选择前者，似乎也可以理解</p>
+<p>如果你是郭艾伦，选择A是——虽然实力止步不前，但是身边人大都比自己弱；选择B是——虽然能变强，但是身边人大都比自己强，你会选哪个呢？</p>
+<p>郭艾伦倒没挥霍天赋，只不过选择了呆在舒适圈而已。</p>
+<p>我可以理解，但我不赞同，<strong>我也不赞同我和我的至爱亲朋这么做</strong>。</p>
+<hr>
+<p>按说郭艾伦也没老婆，干嘛不去国外拼一拼，这和他赛场上拼命三郎的性格并不一样。</p>
+<p>这么一看，虽然周琦在赛场上看上去懒散，但是他在场下，至少比郭艾伦更拼命地追求NBA和NBL，而且他已经结婚了。</p>
+<hr>
+<p>现在回忆2015年，只有一声叹息。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-09</category>
+      </categories>
+      <tags>
+        <tag>basketball</tag>
+        <tag>nationalism</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>500罚球</title>
+    <url>/2023/01/01/500_Free_Throw/</url>
+    <content><![CDATA[<p>6&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>6&#x2F;10<br>2&#x2F;10</p>
+<p>36&#x2F;100</p>
+<p>8&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>5&#x2F;10<br>2&#x2F;10<br>6&#x2F;10<br>7&#x2F;10<br>6&#x2F;10</p>
+<p>50&#x2F;100</p>
+<p>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10<br>1&#x2F;10<br>7&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
+<p>35&#x2F;100</p>
+<p>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>1&#x2F;10<br>2&#x2F;10<br>4&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>3&#x2F;10</p>
+<p>32&#x2F;100</p>
+<p>7&#x2F;10<br>3&#x2F;10<br>3&#x2F;10<br>4&#x2F;10<br>4&#x2F;10<br>5&#x2F;10<br>3&#x2F;10<br>5&#x2F;10<br>4&#x2F;10<br>2&#x2F;10</p>
+<p>40&#x2F;100</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-01</category>
+      </categories>
+      <tags>
+        <tag>basketball</tag>
+        <tag>madness</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>70年</title>
     <url>/2024/01/28/70_Years/</url>
     <content><![CDATA[<p>从莱特兄弟的飞机（1903）到阿姆斯特朗登月（1969），不过用了66年。</p>
@@ -374,6 +361,19 @@
       <tags>
         <tag>fun</tag>
         <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AD</title>
+    <url>/2023/12/08/AD/</url>
+    <content><![CDATA[<p>他只是AD子领域的第一（AD+血脑屏障），不是AD的第一。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -624,41 +624,6 @@
       </tags>
   </entry>
   <entry>
-    <title>宣传、吹牛、造假</title>
-    <url>/2024/05/01/Advertise/</url>
-    <content><![CDATA[<h1 id="Falcon-Heavy"><a href="#Falcon-Heavy" class="headerlink" title="Falcon Heavy"></a>Falcon Heavy</h1><p>今天在网上神游的时候看到<a href="https://www.youtube.com/watch?v=A0FZIwabctw">Space X在2018年2月发射Falcon Heavy的视频</a>。</p>
-<p>震撼，流泪。</p>
-<p>首先我是一个人，其次我才是一个科学家。</p>
-<p>这是一场酣畅淋漓的宣传，把一辆特斯拉送进太空，两个火箭同时落地。</p>
-<p>这辆特斯拉将永远地漂泊在太空中。它的轨道经过精心设计，最远点和火星擦肩而过。在<a href="https://where-is-tesla-roadster.space/live#ss-anchor">这个网站</a>可以看到它目前的状态。<a href="https://www.whereisroadster.com/">这</a>是另一个追踪它的网站。</p>
-<p>Falcon Heavy分为一个主火箭和两个辅火箭。2018年2月，两个辅火箭回收成功，但是主火箭回收失败。</p>
-<h1 id="THINK"><a href="#THINK" class="headerlink" title="THINK"></a>THINK</h1><p>如果说我真的学到了什么，那就是——科学家应该学会宣传。</p>
-<p>把一辆特斯拉顶配送进太空，这是多么浪漫。</p>
-<p>让两个火箭同时落地，这是多么震撼。</p>
-<p>会宣传、吹牛、造假，这是三个概念。</p>
-<p>两个火箭同时落地、Neurolink的猴子打游戏、Neurolink的患者打游戏，这是会宣传。</p>
-<p><a href="https://www.hindustantimes.com/business/elon-musk-mars-plan-elon-musks-mars-game-plan-sending-one-million-people-from-2029-101708396746908.html#:~:text=Elon%20Musk%20Mars%20Plan%3A%20Elon%20Musk%20said%20that%20he%20wants,trip%20to%20Mars%20this%20year.">Musk称2050年前要把一百万人送上火星</a>、<a href="https://mp.weixin.qq.com/s/Qrbz1VyTTPB-3Qe4u3BNxw">称要用脑机接口实现读心术和传心术</a>，这是吹牛。</p>
-<p>三个诺贝尔奖得主帮听花酒打广告说能用他们的工作帮这就减害增益、Holmes用西门子测试仪偷偷代替自己的一滴血测试仪，这是造假。</p>
-<p>业界那句著名的“Fake it until your make it.”指的是会宣传和吹牛，而不是造假。</p>
-<h1 id="前事不忘，后事之师"><a href="#前事不忘，后事之师" class="headerlink" title="前事不忘，后事之师"></a>前事不忘，后事之师</h1><p>说到会宣传，不得不提起资本主义的三位鼻祖。</p>
-<p>John D. Rockefeller: 当年，美国石油产业不够标准化，煤油灯经常出现事故。Rockefeller建立了一套标准化流程，随后把自己的公司更名为Standard Oil。他不仅要做美国的Standard，还要做世界的Standard。</p>
-<p>Andrew Carnegie: 昔日，Carnegie建了一座史无前例的钢铁桥，然而民众惧怕，不敢上去。Carnegie找来一头大象，让大象走过了这座桥，证明其稳定性。</p>
-<p>J.P. Morgan &amp; Thomas Edison: 曾经，为了证明交流电比直流电危险，Edison授意手下当众演示电死马的实验（当然是用交流电）；Edison的电影公司还拍摄了一个电死大象的纪录片，虽然这时Morgan和Edison的通用电气已经垄断了美国的直流电和交流电；最搞的是，Edison有次坐椅子的时候突发奇想，于是跑去和政治家商量，以后用电椅来执行死刑（当然，用的也是交流电）。</p>
-<p>他们做的这些事，前两个肯定没问题，Edison干的事有点不仗义，但还是比听花酒和Holmes强多了吧。</p>
-<h1 id="不是不想，而是不会"><a href="#不是不想，而是不会" class="headerlink" title="不是不想，而是不会"></a>不是不想，而是不会</h1><p>根据我个人的经历，现在的科学家们早就利欲熏心。他们不是不想宣传、不想吹牛，只是（在公众面前）不会而已。他们更擅长在申基金时候吹牛，但那能搞来几个钱。</p>
-<p>那三个诺奖得主帮听花打广告，那又能搞来几个钱呢？</p>
-<p>如果我学会在公众面前宣传，我就不需要挖空心思申基金，也不需要为了钱给酒厂打广告。这样对我好，对公众也好。我拿到了钱和知名度，公众拿到了知识。</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-05</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>An Uplifting Update, on the Terrible World of Pornhub_Nicholas Kristof</title>
     <url>/2022/04/01/An-Uplifting-Update-on-the-Terrible-World-of-Pornhub_Nicholas-Kristof/</url>
     <content><![CDATA[<p>Introduction: Nicholas Kristof的上一篇文章（撰写于2020年12月4日）产生了极大影响力，Master、Visa、加拿大总理Justin Trudeau、Pornhub均对此做出了回应。在这种情况下，仅仅7天后，Nicholas Kristof就撰写了一篇新文章来更新时事。</p>
@@ -724,29 +689,38 @@
       </tags>
   </entry>
   <entry>
-    <title>探险</title>
-    <url>/2024/01/13/Adventure/</url>
-    <content><![CDATA[<p>中国安徽的某处，崇山峻岭，茂林修竹，往来的游客很多。</p>
-<p>当地人有不少当上了向导，为徒步而来的游客带路。向导大多已经是老年人了，但腿脚依然灵巧。</p>
-<p>有一天，三个老向导聚在一起，打算进行一场比赛。</p>
-<p>“就比谁更先到达终点吧！”三人异口同声地说。</p>
-<p>起点是山脚的同一个农家乐，终点是山中一个有名的景点——那是这片山峦的最高峰。</p>
-<p>想去高峰，有两条路可走，第一条是环线，第二条是直线。环线路线长，但坡度不陡；直线路线短，但难度很高。游客们走的大多是环线。他们把从东向西过环线叫正穿，从西向东叫反穿。</p>
-<p>两个稍微年轻的向导分别选择了正穿和反穿，经验最丰富的向导选择了直线。</p>
-<p>第二天早上八点，三个人同时出发。两位稍年轻的向导在路上遇到不少游客。游客们都穿着专业的徒步鞋，以防崴脚，但向导们只穿着布鞋——他们从小就生活在山野之中，早就习惯了。</p>
-<p>下午四点，两个向导几乎同时到达高峰。他们等了很久，也不见老向导来，愈来愈担心。在这里休息的几位游客听到了他们的谈话，表示自己知道救援队的电话，可以帮忙。</p>
-<p>这时，嘿的一声，老向导的声音突然在后面响起。</p>
-<p>两人回过头，发现老向导正抱着一堆野果向他们走来。</p>
-<p>三人开怀大笑。</p>
-<p>游客们也笑了。</p>
-<p>三人和游客们分享了野果，便一同下山去了。</p>
+    <title>宣传、吹牛、造假</title>
+    <url>/2024/05/01/Advertise/</url>
+    <content><![CDATA[<h1 id="Falcon-Heavy"><a href="#Falcon-Heavy" class="headerlink" title="Falcon Heavy"></a>Falcon Heavy</h1><p>今天在网上神游的时候看到<a href="https://www.youtube.com/watch?v=A0FZIwabctw">Space X在2018年2月发射Falcon Heavy的视频</a>。</p>
+<p>震撼，流泪。</p>
+<p>首先我是一个人，其次我才是一个科学家。</p>
+<p>这是一场酣畅淋漓的宣传，把一辆特斯拉送进太空，两个火箭同时落地。</p>
+<p>这辆特斯拉将永远地漂泊在太空中。它的轨道经过精心设计，最远点和火星擦肩而过。在<a href="https://where-is-tesla-roadster.space/live#ss-anchor">这个网站</a>可以看到它目前的状态。<a href="https://www.whereisroadster.com/">这</a>是另一个追踪它的网站。</p>
+<p>Falcon Heavy分为一个主火箭和两个辅火箭。2018年2月，两个辅火箭回收成功，但是主火箭回收失败。</p>
+<h1 id="THINK"><a href="#THINK" class="headerlink" title="THINK"></a>THINK</h1><p>如果说我真的学到了什么，那就是——科学家应该学会宣传。</p>
+<p>把一辆特斯拉顶配送进太空，这是多么浪漫。</p>
+<p>让两个火箭同时落地，这是多么震撼。</p>
+<p>会宣传、吹牛、造假，这是三个概念。</p>
+<p>两个火箭同时落地、Neurolink的猴子打游戏、Neurolink的患者打游戏，这是会宣传。</p>
+<p><a href="https://www.hindustantimes.com/business/elon-musk-mars-plan-elon-musks-mars-game-plan-sending-one-million-people-from-2029-101708396746908.html#:~:text=Elon%20Musk%20Mars%20Plan%3A%20Elon%20Musk%20said%20that%20he%20wants,trip%20to%20Mars%20this%20year.">Musk称2050年前要把一百万人送上火星</a>、<a href="https://mp.weixin.qq.com/s/Qrbz1VyTTPB-3Qe4u3BNxw">称要用脑机接口实现读心术和传心术</a>，这是吹牛。</p>
+<p>三个诺贝尔奖得主帮听花酒打广告说能用他们的工作帮这就减害增益、Holmes用西门子测试仪偷偷代替自己的一滴血测试仪，这是造假。</p>
+<p>业界那句著名的“Fake it until your make it.”指的是会宣传和吹牛，而不是造假。</p>
+<h1 id="前事不忘，后事之师"><a href="#前事不忘，后事之师" class="headerlink" title="前事不忘，后事之师"></a>前事不忘，后事之师</h1><p>说到会宣传，不得不提起资本主义的三位鼻祖。</p>
+<p>John D. Rockefeller: 当年，美国石油产业不够标准化，煤油灯经常出现事故。Rockefeller建立了一套标准化流程，随后把自己的公司更名为Standard Oil。他不仅要做美国的Standard，还要做世界的Standard。</p>
+<p>Andrew Carnegie: 昔日，Carnegie建了一座史无前例的钢铁桥，然而民众惧怕，不敢上去。Carnegie找来一头大象，让大象走过了这座桥，证明其稳定性。</p>
+<p>J.P. Morgan &amp; Thomas Edison: 曾经，为了证明交流电比直流电危险，Edison授意手下当众演示电死马的实验（当然是用交流电）；Edison的电影公司还拍摄了一个电死大象的纪录片，虽然这时Morgan和Edison的通用电气已经垄断了美国的直流电和交流电；最搞的是，Edison有次坐椅子的时候突发奇想，于是跑去和政治家商量，以后用电椅来执行死刑（当然，用的也是交流电）。</p>
+<p>他们做的这些事，前两个肯定没问题，Edison干的事有点不仗义，但还是比听花酒和Holmes强多了吧。</p>
+<h1 id="不是不想，而是不会"><a href="#不是不想，而是不会" class="headerlink" title="不是不想，而是不会"></a>不是不想，而是不会</h1><p>根据我个人的经历，现在的科学家们早就利欲熏心。他们不是不想宣传、不想吹牛，只是（在公众面前）不会而已。他们更擅长在申基金时候吹牛，但那能搞来几个钱。</p>
+<p>那三个诺奖得主帮听花打广告，那又能搞来几个钱呢？</p>
+<p>如果我学会在公众面前宣传，我就不需要挖空心思申基金，也不需要为了钱给酒厂打广告。这样对我好，对公众也好。我拿到了钱和知名度，公众拿到了知识。</p>
 ]]></content>
       <categories>
         <category>2024</category>
-        <category>2024-01</category>
+        <category>2024-05</category>
       </categories>
       <tags>
-        <tag>story</tag>
+        <tag>fun</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -779,6 +753,19 @@
         <tag>fun</tag>
         <tag>physics</tag>
         <tag>neuroscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>闲来无事</title>
+    <url>/2023/08/19/Be_Free_and_at_Leisure/</url>
+    <content><![CDATA[<p>闲来无事翻了翻九年级上下的历史书，写得真不错，作者的水平比知乎b站的平均水平不知道要高多少倍！</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-08</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -820,102 +807,6 @@
       <tags>
         <tag>capitalism</tag>
         <tag>anti illegal pornography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>闲来无事</title>
-    <url>/2023/08/19/Be_Free_and_at_Leisure/</url>
-    <content><![CDATA[<p>闲来无事翻了翻九年级上下的历史书，写得真不错，作者的水平比知乎b站的平均水平不知道要高多少倍！</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-08</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>上大学前 vs 上大学后</title>
-    <url>/2022/11/17/Before_and_After_Undergraduate/</url>
-    <content><![CDATA[<h1 id="上大学前-vs-上大学后"><a href="#上大学前-vs-上大学后" class="headerlink" title="上大学前 vs 上大学后"></a>上大学前 vs 上大学后</h1><p>上大学前我只知道ADC指的是它们</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/ADC_1.png" class="">
-
-<p>上大学后我才知道ADC还可以指它们</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/ADC_2.png" class="">
-
-<div STYLE="page-break-after: always;"></div>
-
-<p>上大学前我只知道飞飞指的是它</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/%E9%A3%9E%E9%A3%9E_1.png" class="">
-
-<p>上大学后我才知道飞飞还可以指她</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/%E9%A3%9E%E9%A3%9E_2.png" class="">
-
-<div STYLE="page-break-after: always;"></div>
-
-<p>上大学前我只知道cross-over指的是他</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/cross_over_1.png" class="">
-
-<p>上大学后我才知道cross-over还可以指它</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/cross_over_2.png" class="">
-
-<div STYLE="page-break-after: always;"></div>
-
-<p>上大学前我只知道Boost指的是它</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/boost_1.png" class="">
-
-<p>上大学后我才知道Boost还可以指它</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/boost_2.png" class="">
-
-<div STYLE="page-break-after: always;"></div>
-
-<p>上大学前我只知道魔笛指的是他</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/pied_piper_1.png" class="">
-
-<p>上大学后我才知道魔笛还可以指他</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/pied_piper_2.png" class="">
-
-<div STYLE="page-break-after: always;"></div>
-
-<p>上大学前我以为科学家全都是这样的</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/Guo_1.png" class="">
-
-<p>或者这样的</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/Newton_1.png" class="">
-
-
-
-<p>上大学后我发现科学家有部分是这样的</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/sb_1.png" class="">
-
-<p>有部分是这样的</p>
-<img src="/2022/11/17/Before_and_After_Undergraduate/sb_2.png" class="">
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-11</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>能飞过珠峰的鸟</title>
-    <url>/2023/11/12/Birds_Which_Can_Fly_Over_the_Everest/</url>
-    <content><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Bar-headed_goose">斑头雁 (Bar-headed Goose)</a></p>
-<p><a href="https://en.wikipedia.org/wiki/Common_crane">灰鹤 (Common Crane)</a></p>
-<p><a href="https://zh.wikipedia.org/zh-cn/%E9%BB%91%E7%99%BD%E5%85%80%E9%B7%B2">黑白兀鹫 (Rüppell’s Vulture)</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-11</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -1059,6 +950,99 @@
       </tags>
   </entry>
   <entry>
+    <title>探险</title>
+    <url>/2024/01/13/Adventure/</url>
+    <content><![CDATA[<p>中国安徽的某处，崇山峻岭，茂林修竹，往来的游客很多。</p>
+<p>当地人有不少当上了向导，为徒步而来的游客带路。向导大多已经是老年人了，但腿脚依然灵巧。</p>
+<p>有一天，三个老向导聚在一起，打算进行一场比赛。</p>
+<p>“就比谁更先到达终点吧！”三人异口同声地说。</p>
+<p>起点是山脚的同一个农家乐，终点是山中一个有名的景点——那是这片山峦的最高峰。</p>
+<p>想去高峰，有两条路可走，第一条是环线，第二条是直线。环线路线长，但坡度不陡；直线路线短，但难度很高。游客们走的大多是环线。他们把从东向西过环线叫正穿，从西向东叫反穿。</p>
+<p>两个稍微年轻的向导分别选择了正穿和反穿，经验最丰富的向导选择了直线。</p>
+<p>第二天早上八点，三个人同时出发。两位稍年轻的向导在路上遇到不少游客。游客们都穿着专业的徒步鞋，以防崴脚，但向导们只穿着布鞋——他们从小就生活在山野之中，早就习惯了。</p>
+<p>下午四点，两个向导几乎同时到达高峰。他们等了很久，也不见老向导来，愈来愈担心。在这里休息的几位游客听到了他们的谈话，表示自己知道救援队的电话，可以帮忙。</p>
+<p>这时，嘿的一声，老向导的声音突然在后面响起。</p>
+<p>两人回过头，发现老向导正抱着一堆野果向他们走来。</p>
+<p>三人开怀大笑。</p>
+<p>游客们也笑了。</p>
+<p>三人和游客们分享了野果，便一同下山去了。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
+      <tags>
+        <tag>story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上大学前 vs 上大学后</title>
+    <url>/2022/11/17/Before_and_After_Undergraduate/</url>
+    <content><![CDATA[<h1 id="上大学前-vs-上大学后"><a href="#上大学前-vs-上大学后" class="headerlink" title="上大学前 vs 上大学后"></a>上大学前 vs 上大学后</h1><p>上大学前我只知道ADC指的是它们</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/ADC_1.png" class="">
+
+<p>上大学后我才知道ADC还可以指它们</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/ADC_2.png" class="">
+
+<div STYLE="page-break-after: always;"></div>
+
+<p>上大学前我只知道飞飞指的是它</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/%E9%A3%9E%E9%A3%9E_1.png" class="">
+
+<p>上大学后我才知道飞飞还可以指她</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/%E9%A3%9E%E9%A3%9E_2.png" class="">
+
+<div STYLE="page-break-after: always;"></div>
+
+<p>上大学前我只知道cross-over指的是他</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/cross_over_1.png" class="">
+
+<p>上大学后我才知道cross-over还可以指它</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/cross_over_2.png" class="">
+
+<div STYLE="page-break-after: always;"></div>
+
+<p>上大学前我只知道Boost指的是它</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/boost_1.png" class="">
+
+<p>上大学后我才知道Boost还可以指它</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/boost_2.png" class="">
+
+<div STYLE="page-break-after: always;"></div>
+
+<p>上大学前我只知道魔笛指的是他</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/pied_piper_1.png" class="">
+
+<p>上大学后我才知道魔笛还可以指他</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/pied_piper_2.png" class="">
+
+<div STYLE="page-break-after: always;"></div>
+
+<p>上大学前我以为科学家全都是这样的</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/Guo_1.png" class="">
+
+<p>或者这样的</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/Newton_1.png" class="">
+
+
+
+<p>上大学后我发现科学家有部分是这样的</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/sb_1.png" class="">
+
+<p>有部分是这样的</p>
+<img src="/2022/11/17/Before_and_After_Undergraduate/sb_2.png" class="">
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-11</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>“追逐梦想”错过了什么？</title>
     <url>/2024/05/30/Beyond_Following_Your_Dreams/</url>
     <content><![CDATA[<p>今天看了<a href="https://www.bilibili.com/video/BV1nZ421W7HS/?buvid=XY3B65131BB9B9B75B21AFC6CE86626D86487&from_spmid=dt.dt.video.0&is_story_h5=false&mid=PPf1gcrYf/3CbUjJsgZVlQ==&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=aae55815-5f0c-4bc7-b5c3-fd4ce65f28d1&share_source=QQ&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1716913920&unique_k=QFv5Is9&up_id=88461692&vd_source=7f7311e573a7f2a9bab48f7645a4e660">3B1B在美国某大学毕业典礼上的演讲</a>。老实说，2024-05-18，他刚发的时候，我就看了，但是那时候没有英文字幕，很多他的隐喻我都没看懂。</p>
@@ -1080,6 +1064,56 @@
       </categories>
       <tags>
         <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不识庐山真面目</title>
+    <url>/2023/12/10/Bu_Shi_Lu_Shan/</url>
+    <content><![CDATA[<h1 id="摒缺学优"><a href="#摒缺学优" class="headerlink" title="摒缺学优"></a>摒缺学优</h1><p>昨天来武汉参加和北大生院、华科生院的两位教授一起开的联合组会。会后，我去找润农。上次见面还是暑假，我们一瘸一拐地经过松江小学。</p>
+<p>和农哥聊了聊之后所思良多。我在科大呆着，很容易”不识庐山真面目，只缘身在此山中“，即：在一个环境里呆久了，就看不出这个环境的问题，当跳出之后，才豁然开朗。</p>
+<p>科大的缺点有哪些？</p>
+<ul>
+<li>大物实验中的数据造假</li>
+<li>卖弱、互膜</li>
+<li>价值观单一</li>
+<li>忽视了培养兴趣</li>
+</ul>
+<p>科大的优点有哪些？</p>
+<ul>
+<li>尚未听闻有学术造假</li>
+<li>本科生可以转专业</li>
+<li>研究生可以转导师</li>
+<li>球场、健身房、游泳馆免费</li>
+</ul>
+<p>无论是对一个人，还是对一所学校、一个城市、一个国家，摒弃他&#x2F;她&#x2F;它的缺点，学习他&#x2F;她&#x2F;它的优点！</p>
+<h1 id="价值观单一"><a href="#价值观单一" class="headerlink" title="价值观单一"></a>价值观单一</h1><p>这一点我要详细解释一下。</p>
+<p>我可以很明确地告诉你，就算是科学家，也不只是好好学习就可以了。</p>
+<p>我以前说过，兴趣、学术诚信，是成为科学家的两个必要条件。</p>
+<p>从小、初、高、大一路走来，我发现：第一，好好学习的人，有可能对他学的东西并没有兴趣。我在科大认识的很多本科生亦是如此；第二，好好学习的人，有可能并没有学术诚信，</p>
+<p>除此之外，还有一些小点。在科大的本科四年，我失去了多样性的热爱，失去了倜傥的风格。如果是2017年的我，在今年2月一定会直接坐飞机去深圳的，冲他娘的。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>能飞过珠峰的鸟</title>
+    <url>/2023/11/12/Birds_Which_Can_Fly_Over_the_Everest/</url>
+    <content><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Bar-headed_goose">斑头雁 (Bar-headed Goose)</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Common_crane">灰鹤 (Common Crane)</a></p>
+<p><a href="https://zh.wikipedia.org/zh-cn/%E9%BB%91%E7%99%BD%E5%85%80%E9%B7%B2">黑白兀鹫 (Rüppell’s Vulture)</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -1122,40 +1156,6 @@
       </categories>
       <tags>
         <tag>What Mad Pursuit</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>不识庐山真面目</title>
-    <url>/2023/12/10/Bu_Shi_Lu_Shan/</url>
-    <content><![CDATA[<h1 id="摒缺学优"><a href="#摒缺学优" class="headerlink" title="摒缺学优"></a>摒缺学优</h1><p>昨天来武汉参加和北大生院、华科生院的两位教授一起开的联合组会。会后，我去找润农。上次见面还是暑假，我们一瘸一拐地经过松江小学。</p>
-<p>和农哥聊了聊之后所思良多。我在科大呆着，很容易”不识庐山真面目，只缘身在此山中“，即：在一个环境里呆久了，就看不出这个环境的问题，当跳出之后，才豁然开朗。</p>
-<p>科大的缺点有哪些？</p>
-<ul>
-<li>大物实验中的数据造假</li>
-<li>卖弱、互膜</li>
-<li>价值观单一</li>
-<li>忽视了培养兴趣</li>
-</ul>
-<p>科大的优点有哪些？</p>
-<ul>
-<li>尚未听闻有学术造假</li>
-<li>本科生可以转专业</li>
-<li>研究生可以转导师</li>
-<li>球场、健身房、游泳馆免费</li>
-</ul>
-<p>无论是对一个人，还是对一所学校、一个城市、一个国家，摒弃他&#x2F;她&#x2F;它的缺点，学习他&#x2F;她&#x2F;它的优点！</p>
-<h1 id="价值观单一"><a href="#价值观单一" class="headerlink" title="价值观单一"></a>价值观单一</h1><p>这一点我要详细解释一下。</p>
-<p>我可以很明确地告诉你，就算是科学家，也不只是好好学习就可以了。</p>
-<p>我以前说过，兴趣、学术诚信，是成为科学家的两个必要条件。</p>
-<p>从小、初、高、大一路走来，我发现：第一，好好学习的人，有可能对他学的东西并没有兴趣。我在科大认识的很多本科生亦是如此；第二，好好学习的人，有可能并没有学术诚信，</p>
-<p>除此之外，还有一些小点。在科大的本科四年，我失去了多样性的热爱，失去了倜傥的风格。如果是2017年的我，在今年2月一定会直接坐飞机去深圳的，冲他娘的。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -1750,41 +1750,32 @@
       </tags>
   </entry>
   <entry>
-    <title>CH11 The Discovery of mRNA</title>
-    <url>/2022/07/18/CH11_The_Discovery_of_mRNA/</url>
+    <title>CH10 Crick Dogma</title>
+    <url>/2022/07/18/CH10_Crick_Dogma/</url>
     <content><![CDATA[<p>主要人物</p>
 <ul>
-<li><p>Francis Crick：1916年出生，英国物理学家、生物学家。</p>
-</li>
-<li><p>Sydney Brenner：1927年出生，南非生物学家。</p>
-</li>
-<li><p>PaJaMo：三位生物学家。</p>
-</li>
-</ul>
-<p>次要人物</p>
-<ul>
-<li>James Watson: 1928年出生，美国生物学家，卡文迪许实验室的学者。</li>
+<li>Francis Crick: 1916年出生，英国物理学家、生物学家。</li>
 </ul>
 <hr>
-<p>沃森喊出过一句著名的口号: DNA makes RNA makes protein. 这也正是CH8、CH9、CH10在说的东西。用高中生的话说，叫复制、转录、翻译。</p>
-<p>然而，这个理论中间有缺失的一环——当时还没有人发现过mRNA。</p>
-<p>沃森、克里克、布伦纳把这种暂未发现的RNA成为messenger RNA。</p>
-<p>这一章的标题本来叫“缺席的信使”。</p>
-<p>20世纪50年代后期，人们已经发现了核糖体，并且知道核糖体由RNA和蛋白质组成。</p>
-<p>克里克和布伦纳很自然地想到，核糖体就是mRNA。如果是这样的话，那么1种蛋白质就应该对应1种核糖体。然而，实验上却有两个费解的点：</p>
+<p>1957年，克里克在一篇文章中提出了著名的the central dogma（中心法则）。这现在是每个高中生必修的内容。</p>
+<p><strong>我更喜欢把它称之为Crick dogma。其实完全可以这样叫，我猜只是克里克比较谦虚，才没有用自己的名字命名。</strong></p>
+<p><strong>在我眼里，Darwin Law + Mendal Law + Crick Dogma是生物学的唯一一个公理。或者说，经过Mendal Law 和 Crick Dogma补充的自然选择学说是生物学的唯一一个公理。</strong></p>
+<p>克里克写道：</p>
+<blockquote>
+<p>once ‘information’ has passed into protein it cannot get out again.</p>
+</blockquote>
+<p>即：一旦信息流到了蛋白质，它再也不能流动了。</p>
+<p>把DNA、RNA、protein画成正三角形（正三角形中，每个顶点的地位是相等的），中心法则如下：</p>
+<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20221007105149438.png" alt="image-20221007105149438"></p>
 <ul>
-<li>按此假设，核糖体的质量应该不同，然而实验上却发现核糖体只有两种质量。</li>
-<li>按此假设，核糖体的碱基组成差别应该很大，然而实验上发现核糖体的碱基组成差别不大。</li>
+<li><p>三条实线代表三种常见的路径</p>
+</li>
+<li><p>三条虚线代表三种罕见的路径（1988年，学者们已经知道这三种路径都会存在：HIV这样的逆转录病毒可以由RNA合成DNA，部分RNA病毒可以由RNA合成RNA，在体外可以由DNA合成protein）</p>
+</li>
+<li><p>另外三条线暂时不存在</p>
+</li>
 </ul>
-<p>克里克和布伦纳感到十分困惑，说不出所以然来。</p>
-<p>这时，法国巴斯德研究所的三位学者，Pardee, Jacob, Monod做了一个名为PaJaMo的实验。实验的物理图像是：把一个基因，比如$\beta-galactosidase  $，引入一个细胞。</p>
-<p>若假设核糖体就是mRNA，那么新基因会产生自己的核糖体，核糖体会慢慢累积，然后蛋白质的合成速度才能越来越快并达到饱和。</p>
-<p>然而，PaJaMo实验发现，新基因刚刚加入不久，蛋白质就开始合成，并且合成速度一下子就特别快，几乎没有加速过程，且保持恒定。也就是说，没有核糖体慢慢累积的过程。除非核糖体产生得特别快，否则该假设不可能是对的。</p>
-<p>一开始，克里克和布伦纳并不相信这个实验的结果。</p>
-<p>1960年的耶稣受难日，Jacob来到剑桥访问，几个人在教学楼里会面。克里克上来就问实验的各种详细信息，Jacob一一解释。慢慢地，克里克意识到，他们的实验是正确的，自己必须接受事实，核糖体不可能是mRNA。</p>
-<p>布伦纳大喊了一声，猜到了答案：有另一种新的RNA，而核糖体只是一种惰性的阅读探头，不需要含有任何遗传信息，一个核糖体只需要沿着这种新RNA走就可以了。PaJaMo实验也因此得到了解释，新基因产生了mRNA，mRNA可以直接用原来的核糖体，因此蛋白质合成速度才能一下子特别快，没有加速过程。</p>
-<p>这是分子生物学历史上一件惊天动地的大事，克里克说，他至今仍然记得布伦纳、雅各布、自己在那间屋子里坐的位置。在那个耶稣受难日的早晨，仿佛命中注定一般，mRNA被发现了。</p>
-<p>随后，布伦纳访问了Caltech，和雅各布等人一起完成了后续工作。</p>
+<p>在1988年之后（本书成书于1988年），唯一的例外是Prion（中文翻译为阮病毒或者阮毒体），它似乎可以由protein合成protein。</p>
 ]]></content>
       <categories>
         <category>2022</category>
@@ -1847,31 +1838,48 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
-    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
-    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
-<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
-<blockquote>
-<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
-</blockquote>
-<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
-<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
-
+    <title>CH11 The Discovery of mRNA</title>
+    <url>/2022/07/18/CH11_The_Discovery_of_mRNA/</url>
+    <content><![CDATA[<p>主要人物</p>
+<ul>
+<li><p>Francis Crick：1916年出生，英国物理学家、生物学家。</p>
+</li>
+<li><p>Sydney Brenner：1927年出生，南非生物学家。</p>
+</li>
+<li><p>PaJaMo：三位生物学家。</p>
+</li>
+</ul>
+<p>次要人物</p>
+<ul>
+<li>James Watson: 1928年出生，美国生物学家，卡文迪许实验室的学者。</li>
+</ul>
 <hr>
-<p>在这里，我有一个疑问。</p>
-<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
-<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
-<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
+<p>沃森喊出过一句著名的口号: DNA makes RNA makes protein. 这也正是CH8、CH9、CH10在说的东西。用高中生的话说，叫复制、转录、翻译。</p>
+<p>然而，这个理论中间有缺失的一环——当时还没有人发现过mRNA。</p>
+<p>沃森、克里克、布伦纳把这种暂未发现的RNA成为messenger RNA。</p>
+<p>这一章的标题本来叫“缺席的信使”。</p>
+<p>20世纪50年代后期，人们已经发现了核糖体，并且知道核糖体由RNA和蛋白质组成。</p>
+<p>克里克和布伦纳很自然地想到，核糖体就是mRNA。如果是这样的话，那么1种蛋白质就应该对应1种核糖体。然而，实验上却有两个费解的点：</p>
+<ul>
+<li>按此假设，核糖体的质量应该不同，然而实验上却发现核糖体只有两种质量。</li>
+<li>按此假设，核糖体的碱基组成差别应该很大，然而实验上发现核糖体的碱基组成差别不大。</li>
+</ul>
+<p>克里克和布伦纳感到十分困惑，说不出所以然来。</p>
+<p>这时，法国巴斯德研究所的三位学者，Pardee, Jacob, Monod做了一个名为PaJaMo的实验。实验的物理图像是：把一个基因，比如$\beta-galactosidase  $，引入一个细胞。</p>
+<p>若假设核糖体就是mRNA，那么新基因会产生自己的核糖体，核糖体会慢慢累积，然后蛋白质的合成速度才能越来越快并达到饱和。</p>
+<p>然而，PaJaMo实验发现，新基因刚刚加入不久，蛋白质就开始合成，并且合成速度一下子就特别快，几乎没有加速过程，且保持恒定。也就是说，没有核糖体慢慢累积的过程。除非核糖体产生得特别快，否则该假设不可能是对的。</p>
+<p>一开始，克里克和布伦纳并不相信这个实验的结果。</p>
+<p>1960年的耶稣受难日，Jacob来到剑桥访问，几个人在教学楼里会面。克里克上来就问实验的各种详细信息，Jacob一一解释。慢慢地，克里克意识到，他们的实验是正确的，自己必须接受事实，核糖体不可能是mRNA。</p>
+<p>布伦纳大喊了一声，猜到了答案：有另一种新的RNA，而核糖体只是一种惰性的阅读探头，不需要含有任何遗传信息，一个核糖体只需要沿着这种新RNA走就可以了。PaJaMo实验也因此得到了解释，新基因产生了mRNA，mRNA可以直接用原来的核糖体，因此蛋白质合成速度才能一下子特别快，没有加速过程。</p>
+<p>这是分子生物学历史上一件惊天动地的大事，克里克说，他至今仍然记得布伦纳、雅各布、自己在那间屋子里坐的位置。在那个耶稣受难日的早晨，仿佛命中注定一般，mRNA被发现了。</p>
+<p>随后，布伦纳访问了Caltech，和雅各布等人一起完成了后续工作。</p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-07</category>
+        <category>2022</category>
+        <category>2022-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>history</tag>
-        <tag>biography</tag>
+        <tag>What Mad Pursuit</tag>
       </tags>
   </entry>
   <entry>
@@ -1895,32 +1903,6 @@
       </categories>
       <tags>
         <tag>What Mad Pursuit</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -2009,39 +1991,57 @@
       </tags>
   </entry>
   <entry>
-    <title>CH10 Crick Dogma</title>
-    <url>/2022/07/18/CH10_Crick_Dogma/</url>
-    <content><![CDATA[<p>主要人物</p>
-<ul>
-<li>Francis Crick: 1916年出生，英国物理学家、生物学家。</li>
-</ul>
-<hr>
-<p>1957年，克里克在一篇文章中提出了著名的the central dogma（中心法则）。这现在是每个高中生必修的内容。</p>
-<p><strong>我更喜欢把它称之为Crick dogma。其实完全可以这样叫，我猜只是克里克比较谦虚，才没有用自己的名字命名。</strong></p>
-<p><strong>在我眼里，Darwin Law + Mendal Law + Crick Dogma是生物学的唯一一个公理。或者说，经过Mendal Law 和 Crick Dogma补充的自然选择学说是生物学的唯一一个公理。</strong></p>
-<p>克里克写道：</p>
+    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
+    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
+    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
+<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
 <blockquote>
-<p>once ‘information’ has passed into protein it cannot get out again.</p>
+<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
 </blockquote>
-<p>即：一旦信息流到了蛋白质，它再也不能流动了。</p>
-<p>把DNA、RNA、protein画成正三角形（正三角形中，每个顶点的地位是相等的），中心法则如下：</p>
-<p><img src="C:\Users\11097\AppData\Roaming\Typora\typora-user-images\image-20221007105149438.png" alt="image-20221007105149438"></p>
-<ul>
-<li><p>三条实线代表三种常见的路径</p>
-</li>
-<li><p>三条虚线代表三种罕见的路径（1988年，学者们已经知道这三种路径都会存在：HIV这样的逆转录病毒可以由RNA合成DNA，部分RNA病毒可以由RNA合成RNA，在体外可以由DNA合成protein）</p>
-</li>
-<li><p>另外三条线暂时不存在</p>
-</li>
-</ul>
-<p>在1988年之后（本书成书于1988年），唯一的例外是Prion（中文翻译为阮病毒或者阮毒体），它似乎可以由protein合成protein。</p>
+<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
+<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
+
+<hr>
+<p>在这里，我有一个疑问。</p>
+<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
+<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
+<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
 ]]></content>
       <categories>
-        <category>2022</category>
-        <category>2022-07</category>
+        <category>2023</category>
+        <category>2023-07</category>
       </categories>
       <tags>
-        <tag>What Mad Pursuit</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>history</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -2058,80 +2058,6 @@
       </categories>
       <tags>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《晨曦集》中所写的杨振宁生平</title>
-    <url>/2023/07/21/CN_Yang/</url>
-    <content><![CDATA[<blockquote>
-<p>此文虽然被收录在《晨曦集》中，但不是杨振宁本人所写，但经我判断，准确度极高。</p>
-</blockquote>
-<ul>
-<li><p>生平</p>
-<ul>
-<li>1922年出生。（严济慈是1900年）</li>
-<li>上大学前：父亲杨克纯是Chicago University的数学博士<strong>（相比之下，严济慈家境贫寒</strong>）。他让严济慈高中就学群论。</li>
-<li>1938-1945，昆明<ul>
-<li>1938-1942，西南联大本科<ul>
-<li>语文：朱自清、而往往难以多</li>
-<li>物理：赵忠尧、吴有训、周培源、吴大猷</li>
-</ul>
-</li>
-<li>1942-1944，清华大学研究生院<ul>
-<li>导师：王竹溪</li>
-</ul>
-</li>
-<li>1944，考取美国公费留学生</li>
-<li>1944-1945，在西南联大附属中学教了一年高中数学。（严济慈也教过中学）</li>
-</ul>
-</li>
-<li>1945-1949，芝加哥<ul>
-<li>有三个人带过杨振宁：费米、Allison、Taylor，他仨做的都是粒子物理or高能物理上。</li>
-<li>统计物理上，他做了一些Ising model相关的工作。</li>
-</ul>
-</li>
-<li>1949-1966，普林斯顿<ul>
-<li>1949SP，杨振宁申请去普林斯顿做post-doc<ul>
-<li>奥本海默、泡利、朝永振一郎在那里</li>
-<li>费米认为普林斯顿的物理太抽象，劝杨振宁在这里只呆一年（费米是实验物理学家）（奥本海默和费米为曼哈顿计划都立下汗马功劳）</li>
-<li>杨本想听费米的话，但是杜致礼当时在纽约读书(College of Mount Saint Vincent)，因此杨选择留在了普林斯顿。<ul>
-<li>两人于1950年结婚。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>1953-1954，Brookhaven National Laboratory</li>
-</ul>
-</li>
-<li>1966，Stony Brook<ul>
-<li>杜致礼也来到Stony Brook教中文。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>爱情</p>
-<ul>
-<li>杜致礼和杨振宁交往是在美国，不是师生恋。</li>
-<li>当时杜聿明已经打输了淮海战役，杨和杜致礼在一起没捞到什么好处。</li>
-</ul>
-</li>
-<li><p>朋友</p>
-<ul>
-<li>杨振宁和熊庆来之子是好友。<strong>（熊庆来和何鲁、胡刚复资助过严济慈）</strong></li>
-</ul>
-</li>
-<li><p>《晨曦集》的目录中，数字表示写作或发表的年代，数字后的字母没有特别的意思</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>history</tag>
-        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -2222,6 +2148,80 @@
       </tags>
   </entry>
   <entry>
+    <title>《晨曦集》中所写的杨振宁生平</title>
+    <url>/2023/07/21/CN_Yang/</url>
+    <content><![CDATA[<blockquote>
+<p>此文虽然被收录在《晨曦集》中，但不是杨振宁本人所写，但经我判断，准确度极高。</p>
+</blockquote>
+<ul>
+<li><p>生平</p>
+<ul>
+<li>1922年出生。（严济慈是1900年）</li>
+<li>上大学前：父亲杨克纯是Chicago University的数学博士<strong>（相比之下，严济慈家境贫寒</strong>）。他让严济慈高中就学群论。</li>
+<li>1938-1945，昆明<ul>
+<li>1938-1942，西南联大本科<ul>
+<li>语文：朱自清、而往往难以多</li>
+<li>物理：赵忠尧、吴有训、周培源、吴大猷</li>
+</ul>
+</li>
+<li>1942-1944，清华大学研究生院<ul>
+<li>导师：王竹溪</li>
+</ul>
+</li>
+<li>1944，考取美国公费留学生</li>
+<li>1944-1945，在西南联大附属中学教了一年高中数学。（严济慈也教过中学）</li>
+</ul>
+</li>
+<li>1945-1949，芝加哥<ul>
+<li>有三个人带过杨振宁：费米、Allison、Taylor，他仨做的都是粒子物理or高能物理上。</li>
+<li>统计物理上，他做了一些Ising model相关的工作。</li>
+</ul>
+</li>
+<li>1949-1966，普林斯顿<ul>
+<li>1949SP，杨振宁申请去普林斯顿做post-doc<ul>
+<li>奥本海默、泡利、朝永振一郎在那里</li>
+<li>费米认为普林斯顿的物理太抽象，劝杨振宁在这里只呆一年（费米是实验物理学家）（奥本海默和费米为曼哈顿计划都立下汗马功劳）</li>
+<li>杨本想听费米的话，但是杜致礼当时在纽约读书(College of Mount Saint Vincent)，因此杨选择留在了普林斯顿。<ul>
+<li>两人于1950年结婚。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>1953-1954，Brookhaven National Laboratory</li>
+</ul>
+</li>
+<li>1966，Stony Brook<ul>
+<li>杜致礼也来到Stony Brook教中文。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>爱情</p>
+<ul>
+<li>杜致礼和杨振宁交往是在美国，不是师生恋。</li>
+<li>当时杜聿明已经打输了淮海战役，杨和杜致礼在一起没捞到什么好处。</li>
+</ul>
+</li>
+<li><p>朋友</p>
+<ul>
+<li>杨振宁和熊庆来之子是好友。<strong>（熊庆来和何鲁、胡刚复资助过严济慈）</strong></li>
+</ul>
+</li>
+<li><p>《晨曦集》的目录中，数字表示写作或发表的年代，数字后的字母没有特别的意思</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>history</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>力量训练到底能否降低受伤频率？</title>
     <url>/2023/09/01/Can_Strength_Training_Really_Reduce_Injury_Frequency/</url>
     <content><![CDATA[<p>多年来，我一直听说过一种说法：加强力量训练可以减少在跑步、足球、篮球中受伤的频率。</p>
@@ -2280,6 +2280,29 @@
       </tags>
   </entry>
   <entry>
+    <title>卡诺一家</title>
+    <url>/2021/04/01/Carnot/</url>
+    <content><![CDATA[<p>有一次上课，热统老师说，卡诺因霍乱英年早逝，他的科学成果在生前没有发表。他侄子说：我叔叔的东西不发表</p>
+<p>太可惜，于是就帮卡诺发表了。</p>
+<p>然后我就去查了一下，结果如下： </p>
+<p>卡诺他爸（1753-1823）：数学家、物理学家、军事家，法国科学院院士，军备高手、后勤高手，拿破仑的左膀右臂。拿破仑称霸欧洲，征兵制与卡诺他爸的军备的贡献重大。 </p>
+<p>卡诺本人（1796-1832）：不用我说。 </p>
+<p>卡诺弟弟（1801-1888）：没有其它“卡诺”那么厉害。 </p>
+<p>卡诺弟弟长子（1837-1894）：法国总统（法兰西第三共和国的第四任总统） </p>
+<p>卡诺弟弟次子（1839-1920）：化学家，法国科学院院士。 </p>
+<p>卡诺因霍乱而死，按照当时的防疫条例，卡诺的大量手稿被烧毁。卡诺的著作大概只影响了埃米尔·克拉佩龙（法国）、鲁道夫·克劳修斯（德国）和威廉·汤姆森（英国）这三个人。</p>
+<p>如果让我选，我会把热力学第一定理首功归给焦耳，把热二首功归给卡诺。</p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-04</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>中国 vs 南苏丹</title>
     <url>/2023/08/28/China-vs-South_Sudan/</url>
     <content><![CDATA[<h1 id="惨败"><a href="#惨败" class="headerlink" title="惨败"></a>惨败</h1><p>中国队惨败20分之后，我很不爽。</p>
@@ -2331,29 +2354,6 @@
       </categories>
       <tags>
         <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>卡诺一家</title>
-    <url>/2021/04/01/Carnot/</url>
-    <content><![CDATA[<p>有一次上课，热统老师说，卡诺因霍乱英年早逝，他的科学成果在生前没有发表。他侄子说：我叔叔的东西不发表</p>
-<p>太可惜，于是就帮卡诺发表了。</p>
-<p>然后我就去查了一下，结果如下： </p>
-<p>卡诺他爸（1753-1823）：数学家、物理学家、军事家，法国科学院院士，军备高手、后勤高手，拿破仑的左膀右臂。拿破仑称霸欧洲，征兵制与卡诺他爸的军备的贡献重大。 </p>
-<p>卡诺本人（1796-1832）：不用我说。 </p>
-<p>卡诺弟弟（1801-1888）：没有其它“卡诺”那么厉害。 </p>
-<p>卡诺弟弟长子（1837-1894）：法国总统（法兰西第三共和国的第四任总统） </p>
-<p>卡诺弟弟次子（1839-1920）：化学家，法国科学院院士。 </p>
-<p>卡诺因霍乱而死，按照当时的防疫条例，卡诺的大量手稿被烧毁。卡诺的著作大概只影响了埃米尔·克拉佩龙（法国）、鲁道夫·克劳修斯（德国）和威廉·汤姆森（英国）这三个人。</p>
-<p>如果让我选，我会把热力学第一定理首功归给焦耳，把热二首功归给卡诺。</p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-04</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2441,36 +2441,6 @@
       </tags>
   </entry>
   <entry>
-    <title>和深度学习的初见</title>
-    <url>/2022/02/21/DL_2022SP/</url>
-    <content><![CDATA[<p>回忆了一下，2022年春季学期的<a href="https://icourse.club/course/20039/">Python与深度学习基础</a>课程，是我和深度学习的初见。</p>
-<p>忆往昔峥嵘岁月稠！</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-02</category>
-      </categories>
-      <tags>
-        <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>批评科大的卖弱和互膜</title>
-    <url>/2018/11/29/Criticizing_the_Playing_Weak_and_Mutual_Flattery_of_USTC/</url>
-    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
-<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
-<p>连一个字都不能信。</p>
-]]></content>
-      <categories>
-        <category>2018</category>
-        <category>2018-11</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>莫雷支持港独</title>
     <url>/2019/10/11/Daryl_Morey_Supports_Hong_Kong_Independence/</url>
     <content><![CDATA[<h1 id="2019-10-11"><a href="#2019-10-11" class="headerlink" title="2019-10-11"></a>2019-10-11</h1><p>我说我喜欢詹姆斯和威少，那是因为我崇拜他们的场上打球风格和场下生活（饮食自律、锻炼自律、不约炮不嫖娼）。但是他们对我而言只是几个符号而已，我对他们并没有太深厚的感情。我认识詹姆斯威少，詹姆斯威少认识我吗？</p>
@@ -2489,8 +2459,24 @@
       </categories>
       <tags>
         <tag>basketball</tag>
-        <tag>madness</tag>
         <tag>nationalism</tag>
+        <tag>madness</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>批评科大的卖弱和互膜</title>
+    <url>/2018/11/29/Criticizing_the_Playing_Weak_and_Mutual_Flattery_of_USTC/</url>
+    <content><![CDATA[<p>微积分老师问我们大家中学定积分到底学到什么程度，大家都异口同声：没学过！</p>
+<p>宁可相信我牙明年金球碰杯，也不相信你们这些双商极高的人的嘴。</p>
+<p>连一个字都不能信。</p>
+]]></content>
+      <categories>
+        <category>2018</category>
+        <category>2018-11</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -2516,6 +2502,20 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>和深度学习的初见</title>
+    <url>/2022/02/21/DL_2022SP/</url>
+    <content><![CDATA[<p>回忆了一下，2022年春季学期的<a href="https://icourse.club/course/20039/">Python与深度学习基础</a>课程，是我和深度学习的初见。</p>
+<p>忆往昔峥嵘岁月稠！</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-02</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2585,20 +2585,6 @@
       </tags>
   </entry>
   <entry>
-    <title>讲课和听课</title>
-    <url>/2020/10/10/Delivering_Lecture_vs_Listening_Lecture/</url>
-    <content><![CDATA[<p>老师上课有点像<strong>表演</strong>，要假装自己也不会，然后把自己全都会的东西有逻辑地教给学生。</p>
-<p>听课也像<strong>艺术</strong>，现在时代变了，我不必再像小初高一样只会用纸笔记笔记。iPad手写、电脑思维导图、拍视频都是可以选择的方式，你也可以穿插着用防止疲劳、提供新鲜感。纸笔是最朴素的，也是你我最熟悉的，但是不一定是对你我最高效的。</p>
-]]></content>
-      <categories>
-        <category>2020</category>
-        <category>2020-10</category>
-      </categories>
-      <tags>
-        <tag>teaching</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>打油</title>
     <url>/2024/03/07/Do_It/</url>
     <content><![CDATA[<p>独行夜色中，</p>
@@ -2612,6 +2598,20 @@
       </categories>
       <tags>
         <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>讲课和听课</title>
+    <url>/2020/10/10/Delivering_Lecture_vs_Listening_Lecture/</url>
+    <content><![CDATA[<p>老师上课有点像<strong>表演</strong>，要假装自己也不会，然后把自己全都会的东西有逻辑地教给学生。</p>
+<p>听课也像<strong>艺术</strong>，现在时代变了，我不必再像小初高一样只会用纸笔记笔记。iPad手写、电脑思维导图、拍视频都是可以选择的方式，你也可以穿插着用防止疲劳、提供新鲜感。纸笔是最朴素的，也是你我最熟悉的，但是不一定是对你我最高效的。</p>
+]]></content>
+      <categories>
+        <category>2020</category>
+        <category>2020-10</category>
+      </categories>
+      <tags>
+        <tag>teaching</tag>
       </tags>
   </entry>
   <entry>
@@ -2794,38 +2794,6 @@
       </tags>
   </entry>
   <entry>
-    <title>随笔两则：剧本杀</title>
-    <url>/2022/07/20/Essays_on_Script_Killings/</url>
-    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
-<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
-<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
-<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
-<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
-<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
-<p>许多天之后我和B谈起这事。</p>
-<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
-<p>B：…</p>
-<p>B：不是还有轩哥鞭策我吗？</p>
-<p>我：我们又不会一直在一起。</p>
-<p>B：擦，怎么突然gay起来了。</p>
-<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
-<p>因为他不管你是谁，只管你说的对不对。</p>
-<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
-<p>我在想，有没有人愿意当“生物学的良心”。</p>
-<p>不管你是谁，只管你有没有学术造假。</p>
-<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
-<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
-<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-07</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -2899,6 +2867,38 @@
       </tags>
   </entry>
   <entry>
+    <title>随笔两则：剧本杀</title>
+    <url>/2022/07/20/Essays_on_Script_Killings/</url>
+    <content><![CDATA[<h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>2022年暑假的一天，我和B哥等人去玩了一场剧本杀。</p>
+<p>背景是某个架空的古代朝代，我个人感觉借鉴了魏晋南北朝的一些故事。</p>
+<p>B哥的角色年轻时是一个改革派，希望能削弱贵族势力，提升寒门势力。</p>
+<p>在我们打出的结局里，B哥成为了贵族，腰缠万贯、权势滔天、美人如花隔云端。</p>
+<p>有一次他和其它贵族吃饭喝酒，贵族的头头拿着一杯酒过来问他：假如你的昔日好友还活着，你还想和他一起改革吗？</p>
+<p>B哥哈哈大笑：我以前没当过贵族，不知道贵族的好，现在当了贵族，哪里还想着改革呢？</p>
+<p>许多天之后我和B谈起这事。</p>
+<p>我：我们现在都是这个小圈子里的岌岌无名的小人物。如果有一天你当了editor，当了review，权势滔天的时候，你是否还会记得今日的追求？</p>
+<p>B：…</p>
+<p>B：不是还有轩哥鞭策我吗？</p>
+<p>我：我们又不会一直在一起。</p>
+<p>B：擦，怎么突然gay起来了。</p>
+<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>我听说，Pauli有个外号，叫“物理学的良心”。</p>
+<p>因为他不管你是谁，只管你说的对不对。</p>
+<p>哪怕你是Einstein、Dirac，如果你说的是错的，Pauli也直接批评，不留情面。</p>
+<p>我在想，有没有人愿意当“生物学的良心”。</p>
+<p>不管你是谁，只管你有没有学术造假。</p>
+<p>哪怕你是院士，如果你的文章造假了，直接批评你造假。</p>
+<p>如果有一天我有了Pauli那样的学术成就和学术地位，我愿意当这个人，谁学术造假我就干谁。</p>
+<p>只是不知道，如果真有那么一天，我是否还会记得22岁时的理想。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-07</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>别梦依稀咒逝川_毛泽东</title>
     <url>/2023/07/22/Fading_River/</url>
     <content><![CDATA[<p>别梦依稀咒逝川，故园三十二年前。</p>
@@ -2929,6 +2929,20 @@
       <tags>
         <tag>scientific misconduct</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>繁花 vs 狂飙</title>
+    <url>/2024/01/11/Fan_Hua_vs_Kuang_Biao/</url>
+    <content><![CDATA[<p>最近去食堂时，电视上总在放繁花。</p>
+<p>不知为何，我想起了一部风格完全不同的电视剧——狂飙。</p>
+<p>估计是因为它俩拍的都是改革开放后，只不过，一个上海，一个广东。</p>
+<p>狂飙是唯一一个，也很有可能是最后一个，我和父亲母亲认真讨论的电视剧——要不要用高启强这样的人？高启强和J.D. Rockefeller、Andrew Carnegie有什么区别？</p>
+<p>我想说的，都在<a href="https://physics-lee.github.io/2023/10/22/Knock_Out/">这篇文章</a>里了。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
   </entry>
   <entry>
     <title>疲惫悖论</title>
@@ -2988,45 +3002,6 @@
       </tags>
   </entry>
   <entry>
-    <title>繁花 vs 狂飙</title>
-    <url>/2024/01/11/Fan_Hua_vs_Kuang_Biao/</url>
-    <content><![CDATA[<p>最近去食堂时，电视上总在放繁花。</p>
-<p>不知为何，我想起了一部风格完全不同的电视剧——狂飙。</p>
-<p>估计是因为它俩拍的都是改革开放后，只不过，一个上海，一个广东。</p>
-<p>狂飙是唯一一个，也很有可能是最后一个，我和父亲母亲认真讨论的电视剧——要不要用高启强这样的人？高启强和J.D. Rockefeller、Andrew Carnegie有什么区别？</p>
-<p>我想说的，都在<a href="https://physics-lee.github.io/2023/10/22/Knock_Out/">这篇文章</a>里了。</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-01</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>纤维到底是什么？</title>
-    <url>/2021/02/03/Fibre/</url>
-    <content><![CDATA[<p>我从初一开始就十分好奇，内裤、睡衣、半截袖的配料表中的各种纤维（莫代尔、天丝、聚酯纤维、氨纶）到底是什么意思？</p>
-<p>今天我去谷歌查了一下，Wikipedia中fiber的英文词条，写得真好！</p>
-<p>我在2012-2021这9年里，在纤维上，获取的信息都不如在今天两个小时获取的多！</p>
-<p>最要感谢的是Google search和Wikipedia，没有它们，我可能这辈子都获取不了这么多信息。</p>
-<p>还有两个小发现</p>
-<ul>
-<li>我之前看中文的纤维的介绍，看得一头雾水：涤纶、氨纶都是些什么玩意？今天，我突然想到，这些东西显然是从英文翻译过来的，从英文翻译成中文的过程中，很容易产生歧义。不如直接看英文。</li>
-<li>同一种纤维有很多的英文名——rayon&#x2F;viscose（粘胶纤维），nylon&#x2F;polyamide（尼龙、锦纶），dacron&#x2F;polyester（聚酯纤维、涤纶），spandex&#x2F;elastane&#x2F;lycra（氨纶、莱卡）。这暗示着我们，这种纤维的发明有着曲折的历史，很可能几个公司同时发明了类似的东西，然后各叫各的，谁也不服谁。</li>
-</ul>
-<p>最后，上张图片</p>
-<img src="/2021/02/03/Fibre/1.png" class="">
-
-<p>我的这款睡衣就是modal和spandex混纺的，一种常见的适合内裤、睡衣的搭配。</p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-02</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>回国十五年_饶毅</title>
     <url>/2022/08/01/Fifteen_Years_Rao_Yi/</url>
     <content><![CDATA[<p>原文标题：人生十五年，后悔回国吗？</p>
@@ -3061,6 +3036,31 @@
       </tags>
   </entry>
   <entry>
+    <title>纤维到底是什么？</title>
+    <url>/2021/02/03/Fibre/</url>
+    <content><![CDATA[<p>我从初一开始就十分好奇，内裤、睡衣、半截袖的配料表中的各种纤维（莫代尔、天丝、聚酯纤维、氨纶）到底是什么意思？</p>
+<p>今天我去谷歌查了一下，Wikipedia中fiber的英文词条，写得真好！</p>
+<p>我在2012-2021这9年里，在纤维上，获取的信息都不如在今天两个小时获取的多！</p>
+<p>最要感谢的是Google search和Wikipedia，没有它们，我可能这辈子都获取不了这么多信息。</p>
+<p>还有两个小发现</p>
+<ul>
+<li>我之前看中文的纤维的介绍，看得一头雾水：涤纶、氨纶都是些什么玩意？今天，我突然想到，这些东西显然是从英文翻译过来的，从英文翻译成中文的过程中，很容易产生歧义。不如直接看英文。</li>
+<li>同一种纤维有很多的英文名——rayon&#x2F;viscose（粘胶纤维），nylon&#x2F;polyamide（尼龙、锦纶），dacron&#x2F;polyester（聚酯纤维、涤纶），spandex&#x2F;elastane&#x2F;lycra（氨纶、莱卡）。这暗示着我们，这种纤维的发明有着曲折的历史，很可能几个公司同时发明了类似的东西，然后各叫各的，谁也不服谁。</li>
+</ul>
+<p>最后，上张图片</p>
+<img src="/2021/02/03/Fibre/1.png" class="">
+
+<p>我的这款睡衣就是modal和spandex混纺的，一种常见的适合内裤、睡衣的搭配。</p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-02</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片误用</title>
     <url>/2021/01/21/Figure_Misuse/</url>
     <content><![CDATA[<p>不要B脸。</p>
@@ -3071,46 +3071,6 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学，为了人类心智的荣耀</title>
-    <url>/2022/11/01/For_the_Glory_of_Human_Intellect/</url>
-    <content><![CDATA[<blockquote>
-<p>傅里叶：数学是为了应用</p>
-<p>雅可比：数学是为了人类心智的荣耀</p>
-</blockquote>
-<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
-<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
-<p>我：数论从公元前几百年到1900年，都没有应用。</p>
-<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
-<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-11</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>修硬件</title>
-    <url>/2023/12/31/Fix_Hardware/</url>
-    <content><![CDATA[<p>2023年最后一天，来到售后中心。</p>
-<p>2022年12月，我也来到过这里，换电脑充电器的变压器。</p>
-<p>小哥人不错，解答了我很多问题——CPU在哪里、GPU在哪里、内存在哪里、外存在哪里、显存在哪里。</p>
-<p>从小到大，我的动手能力，只能算一般——我甚至从来都没有自己拆过笔记本电脑或手机。</p>
-<p>家里还有很多报废的电脑和手机，我回去拆一拆。</p>
-<img src="/2023/12/31/Fix_Hardware/1.jpg" class="">
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>break cognitive limit</tag>
       </tags>
   </entry>
   <entry>
@@ -3138,26 +3098,6 @@
       </categories>
       <tags>
         <tag>basketball</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>thanks</title>
-    <url>/2022/09/15/Fuck_Biology/</url>
-    <content><![CDATA[<p>谢谢你，生物学，谢谢你让我明白什么是学术造假。</p>
-<p>谢谢你，生命学院，谢谢你让我对中科大的所有好感一扫而空。</p>
-<hr>
-<p>Thanks, biology, for letting me understand what academic fraud is.</p>
-<p>Thanks, biology school, for sweeping away all my good feelings for USTC.</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>madness</tag>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
-        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -3198,24 +3138,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GPCR, 五重跨膜</title>
-    <url>/2021/02/01/GPCR_5_trans-membrane/</url>
-    <content><![CDATA[<h1 id="不同之处"><a href="#不同之处" class="headerlink" title="不同之处"></a>不同之处</h1><p>张曙光和裴钢的五重GPCR不同的地方</p>
-<ul>
-<li>张的文章里，五重GPCR只有很少的功能（用钙离子内流作为指标）；裴的文章里，五重GPCR和七重GPCR功能一样（用钙离子内流作为指标）</li>
-<li>张和裴的GPCR缺的地方不一样</li>
-</ul>
-<h1 id="2022-09-12-更新"><a href="#2022-09-12-更新" class="headerlink" title="2022-09-12 更新"></a>2022-09-12 更新</h1><p>2022年的文章发现，七重GPCR缺了任何一段都不能和原来功能一样</p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-02</category>
-      </categories>
-      <tags>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>骂学术造假</title>
     <url>/2022/11/15/Fuck_Scientific_Fraud/</url>
     <content><![CDATA[<p>如果说科学是造福全人类，</p>
@@ -3229,6 +3151,26 @@
       </categories>
       <tags>
         <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>thanks</title>
+    <url>/2022/09/15/Fuck_Biology/</url>
+    <content><![CDATA[<p>谢谢你，生物学，谢谢你让我明白什么是学术造假。</p>
+<p>谢谢你，生命学院，谢谢你让我对中科大的所有好感一扫而空。</p>
+<hr>
+<p>Thanks, biology, for letting me understand what academic fraud is.</p>
+<p>Thanks, biology school, for sweeping away all my good feelings for USTC.</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>madness</tag>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -3247,6 +3189,80 @@
       <tags>
         <tag>fun</tag>
         <tag>rush</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数学，为了人类心智的荣耀</title>
+    <url>/2022/11/01/For_the_Glory_of_Human_Intellect/</url>
+    <content><![CDATA[<blockquote>
+<p>傅里叶：数学是为了应用</p>
+<p>雅可比：数学是为了人类心智的荣耀</p>
+</blockquote>
+<p>我、wzz、cyk从可证伪性开始，聊到了数学中的理想主义和现实主义。</p>
+<p>我和wzz站在了让·迪厄多内这边，cyk站在了雅可比这边。</p>
+<p>我：数论从公元前几百年到1900年，都没有应用。</p>
+<p>cyk：我觉得他们研究数论是觉得这个东西将来可能有用。</p>
+<p>我：这样说有点耍无赖，任何东西将来都可能有用。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-11</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GPCR, 五重跨膜</title>
+    <url>/2021/02/01/GPCR_5_trans-membrane/</url>
+    <content><![CDATA[<h1 id="不同之处"><a href="#不同之处" class="headerlink" title="不同之处"></a>不同之处</h1><p>张曙光和裴钢的五重GPCR不同的地方</p>
+<ul>
+<li>张的文章里，五重GPCR只有很少的功能（用钙离子内流作为指标）；裴的文章里，五重GPCR和七重GPCR功能一样（用钙离子内流作为指标）</li>
+<li>张和裴的GPCR缺的地方不一样</li>
+</ul>
+<h1 id="2022-09-12-更新"><a href="#2022-09-12-更新" class="headerlink" title="2022-09-12 更新"></a>2022-09-12 更新</h1><p>2022年的文章发现，七重GPCR缺了任何一段都不能和原来功能一样</p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-02</category>
+      </categories>
+      <tags>
+        <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>修硬件</title>
+    <url>/2023/12/31/Fix_Hardware/</url>
+    <content><![CDATA[<p>2023年最后一天，来到售后中心。</p>
+<p>2022年12月，我也来到过这里，换电脑充电器的变压器。</p>
+<p>小哥人不错，解答了我很多问题——CPU在哪里、GPU在哪里、内存在哪里、外存在哪里、显存在哪里。</p>
+<p>从小到大，我的动手能力，只能算一般——我甚至从来都没有自己拆过笔记本电脑或手机。</p>
+<p>家里还有很多报废的电脑和手机，我回去拆一拆。</p>
+<img src="/2023/12/31/Fix_Hardware/1.jpg" class="">
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>break cognitive limit</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Gene Network</title>
+    <url>/2023/05/06/Gene_Network/</url>
+    <content><![CDATA[<p>Gene Network Is Just the Pearson Correlation Matrix of Genes.</p>
+<p>算所有基因两两之间的r，大于0.8就连起来。</p>
+<p>PS：这是lab5最合适的特征选择的方法，它只利用feature，不利用label，但是当时的我忽视了！</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-05</category>
+      </categories>
+      <tags>
+        <tag>statistics</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -3290,19 +3306,19 @@
       </tags>
   </entry>
   <entry>
-    <title>Gene Network</title>
-    <url>/2023/05/06/Gene_Network/</url>
-    <content><![CDATA[<p>Gene Network Is Just the Pearson Correlation Matrix of Genes.</p>
-<p>算所有基因两两之间的r，大于0.8就连起来。</p>
-<p>PS：这是lab5最合适的特征选择的方法，它只利用feature，不利用label，但是当时的我忽视了！</p>
+    <title>George Green</title>
+    <url>/2020/04/25/George_Green/</url>
+    <content><![CDATA[<blockquote>
+<p>Green’s life story is remarkable in that he was almost entirely self-taught. He received only about one year of formal schooling as a child, between the ages of 8 and 9.</p>
+</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/George_Green_(mathematician)#Final_years_and_posthumous_fame">reference</a></p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-05</category>
+        <category>2020</category>
+        <category>2020-04</category>
       </categories>
       <tags>
-        <tag>statistics</tag>
-        <tag>biology</tag>
+        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -3319,22 +3335,6 @@
       <tags>
         <tag>fun</tag>
         <tag>tools</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>George Green</title>
-    <url>/2020/04/25/George_Green/</url>
-    <content><![CDATA[<blockquote>
-<p>Green’s life story is remarkable in that he was almost entirely self-taught. He received only about one year of formal schooling as a child, between the ages of 8 and 9.</p>
-</blockquote>
-<p><a href="https://en.wikipedia.org/wiki/George_Green_(mathematician)#Final_years_and_posthumous_fame">reference</a></p>
-]]></content>
-      <categories>
-        <category>2020</category>
-        <category>2020-04</category>
-      </categories>
-      <tags>
-        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -3410,21 +3410,6 @@
       </tags>
   </entry>
   <entry>
-    <title>郭芙</title>
-    <url>/2018/11/15/Guo_Fu/</url>
-    <content><![CDATA[<p>记忆中，我用软件时一旦软件没有正确反应，我十有八九就会异常暴躁，甚至想砸电脑。但这并不是电脑的错，明明是我自己的错,因为我没有掌握用软件的方法，而我却要迁怒于电脑。</p>
-<p>看神雕时总以为自己是郭靖杨过，结果这次上机之后蓦然发现，自己像的是郭芙……………</p>
-]]></content>
-      <categories>
-        <category>2018</category>
-        <category>2018-11</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>madness</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I am so glad that they are making great progress for true age verification against porn websites in America!</title>
     <url>/2023/09/01/Great_Progress_in_US/</url>
     <content><![CDATA[<p>I am so glad that they are making <a href="https://exoduscry.com/pcnp/tracker/">great progress</a> for true age verification against porn websites in America! This should be done in 2003, sad to see it being done in 2023.</p>
@@ -3478,6 +3463,21 @@
       </categories>
       <tags>
         <tag>war</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>郭芙</title>
+    <url>/2018/11/15/Guo_Fu/</url>
+    <content><![CDATA[<p>记忆中，我用软件时一旦软件没有正确反应，我十有八九就会异常暴躁，甚至想砸电脑。但这并不是电脑的错，明明是我自己的错,因为我没有掌握用软件的方法，而我却要迁怒于电脑。</p>
+<p>看神雕时总以为自己是郭靖杨过，结果这次上机之后蓦然发现，自己像的是郭芙……………</p>
+]]></content>
+      <categories>
+        <category>2018</category>
+        <category>2018-11</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>madness</tag>
       </tags>
   </entry>
   <entry>
@@ -3562,31 +3562,6 @@
       </categories>
       <tags>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>哈尔滨</title>
-    <url>/2024/01/10/Harbin/</url>
-    <content><![CDATA[<p>昨天，看到<a href="https://mp.weixin.qq.com/s/p5YDCEcFEtD9nsBz5_hKQw">一篇哈尔滨的推送</a>，瞬间就上头了。情绪有些压制不住。</p>
-<p>我在<a href="https://physics-lee.github.io/2023/11/26/Close_Loop/">这篇文章</a>里写过</p>
-<ul>
-<li>公有制还是私有制，相信后人的智慧；我们要做的，是给后人留下获取更高级信息、知识的渠道。</li>
-<li>学术造假是历史必然，不必生气；我们有好几个方法可以打压学术造假。</li>
-<li>政治需要制衡、取舍、残忍；我更喜欢投身于科学、工程、教育，而不是政治。</li>
-</ul>
-<p>新启示（和Q、父亲、母亲讨论得到的）</p>
-<ul>
-<li>不主动和至亲、至朋之外的人谈政治。</li>
-<li>不要过于强迫未成年人去学数学和自然科学，只是给出渠道。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-01</category>
-      </categories>
-      <tags>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -3741,6 +3716,31 @@
       <tags>
         <tag>biography</tag>
         <tag>war</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>哈尔滨</title>
+    <url>/2024/01/10/Harbin/</url>
+    <content><![CDATA[<p>昨天，看到<a href="https://mp.weixin.qq.com/s/p5YDCEcFEtD9nsBz5_hKQw">一篇哈尔滨的推送</a>，瞬间就上头了。情绪有些压制不住。</p>
+<p>我在<a href="https://physics-lee.github.io/2023/11/26/Close_Loop/">这篇文章</a>里写过</p>
+<ul>
+<li>公有制还是私有制，相信后人的智慧；我们要做的，是给后人留下获取更高级信息、知识的渠道。</li>
+<li>学术造假是历史必然，不必生气；我们有好几个方法可以打压学术造假。</li>
+<li>政治需要制衡、取舍、残忍；我更喜欢投身于科学、工程、教育，而不是政治。</li>
+</ul>
+<p>新启示（和Q、父亲、母亲讨论得到的）</p>
+<ul>
+<li>不主动和至亲、至朋之外的人谈政治。</li>
+<li>不要过于强迫未成年人去学数学和自然科学，只是给出渠道。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -3930,30 +3930,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hold Big Tech and Big Porn Accountable_Exodus Cry</title>
-    <url>/2022/04/10/Hold-Big-Tech-and-Big-Porn-Accountable_Exodus-Cry/</url>
-    <content><![CDATA[<p>Introduction: This short video can be seen as a trailer of <em><a href="https://www.youtube.com/watch?v=hzPylqS01qU&t=1208s">Raised on Porn</a></em></p>
-<hr>
-<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2021-09-08</p>
-<p><a href="https://www.youtube.com/watch?v=_zpgAZqCD1Q">Hold Big Tech and Big Porn Accountable</a></p>
-<hr>
-<p>Comment: We should ask for 2 things</p>
-<ul>
-<li>Big Tech (Google, Twitter, <strong>Baidu</strong>) and Big Porn (Pornhub, XVideos, XNXX) must be accountable for the money they made through early hardcore porn exposure of children.</li>
-<li>True age verification.</li>
-</ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-04</category>
-      </categories>
-      <tags>
-        <tag>capitalism</tag>
-        <tag>raised on porn</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>科学史相关</title>
     <url>/2018/10/16/History_of_Science/</url>
     <content><![CDATA[<h1 id="2018-10-见潘建伟"><a href="#2018-10-见潘建伟" class="headerlink" title="2018-10 见潘建伟"></a>2018-10 见潘建伟</h1><p>我：您刚才说您对科学技术史也比较感兴趣？我有个比较简单的问题想问您。</p>
@@ -3986,25 +3962,6 @@
         <category>2018</category>
         <category>2018-10</category>
       </categories>
-  </entry>
-  <entry>
-    <title>How to find a professor working in biology?</title>
-    <url>/2022/10/01/How_to_Find_a_Professor_Working_in_Biology/</url>
-    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
-<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
-<p>于公：自不必说</p>
-<p>于私：有两点</p>
-<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
-<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-        <tag>biology</tag>
-      </tags>
   </entry>
   <entry>
     <title>如何解决知识越来越多，人类似乎一辈子才能到一个小领域的前沿这一问题？</title>
@@ -4044,20 +4001,6 @@
       </tags>
   </entry>
   <entry>
-    <title>黄山</title>
-    <url>/2023/04/01/Huang_Mountain/</url>
-    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
-<p>好水好山虽逸乐，难以新游忘故人。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-04</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何防范造假和灌水？</title>
     <url>/2022/10/20/How_to_Protect_Oneself_from_Fraud_and_Padding/</url>
     <content><![CDATA[<p>对个人而言，有以下几种方法</p>
@@ -4090,23 +4033,57 @@
       </tags>
   </entry>
   <entry>
-    <title>优柔寡断</title>
-    <url>/2023/09/03/Indecision/</url>
-    <content><![CDATA[<p>优柔寡断，洒脱假里。</p>
-<p>萦怀绕抱，遗思憾缕。</p>
-<p>今夜悄然，月冷星黯。</p>
-<p>长路漫漫，唯剑作伴。</p>
-<p>志在四方，情长何须？</p>
-<p>东风万里，不问归期。</p>
-<p>想得不得，割舍何时？</p>
-<p>郁孤台下，逝者如斯。</p>
+    <title>Hold Big Tech and Big Porn Accountable_Exodus Cry</title>
+    <url>/2022/04/10/Hold-Big-Tech-and-Big-Porn-Accountable_Exodus-Cry/</url>
+    <content><![CDATA[<p>Introduction: This short video can be seen as a trailer of <em><a href="https://www.youtube.com/watch?v=hzPylqS01qU&t=1208s">Raised on Porn</a></em></p>
 <hr>
-<p>Acknowledgement:</p>
-<p>This poem is inspired by GPT-4 and <a href="https://c6.y.qq.com/base/fcgi-bin/u?__=QjOvaOC">this song</a>.</p>
+<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2021-09-08</p>
+<p><a href="https://www.youtube.com/watch?v=_zpgAZqCD1Q">Hold Big Tech and Big Porn Accountable</a></p>
+<hr>
+<p>Comment: We should ask for 2 things</p>
+<ul>
+<li>Big Tech (Google, Twitter, <strong>Baidu</strong>) and Big Porn (Pornhub, XVideos, XNXX) must be accountable for the money they made through early hardcore porn exposure of children.</li>
+<li>True age verification.</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-04</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>raised on porn</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to find a professor working in biology?</title>
+    <url>/2022/10/01/How_to_Find_a_Professor_Working_in_Biology/</url>
+    <content><![CDATA[<p>2022-10-01，我看了张静宁学姐有关怎么选导师的博客，有感而发，遂作此篇。</p>
+<p>生物和物理不一样，生物，选导师的<strong>第一标准</strong>是——<strong>必须不能跟一个学术造假的导师</strong>。</p>
+<p>于公：自不必说</p>
+<p>于私：有两点</p>
+<p>第一点，如果他的学术造假以后被别人发现了，而你又是这个实验室出来的，那你的名声可想而知。</p>
+<p>第二点，如果一个导师默许他的学生数据造假或者数据挑选或者p-hacking，那么这个实验室的科研氛围可想而知，那么你在这里几乎受不到任何科研训练。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-10</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+        <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>黄山</title>
+    <url>/2023/04/01/Huang_Mountain/</url>
+    <content><![CDATA[<p>与君同乘越晨昏，绝壁飞檐尽柏森。</p>
+<p>好水好山虽逸乐，难以新游忘故人。</p>
 ]]></content>
       <categories>
         <category>2023</category>
-        <category>2023-09</category>
+        <category>2023-04</category>
       </categories>
       <tags>
         <tag>poem</tag>
@@ -4141,6 +4118,29 @@
       </tags>
   </entry>
   <entry>
+    <title>优柔寡断</title>
+    <url>/2023/09/03/Indecision/</url>
+    <content><![CDATA[<p>优柔寡断，洒脱假里。</p>
+<p>萦怀绕抱，遗思憾缕。</p>
+<p>今夜悄然，月冷星黯。</p>
+<p>长路漫漫，唯剑作伴。</p>
+<p>志在四方，情长何须？</p>
+<p>东风万里，不问归期。</p>
+<p>想得不得，割舍何时？</p>
+<p>郁孤台下，逝者如斯。</p>
+<hr>
+<p>Acknowledgement:</p>
+<p>This poem is inspired by GPT-4 and <a href="https://c6.y.qq.com/base/fcgi-bin/u?__=QjOvaOC">this song</a>.</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-09</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>国际妇女节和社会主义</title>
     <url>/2024/03/08/International_Women_Day_and_Socialism/</url>
     <content><![CDATA[<p>昨天查到了一个突破我认知的事情——国际妇女节 (International Women’s Day)和社会主义有千丝万缕的联系。</p>
@@ -4161,6 +4161,20 @@
       </categories>
       <tags>
         <tag>socialism</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Introduction to C.elegans</title>
+    <url>/2023/04/04/Introduction_to_C_elegans/</url>
+    <content><![CDATA[<p>先挖个坑，有空写完。</p>
+<h1 id="日常生活中所说的虫子可能来自哪些门？"><a href="#日常生活中所说的虫子可能来自哪些门？" class="headerlink" title="日常生活中所说的虫子可能来自哪些门？"></a>日常生活中所说的虫子可能来自哪些门？</h1><h1 id="生存"><a href="#生存" class="headerlink" title="生存"></a>生存</h1><h2 id="进食"><a href="#进食" class="headerlink" title="进食"></a>进食</h2><h2 id="排便"><a href="#排便" class="headerlink" title="排便"></a>排便</h2><h2 id="寻找食物"><a href="#寻找食物" class="headerlink" title="寻找食物"></a>寻找食物</h2><h1 id="繁殖"><a href="#繁殖" class="headerlink" title="繁殖"></a>繁殖</h1><h1 id="线虫-vs-涡虫"><a href="#线虫-vs-涡虫" class="headerlink" title="线虫 vs 涡虫"></a>线虫 vs 涡虫</h1><h1 id="为什么有1-500是雄性？"><a href="#为什么有1-500是雄性？" class="headerlink" title="为什么有1&#x2F;500是雄性？"></a>为什么有1&#x2F;500是雄性？</h1>]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-04</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -4203,22 +4217,8 @@
         <category>2020-05</category>
       </categories>
       <tags>
+        <tag>fun</tag>
         <tag>science</tag>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Introduction to C.elegans</title>
-    <url>/2023/04/04/Introduction_to_C_elegans/</url>
-    <content><![CDATA[<p>先挖个坑，有空写完。</p>
-<h1 id="日常生活中所说的虫子可能来自哪些门？"><a href="#日常生活中所说的虫子可能来自哪些门？" class="headerlink" title="日常生活中所说的虫子可能来自哪些门？"></a>日常生活中所说的虫子可能来自哪些门？</h1><h1 id="生存"><a href="#生存" class="headerlink" title="生存"></a>生存</h1><h2 id="进食"><a href="#进食" class="headerlink" title="进食"></a>进食</h2><h2 id="排便"><a href="#排便" class="headerlink" title="排便"></a>排便</h2><h2 id="寻找食物"><a href="#寻找食物" class="headerlink" title="寻找食物"></a>寻找食物</h2><h1 id="繁殖"><a href="#繁殖" class="headerlink" title="繁殖"></a>繁殖</h1><h1 id="线虫-vs-涡虫"><a href="#线虫-vs-涡虫" class="headerlink" title="线虫 vs 涡虫"></a>线虫 vs 涡虫</h1><h1 id="为什么有1-500是雄性？"><a href="#为什么有1-500是雄性？" class="headerlink" title="为什么有1&#x2F;500是雄性？"></a>为什么有1&#x2F;500是雄性？</h1>]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-04</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -4278,35 +4278,6 @@
       </tags>
   </entry>
   <entry>
-    <title>经、传、纬</title>
-    <url>/2021/03/03/Jing_Zhuan_Wei/</url>
-    <content><![CDATA[<ol>
-<li>经：写人类社会原则的书<ol>
-<li>诗</li>
-<li>书</li>
-<li>礼</li>
-<li>易</li>
-<li>春秋</li>
-</ol>
-</li>
-<li>传：其他人对某个“经”（比如《春秋》）的解释<ol>
-<li>左转</li>
-<li>公羊传</li>
-<li>谷梁转</li>
-</ol>
-</li>
-<li>纬：和装神弄鬼的谶差不多</li>
-</ol>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-03</category>
-      </categories>
-      <tags>
-        <tag>literature</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>水母也睡觉</title>
     <url>/2022/08/15/Jellyfish_Sleeps/</url>
     <content><![CDATA[<ul>
@@ -4349,6 +4320,35 @@
         <tag>fun</tag>
         <tag>AI</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>经、传、纬</title>
+    <url>/2021/03/03/Jing_Zhuan_Wei/</url>
+    <content><![CDATA[<ol>
+<li>经：写人类社会原则的书<ol>
+<li>诗</li>
+<li>书</li>
+<li>礼</li>
+<li>易</li>
+<li>春秋</li>
+</ol>
+</li>
+<li>传：其他人对某个“经”（比如《春秋》）的解释<ol>
+<li>左转</li>
+<li>公羊传</li>
+<li>谷梁转</li>
+</ol>
+</li>
+<li>纬：和装神弄鬼的谶差不多</li>
+</ol>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-03</category>
+      </categories>
+      <tags>
+        <tag>literature</tag>
       </tags>
   </entry>
   <entry>
@@ -4413,6 +4413,31 @@
       </tags>
   </entry>
   <entry>
+    <title>曾肯成、史济怀、邵帅</title>
+    <url>/2022/10/22/Kencheng_Zeng/</url>
+    <content><![CDATA[<p><a href="https://icourse.club/course/22301/">https://icourse.club/course/22301/</a></p>
+<p>在教室自习，累了，打开评课社区想摆一会。</p>
+<p>点开看到这条，看着看着，眼泪就下来了。</p>
+<blockquote>
+<p>后来，曾老师曾对史老师说当时他在火车站犹豫了一天，最后选择了回国。</p>
+<p>……</p>
+<p>趁中午曾老师偷偷遛到图书馆里，拿了书就从窗户里往外面扔，史老师就在下面捡。</p>
+<p>……</p>
+</blockquote>
+<p>看看当年中国的科学家，再他妈看看现在中国的这帮“科学家”。造假、灌水、争名夺利。去他妈的。</p>
+<p>这个国家，值得一群更好的科学家来守护。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-10</category>
+      </categories>
+      <tags>
+        <tag>madness</tag>
+        <tag>scientific misconduct</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>南城一游</title>
     <url>/2023/06/30/Journey_to_the_Southern_City/</url>
     <content><![CDATA[<p>南城一游。</p>
@@ -4438,31 +4463,6 @@
       <tags>
         <tag>science</tag>
         <tag>rush</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>曾肯成、史济怀、邵帅</title>
-    <url>/2022/10/22/Kencheng_Zeng/</url>
-    <content><![CDATA[<p><a href="https://icourse.club/course/22301/">https://icourse.club/course/22301/</a></p>
-<p>在教室自习，累了，打开评课社区想摆一会。</p>
-<p>点开看到这条，看着看着，眼泪就下来了。</p>
-<blockquote>
-<p>后来，曾老师曾对史老师说当时他在火车站犹豫了一天，最后选择了回国。</p>
-<p>……</p>
-<p>趁中午曾老师偷偷遛到图书馆里，拿了书就从窗户里往外面扔，史老师就在下面捡。</p>
-<p>……</p>
-</blockquote>
-<p>看看当年中国的科学家，再他妈看看现在中国的这帮“科学家”。造假、灌水、争名夺利。去他妈的。</p>
-<p>这个国家，值得一群更好的科学家来守护。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>madness</tag>
-        <tag>scientific misconduct</tag>
-        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -4765,6 +4765,17 @@
       </tags>
   </entry>
   <entry>
+    <title>李宁</title>
+    <url>/2023/12/05/Li_Ning/</url>
+    <content><![CDATA[<p>今天管理员老师想让我干一些类似李宁的事，妈的。</p>
+<p>我思考了一下拒绝了。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+  </entry>
+  <entry>
     <title>世事无常</title>
     <url>/2023/12/24/Life_Is_Unpredictable/</url>
     <content><![CDATA[<p>今天，是他们美国的圣诞节。</p>
@@ -4831,17 +4842,6 @@
       </tags>
   </entry>
   <entry>
-    <title>李宁</title>
-    <url>/2023/12/05/Li_Ning/</url>
-    <content><![CDATA[<p>今天管理员老师想让我干一些类似李宁的事，妈的。</p>
-<p>我思考了一下拒绝了。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-  </entry>
-  <entry>
     <title>光场显微镜 (Light Field Microscope)</title>
     <url>/2023/06/28/Light_Field_Microscope/</url>
     <content><![CDATA[<h1 id="光场-Light-Field"><a href="#光场-Light-Field" class="headerlink" title="光场 (Light Field)"></a>光场 (Light Field)</h1><p>光场显微镜 (Light Field Microscope)是Wen Lab的鱼组为研究斑马鱼而亲手做的仪器。</p>
@@ -4874,6 +4874,55 @@
       <tags>
         <tag>fun</tag>
         <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>利物浦和社会主义</title>
+    <url>/2022/12/11/Liverpool_and_Socialism/</url>
+    <content><![CDATA[<p>今天，我的堂弟发给我一个推送，里面写了足球和工人运动、社会主义、共产主义的关系，以及现在的足球怎么变成了资本主义的游戏。</p>
+<p>特别地，里面写，利物浦的功勋教练，比尔·香克利是社会主义的支持者。</p>
+<p>我第一次关注足球是2013-2014赛季，那个赛季苏神在利物浦踢出了史诗级的表现，于是乎我就变成苏神、杰队、利物浦的球迷了。最后利物浦意外地丢掉了英超冠军，苏神泪洒赛场，杰队挡着摄像机示意别拍了。悲剧结局总比喜剧结局更让人刻骨铭心，无论是足球还是爱情。这个赛季，我过去记得，现在记得，未来也会永远记得。</p>
+<p>于是我去谷歌了一下，以下全部是事实：</p>
+<ul>
+<li>比尔·香克利确实是社会主义的支持者</li>
+<li>比尔·香克利执教期间，把利物浦的球衣由白色改成了红色，利物浦获得了“红军”的称号。</li>
+<li>比尔·香克利真的说过这句话：<a href="https://quotefancy.com/quote/1409579/Bill-Shankly-Chairman-Mao-has-never-seen-a-greater-show-of-red-strength#:~:text=Bill%20Shankly%20Quote%3A%20%E2%80%9CChairman%20Mao,greater%20show%20of%20red%20strength.%E2%80%9D">Chairman Mao has never seen a greater show of red strength</a> (就连毛主席也从没见过比我们这只红军更强大的红色力量)</li>
+</ul>
+<p><a href="https://www.thisisanfield.com/2019/10/is-liverpool-fc-a-socialist-football-club/">时至今日，利物浦仍有一些社会主义的影子。</a></p>
+<img src="/2022/12/11/Liverpool_and_Socialism/1.png" class="">
+
+<p>上图中，旗帜上的人是利物浦的几位著名主教练，这个旗帜意味着什么自不必说。</p>
+<hr>
+<p>在堂弟发给我的推送中，还写弗格森、马拉多纳都是社会主义的支持者。弗格森厌恶撒切尔，马拉多纳和卡斯特罗、查韦斯走得很近，但是这些我没有查证。</p>
+<p>事实上，我并不知道英国的工党的演变历史，我也不知道撒切尔到底干了什么，我对工党和撒切尔仅仅是知道两个名字。</p>
+<hr>
+<p>我个人并不是很狂热的共产主义者。</p>
+<p>曾经，我是一个狂热的民族主义者，初中时甚至有些极端民族主义。</p>
+<p>2019年10月，莫雷在推特上支持香港独立，肖华表示他支持莫雷，肖华刚开始还说他为此事感到遗憾，后来又说他感到遗憾是对中国球迷的反应感到遗憾而不是对莫雷感到遗憾。我很愤怒，很仇恨，我说我以后再也不看NBA了。这件事应该代表我的国家主义、民族主义达到了顶峰。</p>
+<p>我的确遵守了这个诺言，我也会一直遵守下去。</p>
+<p>I am a man in my word.</p>
+<hr>
+<p>后来我看见了许多事情，</p>
+<p>比如，《后浪》，满屏幕都是“全世界无产者，联合起来”。</p>
+<p>比如，恒大在海南建了一个海花岛，我去过。马路一侧是高耸的希尔顿酒店，另一侧是低矮的平房。</p>
+<p>比如，我发现，学术圈在二战之后之所以一步步走到今天这样，资本主义功不可没。（我建议在镰刀、锤子旁边加上一个电脑）（很显然，在大多数组里，学生和导师并不是朋友关系，而是员工和老板的关系。）</p>
+<p>比如，我发现，这个世界上，普通人被隔绝在学术圈之外，一个重要原因是汤森路透、爱斯维尔、自然、中国知网这样的公司为了挣钱，让普通人无法免费阅读论文，包括那些一百年之前的论文也无法免费阅读。而且收费极其高昂（一篇数十美元）。</p>
+<hr>
+<p>我不太确定财产公有化好还是财产私有化好，但我可以确定知识公有化肯定比知识私有化好。</p>
+<p>事实上，他们资本主义出身的教授基本上也都会支持知识公有化、open science，看2000年的<a href="https://en.wikipedia.org/wiki/PLOS">这封公开信</a>。</p>
+<p>当年，陈独秀说他要把民主和科学带进中国。但是他在新青年上写的<a href="https://zh.wikisource.org/zh-hans/%E7%95%B6%E4%BB%A3%E4%BA%8C%E5%A4%A7%E7%A7%91%E5%AD%B8%E5%AE%B6%E4%B9%8B%E6%80%9D%E6%83%B3">《当代二大科学家之思想》</a>暴露了他的数学水平，大概也就是初中一年级的水平。</p>
+<p>我希望未来有一天，我能把科学带进千家万户，破除所有的壁垒，做到真正的知识公有化，做到真正的open science。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>madness</tag>
+        <tag>capitalism</tag>
+        <tag>soccer</tag>
+        <tag>rush</tag>
       </tags>
   </entry>
   <entry>
@@ -4993,72 +5042,9 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>利物浦和社会主义</title>
-    <url>/2022/12/11/Liverpool_and_Socialism/</url>
-    <content><![CDATA[<p>今天，我的堂弟发给我一个推送，里面写了足球和工人运动、社会主义、共产主义的关系，以及现在的足球怎么变成了资本主义的游戏。</p>
-<p>特别地，里面写，利物浦的功勋教练，比尔·香克利是社会主义的支持者。</p>
-<p>我第一次关注足球是2013-2014赛季，那个赛季苏神在利物浦踢出了史诗级的表现，于是乎我就变成苏神、杰队、利物浦的球迷了。最后利物浦意外地丢掉了英超冠军，苏神泪洒赛场，杰队挡着摄像机示意别拍了。悲剧结局总比喜剧结局更让人刻骨铭心，无论是足球还是爱情。这个赛季，我过去记得，现在记得，未来也会永远记得。</p>
-<p>于是我去谷歌了一下，以下全部是事实：</p>
-<ul>
-<li>比尔·香克利确实是社会主义的支持者</li>
-<li>比尔·香克利执教期间，把利物浦的球衣由白色改成了红色，利物浦获得了“红军”的称号。</li>
-<li>比尔·香克利真的说过这句话：<a href="https://quotefancy.com/quote/1409579/Bill-Shankly-Chairman-Mao-has-never-seen-a-greater-show-of-red-strength#:~:text=Bill%20Shankly%20Quote%3A%20%E2%80%9CChairman%20Mao,greater%20show%20of%20red%20strength.%E2%80%9D">Chairman Mao has never seen a greater show of red strength</a> (就连毛主席也从没见过比我们这只红军更强大的红色力量)</li>
-</ul>
-<p><a href="https://www.thisisanfield.com/2019/10/is-liverpool-fc-a-socialist-football-club/">时至今日，利物浦仍有一些社会主义的影子。</a></p>
-<img src="/2022/12/11/Liverpool_and_Socialism/1.png" class="">
-
-<p>上图中，旗帜上的人是利物浦的几位著名主教练，这个旗帜意味着什么自不必说。</p>
-<hr>
-<p>在堂弟发给我的推送中，还写弗格森、马拉多纳都是社会主义的支持者。弗格森厌恶撒切尔，马拉多纳和卡斯特罗、查韦斯走得很近，但是这些我没有查证。</p>
-<p>事实上，我并不知道英国的工党的演变历史，我也不知道撒切尔到底干了什么，我对工党和撒切尔仅仅是知道两个名字。</p>
-<hr>
-<p>我个人并不是很狂热的共产主义者。</p>
-<p>曾经，我是一个狂热的民族主义者，初中时甚至有些极端民族主义。</p>
-<p>2019年10月，莫雷在推特上支持香港独立，肖华表示他支持莫雷，肖华刚开始还说他为此事感到遗憾，后来又说他感到遗憾是对中国球迷的反应感到遗憾而不是对莫雷感到遗憾。我很愤怒，很仇恨，我说我以后再也不看NBA了。这件事应该代表我的国家主义、民族主义达到了顶峰。</p>
-<p>我的确遵守了这个诺言，我也会一直遵守下去。</p>
-<p>I am a man in my word.</p>
-<hr>
-<p>后来我看见了许多事情，</p>
-<p>比如，《后浪》，满屏幕都是“全世界无产者，联合起来”。</p>
-<p>比如，恒大在海南建了一个海花岛，我去过。马路一侧是高耸的希尔顿酒店，另一侧是低矮的平房。</p>
-<p>比如，我发现，学术圈在二战之后之所以一步步走到今天这样，资本主义功不可没。（我建议在镰刀、锤子旁边加上一个电脑）（很显然，在大多数组里，学生和导师并不是朋友关系，而是员工和老板的关系。）</p>
-<p>比如，我发现，这个世界上，普通人被隔绝在学术圈之外，一个重要原因是汤森路透、爱斯维尔、自然、中国知网这样的公司为了挣钱，让普通人无法免费阅读论文，包括那些一百年之前的论文也无法免费阅读。而且收费极其高昂（一篇数十美元）。</p>
-<hr>
-<p>我不太确定财产公有化好还是财产私有化好，但我可以确定知识公有化肯定比知识私有化好。</p>
-<p>事实上，他们资本主义出身的教授基本上也都会支持知识公有化、open science，看2000年的<a href="https://en.wikipedia.org/wiki/PLOS">这封公开信</a>。</p>
-<p>当年，陈独秀说他要把民主和科学带进中国。但是他在新青年上写的<a href="https://zh.wikisource.org/zh-hans/%E7%95%B6%E4%BB%A3%E4%BA%8C%E5%A4%A7%E7%A7%91%E5%AD%B8%E5%AE%B6%E4%B9%8B%E6%80%9D%E6%83%B3">《当代二大科学家之思想》</a>暴露了他的数学水平，大概也就是初中一年级的水平。</p>
-<p>我希望未来有一天，我能把科学带进千家万户，破除所有的壁垒，做到真正的知识公有化，做到真正的open science。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>socialism</tag>
-        <tag>madness</tag>
-        <tag>capitalism</tag>
-        <tag>soccer</tag>
-        <tag>rush</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>长弓</title>
-    <url>/2023/10/26/Long_Bow/</url>
-    <content><![CDATA[<p>立昆百冷眼，辛顿十年伏。</p>
-<p>今日长弓有，会当轻骑逐。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-10</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -5412,6 +5398,20 @@
       </tags>
   </entry>
   <entry>
+    <title>长弓</title>
+    <url>/2023/10/26/Long_Bow/</url>
+    <content><![CDATA[<p>立昆百冷眼，辛顿十年伏。</p>
+<p>今日长弓有，会当轻骑逐。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-10</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>磁</title>
     <url>/2021/06/01/Magnet/</url>
     <content><![CDATA[<p>小学：我只知道“磁”指的是磁铁、指南针。</p>
@@ -5426,49 +5426,6 @@
       <tags>
         <tag>science</tag>
         <tag>physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Marie Curie</title>
-    <url>/2021/09/23/Marie_Curie/</url>
-    <content><![CDATA[<h1 id="2021-09-23"><a href="#2021-09-23" class="headerlink" title="2021-09-23"></a>2021-09-23</h1><p>刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）</p>
-<p>当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。</p>
-<p>1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）</p>
-<p>一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）</p>
-<p>一战结束了，法国赢了，波兰独立了。华沙也建了一个镭学研究所，请居里夫人当名誉老大。</p>
-<p>三十多年前她只是一个离乡别父的小姑娘，现在她已经是全民偶像。</p>
-<h1 id="2021-10-07-update"><a href="#2021-10-07-update" class="headerlink" title="2021-10-07 update"></a>2021-10-07 update</h1><p>1795-1918，波兰亡国123年。但是在123年的亡国期间，波兰并没有丢失自己的语言和文化，因此各种独立运动不断。</p>
-<p>以上的文字不是很生动，但请继续看：</p>
-<p>Marie Curie 1867-1934：</p>
-<p>其父母为波兰独立运动的支持者。一家人因为支持波兰独立而穷困潦倒。</p>
-<p>居里夫人上的中学是一个“地下学校”</p>
-<p>居里夫人曾经和一个波兰青年处对象。他一家也是波兰独立运动的支持者。他后来也成了一个比较牛的数学家，他和Banach是朋友。</p>
-<p>1898，居里夫妇把新发现的元素命名为Polonium，以纪念“我们其中一人的祖国是Polska”。</p>
-<p>居里夫人曾聘用波兰教师教她的两个女儿波兰语。</p>
-<p>PS：其实我小学时候就听说过“以纪念祖国波兰”这句话。但是直到最近我才知道这句话的分量。</p>
-<p>Marie Curie, look at her lifetime, she is so nb.</p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-09</category>
-      </categories>
-      <tags>
-        <tag>nationalism</tag>
-        <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>医学奇迹</title>
-    <url>/2023/08/31/Medical_Miracle/</url>
-    <content><![CDATA[<p>过去五天中国队输了三场我口腔溃疡一天比一天重。</p>
-<p>今天中国队赢了一场我口腔溃疡三个小时就好了诶。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-08</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -5488,34 +5445,17 @@
       </tags>
   </entry>
   <entry>
-    <title>Markov and Temporal Difference Learning</title>
-    <url>/2024/01/11/Markov_and_Temporal_Difference_Learning/</url>
-    <content><![CDATA[<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/1.png" class="">
-
-<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/2.png" class="">
-
-<p>准备明天的幻灯片时，又读到西瓜书上的这两段故事，我的心情依旧和2022年夏天，第一次读这本书时一样激动。</p>
-<p>那个暑假，这是我带回家的唯一一本书。</p>
-<p>我和某人开玩笑说，我拿到书之后，最先看的是章后小故事。</p>
-<p>耳机里放着《我们都一样》的回忆版。</p>
-<blockquote>
-<p>你知道我的梦，你知道我的痛。</p>
-<p>你知道我们感受都相同。</p>
-<p>就算有再大的风，</p>
-<p>也挡不住，</p>
-<p>勇敢的，</p>
-<p>冲动。</p>
-<p>努力的往前飞，再累也无所谓。</p>
-<p>黑夜过后的光芒有多美。</p>
-</blockquote>
+    <title>医学奇迹</title>
+    <url>/2023/08/31/Medical_Miracle/</url>
+    <content><![CDATA[<p>过去五天中国队输了三场我口腔溃疡一天比一天重。</p>
+<p>今天中国队赢了一场我口腔溃疡三个小时就好了诶。</p>
 ]]></content>
       <categories>
-        <category>2024</category>
-        <category>2024-01</category>
+        <category>2023</category>
+        <category>2023-08</category>
       </categories>
       <tags>
-        <tag>statistics</tag>
-        <tag>AI</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -5560,6 +5500,37 @@
       </tags>
   </entry>
   <entry>
+    <title>Markov and Temporal Difference Learning</title>
+    <url>/2024/01/11/Markov_and_Temporal_Difference_Learning/</url>
+    <content><![CDATA[<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/1.png" class="">
+
+<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/2.png" class="">
+
+<p>准备明天的幻灯片时，又读到西瓜书上的这两段故事，我的心情依旧和2022年夏天，第一次读这本书时一样激动。</p>
+<p>那个暑假，这是我带回家的唯一一本书。</p>
+<p>我和某人开玩笑说，我拿到书之后，最先看的是章后小故事。</p>
+<p>耳机里放着《我们都一样》的回忆版。</p>
+<blockquote>
+<p>你知道我的梦，你知道我的痛。</p>
+<p>你知道我们感受都相同。</p>
+<p>就算有再大的风，</p>
+<p>也挡不住，</p>
+<p>勇敢的，</p>
+<p>冲动。</p>
+<p>努力的往前飞，再累也无所谓。</p>
+<p>黑夜过后的光芒有多美。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-01</category>
+      </categories>
+      <tags>
+        <tag>statistics</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>半月板</title>
     <url>/2021/09/17/Meniscus/</url>
     <content><![CDATA[<p>半月板可以理解成膝盖的垫子，由软骨组成，内外侧各一个。</p>
@@ -5578,6 +5549,36 @@
         <tag>biology</tag>
         <tag>health</tag>
         <tag>injury</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微流控、器官芯片、类器官</title>
+    <url>/2023/05/21/Microfluidics/</url>
+    <content><![CDATA[<h1 id="微流控"><a href="#微流控" class="headerlink" title="微流控"></a>微流控</h1><p>微流控，理解成流速很低就可以了。</p>
+<p>物理上，它是层流，而非湍流。从而，你可以做一些简单的计算。</p>
+<p>生物上，很多组做了一些微流控装置，比如皮肤芯片，里面同样用血液。</p>
+<h1 id="器官芯片"><a href="#器官芯片" class="headerlink" title="器官芯片"></a>器官芯片</h1><ul>
+<li>器官芯片不是电子的哦，是一种微流控装置，里面有连续的流动的血液。</li>
+<li>器官芯片：借用芯片加工工艺，在微流控里重构器官。<ul>
+<li>第一步：二维细胞培养</li>
+<li>第二步：三维细胞培养</li>
+<li>第三步：organ chip, since 2011.</li>
+</ul>
+</li>
+</ul>
+<h1 id="类器官"><a href="#类器官" class="headerlink" title="类器官"></a>类器官</h1><p>类器官更便宜，但是没有血液。</p>
+<p>这是类器官。</p>
+<p><img src="/Microfluidics/image-20240119161355055.png" alt="image-20240119161355055"></p>
+<p>这是器官芯片。</p>
+<p><img src="/Microfluidics/image-20240119161401996.png" alt="image-20240119161401996"></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-05</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -5615,50 +5616,6 @@
         <tag>fun</tag>
         <tag>AI</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>微流控、器官芯片、类器官</title>
-    <url>/2023/05/21/Microfluidics/</url>
-    <content><![CDATA[<h1 id="微流控"><a href="#微流控" class="headerlink" title="微流控"></a>微流控</h1><p>微流控，理解成流速很低就可以了。</p>
-<p>物理上，它是层流，而非湍流。从而，你可以做一些简单的计算。</p>
-<p>生物上，很多组做了一些微流控装置，比如皮肤芯片，里面同样用血液。</p>
-<h1 id="器官芯片"><a href="#器官芯片" class="headerlink" title="器官芯片"></a>器官芯片</h1><ul>
-<li>器官芯片不是电子的哦，是一种微流控装置，里面有连续的流动的血液。</li>
-<li>器官芯片：借用芯片加工工艺，在微流控里重构器官。<ul>
-<li>第一步：二维细胞培养</li>
-<li>第二步：三维细胞培养</li>
-<li>第三步：organ chip, since 2011.</li>
-</ul>
-</li>
-</ul>
-<h1 id="类器官"><a href="#类器官" class="headerlink" title="类器官"></a>类器官</h1><p>类器官更便宜，但是没有血液。</p>
-<p>这是类器官。</p>
-<p><img src="/Microfluidics/image-20240119161355055.png" alt="image-20240119161355055"></p>
-<p>这是器官芯片。</p>
-<p><img src="/Microfluidics/image-20240119161401996.png" alt="image-20240119161401996"></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-05</category>
-      </categories>
-      <tags>
-        <tag>physics</tag>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>遗思憾缕</title>
-    <url>/2023/11/06/Miss/</url>
-    <content><![CDATA[<p>整理加入Wen Lab之后的课题成果、幻灯片，看到了很多去年秋天的文件。</p>
-<p>老哥，你什么时候才能不再天天遗思憾缕？</p>
-<p>你心里很清楚，没有人喜欢优柔寡断的人。</p>
-<hr>
-<p>你带走我的思念，却没说抱歉。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-11</category>
-      </categories>
   </entry>
   <entry>
     <title>奶茶</title>
@@ -5716,6 +5673,49 @@
       </tags>
   </entry>
   <entry>
+    <title>遗思憾缕</title>
+    <url>/2023/11/06/Miss/</url>
+    <content><![CDATA[<p>整理加入Wen Lab之后的课题成果、幻灯片，看到了很多去年秋天的文件。</p>
+<p>老哥，你什么时候才能不再天天遗思憾缕？</p>
+<p>你心里很清楚，没有人喜欢优柔寡断的人。</p>
+<hr>
+<p>你带走我的思念，却没说抱歉。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Marie Curie</title>
+    <url>/2021/09/23/Marie_Curie/</url>
+    <content><![CDATA[<h1 id="2021-09-23"><a href="#2021-09-23" class="headerlink" title="2021-09-23"></a>2021-09-23</h1><p>刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）</p>
+<p>当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。</p>
+<p>1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）</p>
+<p>一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）</p>
+<p>一战结束了，法国赢了，波兰独立了。华沙也建了一个镭学研究所，请居里夫人当名誉老大。</p>
+<p>三十多年前她只是一个离乡别父的小姑娘，现在她已经是全民偶像。</p>
+<h1 id="2021-10-07-update"><a href="#2021-10-07-update" class="headerlink" title="2021-10-07 update"></a>2021-10-07 update</h1><p>1795-1918，波兰亡国123年。但是在123年的亡国期间，波兰并没有丢失自己的语言和文化，因此各种独立运动不断。</p>
+<p>以上的文字不是很生动，但请继续看：</p>
+<p>Marie Curie 1867-1934：</p>
+<p>其父母为波兰独立运动的支持者。一家人因为支持波兰独立而穷困潦倒。</p>
+<p>居里夫人上的中学是一个“地下学校”</p>
+<p>居里夫人曾经和一个波兰青年处对象。他一家也是波兰独立运动的支持者。他后来也成了一个比较牛的数学家，他和Banach是朋友。</p>
+<p>1898，居里夫妇把新发现的元素命名为Polonium，以纪念“我们其中一人的祖国是Polska”。</p>
+<p>居里夫人曾聘用波兰教师教她的两个女儿波兰语。</p>
+<p>PS：其实我小学时候就听说过“以纪念祖国波兰”这句话。但是直到最近我才知道这句话的分量。</p>
+<p>Marie Curie, look at her lifetime, she is so nb.</p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-09</category>
+      </categories>
+      <tags>
+        <tag>nationalism</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>因汤晓鸥，立一个flag</title>
     <url>/2023/12/20/Miss_Tang/</url>
     <content><![CDATA[<p>今天和科考在物质楼爬楼，遇上一个老师，夸我们锻炼身体很好，还提到前几天汤晓鸥意外去世的事，说他下个月本来还要去见汤老师。他叹息着说：“他才55岁啊！”</p>
@@ -5745,22 +5745,6 @@
       </tags>
   </entry>
   <entry>
-    <title>你统计物理学会了吗？就这么张扬？</title>
-    <url>/2022/07/01/Modesty_in_Statistical_Physics/</url>
-    <content><![CDATA[<p>写这篇文章时候已经是2023年11月。</p>
-<p>我记得那天，和我的一位朋友在西图自习。我看到去年今日的说说（2021年7月），然后很张扬地发了一个日志。</p>
-<p>我真的不知道，为什么当时的我会那么傲慢。我统计物理学得压根不好，干嘛这样？</p>
-<p>傲慢和傲骨是两个概念！</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-07</category>
-      </categories>
-      <tags>
-        <tag>modesty</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>谦逊</title>
     <url>/2023/09/22/Modesty/</url>
     <content><![CDATA[<p>今日讲完理论JC，和一位师兄一起去吃饭，他所言让我思考良多。</p>
@@ -5772,6 +5756,22 @@
       <categories>
         <category>2023</category>
         <category>2023-09</category>
+      </categories>
+      <tags>
+        <tag>modesty</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你统计物理学会了吗？就这么张扬？</title>
+    <url>/2022/07/01/Modesty_in_Statistical_Physics/</url>
+    <content><![CDATA[<p>写这篇文章时候已经是2023年11月。</p>
+<p>我记得那天，和我的一位朋友在西图自习。我看到去年今日的说说（2021年7月），然后很张扬地发了一个日志。</p>
+<p>我真的不知道，为什么当时的我会那么傲慢。我统计物理学得压根不好，干嘛这样？</p>
+<p>傲慢和傲骨是两个概念！</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-07</category>
       </categories>
       <tags>
         <tag>modesty</tag>
@@ -5796,6 +5796,24 @@
       <tags>
         <tag>statistics</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的父亲</title>
+    <url>/2023/05/18/My_Father/</url>
+    <content><![CDATA[<p>母亲节那天写了写母亲，今天突然想写一写父亲。 </p>
+<p>父亲是警察，刑警。 </p>
+<p>我成年之前，他从来不对我说他工作上的事情，现在想来，估计是太黑暗了吧。成年之后，他也不会主动说，我问他时他倒是会告诉我。他也很少和我妈说，至少我极少见到他俩讨论。 </p>
+<p>他工作压力大的时候，从来不向我和我妈发泄。我从没听见他说他工作压力大，也从没感觉到他有压力大的时候。 </p>
+<p>最近，我突然开始想起他，因为我发现这件事上他做得比我好。 </p>
+<p>虽然出于某些原因我并不是很崇拜他，但是站在国家的角度看，他的的确确是一个好人。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-05</category>
+      </categories>
+      <tags>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -5879,27 +5897,9 @@
         <category>2018-08</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的父亲</title>
-    <url>/2023/05/18/My_Father/</url>
-    <content><![CDATA[<p>母亲节那天写了写母亲，今天突然想写一写父亲。 </p>
-<p>父亲是警察，刑警。 </p>
-<p>我成年之前，他从来不对我说他工作上的事情，现在想来，估计是太黑暗了吧。成年之后，他也不会主动说，我问他时他倒是会告诉我。他也很少和我妈说，至少我极少见到他俩讨论。 </p>
-<p>他工作压力大的时候，从来不向我和我妈发泄。我从没听见他说他工作压力大，也从没感觉到他有压力大的时候。 </p>
-<p>最近，我突然开始想起他，因为我发现这件事上他做得比我好。 </p>
-<p>虽然出于某些原因我并不是很崇拜他，但是站在国家的角度看，他的的确确是一个好人。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-05</category>
-      </categories>
-      <tags>
-        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -5946,34 +5946,11 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>火影忍者的完美结局</title>
-    <url>/2024/05/28/Naruto/</url>
-    <content><![CDATA[<p>当上了火影的纲手一个人坐在池子旁的亭子里，拿着酒壶，披着赌徒的衣服，呆呆地望着水面。自来也的声音突然响起，一本书凭空出现在亭子中央，纲手捡起来，发现是自来也写的小说。</p>
-<p>在小说的剧情中，第一，玖辛奈和水门在九尾作乱时都没有死；第二，水门和三代夜访宇智波化政变于无形，因此止水和鼬也避免了自己的命运；第三，由于某些原因，弥彦也没有死，弥彦长门小南还在一起追寻和平。不过这个版本的佐助却因为鸣人进步速度比自己快而心生嫉妒，依然跑去找大蛇丸要力量，最后同样和鸣人打成平手后回到了木叶。</p>
-<p>纲手读着读着睡着了。她醒来时发现，逝去的恋人断正站在自己的身边，穿着火影的斗笠。远处，自来也的声音传来，她望去，发现弟弟、自来也、大蛇丸正在一起有说有笑。</p>
-<p>这大概是最美好的火影之一了。不过正因为原版是痛苦且残忍的，我才会觉得此版如此温馨和美好。如果从不知道鼬的经历，我也不会因为鼬和家人其乐融融而开心；如果从不知道弥彦三人的经历，我也不会因为他们还活着还在一起而开心。</p>
-<hr>
-<p>我的性格和鸣人、弥彦很像。既然如此，接受自己的性格，做自己想做的事。</p>
-<p>我想起了弥彦说过的一句话：自己的缺点，就让同伴来补足。</p>
-<hr>
-<p>你以为看火影没有现实意义吗？</p>
-<p>当今世界，世界大战一触即发，有谁能够像波风水门夜访宇智波一样化战争于无形呢？</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-05</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>Naruto</tag>
       </tags>
   </entry>
   <entry>
@@ -6024,11 +6001,34 @@
         <category>2022-08</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>statistics</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>history</tag>
         <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>火影忍者的完美结局</title>
+    <url>/2024/05/28/Naruto/</url>
+    <content><![CDATA[<p>当上了火影的纲手一个人坐在池子旁的亭子里，拿着酒壶，披着赌徒的衣服，呆呆地望着水面。自来也的声音突然响起，一本书凭空出现在亭子中央，纲手捡起来，发现是自来也写的小说。</p>
+<p>在小说的剧情中，第一，玖辛奈和水门在九尾作乱时都没有死；第二，水门和三代夜访宇智波化政变于无形，因此止水和鼬也避免了自己的命运；第三，由于某些原因，弥彦也没有死，弥彦长门小南还在一起追寻和平。不过这个版本的佐助却因为鸣人进步速度比自己快而心生嫉妒，依然跑去找大蛇丸要力量，最后同样和鸣人打成平手后回到了木叶。</p>
+<p>纲手读着读着睡着了。她醒来时发现，逝去的恋人断正站在自己的身边，穿着火影的斗笠。远处，自来也的声音传来，她望去，发现弟弟、自来也、大蛇丸正在一起有说有笑。</p>
+<p>这大概是最美好的火影之一了。不过正因为原版是痛苦且残忍的，我才会觉得此版如此温馨和美好。如果从不知道鼬的经历，我也不会因为鼬和家人其乐融融而开心；如果从不知道弥彦三人的经历，我也不会因为他们还活着还在一起而开心。</p>
+<hr>
+<p>我的性格和鸣人、弥彦很像。既然如此，接受自己的性格，做自己想做的事。</p>
+<p>我想起了弥彦说过的一句话：自己的缺点，就让同伴来补足。</p>
+<hr>
+<p>你以为看火影没有现实意义吗？</p>
+<p>当今世界，世界大战一触即发，有谁能够像波风水门夜访宇智波一样化战争于无形呢？</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>Naruto</tag>
       </tags>
   </entry>
   <entry>
@@ -6137,6 +6137,30 @@
       </tags>
   </entry>
   <entry>
+    <title>OneNote + Markdown</title>
+    <url>/2023/09/01/OneNote_Markdown/</url>
+    <content><![CDATA[<p>下载安装<a href="https://onemark.neuxlab.cn/">OneMark</a>后，即可在OneNote里使用Markdown。</p>
+<hr>
+<p>效果如图：</p>
+<img src="/2023/09/01/OneNote_Markdown/1.jpg" class="">
+
+<hr>
+<p>支持<a href="https://theme.typora.io/">Typora主题</a>，<a href="https://onemark.neuxlab.cn/docs/zh-cn/theme/">添加主题的方法</a>和Typora类似。</p>
+<hr>
+<p>目前我遇到的唯一一个缺点是——LaTeX中无法换行。</p>
+<p>我已经给OneMark开发者发邮件询问此事。</p>
+<hr>
+<p>Thanks for OneMark!!!</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-09</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>诺兰新片Oppenheimer</title>
     <url>/2023/06/14/Oppenheimer_of_Nolan/</url>
     <content><![CDATA[<p>今天看了诺兰新片<em>Oppenheimer</em>的预告片，质量极高，这部电影很可能会让诺兰终拿奥斯卡奖。诺兰的黑暗骑士、盗梦空间，我都甚爱。</p>
@@ -6177,27 +6201,26 @@
       </tags>
   </entry>
   <entry>
-    <title>OneNote + Markdown</title>
-    <url>/2023/09/01/OneNote_Markdown/</url>
-    <content><![CDATA[<p>下载安装<a href="https://onemark.neuxlab.cn/">OneMark</a>后，即可在OneNote里使用Markdown。</p>
-<hr>
-<p>效果如图：</p>
-<img src="/2023/09/01/OneNote_Markdown/1.jpg" class="">
-
-<hr>
-<p>支持<a href="https://theme.typora.io/">Typora主题</a>，<a href="https://onemark.neuxlab.cn/docs/zh-cn/theme/">添加主题的方法</a>和Typora类似。</p>
-<hr>
-<p>目前我遇到的唯一一个缺点是——LaTeX中无法换行。</p>
-<p>我已经给OneMark开发者发邮件询问此事。</p>
-<hr>
-<p>Thanks for OneMark!!!</p>
+    <title>圣光和魔法</title>
+    <url>/2024/01/13/Paladin_and_Mage/</url>
+    <content><![CDATA[<p>在一个遥远的国度，有一位王子，他学的是圣光，职业是圣骑士。</p>
+<p>王国旁边有一个小岛国，岛国的最高统治者被称为海军上将。海军上将的女儿——也就是岛国的公主，学的是魔法，职业是法师。</p>
+<p>王子和公主小时在同一所学校学习。因为职业不同，两人很少相见。</p>
+<p>有一天，王国遭到了异族的入侵。</p>
+<p>王子和公主齐心协力，击败了侵略者，拯救了大量无辜的市民。</p>
+<p>在这个过程中，他们彼此相爱。</p>
+<p>最后，在把所有侵略者都赶出边境后，国王为两人举行了盛大的婚礼。</p>
+<p>乐师们敲着沉重的钟鼓，空中玫瑰瓣纷纷而落。王子举起手，爱抚着其中一瓣，随后把它别在了公主的头上。</p>
+<p>从此，两个人过上了幸福的生活。</p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-09</category>
+        <category>2024</category>
+        <category>2024-01</category>
       </categories>
       <tags>
-        <tag>tools</tag>
+        <tag>fun</tag>
+        <tag>love</tag>
+        <tag>story</tag>
       </tags>
   </entry>
   <entry>
@@ -6270,32 +6293,9 @@
         <category>2022-10</category>
       </categories>
       <tags>
+        <tag>fun</tag>
         <tag>science</tag>
-        <tag>fun</tag>
         <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>圣光和魔法</title>
-    <url>/2024/01/13/Paladin_and_Mage/</url>
-    <content><![CDATA[<p>在一个遥远的国度，有一位王子，他学的是圣光，职业是圣骑士。</p>
-<p>王国旁边有一个小岛国，岛国的最高统治者被称为海军上将。海军上将的女儿——也就是岛国的公主，学的是魔法，职业是法师。</p>
-<p>王子和公主小时在同一所学校学习。因为职业不同，两人很少相见。</p>
-<p>有一天，王国遭到了异族的入侵。</p>
-<p>王子和公主齐心协力，击败了侵略者，拯救了大量无辜的市民。</p>
-<p>在这个过程中，他们彼此相爱。</p>
-<p>最后，在把所有侵略者都赶出边境后，国王为两人举行了盛大的婚礼。</p>
-<p>乐师们敲着沉重的钟鼓，空中玫瑰瓣纷纷而落。王子举起手，爱抚着其中一瓣，随后把它别在了公主的头上。</p>
-<p>从此，两个人过上了幸福的生活。</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-01</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>love</tag>
-        <tag>story</tag>
       </tags>
   </entry>
   <entry>
@@ -6404,38 +6404,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Prion</title>
-    <url>/2022/10/19/Prion/</url>
-    <content><![CDATA[<ul>
-<li>Prion Protein 缩写为$PrP$.</li>
-<li>$PrP^{Sc}$和$PrP^{C}$的1D序列相同，但3D结构不同，这打破了蛋白质一维序列决定三维结构的“定律”</li>
-<li>$PrP^{C}$<ul>
-<li>结构：209个氨基酸残基，糖蛋白，alpha螺旋为主</li>
-<li>功能：尚不清楚</li>
-</ul>
-</li>
-<li>$PrP^{Sc}$<ul>
-<li>结构：beta折叠为主</li>
-</ul>
-</li>
-<li>$PrP$自我复制的一种模型<ul>
-<li>Nucleation</li>
-<li>Elongation</li>
-<li>Fragmentation</li>
-</ul>
-</li>
-<li>蛋白质错误折叠对Prion、AD、帕金森均有贡献，后两者的蛋白质错误折叠也很可能用同样的自我复制机制。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>琵琶</title>
     <url>/2023/10/28/Pipa/</url>
     <content><![CDATA[<p>昨晚去东区大礼堂听了中央民族乐团的演奏，太帅了。</p>
@@ -6506,6 +6474,38 @@
       <tags>
         <tag>science</tag>
         <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Prion</title>
+    <url>/2022/10/19/Prion/</url>
+    <content><![CDATA[<ul>
+<li>Prion Protein 缩写为$PrP$.</li>
+<li>$PrP^{Sc}$和$PrP^{C}$的1D序列相同，但3D结构不同，这打破了蛋白质一维序列决定三维结构的“定律”</li>
+<li>$PrP^{C}$<ul>
+<li>结构：209个氨基酸残基，糖蛋白，alpha螺旋为主</li>
+<li>功能：尚不清楚</li>
+</ul>
+</li>
+<li>$PrP^{Sc}$<ul>
+<li>结构：beta折叠为主</li>
+</ul>
+</li>
+<li>$PrP$自我复制的一种模型<ul>
+<li>Nucleation</li>
+<li>Elongation</li>
+<li>Fragmentation</li>
+</ul>
+</li>
+<li>蛋白质错误折叠对Prion、AD、帕金森均有贡献，后两者的蛋白质错误折叠也很可能用同样的自我复制机制。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-10</category>
+      </categories>
+      <tags>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -6615,26 +6615,6 @@
       </tags>
   </entry>
   <entry>
-    <title>劝学、师说</title>
-    <url>/2020/12/23/Quan_Xue_Shi_Shuo/</url>
-    <content><![CDATA[<blockquote>
-<p>吾尝终日而思矣，不如须臾之所学也</p>
-</blockquote>
-<p>我曾经用一天的时间看教材，却懒于自己动手推公式。</p>
-<blockquote>
-<p>古之圣人，其出人也远矣，犹且从师而问焉；今之众人，其下圣人也亦远矣，而耻学于师。</p>
-</blockquote>
-<p>大学里大家有不懂的知识，去问老师、问同学的人的比例比小学、初中、高中少。不过，我们确实需要在自己思考和问老师之间找一个平衡，如果提问成本太低就会不愿意自己思考。</p>
-]]></content>
-      <categories>
-        <category>2020</category>
-        <category>2020-12</category>
-      </categories>
-      <tags>
-        <tag>literature</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的问答箱</title>
     <url>/2023/12/31/Questions_About_Me/</url>
     <content><![CDATA[<h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p><a href="https://physics-lee.github.io/pdfs/Questions_About_Me_Chinese">我的问答箱</a></p>
@@ -6704,6 +6684,26 @@
       </categories>
   </entry>
   <entry>
+    <title>劝学、师说</title>
+    <url>/2020/12/23/Quan_Xue_Shi_Shuo/</url>
+    <content><![CDATA[<blockquote>
+<p>吾尝终日而思矣，不如须臾之所学也</p>
+</blockquote>
+<p>我曾经用一天的时间看教材，却懒于自己动手推公式。</p>
+<blockquote>
+<p>古之圣人，其出人也远矣，犹且从师而问焉；今之众人，其下圣人也亦远矣，而耻学于师。</p>
+</blockquote>
+<p>大学里大家有不懂的知识，去问老师、问同学的人的比例比小学、初中、高中少。不过，我们确实需要在自己思考和问老师之间找一个平衡，如果提问成本太低就会不愿意自己思考。</p>
+]]></content>
+      <categories>
+        <category>2020</category>
+        <category>2020-12</category>
+      </categories>
+      <tags>
+        <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>提高效率</title>
     <url>/2023/12/21/Raise_Efficiency/</url>
     <content><![CDATA[<p>本来在健身房锻炼，晚上七点去的，八点多时，突然感到异常地困。</p>
@@ -6720,6 +6720,24 @@
       </categories>
       <tags>
         <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>岳飞</title>
+    <url>/2023/06/18/Remember_Yue-Fei/</url>
+    <content><![CDATA[<p>前几日，快半夜了，舍友D十分郁闷地唉声叹气。 </p>
+<p>我：怎么了？ </p>
+<p>D：明天又要开组会，我又要汇报，睡不着。 </p>
+<p>我：睡不着也不要唉声叹气嘛，你看看人家岳飞睡不着的时候，人悄悄，帘外月胧明，知音少，弦断有谁听。 </p>
+<p>D：岳飞又不用每周汇报一次。</p>
+<p>我：岳飞的压力比你我大多了吧。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
       </tags>
   </entry>
   <entry>
@@ -6785,40 +6803,6 @@
       </categories>
       <tags>
         <tag>tools</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>岳飞</title>
-    <url>/2023/06/18/Remember_Yue-Fei/</url>
-    <content><![CDATA[<p>前几日，快半夜了，舍友D十分郁闷地唉声叹气。 </p>
-<p>我：怎么了？ </p>
-<p>D：明天又要开组会，我又要汇报，睡不着。 </p>
-<p>我：睡不着也不要唉声叹气嘛，你看看人家岳飞睡不着的时候，人悄悄，帘外月胧明，知音少，弦断有谁听。 </p>
-<p>D：岳飞又不用每周汇报一次。</p>
-<p>我：岳飞的压力比你我大多了吧。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>西江月·归乡</title>
-    <url>/2022/12/19/Return_Home/</url>
-    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
-<p>金阳银柳待归来，未见已达三载。</p>
-<p>恍恍学期已尽，悠悠未见蓬莱。</p>
-<p>为期有日易吾才，不负思如雪白。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -6927,6 +6911,22 @@
       </categories>
   </entry>
   <entry>
+    <title>西江月·归乡</title>
+    <url>/2022/12/19/Return_Home/</url>
+    <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
+<p>金阳银柳待归来，未见已达三载。</p>
+<p>恍恍学期已尽，悠悠未见蓬莱。</p>
+<p>为期有日易吾才，不负思如雪白。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>岩画</title>
     <url>/2024/05/04/Rock_Art/</url>
     <content><![CDATA[<p>我：练托福时候岩画出现了很多次，有个题介绍了澳大利亚西北部的一处岩画 (<a href="https://en.wikipedia.org/wiki/Gwion_Gwion_rock_paintings">Bradshaw rock art</a>)，从一万多年前一直画到上个世纪。</p>
@@ -6944,6 +6944,26 @@
       </categories>
       <tags>
         <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>智者不入爱河</title>
+    <url>/2022/08/12/Sages_Never_Consider_No_Love_A_Pity/</url>
+    <content><![CDATA[<p>智者不入爱河。</p>
+<p>寡王一路硕博。</p>
+<p>建设美丽中国。</p>
+<hr>
+<p>Sages never consider no love a pity.</p>
+<p>King of single dogs only cares about PhD.</p>
+<p>Together we will build a more beautiful society.</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-08</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>translation</tag>
       </tags>
   </entry>
   <entry>
@@ -7069,26 +7089,6 @@
       </tags>
   </entry>
   <entry>
-    <title>智者不入爱河</title>
-    <url>/2022/08/12/Sages_Never_Consider_No_Love_A_Pity/</url>
-    <content><![CDATA[<p>智者不入爱河。</p>
-<p>寡王一路硕博。</p>
-<p>建设美丽中国。</p>
-<hr>
-<p>Sages never consider no love a pity.</p>
-<p>King of single dogs only cares about PhD.</p>
-<p>Together we will build a more beautiful society.</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-08</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Salvador Allende</title>
     <url>/2023/11/30/Salvador_Allende/</url>
     <content><![CDATA[<p>今日看到新闻，基辛格去世。</p>
@@ -7142,22 +7142,6 @@
       <tags>
         <tag>basketball</tag>
         <tag>THINK</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>受重伤</title>
-    <url>/2021/11/01/Severely_Injured/</url>
-    <content><![CDATA[<p>我现在有点理解那些受重伤的运动员了，罗斯啊，丁彦雨航啊。</p>
-<p>他们受伤期间必然会经历极大的精神压力。</p>
-<p><strong>因为以前能锻炼，现在不能锻炼了。</strong></p>
-<p><strong>因为以前能做的动作，现在做不了了。</strong></p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-11</category>
-      </categories>
-      <tags>
-        <tag>injury</tag>
       </tags>
   </entry>
   <entry>
@@ -7224,6 +7208,22 @@
       <tags>
         <tag>capitalism</tag>
         <tag>sex trafficking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>受重伤</title>
+    <url>/2021/11/01/Severely_Injured/</url>
+    <content><![CDATA[<p>我现在有点理解那些受重伤的运动员了，罗斯啊，丁彦雨航啊。</p>
+<p>他们受伤期间必然会经历极大的精神压力。</p>
+<p><strong>因为以前能锻炼，现在不能锻炼了。</strong></p>
+<p><strong>因为以前能做的动作，现在做不了了。</strong></p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-11</category>
+      </categories>
+      <tags>
+        <tag>injury</tag>
       </tags>
   </entry>
   <entry>
@@ -7301,49 +7301,6 @@
       </categories>
       <tags>
         <tag>running</tag>
-        <tag>basketball</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>边线talk</title>
-    <url>/2023/05/30/Sideline_Talk/</url>
-    <content><![CDATA[<p>第一集 西热力江、林葳</p>
-<p>西热谈到自己第一次打cba，在替补席上看到外援绝杀，教练问，这个球如果我让你上，你紧不紧张。</p>
-<p>西热：不紧张。</p>
-<p>教练：好好训练。</p>
-<p>西热评林葳：他将来一定是现役nba球员</p>
-<p>西热：我如果早两年拿到去美国试训的机会，这个东西无论如何我也要一定一定抓住。</p>
-<p>西热：看笑话针对我个人，别牵连其他人。</p>
-<hr>
-<p>第二集 孙悦、曾凡博</p>
-<p>孙悦说自己当年试训时候打爆了首轮秀。但是他还是没能在首轮被选中。毕竟其他人的大学阶段都是一步一步上来的，他没有这些稳定的过去供参考。</p>
-<hr>
-<p>第三集 不是很喜欢</p>
-<hr>
-<p>第四集</p>
-<p>阿布和孙铭徽回忆2019年世界杯，他俩心里倒是已经放下了。</p>
-<p>主持人告诉两人要保持热爱、保持快乐，这是cba最缺少的东西。</p>
-<hr>
-<p>第五集</p>
-<p>新疆队的两个外援，一个来自美国，一个来自塞内加尔。</p>
-<p>俩人认为中国球员缺少对篮球的快乐、热爱、灵气，因为从小被管得太严了，篮球队像军队一样。PJ认为只有郭艾伦才有灵气。</p>
-<p>俩人对比了一下NBA和CBA的训练，<strong>NBA的训练分两拨，上场时间长的球员主要做康复训练，上场时间短的球员练得多一些，但是也不如中国多。</strong>区别是，CBA是教练逼着你练，NBA是靠自觉。区别是，NBA的竞争更激烈些，不练就会丢掉工作。</p>
-<p>CBA要不要扩大外援数量？这是一个很复杂的问题。扩大了也许会好也许会不好。可以试试看。</p>
-<p>中国篮球怎么才能变得更好？更自由、更浪漫的篮球教学。</p>
-<p>中国有哪些有潜力的球员？俩人回答当然有，王哲林、齐麟都是。</p>
-<hr>
-<p>第六集、第七集：不喜欢，没看完</p>
-<hr>
-<p>总得来说这是一个非常不错的节目，让我了解了篮球的另一面，也让我思考篮球界和学术界的一些异同。</p>
-<p>我了解到了阿布和孙铭徽是怎么看2019世界杯的。</p>
-<p>我了解到西热的狂、林葳的谦逊。</p>
-<p>我了解到了热爱、快乐、自由、浪漫的重要。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-05</category>
-      </categories>
-      <tags>
         <tag>basketball</tag>
       </tags>
   </entry>
@@ -7438,8 +7395,8 @@
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>statistics</tag>
       </tags>
   </entry>
@@ -7522,6 +7479,49 @@
         <tag>scientific misconduct</tag>
         <tag>capitalism</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>边线talk</title>
+    <url>/2023/05/30/Sideline_Talk/</url>
+    <content><![CDATA[<p>第一集 西热力江、林葳</p>
+<p>西热谈到自己第一次打cba，在替补席上看到外援绝杀，教练问，这个球如果我让你上，你紧不紧张。</p>
+<p>西热：不紧张。</p>
+<p>教练：好好训练。</p>
+<p>西热评林葳：他将来一定是现役nba球员</p>
+<p>西热：我如果早两年拿到去美国试训的机会，这个东西无论如何我也要一定一定抓住。</p>
+<p>西热：看笑话针对我个人，别牵连其他人。</p>
+<hr>
+<p>第二集 孙悦、曾凡博</p>
+<p>孙悦说自己当年试训时候打爆了首轮秀。但是他还是没能在首轮被选中。毕竟其他人的大学阶段都是一步一步上来的，他没有这些稳定的过去供参考。</p>
+<hr>
+<p>第三集 不是很喜欢</p>
+<hr>
+<p>第四集</p>
+<p>阿布和孙铭徽回忆2019年世界杯，他俩心里倒是已经放下了。</p>
+<p>主持人告诉两人要保持热爱、保持快乐，这是cba最缺少的东西。</p>
+<hr>
+<p>第五集</p>
+<p>新疆队的两个外援，一个来自美国，一个来自塞内加尔。</p>
+<p>俩人认为中国球员缺少对篮球的快乐、热爱、灵气，因为从小被管得太严了，篮球队像军队一样。PJ认为只有郭艾伦才有灵气。</p>
+<p>俩人对比了一下NBA和CBA的训练，<strong>NBA的训练分两拨，上场时间长的球员主要做康复训练，上场时间短的球员练得多一些，但是也不如中国多。</strong>区别是，CBA是教练逼着你练，NBA是靠自觉。区别是，NBA的竞争更激烈些，不练就会丢掉工作。</p>
+<p>CBA要不要扩大外援数量？这是一个很复杂的问题。扩大了也许会好也许会不好。可以试试看。</p>
+<p>中国篮球怎么才能变得更好？更自由、更浪漫的篮球教学。</p>
+<p>中国有哪些有潜力的球员？俩人回答当然有，王哲林、齐麟都是。</p>
+<hr>
+<p>第六集、第七集：不喜欢，没看完</p>
+<hr>
+<p>总得来说这是一个非常不错的节目，让我了解了篮球的另一面，也让我思考篮球界和学术界的一些异同。</p>
+<p>我了解到了阿布和孙铭徽是怎么看2019世界杯的。</p>
+<p>我了解到西热的狂、林葳的谦逊。</p>
+<p>我了解到了热爱、快乐、自由、浪漫的重要。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-05</category>
+      </categories>
+      <tags>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
@@ -7659,24 +7659,6 @@
       </tags>
   </entry>
   <entry>
-    <title>运动会</title>
-    <url>/2023/10/27/Sports_Meet/</url>
-    <content><![CDATA[<p>今天学校又举办运动会了。</p>
-<p>6次运动会，受伤4次，疫情1次，大二上理力光学学不会没参加1次。</p>
-<p>我的心肺能力极佳，刚上大学时静息心率就只有55，大三下时降到47。这是父母赐予我的无与伦比的天赋。</p>
-<p>之前力量训练一直不规律，导致短跑、弹跳都不太行，导致膝盖、脚踝容易受伤。这多少有些挥霍天赋。</p>
-<p>而今而后，我将珍视我的天赋，规律力训。毕竟我也才23，篮球运动员的巅峰是30。</p>
-<p>我不希望三四十岁的时候回头一看，发现我和郭艾伦、王哲林一样，十年水平止步不前，被天赋不如自己的人超越。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-10</category>
-      </categories>
-      <tags>
-        <tag>injury</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Stephan Hawking Talking About AI</title>
     <url>/2024/04/02/Stephan_Hawking_Answering_AI/</url>
     <content><![CDATA[<p>Today, when I searched for whether Hawking used eye-tracking for typing or speaking, I found a <a href="https://www.youtube.com/watch?v=IGorZafXOFY">video</a> on YouTube, which is the Q &amp; A of Hawking at the Imperial College London.</p>
@@ -7707,6 +7689,24 @@
       <tags>
         <tag>AI</tag>
         <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>运动会</title>
+    <url>/2023/10/27/Sports_Meet/</url>
+    <content><![CDATA[<p>今天学校又举办运动会了。</p>
+<p>6次运动会，受伤4次，疫情1次，大二上理力光学学不会没参加1次。</p>
+<p>我的心肺能力极佳，刚上大学时静息心率就只有55，大三下时降到47。这是父母赐予我的无与伦比的天赋。</p>
+<p>之前力量训练一直不规律，导致短跑、弹跳都不太行，导致膝盖、脚踝容易受伤。这多少有些挥霍天赋。</p>
+<p>而今而后，我将珍视我的天赋，规律力训。毕竟我也才23，篮球运动员的巅峰是30。</p>
+<p>我不希望三四十岁的时候回头一看，发现我和郭艾伦、王哲林一样，十年水平止步不前，被天赋不如自己的人超越。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-10</category>
+      </categories>
+      <tags>
+        <tag>injury</tag>
       </tags>
   </entry>
   <entry>
@@ -7782,33 +7782,6 @@
       <tags>
         <tag>fun</tag>
         <tag>injury</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>学生活动</title>
-    <url>/2024/04/27/Student_Activity/</url>
-    <content><![CDATA[<p>跑步时候想了很多，</p>
-<p>那是1933年的德国，一群学生支持纳粹上台。</p>
-<p>那是1956年的匈牙利，一群学生支持政府改革。</p>
-<p>那是1968年的法国，一群学生支持社会主义，法国总统跑路国外。</p>
-<p>那是1968年的捷克斯洛伐克，布拉格之春。</p>
-<p>那是1989年的东欧、1991年的苏联，你们都知道发生了什么。</p>
-<p>那是2022年的俄罗斯和2023年的以色列。</p>
-<p>以上活动，有些支持爱国主义&#x2F;民族主义，有些支持社会主义，有些支持自由资本主义。</p>
-<p>但他们都有一个共同点，那就是勇气。</p>
-<p>勇气是我们这些生活在和平年代的人最缺少的东西之一。比如说，我。我从小可以说是在蜜糖里长大的，想吃啥吃啥，想穿啥穿啥，想玩啥玩啥。</p>
-<p>勇气也是科学界的人最缺少的东西之一。学术界的人太缺少血性和斗争精神了。但是，根据我个人的经历，科学圈的斗争，一点都不比政治圈和商业圈弱。自二战后，学术界越来越僧多粥少，在可预见的未来五十年，僧多粥少的现象只会越来越严重。</p>
-<p>我一直觉得自己太过软弱。我可以把身体练得很壮，但心的强大，才是真的强大。很多时候，可以往前走一步的时候，我选择了往后退一步。有对未知的恐惧，有对舒适圈的依赖。</p>
-<p>借用一个名人的话，鼓励一下自己，希望我以后能永远铭记在心：</p>
-<p>我们是孩子，但是我们精力充沛，勇往直前！</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-04</category>
-      </categories>
-      <tags>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -7905,28 +7878,30 @@
       </tags>
   </entry>
   <entry>
-    <title>是他们不配！</title>
-    <url>/2023/09/09/TA_Training/</url>
-    <content><![CDATA[<p>草，潘海俊的助教培训差点给我讲哭了。</p>
-<p>希望多年以后无论我身处何方所做何事都别忘了本科时候在USTC学的物理，别忘了学物理时候遇到的那些人。</p>
-<p>接下来来点最近一直想说的话： 我们这个学校有波澜壮阔的历史，自从58年建校时就是反右运动的港湾之一，为很多右派提供了保护。共和国的历次运动，我们都有参与。</p>
-<p>严济慈、钱学森、郭永怀、钱临照、赵忠尧五人，都配得上“国士无双”这四个字，去维基百科查查他们的故事吧。1950s、60s、70s、80s的科大人可以说是这个国家乃至全人类的英雄，也不妨去查查。</p>
-<p>现在虽然没有往日荣光了，但还是有一些光荣传统留下来：至少物院的四大力学教学都不错，至少我遇到的半数以上的助教是很负责的。</p>
-<p>最近我的pyq和qq空间里骂科大的声音是越来越多了，我心里是很不高兴的。我知道科大有她的缺点，比如物院的普通物理教得不太好，比如生院各种烂事，比如有一些离谱的学生。但是我看到这些事，我会认为是那些离谱的老师和学生配不上中国科大，而不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。 </p>
-<p>我相信科大里干正事的老师是多数，搞乱七八糟的（造假、灌水、争名夺利）只是少数。</p>
-<p>好吧这只是一种信念，我没法证明。 </p>
-<p>物理是纯粹的，所以我希望我能永远记住我在科大学的物理。</p>
-<hr>
-<p>这篇文章可以看作我是对之前的我写的几篇文章的回答，包括<a href="https://physics-lee.github.io/2022/10/22/Kencheng_Zeng/">纪念曾肯成的</a>，以及<a href="https://physics-lee.github.io/2022/09/15/fuck_biology/">“感谢”生院的</a>。</p>
-<p><strong>不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。</strong></p>
+    <title>学生活动</title>
+    <url>/2024/04/27/Student_Activity/</url>
+    <content><![CDATA[<p>跑步时候想了很多，</p>
+<p>那是1933年的德国，一群学生支持纳粹上台。</p>
+<p>那是1956年的匈牙利，一群学生支持政府改革。</p>
+<p>那是1968年的法国，一群学生支持社会主义，法国总统跑路国外。</p>
+<p>那是1968年的捷克斯洛伐克，布拉格之春。</p>
+<p>那是1989年的东欧、1991年的苏联，你们都知道发生了什么。</p>
+<p>那是2022年的俄罗斯和2023年的以色列。</p>
+<p>以上活动，有些支持爱国主义&#x2F;民族主义，有些支持社会主义，有些支持自由资本主义。</p>
+<p>但他们都有一个共同点，那就是勇气。</p>
+<p>勇气是我们这些生活在和平年代的人最缺少的东西之一。比如说，我。我从小可以说是在蜜糖里长大的，想吃啥吃啥，想穿啥穿啥，想玩啥玩啥。</p>
+<p>勇气也是科学界的人最缺少的东西之一。学术界的人太缺少血性和斗争精神了。但是，根据我个人的经历，科学圈的斗争，一点都不比政治圈和商业圈弱。自二战后，学术界越来越僧多粥少，在可预见的未来五十年，僧多粥少的现象只会越来越严重。</p>
+<p>我一直觉得自己太过软弱。我可以把身体练得很壮，但心的强大，才是真的强大。很多时候，可以往前走一步的时候，我选择了往后退一步。有对未知的恐惧，有对舒适圈的依赖。</p>
+<p>借用一个名人的话，鼓励一下自己，希望我以后能永远铭记在心：</p>
+<p>我们是孩子，但是我们精力充沛，勇往直前！</p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-09</category>
+        <category>2024</category>
+        <category>2024-04</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
-        <tag>USTC</tag>
+        <tag>socialism</tag>
+        <tag>capitalism</tag>
       </tags>
   </entry>
   <entry>
@@ -8097,6 +8072,31 @@
       </tags>
   </entry>
   <entry>
+    <title>是他们不配！</title>
+    <url>/2023/09/09/TA_Training/</url>
+    <content><![CDATA[<p>草，潘海俊的助教培训差点给我讲哭了。</p>
+<p>希望多年以后无论我身处何方所做何事都别忘了本科时候在USTC学的物理，别忘了学物理时候遇到的那些人。</p>
+<p>接下来来点最近一直想说的话： 我们这个学校有波澜壮阔的历史，自从58年建校时就是反右运动的港湾之一，为很多右派提供了保护。共和国的历次运动，我们都有参与。</p>
+<p>严济慈、钱学森、郭永怀、钱临照、赵忠尧五人，都配得上“国士无双”这四个字，去维基百科查查他们的故事吧。1950s、60s、70s、80s的科大人可以说是这个国家乃至全人类的英雄，也不妨去查查。</p>
+<p>现在虽然没有往日荣光了，但还是有一些光荣传统留下来：至少物院的四大力学教学都不错，至少我遇到的半数以上的助教是很负责的。</p>
+<p>最近我的pyq和qq空间里骂科大的声音是越来越多了，我心里是很不高兴的。我知道科大有她的缺点，比如物院的普通物理教得不太好，比如生院各种烂事，比如有一些离谱的学生。但是我看到这些事，我会认为是那些离谱的老师和学生配不上中国科大，而不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。 </p>
+<p>我相信科大里干正事的老师是多数，搞乱七八糟的（造假、灌水、争名夺利）只是少数。</p>
+<p>好吧这只是一种信念，我没法证明。 </p>
+<p>物理是纯粹的，所以我希望我能永远记住我在科大学的物理。</p>
+<hr>
+<p>这篇文章可以看作我是对之前的我写的几篇文章的回答，包括<a href="https://physics-lee.github.io/2022/10/22/Kencheng_Zeng/">纪念曾肯成的</a>，以及<a href="https://physics-lee.github.io/2022/09/15/fuck_biology/">“感谢”生院的</a>。</p>
+<p><strong>不是中国科大变了，是他们不配在这个严济慈、郭永怀等人带领一批学生建立的学校下生活。</strong></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>THINK</title>
     <url>/2021/01/18/THINK/</url>
     <content><![CDATA[<p>刚才在<a href="https://en.wikipedia.org/wiki/Think_(slogan)">Wikipedia上看到IBM创始人在讨论think</a>：他说我们大多数人失败在了think上，因为think的确是很艰难的。</p>
@@ -8110,95 +8110,6 @@
       <tags>
         <tag>science</tag>
         <tag>THINK</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>与B谈话</title>
-    <url>/2022/10/25/Talk_With_B/</url>
-    <content><![CDATA[<blockquote>
-<p>我：记不记得2022春，你告诉我，师兄师姐告诉你，生院有几个教授一起去嫖娼被抓了？</p>
-<p>B：记得。</p>
-<p>我：前几天，咱们又听说，生院有几个教授搞婚外情，小三上位，这那的。</p>
-<p>B：是。</p>
-<p>我：我想起来某人，他和他老婆感情很好，他也不搞嫖娼、婚外情这些事，但是他学术造假。对这两类人，你怎么看？</p>
-<p>B：我觉得后一件事更严重。如果你是一个教授，你和另一个实验室有合作，你会因为那个实验室的老板嫖娼、婚外情而终止合作吗？</p>
-<p>我：不会。</p>
-<p>B：但是如果他学术造假，你怎么说？</p>
-<p>我：会。</p>
-<p>B：这不就完了。</p>
-</blockquote>
-<p>我们沉默了一会。</p>
-<blockquote>
-<p>我：以前我母亲问过我一个问题——现在有两个人要竞选市长，第一个人搞嫖娼也搞婚外情，但是很有业务能力，第二个人没什么业务能力，但是不乱搞男女关系。如果你是市民，你投票给谁？</p>
-<p>B：好问题。</p>
-<p>B：如果，第一个人，只是乱搞男女关系，而没有把他的情人都安排到政府上班，我会投他。</p>
-<p>我：但是，如果，我有一个女儿，在市政府上班，我绝对不会投票给第一个人。</p>
-<p>B：唔。</p>
-<p>我：我也绝对不会让我的女儿进一个乱搞男女关系的教授的实验室。</p>
-</blockquote>
-<p>我们又沉默了一会。</p>
-<blockquote>
-<p>B：之前，你只是站在一个普通市民的角度考虑，现在，你是站在一个父亲的角度考虑。他政绩做得怎么样，他科研做得怎么样，都不重要了，重要的是不让你的女儿受到伤害。</p>
-<p>我：确实如此。</p>
-</blockquote>
-<hr>
-<p>谈话到这里就结束了。</p>
-<p>回来之后，我又想到了一些当时没有想到的事情，记录如下：</p>
-<blockquote>
-<p>微妙之处在于，我将来可能有一个女儿。而且是有50%的可能性。所以，哪怕我现在只是一个普通市民，我也得为我未来可能的女儿考虑。</p>
-<p>而且，我还要考虑，如果我投票给第一个人，我将来怎么跟我的女儿解释？</p>
-</blockquote>
-<hr>
-<p>刘慈欣说：失去人性，失去很多；失去兽性，失去一切。</p>
-<p>然而，不到《三体》里那种生死存亡的时刻，人性是很重要的。</p>
-<h1 id="2023-12-27-更新"><a href="#2023-12-27-更新" class="headerlink" title="2023-12-27 更新"></a>2023-12-27 更新</h1><p>今天在科考小群里有朋友提到生院的事，我才决定把这些文字写下来，作为记录。</p>
-<p>有个大二的学生说：很恶心，为什么教授也会做这样的事情。</p>
-<p>我说：这个世界有好人也有坏人，我们拿好人当榜样就可以了。</p>
-<p>我依然觉得，世界上大多数人是好人。真这么干的教授，在中国，也就二十分之一吧。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>THINK</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Talk With Ikrma</title>
-    <url>/2023/12/26/Talk_With_Ikrma/</url>
-    <content><![CDATA[<p>This dialogue took place during the dinner:</p>
-<blockquote>
-<p>I: Have you seen the photo I uploaded in the chat? Do you know who he is?</p>
-<p>Ikrma: Yes, Nikola Tesla, my favorite scientist. If I can go back and meet someone, I will definately choose him.</p>
-<p>I: Really? Why?</p>
-<p>Ikrma: He gave up nearly all his patents. He did researches <strong>for fun and humanity.</strong> Nikola Tesla was a scientist while Thomas Edison was a business man.</p>
-<p>I: That makes sense. Even in the scientific circle, Tesla is rare. Many scientists have great contributions, but they are too obsessed about the fame.</p>
-<p>Ikrma: yes.</p>
-<p>I: You know Newton and Gauss, right? Newton fought with Leibniz about the priority of calculus and Gauss fought with Legendre about the priority of least square.</p>
-<p>Ikrma: yes.</p>
-<p>I: There are also other examples. Laplace, French mathematician, wrote his book but didn’t cite the work of others, which would make the reader believe that these all belong to him. Einstein, in his 1905 paper raising up the idea of special relativity, didn’t cite the work of Lorentz and Poincare, which made some people believe that he deliberately did so to make the reader think that he was the only one who thought up special relativity.</p>
-<p>Ikrma: yes, possibly.</p>
-<p>I: You know Faraday, right? He also didn’t care about the fame or money. He invented many instruments for his electromagnetic research. But, he never used these to make money. If he did, he would be as rich as Thomas Edison.</p>
-<p>I: And Rosalind Franklin. Once, someone asked her if she was upset that Watson and Crick “robbed” her discovery of the structure of DNA. She said “<strong>That is not important. The double helix is important</strong>.”</p>
-<p>I: And Kelvin. He rediscovered the work of George Green. He could say that this is his work (Laplace and Einstein would possibly do so), but he didn’t, and contributed this all to Green.</p>
-<p>Ikrma: The world is fair. History is fair. Now Tesla is more famous than Edison. Everyone see the car of Elon Musk will ask “Who is Tesla? Why Elon Musk use his name?”</p>
-<p>I: Yes.</p>
-<p>I: Fame means a lot, more money, more project. I don’t want to blame Newton and Gauss, those who are obsessed of fame. In the future, I will also fight with someone for the priority of something. But, people like Faraday, Tesla, Kelvin and Franklin, should get more respect.</p>
-<p>Ikrma: Yes.</p>
-</blockquote>
-<p>Underline:</p>
-<blockquote>
-<p><strong>I don’t want to blame Newton and Gauss, those who are obsessed of fame. In the future, I will also fight with someone for the priority of something. But, people like Faraday, Tesla, Kelvin and Franklin, should get more respect.</strong></p>
-</blockquote>
-<p>In China, we call this “身不能至，心向往之”</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -8432,33 +8343,55 @@
       </tags>
   </entry>
   <entry>
-    <title>Jobs&#39; talk on Stanford Commencement</title>
-    <url>/2023/04/23/Talk_of_Jobs_on_Stanford_Commencement/</url>
-    <content><![CDATA[<ul>
-<li>connecting the dots<ul>
-<li>You can only connect them to the past. You can never connect them to the future.</li>
-</ul>
-</li>
-<li>love<ul>
-<li>You have to love the ones you lived with.</li>
-<li>You have to love the things you do.</li>
-</ul>
-</li>
-<li>death<ul>
-<li>Embarrassment, failure, other’s perspectives are all secondary compared with death</li>
-<li>You only have one life, so don’t live somebody else ‘s life, don’t live according to any dogma.</li>
-</ul>
-</li>
-<li>Stay Hungry. Stay Foolish.</li>
-</ul>
+    <title>与B谈话</title>
+    <url>/2022/10/25/Talk_With_B/</url>
+    <content><![CDATA[<blockquote>
+<p>我：记不记得2022春，你告诉我，师兄师姐告诉你，生院有几个教授一起去嫖娼被抓了？</p>
+<p>B：记得。</p>
+<p>我：前几天，咱们又听说，生院有几个教授搞婚外情，小三上位，这那的。</p>
+<p>B：是。</p>
+<p>我：我想起来某人，他和他老婆感情很好，他也不搞嫖娼、婚外情这些事，但是他学术造假。对这两类人，你怎么看？</p>
+<p>B：我觉得后一件事更严重。如果你是一个教授，你和另一个实验室有合作，你会因为那个实验室的老板嫖娼、婚外情而终止合作吗？</p>
+<p>我：不会。</p>
+<p>B：但是如果他学术造假，你怎么说？</p>
+<p>我：会。</p>
+<p>B：这不就完了。</p>
+</blockquote>
+<p>我们沉默了一会。</p>
+<blockquote>
+<p>我：以前我母亲问过我一个问题——现在有两个人要竞选市长，第一个人搞嫖娼也搞婚外情，但是很有业务能力，第二个人没什么业务能力，但是不乱搞男女关系。如果你是市民，你投票给谁？</p>
+<p>B：好问题。</p>
+<p>B：如果，第一个人，只是乱搞男女关系，而没有把他的情人都安排到政府上班，我会投他。</p>
+<p>我：但是，如果，我有一个女儿，在市政府上班，我绝对不会投票给第一个人。</p>
+<p>B：唔。</p>
+<p>我：我也绝对不会让我的女儿进一个乱搞男女关系的教授的实验室。</p>
+</blockquote>
+<p>我们又沉默了一会。</p>
+<blockquote>
+<p>B：之前，你只是站在一个普通市民的角度考虑，现在，你是站在一个父亲的角度考虑。他政绩做得怎么样，他科研做得怎么样，都不重要了，重要的是不让你的女儿受到伤害。</p>
+<p>我：确实如此。</p>
+</blockquote>
+<hr>
+<p>谈话到这里就结束了。</p>
+<p>回来之后，我又想到了一些当时没有想到的事情，记录如下：</p>
+<blockquote>
+<p>微妙之处在于，我将来可能有一个女儿。而且是有50%的可能性。所以，哪怕我现在只是一个普通市民，我也得为我未来可能的女儿考虑。</p>
+<p>而且，我还要考虑，如果我投票给第一个人，我将来怎么跟我的女儿解释？</p>
+</blockquote>
+<hr>
+<p>刘慈欣说：失去人性，失去很多；失去兽性，失去一切。</p>
+<p>然而，不到《三体》里那种生死存亡的时刻，人性是很重要的。</p>
+<h1 id="2023-12-27-更新"><a href="#2023-12-27-更新" class="headerlink" title="2023-12-27 更新"></a>2023-12-27 更新</h1><p>今天在科考小群里有朋友提到生院的事，我才决定把这些文字写下来，作为记录。</p>
+<p>有个大二的学生说：很恶心，为什么教授也会做这样的事情。</p>
+<p>我说：这个世界有好人也有坏人，我们拿好人当榜样就可以了。</p>
+<p>我依然觉得，世界上大多数人是好人。真这么干的教授，在中国，也就二十分之一吧。</p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-04</category>
+        <category>2022</category>
+        <category>2022-10</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>love</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -8475,34 +8408,40 @@
       </tags>
   </entry>
   <entry>
-    <title>说真话还是说假话</title>
-    <url>/2022/12/01/Tell_the_Truth_or_the_Lie/</url>
-    <content><![CDATA[<p>在知乎上看到深圳、北京、温州的某些高中招聘到了许多清北的博士生，遂作此篇。</p>
-<p>我在想，他们是跟高中生说真话好还是说假话好？</p>
-<p>说假话：</p>
-<ul>
-<li>科研工作者追求的是突破人类知识边界。</li>
-<li>科研工作者追求的是造福全人类。</li>
-<li>科学面前没有权威人人平等。</li>
-</ul>
-<p>说真话：</p>
-<ul>
-<li>数据造假、cherry-picking、p-hacking；说零容忍，却很容忍。</li>
-<li>学术灌水</li>
-<li>唯文章、毕不了业、非升即走、tenure-track</li>
-<li>开公司、公饱私囊</li>
-<li>争名夺利、拉帮结伙、酒桌文化、官官相护；有些人屁都不会却能身居高位，因为他擅长拉关系；有些人才华横溢却怀才不遇，因为他不屑于搞这些事。</li>
-<li>婚外情、权色交易、乱搞男女关系</li>
-</ul>
-<p>你妈的，小学的我、初中的我、高中的我，以为，学术界像我第三段写的那样。</p>
-<p>他娘的，最近两年的我看到的学术界全都是第四段写的这样。</p>
+    <title>Talk With Ikrma</title>
+    <url>/2023/12/26/Talk_With_Ikrma/</url>
+    <content><![CDATA[<p>This dialogue took place during the dinner:</p>
+<blockquote>
+<p>I: Have you seen the photo I uploaded in the chat? Do you know who he is?</p>
+<p>Ikrma: Yes, Nikola Tesla, my favorite scientist. If I can go back and meet someone, I will definately choose him.</p>
+<p>I: Really? Why?</p>
+<p>Ikrma: He gave up nearly all his patents. He did researches <strong>for fun and humanity.</strong> Nikola Tesla was a scientist while Thomas Edison was a business man.</p>
+<p>I: That makes sense. Even in the scientific circle, Tesla is rare. Many scientists have great contributions, but they are too obsessed about the fame.</p>
+<p>Ikrma: yes.</p>
+<p>I: You know Newton and Gauss, right? Newton fought with Leibniz about the priority of calculus and Gauss fought with Legendre about the priority of least square.</p>
+<p>Ikrma: yes.</p>
+<p>I: There are also other examples. Laplace, French mathematician, wrote his book but didn’t cite the work of others, which would make the reader believe that these all belong to him. Einstein, in his 1905 paper raising up the idea of special relativity, didn’t cite the work of Lorentz and Poincare, which made some people believe that he deliberately did so to make the reader think that he was the only one who thought up special relativity.</p>
+<p>Ikrma: yes, possibly.</p>
+<p>I: You know Faraday, right? He also didn’t care about the fame or money. He invented many instruments for his electromagnetic research. But, he never used these to make money. If he did, he would be as rich as Thomas Edison.</p>
+<p>I: And Rosalind Franklin. Once, someone asked her if she was upset that Watson and Crick “robbed” her discovery of the structure of DNA. She said “<strong>That is not important. The double helix is important</strong>.”</p>
+<p>I: And Kelvin. He rediscovered the work of George Green. He could say that this is his work (Laplace and Einstein would possibly do so), but he didn’t, and contributed this all to Green.</p>
+<p>Ikrma: The world is fair. History is fair. Now Tesla is more famous than Edison. Everyone see the car of Elon Musk will ask “Who is Tesla? Why Elon Musk use his name?”</p>
+<p>I: Yes.</p>
+<p>I: Fame means a lot, more money, more project. I don’t want to blame Newton and Gauss, those who are obsessed of fame. In the future, I will also fight with someone for the priority of something. But, people like Faraday, Tesla, Kelvin and Franklin, should get more respect.</p>
+<p>Ikrma: Yes.</p>
+</blockquote>
+<p>Underline:</p>
+<blockquote>
+<p><strong>I don’t want to blame Newton and Gauss, those who are obsessed of fame. In the future, I will also fight with someone for the priority of something. But, people like Faraday, Tesla, Kelvin and Franklin, should get more respect.</strong></p>
+</blockquote>
+<p>In China, we call this “身不能至，心向往之”</p>
 ]]></content>
       <categories>
-        <category>2022</category>
-        <category>2022-12</category>
+        <category>2023</category>
+        <category>2023-12</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -8539,10 +8478,71 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>fun</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
         <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Jobs&#39; talk on Stanford Commencement</title>
+    <url>/2023/04/23/Talk_of_Jobs_on_Stanford_Commencement/</url>
+    <content><![CDATA[<ul>
+<li>connecting the dots<ul>
+<li>You can only connect them to the past. You can never connect them to the future.</li>
+</ul>
+</li>
+<li>love<ul>
+<li>You have to love the ones you lived with.</li>
+<li>You have to love the things you do.</li>
+</ul>
+</li>
+<li>death<ul>
+<li>Embarrassment, failure, other’s perspectives are all secondary compared with death</li>
+<li>You only have one life, so don’t live somebody else ‘s life, don’t live according to any dogma.</li>
+</ul>
+</li>
+<li>Stay Hungry. Stay Foolish.</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-04</category>
+      </categories>
+      <tags>
+        <tag>love</tag>
+        <tag>romance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>说真话还是说假话</title>
+    <url>/2022/12/01/Tell_the_Truth_or_the_Lie/</url>
+    <content><![CDATA[<p>在知乎上看到深圳、北京、温州的某些高中招聘到了许多清北的博士生，遂作此篇。</p>
+<p>我在想，他们是跟高中生说真话好还是说假话好？</p>
+<p>说假话：</p>
+<ul>
+<li>科研工作者追求的是突破人类知识边界。</li>
+<li>科研工作者追求的是造福全人类。</li>
+<li>科学面前没有权威人人平等。</li>
+</ul>
+<p>说真话：</p>
+<ul>
+<li>数据造假、cherry-picking、p-hacking；说零容忍，却很容忍。</li>
+<li>学术灌水</li>
+<li>唯文章、毕不了业、非升即走、tenure-track</li>
+<li>开公司、公饱私囊</li>
+<li>争名夺利、拉帮结伙、酒桌文化、官官相护；有些人屁都不会却能身居高位，因为他擅长拉关系；有些人才华横溢却怀才不遇，因为他不屑于搞这些事。</li>
+<li>婚外情、权色交易、乱搞男女关系</li>
+</ul>
+<p>你妈的，小学的我、初中的我、高中的我，以为，学术界像我第三段写的那样。</p>
+<p>他娘的，最近两年的我看到的学术界全都是第四段写的这样。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -8594,19 +8594,6 @@
       </categories>
       <tags>
         <tag>tools</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>最大的食肉恐龙</title>
-    <url>/2023/02/25/The_Biggest_Meet_Eating_Dinosaur/</url>
-    <content><![CDATA[<img src="/2023/02/25/The_Biggest_Meet_Eating_Dinosaur/1.png" class="">]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-02</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -8684,6 +8671,19 @@
       </categories>
       <tags>
         <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>最大的食肉恐龙</title>
+    <url>/2023/02/25/The_Biggest_Meet_Eating_Dinosaur/</url>
+    <content><![CDATA[<img src="/2023/02/25/The_Biggest_Meet_Eating_Dinosaur/1.png" class="">]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-02</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -8805,31 +8805,6 @@
       </tags>
   </entry>
   <entry>
-    <title>大物实验的终结</title>
-    <url>/2021/06/17/The_End_of_College_Physics_Exps/</url>
-    <content><![CDATA[<p>今天做完了最后一个大物实验，回答一个问题。</p>
-<p>问：为什么一教坐拥众多在物理学史上青史留名的实验，却在科大学生中一片骂名？</p>
-<p>答：</p>
-<ul>
-<li>1800年出生的人和2000年出生的人看到同一个实验现象，他们的想法显然是不同的。伽利略看到单摆，牛顿看到牛顿环，伏特看到电流，都是心潮澎湃的。但是2000年出生的人会说：这些东西初中生、高中生都知道，我干嘛还傻乎乎地数50个周期，数50个牛顿环？我还不如去学点有用的。</li>
-<li>对于本科生，他们已经很累了，自己的专业课还学不完，还要做大物实验，而且不是来玩的，还要算成绩。哪怕是对物院的学生，这点也同样成立。</li>
-</ul>
-<p>解决方法：</p>
-<ul>
-<li>剔除所有老土的实验，这些实验是初中、高中该让学生做的。用宇宙射线、卢瑟福散射这样的实验替代！</li>
-<li>5个等级的大物全都改成二等级制。让大家去一教玩一玩装置，看一看现象，目的也就达到了。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-06</category>
-      </categories>
-      <tags>
-        <tag>physics</tag>
-        <tag>teaching</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>N号房事件涉及到的犯罪_罗翔</title>
     <url>/2020/03/25/The_Crime_Involved_in_the_N_Room_Case_%20Luo_Xiang/</url>
     <content><![CDATA[<p>Introduction：犯罪指的是违反刑法的行为，而非违反治安管理处罚法的行为。</p>
@@ -8904,6 +8879,31 @@
       </tags>
   </entry>
   <entry>
+    <title>大物实验的终结</title>
+    <url>/2021/06/17/The_End_of_College_Physics_Exps/</url>
+    <content><![CDATA[<p>今天做完了最后一个大物实验，回答一个问题。</p>
+<p>问：为什么一教坐拥众多在物理学史上青史留名的实验，却在科大学生中一片骂名？</p>
+<p>答：</p>
+<ul>
+<li>1800年出生的人和2000年出生的人看到同一个实验现象，他们的想法显然是不同的。伽利略看到单摆，牛顿看到牛顿环，伏特看到电流，都是心潮澎湃的。但是2000年出生的人会说：这些东西初中生、高中生都知道，我干嘛还傻乎乎地数50个周期，数50个牛顿环？我还不如去学点有用的。</li>
+<li>对于本科生，他们已经很累了，自己的专业课还学不完，还要做大物实验，而且不是来玩的，还要算成绩。哪怕是对物院的学生，这点也同样成立。</li>
+</ul>
+<p>解决方法：</p>
+<ul>
+<li>剔除所有老土的实验，这些实验是初中、高中该让学生做的。用宇宙射线、卢瑟福散射这样的实验替代！</li>
+<li>5个等级的大物全都改成二等级制。让大家去一教玩一玩装置，看一看现象，目的也就达到了。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-06</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+        <tag>teaching</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>The End of TA</title>
     <url>/2024/01/04/The_End_of_TA/</url>
     <content><![CDATA[<p>今天是助教的最后一节课了，来到五教前，深深的伤感。</p>
@@ -8963,20 +8963,6 @@
       <tags>
         <tag>science</tag>
         <tag>love</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>塑料发明者</title>
-    <url>/2024/01/16/The_Inventor_of_Plastic/</url>
-    <content><![CDATA[<p>我查了一下，根本没有Max Schuschny这个人。</p>
-<p><a href="https://www.thepaper.cn/newsDetail_forward_9100959">此文</a>是假的。</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-01</category>
-      </categories>
-      <tags>
-        <tag>break cognitive limit</tag>
       </tags>
   </entry>
   <entry>
@@ -9093,19 +9079,17 @@
       </tags>
   </entry>
   <entry>
-    <title>脚长、脚宽、手长、手宽</title>
-    <url>/2023/11/04/The_Length_and_Width_of_the_Foot_and_the_Hand/</url>
-    <content><![CDATA[<p>今晨测了一下脚长和脚宽，分别是27cm和10cm，还不错哦。</p>
-<p>又测了一下腰围，依旧是80cm。</p>
-<p>手长和手宽是19cm和9.5cm。和<a href="https://www.cbaleague.com/data/#/playerMain?playerId=907994">赵继伟</a>、<a href="https://www.cbaleague.com/data/#/playerMain?playerId=100013041">姜伟泽</a>类似。</p>
+    <title>塑料发明者</title>
+    <url>/2024/01/16/The_Inventor_of_Plastic/</url>
+    <content><![CDATA[<p>我查了一下，根本没有Max Schuschny这个人。</p>
+<p><a href="https://www.thepaper.cn/newsDetail_forward_9100959">此文</a>是假的。</p>
 ]]></content>
       <categories>
-        <category>2023</category>
-        <category>2023-11</category>
+        <category>2024</category>
+        <category>2024-01</category>
       </categories>
       <tags>
-        <tag>running</tag>
-        <tag>basketball</tag>
+        <tag>break cognitive limit</tag>
       </tags>
   </entry>
   <entry>
@@ -9138,6 +9122,65 @@
       <tags>
         <tag>history</tag>
         <tag>war</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诺贝尔奖？fMRI不配！(The Nobel Prize? fMRI doesn&#39;t deserve it!)</title>
+    <url>/2022/09/30/The_Nobel_Prize_and_fMRI/</url>
+    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
+<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
+<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
+<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
+<p>fMRI有如下特点</p>
+<ul>
+<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
+<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
+<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
+</ul>
+<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
+<ul>
+<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
+<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
+</ul>
+<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
+<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
+<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Northern Town</title>
+    <url>/2023/06/22/The_Northern_Town/</url>
+    <content><![CDATA[<p>Silently I wander to the northern town, remembering the past so profound.</p>
+<p>Old words, old dreams, old promises abound.</p>
+<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
+<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
+<hr>
+<p>What we went through like sand lost in the hand.</p>
+<p>What we talked through like sound gone with the wind.</p>
+<p>Now your image is fading off my mind.</p>
+<p>But your word will hover till the end.</p>
+<hr>
+<p>Remember geometry and algebra,</p>
+<p>no more love in the cinema,</p>
+<p>no more laugh on the camera,</p>
+<p>everything seems to be in a new era.</p>
+<hr>
+<p>Copyright: The first 4 sentences are adapted from GPT-4’s translation of my poem.</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+        <tag>translation</tag>
       </tags>
   </entry>
   <entry>
@@ -9250,65 +9293,6 @@
       </tags>
   </entry>
   <entry>
-    <title>The Northern Town</title>
-    <url>/2023/06/22/The_Northern_Town/</url>
-    <content><![CDATA[<p>Silently I wander to the northern town, remembering the past so profound.</p>
-<p>Old words, old dreams, old promises abound.</p>
-<p>Faces meet, hearts intoxicate, in meetings we are found.</p>
-<p>Smiling as willow flowers scatter, to the west wind they are bound.</p>
-<hr>
-<p>What we went through like sand lost in the hand.</p>
-<p>What we talked through like sound gone with the wind.</p>
-<p>Now your image is fading off my mind.</p>
-<p>But your word will hover till the end.</p>
-<hr>
-<p>Remember geometry and algebra,</p>
-<p>no more love in the cinema,</p>
-<p>no more laugh on the camera,</p>
-<p>everything seems to be in a new era.</p>
-<hr>
-<p>Copyright: The first 4 sentences are adapted from GPT-4’s translation of my poem.</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-        <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>诺贝尔奖？fMRI不配！(The Nobel Prize? fMRI doesn&#39;t deserve it!)</title>
-    <url>/2022/09/30/The_Nobel_Prize_and_fMRI/</url>
-    <content><![CDATA[<h1 id="2022-09-30"><a href="#2022-09-30" class="headerlink" title="2022-09-30"></a>2022-09-30</h1><p>学术造假已经毁了fMRI这项技术。</p>
-<p>由于cherry-picking和p-hacking，fMRI的研究的可重复性极差。</p>
-<p>fMRI本来是一个很好的技术，它可以用来检测病人是否康复。</p>
-<p>可惜，同样地，由于<strong>这个技术本身的特点</strong>，它成了学术造假的温床。</p>
-<p>fMRI有如下特点</p>
-<ul>
-<li>把大脑划分为10W个小立方体，在把这些小立方体组合成几十个脑区，组合时有一定的随意性——这使得fMRI特别适合第一种p-hacking。</li>
-<li>fMRI特别昂贵——因此通常只能做小样本的实验（n&#x3D;20或n&#x3D;30）：这使得有时只要舍去最不符合预期的一两个数据即可达到显著性。</li>
-<li>fMRI特别昂贵——这使得其他学术工作者极其不愿意重复别人的实验。</li>
-</ul>
-<p>fMRI的前身NMR、MRI都已经拿过诺贝尔奖。很多人预测fMRI也将获得诺贝尔奖。但是，我认为：fMRI不配拿诺贝尔奖。</p>
-<ul>
-<li>理由1：一个学术造假的温床，也配拿诺贝尔奖吗？</li>
-<li>理由2：<strong>如果2022年诺奖真的给了fMRI，非但不能改善这个领域的学术造假，反而会加剧这个领域的学术造假。</strong></li>
-</ul>
-<h1 id="2023-08-29-update"><a href="#2023-08-29-update" class="headerlink" title="2023-08-29 update"></a>2023-08-29 update</h1><p>2023年5月12日，Kamil Ugurbil来到科大给了一个讲座。他是fMRI领域一个很有名的学者。他也是从物理转生物的。</p>
-<p>他告诉我，Human Connectome Project中，可重复性是极高的。然而，在认知神经科学的研究里，可重复性低。</p>
-<p>他认为原因在于——<strong>认知神经科学的学者把太多的voxel拼到了一起</strong>。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>改变世界的一年半</title>
     <url>/2024/03/26/The_One_and_a_half_Years_Changing_the_World/</url>
     <content><![CDATA[<p>本文的主线是生成文本的AI，其它放到了附录里。</p>
@@ -9345,22 +9329,6 @@
       </tags>
   </entry>
   <entry>
-    <title>DIANA复现失败</title>
-    <url>/2024/04/02/The_Reproduction_of_DIANA_Fails/</url>
-    <content><![CDATA[<p>今天中午在朋友圈看到推送，DIANA复现失败。</p>
-<p>终于，尘埃落定。</p>
-<p>时间飞逝。我依然记得，2022年秋季学期，11月，柯心讲这篇文章。那天我去省立医院做根管治疗 (root canal)，程玉锟飞书问我对fMRI到底了解到什么程度，我说也就是略超Wikipedia。</p>
-<p>时间飞逝。</p>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-04</category>
-      </categories>
-      <tags>
-        <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>天气预报中城市的顺序</title>
     <url>/2020/08/07/The_Order_of_the_Weather_Forcast_in_China/</url>
     <content><![CDATA[<p>问：听了这么多年的天气预报，你知道天气预报中城市的顺序是怎么排的吗？按汉字拼音首字母？按汉字笔画？</p>
@@ -9393,6 +9361,38 @@
       </tags>
   </entry>
   <entry>
+    <title>脚长、脚宽、手长、手宽</title>
+    <url>/2023/11/04/The_Length_and_Width_of_the_Foot_and_the_Hand/</url>
+    <content><![CDATA[<p>今晨测了一下脚长和脚宽，分别是27cm和10cm，还不错哦。</p>
+<p>又测了一下腰围，依旧是80cm。</p>
+<p>手长和手宽是19cm和9.5cm。和<a href="https://www.cbaleague.com/data/#/playerMain?playerId=907994">赵继伟</a>、<a href="https://www.cbaleague.com/data/#/playerMain?playerId=100013041">姜伟泽</a>类似。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+      <tags>
+        <tag>running</tag>
+        <tag>basketball</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DIANA复现失败</title>
+    <url>/2024/04/02/The_Reproduction_of_DIANA_Fails/</url>
+    <content><![CDATA[<p>今天中午在朋友圈看到推送，DIANA复现失败。</p>
+<p>终于，尘埃落定。</p>
+<p>时间飞逝。我依然记得，2022年秋季学期，11月，柯心讲这篇文章。那天我去省立医院做根管治疗 (root canal)，程玉锟飞书问我对fMRI到底了解到什么程度，我说也就是略超Wikipedia。</p>
+<p>时间飞逝。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-04</category>
+      </categories>
+      <tags>
+        <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>USTC Star</title>
     <url>/2023/05/30/The_Star_Named_USTC/</url>
     <content><![CDATA[<h1 id="拉普拉斯兽"><a href="#拉普拉斯兽" class="headerlink" title="拉普拉斯兽"></a>拉普拉斯兽</h1><p>我俯视着中国科大星的纪念碑。</p>
@@ -9414,21 +9414,6 @@
         <tag>science</tag>
         <tag>statistics</tag>
         <tag>physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>丕植之争</title>
-    <url>/2022/10/03/The_War_between_Pi_and_Zhi/</url>
-    <content><![CDATA[<img src="/2022/10/03/The_War_between_Pi_and_Zhi/1.png" class="">
-
-<img src="/2022/10/03/The_War_between_Pi_and_Zhi/2.png" class="">]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>history</tag>
       </tags>
   </entry>
   <entry>
@@ -9459,20 +9444,6 @@
       </tags>
   </entry>
   <entry>
-    <title>世界很大，不要藏着掖着</title>
-    <url>/2022/09/01/The_World_Is_Big_Do_not_Hide/</url>
-    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《进击的巨人》中的自由之翼</title>
     <url>/2024/06/11/The_Wings_of_Liberty_in_Attack_on_Titan/</url>
     <content><![CDATA[<p>《进击的巨人》，用前2&#x2F;3，讲了一个伟大的调查兵团。他们为了保卫人类的家园而战，为了自由而战。他们的徽章是左蓝右白的双翼，被称为“自由之翼”。观众们见证了调查兵团出生入死，无数人牺牲在了战斗中。</p>
@@ -9489,6 +9460,35 @@
       </categories>
       <tags>
         <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>丕植之争</title>
+    <url>/2022/10/03/The_War_between_Pi_and_Zhi/</url>
+    <content><![CDATA[<img src="/2022/10/03/The_War_between_Pi_and_Zhi/1.png" class="">
+
+<img src="/2022/10/03/The_War_between_Pi_and_Zhi/2.png" class="">]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-10</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>history</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>世界很大，不要藏着掖着</title>
+    <url>/2022/09/01/The_World_Is_Big_Do_not_Hide/</url>
+    <content><![CDATA[<p>今天在生院一楼听了施奶奶给22级生院的讲座，她说了一句话：<strong>世界很大，你会的东西太少了，不要藏着掖着，傻了吧唧地不教给别人！</strong></p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -9541,28 +9541,8 @@
         <category>2023-02</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>崴脚后三月</title>
-    <url>/2023/11/21/Three_Months_after_the_Ankle_Injury/</url>
-    <content><![CDATA[<h1 id="篮球"><a href="#篮球" class="headerlink" title="篮球"></a>篮球</h1><p>今天是11&#x2F;21，恰好过去3月左右。</p>
-<p>6月10日，就是为了篮球，才做的近视手术。</p>
-<p>8月19日，在老家打篮球时，不慎崴脚了。</p>
-<p>11月初，才恢复到能跑步。</p>
-<p>如今过去了三个月，跑步已经可以每周15km了，力训已经可以做提踵了，但是稳妥起见，篮球依然不上对抗。</p>
-<h1 id="新冠"><a href="#新冠" class="headerlink" title="新冠"></a>新冠</h1><p>那天崴脚后，我回家测了抗原，阳性。如果不是新冠，我不太可能受伤。</p>
-<p>今天，我身边的几个朋友都得了甲流或者支原体，我又测了一下抗原，阴性。</p>
-<p>一篇短文，纪念一下。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-11</category>
-      </categories>
-      <tags>
-        <tag>injury</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -9589,6 +9569,26 @@
       </tags>
   </entry>
   <entry>
+    <title>崴脚后三月</title>
+    <url>/2023/11/21/Three_Months_after_the_Ankle_Injury/</url>
+    <content><![CDATA[<h1 id="篮球"><a href="#篮球" class="headerlink" title="篮球"></a>篮球</h1><p>今天是11&#x2F;21，恰好过去3月左右。</p>
+<p>6月10日，就是为了篮球，才做的近视手术。</p>
+<p>8月19日，在老家打篮球时，不慎崴脚了。</p>
+<p>11月初，才恢复到能跑步。</p>
+<p>如今过去了三个月，跑步已经可以每周15km了，力训已经可以做提踵了，但是稳妥起见，篮球依然不上对抗。</p>
+<h1 id="新冠"><a href="#新冠" class="headerlink" title="新冠"></a>新冠</h1><p>那天崴脚后，我回家测了抗原，阳性。如果不是新冠，我不太可能受伤。</p>
+<p>今天，我身边的几个朋友都得了甲流或者支原体，我又测了一下抗原，阴性。</p>
+<p>一篇短文，纪念一下。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+      <tags>
+        <tag>injury</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Tool-Assisted-Speedrun</title>
     <url>/2022/08/18/Tool-Assisted-Speedrun/</url>
     <content><![CDATA[<p>6，世界上竟然还有<a href="https://en.wikipedia.org/wiki/Tool-assisted_speedrun">这种东西</a>！</p>
@@ -9601,23 +9601,6 @@
       <tags>
         <tag>fun</tag>
         <tag>video game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Traffickinghub_Exodus Cry</title>
-    <url>/2022/04/15/Traffickinghub_Exodus%20Cry/</url>
-    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
-<p>Publish Date: 2020-06-30</p>
-<p><a href="https://www.youtube.com/watch?v=20x9xEzlODU">Traffickinghub</a></p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-04</category>
-      </categories>
-      <tags>
-        <tag>capitalism</tag>
-        <tag>anti illegal pornography</tag>
-        <tag>sex trafficking</tag>
       </tags>
   </entry>
   <entry>
@@ -9644,9 +9627,35 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>USTC，我的心碎之地。</title>
+    <url>/2023/11/04/USTC_My_Heartbreaking_Place/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-11</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Traffickinghub_Exodus Cry</title>
+    <url>/2022/04/15/Traffickinghub_Exodus%20Cry/</url>
+    <content><![CDATA[<p>Producer: <a href="https://www.youtube.com/@ExodusCry">Exodus Cry</a></p>
+<p>Publish Date: 2020-06-30</p>
+<p><a href="https://www.youtube.com/watch?v=20x9xEzlODU">Traffickinghub</a></p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-04</category>
+      </categories>
+      <tags>
+        <tag>capitalism</tag>
+        <tag>anti illegal pornography</tag>
+        <tag>sex trafficking</tag>
       </tags>
   </entry>
   <entry>
@@ -9678,33 +9687,6 @@
       </tags>
   </entry>
   <entry>
-    <title>USTC，我的心碎之地。</title>
-    <url>/2023/11/04/USTC_My_Heartbreaking_Place/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-11</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>中科大学生对于吸烟的看法</title>
-    <url>/2020/01/02/USTCer_Attitude_towards_Smoking/</url>
-    <content><![CDATA[<blockquote>
-<p>这是社会心理学的期末项目。</p>
-<p>这个问卷调查还是有意义滴，我认为比我新生研讨课做得好，请诸位用心看，莫一目十行。</p>
-<p>那时，新冠疫情刚刚开始。2019&#x2F;12-2022&#x2F;12，那是一段难忘的时光。</p>
-</blockquote>
-<p>文章看<a href="https://physics-lee.github.io/pdfs/USTCer_Attitude_towards_Smoking.pdf">这里</a>！</p>
-]]></content>
-      <categories>
-        <category>2020</category>
-        <category>2020-01</category>
-      </categories>
-      <tags>
-        <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>不可证伪的信念</title>
     <url>/2023/11/15/Unfalsifiable_Beliefs/</url>
     <content><![CDATA[<p>昨天和B讨论宗教。他最近似乎对宗教很感兴趣，在b站看了一大堆科普犹太教、基督教、穆斯林教的视频。</p>
@@ -9731,21 +9713,21 @@
       </tags>
   </entry>
   <entry>
-    <title>微积分中的统一</title>
-    <url>/2019/07/15/Unity_in_Calculus/</url>
+    <title>中科大学生对于吸烟的看法</title>
+    <url>/2020/01/02/USTCer_Attitude_towards_Smoking/</url>
     <content><![CDATA[<blockquote>
-<p>汪琥庭老师让我们写一篇文章留给下一级，我便写了这个。这时是2019年7月。这篇文章中充斥着还原论的思想。</p>
-<p>2020年2月，Philip Anderson去世，我在中科院物理所的公众号上读到了More Is Different，深受震撼。但是，我还是更喜欢还原论，而非构建论。</p>
-<p>如果可以，我真的很希望为人工神经网络、生物神经网络、肌肉的运动都提供bottom-up的模型。</p>
+<p>这是社会心理学的期末项目。</p>
+<p>这个问卷调查还是有意义滴，我认为比我新生研讨课做得好，请诸位用心看，莫一目十行。</p>
+<p>那时，新冠疫情刚刚开始。2019&#x2F;12-2022&#x2F;12，那是一段难忘的时光。</p>
 </blockquote>
-<p>See <a href="https://physics-lee.github.io/pdfs/Unity_in_Calculus.pdf">here</a>!</p>
+<p>文章看<a href="https://physics-lee.github.io/pdfs/USTCer_Attitude_towards_Smoking.pdf">这里</a>！</p>
 ]]></content>
       <categories>
-        <category>2019</category>
-        <category>2019-07</category>
+        <category>2020</category>
+        <category>2020-01</category>
       </categories>
       <tags>
-        <tag>math</tag>
+        <tag>USTC</tag>
       </tags>
   </entry>
   <entry>
@@ -9772,10 +9754,28 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>romance</tag>
         <tag>science</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微积分中的统一</title>
+    <url>/2019/07/15/Unity_in_Calculus/</url>
+    <content><![CDATA[<blockquote>
+<p>汪琥庭老师让我们写一篇文章留给下一级，我便写了这个。这时是2019年7月。这篇文章中充斥着还原论的思想。</p>
+<p>2020年2月，Philip Anderson去世，我在中科院物理所的公众号上读到了More Is Different，深受震撼。但是，我还是更喜欢还原论，而非构建论。</p>
+<p>如果可以，我真的很希望为人工神经网络、生物神经网络、肌肉的运动都提供bottom-up的模型。</p>
+</blockquote>
+<p>See <a href="https://physics-lee.github.io/pdfs/Unity_in_Calculus.pdf">here</a>!</p>
+]]></content>
+      <categories>
+        <category>2019</category>
+        <category>2019-07</category>
+      </categories>
+      <tags>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -9829,20 +9829,6 @@
       </tags>
   </entry>
   <entry>
-    <title>文集——古代的搜索引擎</title>
-    <url>/2022/10/03/Wen_Ji/</url>
-    <content><![CDATA[<p>文集（<a href="https://zh.wikisource.org/zh-hant/%E8%A9%A9%E7%B6%93">诗经</a>、<a href="https://zh.wikisource.org/zh-hans/%E6%A5%9A%E8%BE%AD">楚辞</a>、<a href="https://zh.wikisource.org/zh-hans/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96">古诗十九首</a>、<a href="https://zh.wikisource.org/zh-hans/%E6%98%AD%E6%98%8E%E6%96%87%E9%81%B8">昭明文选</a>、<a href="https://zh.wikisource.org/wiki/%E5%85%A8%E5%94%90%E8%A9%A9">全唐诗</a>）是最主要的诗词流传方式，否则我们今天就看不到几首诗词了。</p>
-<p>搜索引擎本质上是一个数据库，因此文集完全可以说是古代的搜索引擎。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>literature</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>虞美人·枕上_毛泽东</title>
     <url>/2023/09/28/Wake_Up/</url>
     <content><![CDATA[<p>堆来枕上愁何状，江海翻波浪。</p>
@@ -9856,49 +9842,6 @@
       </categories>
       <tags>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>love</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -9936,26 +9879,69 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
         <tag>fun</tag>
+        <tag>science</tag>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
         <tag>math</tag>
       </tags>
   </entry>
   <entry>
-    <title>What Is Normal Mode Decomposition?</title>
-    <url>/2024/04/11/What_Is_Normal_Mode_Decomposition/</url>
-    <content><![CDATA[<p>Check my <a href="https://bruce-yixuan-li.github.io/pdfs/What_Is_Normal_Mode_Decomposition.pdf">latest note</a> for the answer!</p>
+    <title>文集——古代的搜索引擎</title>
+    <url>/2022/10/03/Wen_Ji/</url>
+    <content><![CDATA[<p>文集（<a href="https://zh.wikisource.org/zh-hant/%E8%A9%A9%E7%B6%93">诗经</a>、<a href="https://zh.wikisource.org/zh-hans/%E6%A5%9A%E8%BE%AD">楚辞</a>、<a href="https://zh.wikisource.org/zh-hans/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96">古诗十九首</a>、<a href="https://zh.wikisource.org/zh-hans/%E6%98%AD%E6%98%8E%E6%96%87%E9%81%B8">昭明文选</a>、<a href="https://zh.wikisource.org/wiki/%E5%85%A8%E5%94%90%E8%A9%A9">全唐诗</a>）是最主要的诗词流传方式，否则我们今天就看不到几首诗词了。</p>
+<p>搜索引擎本质上是一个数据库，因此文集完全可以说是古代的搜索引擎。</p>
 ]]></content>
       <categories>
-        <category>2024</category>
-        <category>2024-04</category>
+        <category>2022</category>
+        <category>2022-10</category>
       </categories>
       <tags>
+        <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Does the Asterisk Mean?</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
         <tag>physics</tag>
-        <tag>linear algebra</tag>
+        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -9980,6 +9966,20 @@
       <tags>
         <tag>science</tag>
         <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Normal Mode Decomposition?</title>
+    <url>/2024/04/11/What_Is_Normal_Mode_Decomposition/</url>
+    <content><![CDATA[<p>Check my <a href="https://bruce-yixuan-li.github.io/pdfs/What_Is_Normal_Mode_Decomposition.pdf">latest note</a> for the answer!</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-04</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+        <tag>linear algebra</tag>
       </tags>
   </entry>
   <entry>
@@ -10010,21 +10010,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《狂热的追求》 书评 精简版</title>
-    <url>/2022/11/01/What_Mad_Pursuit_Book_Review_Lite/</url>
-    <content><![CDATA[<p><a href="https://physics-lee.github.io/pdfs/What_Mad_Pursuit_Book_Review_Lite.pdf"><em>link</em></a></p>
-<p>没错，我用它交了自然辨证法的作业！</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-10</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>参数到底是什么意思？</title>
     <url>/2022/10/15/What_Is_the_Meaning_of_Parameter/</url>
     <content><![CDATA[<p>参数在不同的数学分支里有不同的意思。</p>
@@ -10051,6 +10036,21 @@
       <tags>
         <tag>science</tag>
         <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《狂热的追求》 书评 精简版</title>
+    <url>/2022/11/01/What_Mad_Pursuit_Book_Review_Lite/</url>
+    <content><![CDATA[<p><a href="https://physics-lee.github.io/pdfs/What_Mad_Pursuit_Book_Review_Lite.pdf"><em>link</em></a></p>
+<p>没错，我用它交了自然辨证法的作业！</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-10</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -10246,6 +10246,26 @@
       </tags>
   </entry>
   <entry>
+    <title>自行车为什么不会倒？</title>
+    <url>/2019/05/01/Why_Does_Not_the_Bicycle_Fall_Down/</url>
+    <content><![CDATA[<blockquote>
+<p>这是我们新生研讨课的研究项目。</p>
+<p>我们小组四人的动手能力都不强，因此我们只是在COMSOL上做了一些模拟。</p>
+<p>这个项目做得并不好，我们啥也没有研究出来。现在想来，至少在这个问题上，还是需要实验和理论、计算相结合。</p>
+<p>无论如何，做个纪念吧！</p>
+</blockquote>
+<p>文章在<a href="https://physics-lee.github.io/pdfs/Why_Does_Not_the_Bicycle_Fall_Down.pdf">这里</a>！</p>
+<p>幻灯片在<a href="https://physics-lee.github.io/pdfs/Why_Does_Not_the_Bicycle_Fall_Down_Slides.pdf">这里</a>！</p>
+]]></content>
+      <categories>
+        <category>2019</category>
+        <category>2019-05</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>为什么我支持社会主义？——阿尔伯特·爱因斯坦</title>
     <url>/2024/02/10/Why_Socialism/</url>
     <content><![CDATA[<p>1949年5月，一本宣传社会主义的杂志，<em>Monthly Review</em>，在美国纽约出版（此杂志目前仍然存在，<a href="http://monthlyreview.org/">官网链接</a>）。阿尔伯特·爱因斯坦为它撰写了开篇文章—— <em>Why Socialism?</em></p>
@@ -10288,23 +10308,26 @@
       </tags>
   </entry>
   <entry>
-    <title>自行车为什么不会倒？</title>
-    <url>/2019/05/01/Why_Does_Not_the_Bicycle_Fall_Down/</url>
-    <content><![CDATA[<blockquote>
-<p>这是我们新生研讨课的研究项目。</p>
-<p>我们小组四人的动手能力都不强，因此我们只是在COMSOL上做了一些模拟。</p>
-<p>这个项目做得并不好，我们啥也没有研究出来。现在想来，至少在这个问题上，还是需要实验和理论、计算相结合。</p>
-<p>无论如何，做个纪念吧！</p>
-</blockquote>
-<p>文章在<a href="https://physics-lee.github.io/pdfs/Why_Does_Not_the_Bicycle_Fall_Down.pdf">这里</a>！</p>
-<p>幻灯片在<a href="https://physics-lee.github.io/pdfs/Why_Does_Not_the_Bicycle_Fall_Down_Slides.pdf">这里</a>！</p>
+    <title>眼睛是心灵的窗户</title>
+    <url>/2023/06/14/Window_to_the_Soul/</url>
+    <content><![CDATA[<p>Today I finally understand what sclera is, what iris is, what pupil is an what cornea is.</p>
+<p>自少时起，我常怀一种信念——看一个人的眼睛，就能知晓其灵魂。</p>
+<p>超越了语言的枷锁，超越了行为的伪装，超越了神情的变幻。</p>
+<p>我没法证明这一点，这只是一个信仰。</p>
+<p>也许你会笑我荒诞，</p>
+<p>但今天我突然发觉，</p>
+<p>从神经科学的角度来看，这句话并非那么离奇。</p>
+<p>人类的意识似乎害怕这个世界，它躲藏在坚硬的颅骨之中，唯有两颗璀璨的宝石直接对外开放。</p>
+<p>Copyright: 本文中所有中文均出自GPT-4.</p>
 ]]></content>
       <categories>
-        <category>2019</category>
-        <category>2019-05</category>
+        <category>2023</category>
+        <category>2023-06</category>
       </categories>
       <tags>
-        <tag>physics</tag>
+        <tag>science</tag>
+        <tag>romance</tag>
+        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -10345,50 +10368,6 @@
         <tag>science</tag>
         <tag>AI</tag>
         <tag>family</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>with Xuanhao</title>
-    <url>/2022/08/10/With_Xuanhao/</url>
-    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
-<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
-<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
-<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
-<p>煊昊：你他娘的高考还能带个电脑去？</p>
-<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
-<p>最后，我们还探讨了那个p-value的问题。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-08</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>fun</tag>
-        <tag>senior high school</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>眼睛是心灵的窗户</title>
-    <url>/2023/06/14/Window_to_the_Soul/</url>
-    <content><![CDATA[<p>Today I finally understand what sclera is, what iris is, what pupil is an what cornea is.</p>
-<p>自少时起，我常怀一种信念——看一个人的眼睛，就能知晓其灵魂。</p>
-<p>超越了语言的枷锁，超越了行为的伪装，超越了神情的变幻。</p>
-<p>我没法证明这一点，这只是一个信仰。</p>
-<p>也许你会笑我荒诞，</p>
-<p>但今天我突然发觉，</p>
-<p>从神经科学的角度来看，这句话并非那么离奇。</p>
-<p>人类的意识似乎害怕这个世界，它躲藏在坚硬的颅骨之中，唯有两颗璀璨的宝石直接对外开放。</p>
-<p>Copyright: 本文中所有中文均出自GPT-4.</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>romance</tag>
-        <tag>science</tag>
-        <tag>biology</tag>
       </tags>
   </entry>
   <entry>
@@ -10483,6 +10462,27 @@
       <tags>
         <tag>fun</tag>
         <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>with Xuanhao</title>
+    <url>/2022/08/10/With_Xuanhao/</url>
+    <content><![CDATA[<p>暑假的一天，我去找煊昊进行我们一年一度的娱乐活动。</p>
+<p>我们打开全国I数学卷，我扬言要在一个小时内做完。</p>
+<p>我用一张A4纸当答题卡，其它A4纸当草纸。</p>
+<p>40min后，我交上了答题卡,然而上面却有很多个题写略或者pass。煊昊问我这是什么意思，我说要么是这题太没意思，要么是这题应该交给MATLAB或者Mathematica。</p>
+<p>煊昊：你他娘的高考还能带个电脑去？</p>
+<p>我：能用电脑画函数图像是我高中时的梦想之一，如果当时有人教会我用MATLAB或者Mathematica，我能高兴得睡不着觉。</p>
+<p>最后，我们还探讨了那个p-value的问题。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-08</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>senior high school</tag>
       </tags>
   </entry>
   <entry>
