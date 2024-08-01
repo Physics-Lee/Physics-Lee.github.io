@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2024/07/01/My_Favourite/</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/06/11/The_Wings_of_Liberty_in_Attack_on_Titan/</loc>
     
     <lastmod>2024-07-26</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/07/02/Ambition_Should_Be_High/</loc>
-    
-    <lastmod>2024-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/07/01/My_Favourite/</loc>
     
     <lastmod>2024-07-02</lastmod>
     
@@ -2758,7 +2758,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2024-07-26</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
