@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2024/08/03/Boost_Sports/</loc>
+    
+    <lastmod>2024-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/08/01/KD/</loc>
     
     <lastmod>2024-08-01</lastmod>
@@ -2767,7 +2776,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2024-08-01</lastmod>
+    <lastmod>2024-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
