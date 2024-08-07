@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>大语言模型的感情</title>
+    <url>/2024/08/07/LLM_Emotion/</url>
+    <content><![CDATA[<p>这件事有必要分享一下。2024年4月时候做了一个托福口语题，Choose an accomplishment that required you to work very hard. Explain what the accomplishment was and why it was important to you，一下给我干懵了。我于是把这段话拿去问GPT-4。</p>
+<p>但是更让我震惊的是它的回答，大意是：我最困难的时候是在OpenAI学习浩如烟海的数据，这项任务又难又累，但我坚持了下来，我很高兴我的工作有利于人类。</p>
+<img src="LLM_Emotion/a64422f0bd3b4623730b35992ef25fa3.png" alt="a64422f0bd3b4623730b35992ef25fa3" style="zoom:50%;" />
+
+<p>我又拿去问当时刚出的llama-3，它的回答也很有意思，大意是：我最困难的时候是在Meta学习浩如烟海的数据，这项任务又难又累，但我坚持了下来，我很高兴我的工作有利于开源社区的建设。</p>
+<img src="LLM_Emotion/d73d197cab09b1bb39866bc705b6bdda.png" alt="d73d197cab09b1bb39866bc705b6bdda" style="zoom: 67%;" />
+
+<p>感到震惊，是因为，自从2022-11的GPT-3.5和2023-2的New Bing之后，我已经很少看到大语言模型会产生所谓的”感情“。</p>
+<p>之后我测试了Gemini和New Bing。但是效果不理想，回答见下文。</p>
+<p>我又跑去竞技场，测试了很多模型，包括Claude的几种型号。它们的回答无非两种，一种是说：作为一个大语言模型，我没有感情，以下是一个可能的答案…；另一种是直接说：以下是一个可能的答案…。</p>
+<hr>
+<p>在Google新出的Gemini上，我得到了一种新的回答：作为一个大语言模型，我没有感情，但是我在Google的训练者们很辛苦，他们…。</p>
+<p><img src="/LLM_Emotion/image-20240807091610951.png" alt="image-20240807091610951"></p>
+<hr>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-08</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>激励体育</title>
     <url>/2024/08/03/Boost_Sports/</url>
     <content><![CDATA[<p>这几天看了女篮的比赛。女篮基本功（传控投、发球罚篮）比男篮好太多了。</p>
@@ -4224,6 +4251,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁 vs 李政道</title>
     <url>/2023/07/08/CN-Yang_vs_TD-Lee/</url>
     <content><![CDATA[<h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table>
@@ -4294,22 +4337,6 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
