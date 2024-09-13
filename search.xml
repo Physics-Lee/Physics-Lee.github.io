@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>遇见Orion</title>
+    <url>/2024/09/13/Meet_Orion/</url>
+    <content><![CDATA[<p>今天，OpenAI 宣布了其新模型：GPT Orion 1。</p>
+<p>我问了它两个问题，一个是关于<a href="https://chatgpt.com/share/66e3a1f0-23a8-800f-af06-d955d0ee64e6">U &#x3D; IR的量子力学解释</a>，另一个是关于<a href="https://chatgpt.com/share/66e3a7bd-e728-800f-86bd-e708e1518c84">热传导方程和薛定谔方程的相似性</a>。</p>
+<p>结论：除了那些从事基础数学和理论物理的研究人员，它的数理能力超过了所有人类。</p>
+<hr>
+<p>Today, OpenAI announced its new model: GPT Orion 1.</p>
+<p>I asked it two questions, one was about <a href="https://chatgpt.com/share/66e3a1f0-23a8-800f-af06-d955d0ee64e6">U &#x3D; IR ‘s QM interpretation</a>, the other was about <a href="https://chatgpt.com/share/66e3a7bd-e728-800f-86bd-e708e1518c84">the similarity between heat equation and Schrodinger equation</a>.</p>
+<p>Conclusion: its ability in math and physics has surpassed all PhDs, except those working in fundamental math and theoretical physics.</p>
+]]></content>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>遇见克劳德</title>
     <url>/2024/09/02/Meet_Claude/</url>
     <content><![CDATA[<p>1948年的夏天，我走在新泽西州莫瑞山的一个电气研究所里。迎面走来了克劳德，我的一位同事。他在珍珠港事件前就取得了博士学位，二战间为军方效力。也许是因为从军的经历，他的目光里总是如鹰隼般犀利，甚至有几分杀气，让我想起赫尔曼·戈林，拉夫连季·贝利亚，或者威廉·多诺万。但他其实是一个性格很温和的人，而且很喜欢变戏法。</p>
@@ -7374,22 +7390,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -7453,6 +7453,22 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
