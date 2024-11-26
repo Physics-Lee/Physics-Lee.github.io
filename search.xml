@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>有生以来最刺激的论文</title>
+    <url>/2024/10/29/Thrillest_Paper/</url>
+    <content><![CDATA[<p>我宣布我看到了有生以来最刺激的论文！最刺激的附属视频！</p>
+<p><a href="https://www.nejm.org/doi/abs/10.1056/NEJMoa2314132">https://www.nejm.org/doi/abs/10.1056/NEJMoa2314132</a></p>
+<p>必拿拉斯克奖。不，拿个破奖算什么，这个技术未来十年一定会改变世界。拉斯克奖颁给他们纯粹是沾他们的光。</p>
+<p>简而言之，未来十年内，我们就能在各大医院普及能让瘫痪患者重新交流的手术。</p>
+<p>我觉得宣传自己是很重要的。这工作这么牛逼，却只有脑机接口圈内人知道。想一想，如果是Elon Musk做的，他会怎么宣传？</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-10</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>neuroscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Vision Pro和视觉重建</title>
     <url>/2024/09/28/Vision_Pro_and_Vision_Reconstruction/</url>
     <content><![CDATA[<p>今天去体验了一下Apple的Vision Pro，挺好玩的。它可以让使用者同时看到周围世界和虚拟世界。有一点非常不错：它对使用者周围世界的拍摄非常清晰。</p>
@@ -220,7 +238,7 @@
 <p>克劳德愣了一下，随即大笑道：“你可真了解我！今天确实有个新把戏，不过可不能在这儿展示。”</p>
 <p>他的嘴角微微上扬，露出一个意味深长的微笑。“你知道吗，”他慢慢说道，<strong>“你刚刚提到的关于穿正装和运动装的事，其实就是信息论的核心之一。”</strong></p>
 <p>我抬起头，看向他。“啥？”</p>
-<p>克劳德的神情变得严肃起来，他走近了一步，压低声音说道：“其实，我最近一直在思考如何定量地定义信息并将信息的概念应用到更广泛的领域。我们不仅可以用它来描述通信系统，还可以用它来理解整个世界的运作规律。”</p>
+<p>克劳德的神情变得严肃起来，他走近了一步，压低声音说道：“其实，我最近一直在思考如何定量定义信息并将它应用到更广泛的领域。我们不仅可以用它来描述通信系统，还可以用它来理解整个世界的运作规律。”</p>
 <p>“整个世界？”我有些惊讶。</p>
 <p>“没错，<strong>你的行为，你的语言，乃至再到你周围的整个宇宙</strong>。”克劳德自豪地说，“除了这些外在的事物，还包括这里。”他用食指点了点自己的太阳穴。“<strong>心脏处理泵血，肺处理气体交换，肝处理化学物质，肾处理血液中的废物，而大脑处理信息。</strong>”</p>
 <p>“这东西真有这么厉害？”我有些惊讶。</p>
@@ -6338,49 +6356,6 @@
       </tags>
   </entry>
   <entry>
-    <title>星星意味着什么？</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
-    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
-<p>审稿：天阳</p>
-<hr>
-<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
-<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
-<p>不过，这也太扯淡了。</p>
-<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
-<p>这个*，可能是对偶的意思。</p>
-<p>所有的男生构成一个向量空间，</p>
-<p>所有的女生构成一个向量空间，</p>
-<p>这两个空间互为对偶空间。</p>
-<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
-<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
-<p>这两个元素互为对偶元素。</p>
-<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
-<p>是不是很浪漫。</p>
-<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
-<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
-<p>行向量也叫co-vector。</p>
-<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
-<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
-<p>不过，同一个星号，</p>
-<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
-<p>如果你翻译成对偶，浪漫至极。</p>
-<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Does the Asterisk Mean?</title>
     <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
     <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
@@ -6408,6 +6383,49 @@
 <p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
 <p>If you translate it into duality, then you are such a breathless romanticer.</p>
 <p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星星意味着什么？</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
+    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
+<p>审稿：天阳</p>
+<hr>
+<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
+<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
+<p>不过，这也太扯淡了。</p>
+<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
+<p>这个*，可能是对偶的意思。</p>
+<p>所有的男生构成一个向量空间，</p>
+<p>所有的女生构成一个向量空间，</p>
+<p>这两个空间互为对偶空间。</p>
+<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
+<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
+<p>这两个元素互为对偶元素。</p>
+<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
+<p>是不是很浪漫。</p>
+<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
+<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
+<p>行向量也叫co-vector。</p>
+<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
+<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
+<p>不过，同一个星号，</p>
+<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
+<p>如果你翻译成对偶，浪漫至极。</p>
+<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
 <p>It just like, they have a baby!</p>
 ]]></content>
       <categories>
