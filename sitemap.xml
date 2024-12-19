@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2024/09/26/Why_Socialism_Revisited/</loc>
+    
+    <lastmod>2024-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2024/12/12/Meet_Pengfei/</loc>
+    
+    <lastmod>2024-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/12/18/Cold_Night/</loc>
     
     <lastmod>2024-12-19</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/06/28/Inside_Out_2/</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/12/13/Meet_Pengfei/</loc>
     
     <lastmod>2024-12-19</lastmod>
     
@@ -59,15 +68,6 @@
     <loc>https://physics-lee.github.io/2024/09/28/Vision_Pro_and_Vision_Reconstruction/</loc>
     
     <lastmod>2024-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/09/26/Why_Socialism_Revisited/</loc>
-    
-    <lastmod>2024-09-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
