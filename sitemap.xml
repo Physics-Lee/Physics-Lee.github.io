@@ -4,6 +4,24 @@
   <url>
     <loc>https://physics-lee.github.io/2025/01/02/Acadamy_or_Industry/</loc>
     
+    <lastmod>2025-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/05/Help/</loc>
+    
+    <lastmod>2025-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/03/New_Progress_of_Exodus_Cry/</loc>
+    
     <lastmod>2025-01-03</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -3001,7 +3019,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
