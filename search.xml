@@ -1,79 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Reports of Large Language Models</title>
-    <url>/2025/01/28/LLM_Reports/</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Name</th>
-<th>Report</th>
-<th>Open Source?</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>2022-01-27</td>
-<td>InstructGPT</td>
-<td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf">NeurlPS 2022</a> [1]</td>
-<td>No</td>
-</tr>
-<tr>
-<td>2022-11-30</td>
-<td>ChatGPT-3.5</td>
-<td><a href="https://openai.com/index/chatgpt/">blog post</a></td>
-<td>No</td>
-</tr>
-<tr>
-<td>2023-03-04</td>
-<td>ChatGPT-4</td>
-<td><a href="https://arxiv.org/html/2303.08774v6">arxiv</a> [2]</td>
-<td>No</td>
-</tr>
-<tr>
-<td>2024-07-23</td>
-<td>Llama 3 &amp; 3.1</td>
-<td><a href="https://arxiv.org/pdf/2407.21783">arxiv</a></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td>2024-09-12</td>
-<td>ChatGPT-o1</td>
-<td><a href="https://openai.com/index/learning-to-reason-with-llms/">blog post</a></td>
-<td>No</td>
-</tr>
-<tr>
-<td>2024-12-21</td>
-<td>ChatGPT-o3</td>
-<td><a href="https://www.youtube.com/watch?v=SKBG1sqdyIU">blog post</a> [3]</td>
-<td>No</td>
-</tr>
-<tr>
-<td>2024-12-27</td>
-<td>DeepSeek V3</td>
-<td><a href="https://arxiv.org/html/2412.19437v1">arxiv</a> [4]</td>
-<td>Yes</td>
-</tr>
-<tr>
-<td>2025-01-22</td>
-<td>DeepSeek R1</td>
-<td><a href="https://arxiv.org/html/2501.12948v1">arxiv</a> [4]</td>
-<td>Yes</td>
-</tr>
-<tr>
-<td>2025-01-22</td>
-<td>Kimi 1.5</td>
-<td><a href="https://arxiv.org/html/2501.12599v1">arxiv</a></td>
-<td>No</td>
-</tr>
-</tbody></table>
-<p>Note:</p>
+    <title>何为英雄</title>
+    <url>/2025/02/03/What_Are_Heros/</url>
+    <content><![CDATA[<p>今天重温了《射雕英雄传》最后成吉思汗和郭靖的英雄之辩。所思甚多。</p>
+<img src="/2025/02/03/What_Are_Heros/image-20250203161725578.png" class="">
+
+<img src="/2025/02/03/What_Are_Heros/image-20250203155202302.png" class="">
+
+<img src="/2025/02/03/What_Are_Heros/image-20250203155229923.png" class="">
+
+<img src="/2025/02/03/What_Are_Heros/image-20250203155241558.png" class="">
+
+<p>究竟何为英雄？</p>
+<p>这并不是一个孩子气的问题，而是有很强的现实意义。我身处学术圈，见过很多造假灌水之辈，他们自然绝非英雄。但是，我也见过很多聪明绝顶、确实有功的科学家，谈不上像杨广和成吉思汗那样视人命如草芥，但绝对称得上视学生若牛马。</p>
+<hr>
+<p>这些年来，我学会了很多知识。但是，对于想成何人，却尚未完全明了。</p>
+<p>我认为：<strong>一个人只要力所能及地帮助他人，就可被称为英雄</strong>。</p>
+<p>正如金庸所写：</p>
+<blockquote>
+<p>郭靖又道：“自来英雄而为当世钦仰、后人追慕，必是为民造福、爱护百姓之人。以我之见，杀得人多却未必算是英雄。”  </p>
+</blockquote>
+<p>我曾经听说过一句话：</p>
+<blockquote>
+<p>成长，意味着，你要做对自己和家人最有利的事情，哪怕这些事会伤害到其他人。</p>
+</blockquote>
+<p>这两句话并不矛盾。</p>
+<p>李世民杀兄杀侄，是形势所迫，不得已而为之；嬴政统一天下，本可休养生息，却强行大兴土木。</p>
+<p>拿破仑走投无路，以身退位，换法国民众无恙；希特勒走投无路，拒不投降，帝国梦碎也要全德陪葬。</p>
+<p>另外，希特勒歧视犹太人或许是形势所迫，必须靠此法凝聚德国，但他日后明明有其他方法，却非要集中营屠杀。</p>
+<hr>
+<p>中国历史上并不缺少英雄。</p>
+<p>刘备，他一辈子唯一一件背德的事情就是背叛刘璋。但这也是形势所迫。</p>
+<p>诸葛亮，他一生也没做过什么坏事。</p>
+<hr>
+<p>人类的历史上也不缺少。</p>
+<p>拿破仑，列宁，皆为英雄。</p>
+<p>若算上科学家，从伽利略到二战，数不胜数。</p>
+<hr>
+<p>所以，我理解那些为了拿终身教职不得不疯狂剥削学生的人，但是却痛恨那些已有终身教职却仍旧疯狂逼迫的人。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-02</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>家庭 vs 工作</title>
+    <url>/2025/01/30/Family_vs_Work/</url>
+    <content><![CDATA[<p>今年回家，格外高兴。</p>
+<p>我变了。以前我把工作放在第一位，现在我把家庭放在第一位。</p>
+<p>这一转变，有客观原因，也有主观原因。</p>
+<p>主观原因有：</p>
 <ol>
-<li>Typically, clarity: conference &gt; arxiv &gt; blog post. So, If a model is documented in all three formats (conference, arxiv, and blog post), only the conference link will be recorded in this table.</li>
-<li>OpenAI published a “technical report” of GPT-4 on arxiv. That is, this arxiv paper contains no additional technical details compared to its <a href="https://openai.com/index/gpt-4-research/">blog post</a>. Similarly, <a href="https://arxiv.org/pdf/2403.05530">Google’s arxiv papers</a> also tell you nothing more about Gemini.</li>
-<li>OpenAI published a video containing the performances of ChatGPT-o3 on YouTube.</li>
-<li><a href="https://mp.weixin.qq.com/s/xVux1jo1nLpSSrt7JlxfKA">DeepSeek V3 and R1 uses 2,664,000 H800 hours, while LLAMA 3 uses 39,300,000 H800 hours.</a></li>
+<li>我极其厌恶现在的学术界制度（二战后逐渐形成，1990年后稳固）</li>
+<li>我认为，真正的科学家应”惜时如金”。用一小时干完别人二十四小时的工作，用一天干完别人一年的工作，用一年干完别人一百年的工作，这特么才是科学家。</li>
+<li>我认为，<strong>有我没我，学术界和企业界不会有什么区别。但有无我，对我的家人而言，有很大区别。</strong></li>
 </ol>
+<p>客观原因有：</p>
+<ol>
+<li>我即将游美，自然思乡。</li>
+<li>爷爷奶奶均有慢性病，我陪伴的时间不多了。</li>
+</ol>
+<hr>
+<p>总之，我能接受的最多工作时间就是每周四十小时，剩下的时间我要陪伴我的家人，以及投在爱好上。我会用这四十小时干完别人四百小时的工作量。</p>
+<p>如果我将来有了孩子，我的底线是——他&#x2F;她成年之前，最多高三单休、有晚自习，前17年必须双休、无晚自习。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-01</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Reports of Large Language Models since 2022</title>
+    <url>/2025/01/28/LLM_Reports/</url>
+    <content><![CDATA[<p>Check it <a href="https://github.com/Physics-Lee/LLM-Reports">here</a>.</p>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -95,6 +102,31 @@
 <p>第二是和弟弟的交流。他问我：“你一直觉得，你做出伟大成就，就应该被分配到更多的东西。但我觉得，可以稍微多一点，但不能太多。如果没有食堂大妈、清洁工、建筑工人、生产螺丝和螺母的人，你们科学家又能做出什么贡献？”</p>
 <p>第三是来自于我的所见所闻。如你所知，我对1990年后的学术界失望满怀。</p>
 <p>因此，<strong>我现在已经不这么认为了</strong>。这是从小到大，我的价值观发生的最重大转变之一。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-01</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>曼哈顿计划、两弹一星、冷战</title>
+    <url>/2025/01/24/Manhattan_Two-Bombs-One-Satellite_Cold-War/</url>
+    <content><![CDATA[<blockquote>
+<p>这是一个研究生的愤怒。</p>
+</blockquote>
+<p>在曼哈顿计划中他们努力工作是为了全人类。</p>
+<p>在回国的浪潮中他们努力工作是为了国家和民族。</p>
+<p>在美苏冷战时他们努力工作是为了证明自己的制度是更好的制度。</p>
+<p>但是现在，我们什么也做不了。</p>
+<p>你难道还以为我们是在为全人类做贡献？为了国家和民族做贡献？为了证明自己的制度更好？</p>
+<p>我们所做的只能帮某个教授升官发财。</p>
+<p>这就是我所看到的。</p>
+<p><strong>扪心自问，我们所做的事情能帮助更多的人吗？</strong></p>
+<p>注：今天看到了墨子沙龙的一个采访，一个小朋友问台上的科学家：“<strong>普通人什么时候能用上量子计算机？</strong>”。感触颇深，遂作此篇。</p>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -573,8 +605,8 @@
 <p>答：在企业当然也能做。</p>
 <h1 id="对未来的预测-个人观点"><a href="#对未来的预测-个人观点" class="headerlink" title="对未来的预测 | 个人观点"></a>对未来的预测 | 个人观点</h1><p>问：你认为那五个制度会被改革吗？</p>
 <p>答：</p>
-<p>工会、同行评审容易改革，二十年之内应该可以完成。2022年，<a href="https://mp.weixin.qq.com/s/2YX03TVtI8LjyEzT8gnMdg">加州大学工会组织的罢工</a>让加州研究生工资涨了一点点。2023年，<a href="https://mp.weixin.qq.com/s/lYA_b2dwlkxcgP40UsoruA">密歇根大学工会组织的罢工</a>让密歇根大学研究生工资涨了不少。至于同行评审，我之前吹过的 LeCun, Bengio, Eisen干的就是它。</p>
-<p>博士毕业要求、跳槽限制、晋升标准，不容易改革。我认为未来二十年看不到希望。</p>
+<p><strong>工会、同行评审</strong>：容易改革，二十年之内应该可以完成。2022年，<a href="https://mp.weixin.qq.com/s/2YX03TVtI8LjyEzT8gnMdg">加州大学工会组织的罢工</a>让加州研究生工资涨了一点点。2023年，<a href="https://mp.weixin.qq.com/s/lYA_b2dwlkxcgP40UsoruA">密歇根大学工会组织的罢工</a>让密歇根大学研究生工资涨了不少。至于同行评审，我之前吹过的 LeCun, Bengio, Eisen干的就是它。</p>
+<p><strong>博士毕业要求、跳槽限制、晋升标准</strong>：不容易改革。<strong>我认为未来二十年看不到希望。</strong></p>
 <p>问：那你认为学术界啥时候才能回到二战前的状态？</p>
 <p>答：我认为需要等到下一次社会重大变革。</p>
 <p>问：你认为终身教职制度还能保持多久？</p>
@@ -605,7 +637,7 @@
 <h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p>这篇文章是建立以前很多篇文章基础上的，包括</p>
 <ol>
 <li>2022年和朋友有关学界、业界的聊天。（见评论区）</li>
-<li><a href="https://physics-lee.github.io/2023/12/31/2023_Over/">2023年和学长的聊天。</a></li>
+<li><a href="https://physics-lee.github.io/2023/12/31/2023_Over/">2023年和学长有关学界、业界的聊天。</a></li>
 </ol>
 ]]></content>
       <categories>

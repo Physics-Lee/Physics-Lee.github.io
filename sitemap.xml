@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/02/03/What_Are_Heros/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/24/Manhattan_Two-Bombs-One-Satellite_Cold-War/</loc>
+    
+    <lastmod>2025-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/30/Family_vs_Work/</loc>
+    
+    <lastmod>2025-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/02/Academy_or_Industry/</loc>
+    
+    <lastmod>2025-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2025/01/28/LLM_Reports/</loc>
     
     <lastmod>2025-01-29</lastmod>
@@ -30,15 +66,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2025/01/27/My_Shift/</loc>
-    
-    <lastmod>2025-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/01/02/Academy_or_Industry/</loc>
     
     <lastmod>2025-01-27</lastmod>
     
@@ -3073,7 +3100,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-01-29</lastmod>
+    <lastmod>2025-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
