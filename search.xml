@@ -85,6 +85,33 @@
       </tags>
   </entry>
   <entry>
+    <title>在Markdown转HTML时如何保留多个空行？</title>
+    <url>/2025/02/08/Multiple_Empty_Lines_in_HTML/</url>
+    <content><![CDATA[<p>在使用hexo时，我发现，我的Markdown转成HTML时，多个空行会变成一个空行，即多个\n会变成一个\n。</p>
+<p>咋办呢？我尝试了<a href="https://chatgpt.com/c/67a6f9cc-20a4-8002-aca6-d99b4e381f2f">多种方法</a>，有的不行，有的改变太多、担心出错。</p>
+<p>最后，我选择在Markdown中手动加入<code>&lt;br&gt;</code>。</p>
+<hr>
+<p>Markdown, HTML, hexo, next，终究只是工具而已，能用就行。</p>
+<p>目前，在写博客时，最不方便的有</p>
+<ol>
+<li>图片不能在<code>.md</code>和博客上同时显示。</li>
+<li>Markdown转成HTML时，多个空行会变成一个空行。</li>
+</ol>
+<p>给我带来的不便之处尚且都可忍受。</p>
+<ol>
+<li>我选择了用<code>&#123;% asset_img %&#125;</code></li>
+<li>我选择手动加入<code>&lt;br&gt;</code></li>
+</ol>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-02</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>谁是最不可替代的？</title>
     <url>/2025/02/08/Who_Is_the_Most_Irreplaceable/</url>
     <content><![CDATA[<p>今天和爸妈看了小林讲解OpenAI的政变。</p>
@@ -124,6 +151,49 @@
       <tags>
         <tag>THINK</tag>
         <tag>economy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>重读金庸</title>
+    <url>/2025/02/05/Jin-Yong_Revisited/</url>
+    <content><![CDATA[<p>其实我看金老的小说，只有部分章节喜欢。很多章节完全看不下去。</p>
+<p>我猜，因为最开始是报纸连载，所以难免凑字。 </p>
+<p>天龙八部，只喜欢萧峰的那条线。段誉和虚竹的真是看不下去。 </p>
+<p>射雕英雄传，只被结尾成吉思汗和郭靖的英雄之辩震撼到了。这也是全金庸小说里我觉得最深刻的一章。 </p>
+<p>神雕，只喜欢最后的八回。 </p>
+<p>倚天屠龙，实在看不下去啊，拧巴。最喜欢的是写郭襄的第一回。 </p>
+<p>笑傲江湖，三战、比剑、夺帅，这三章甚爱，其他也看不下去。 </p>
+<hr>
+<p>不过，金庸写书胆是真大。按照他写书的顺序： </p>
+<p>郭靖先遇华筝后遇黄蓉，正常作者肯定会把先遇到的写成一对。 </p>
+<p>杨过和郭芙，看第一本的时候肯定以为这俩年龄相仿的小孩要青梅竹马。 </p>
+<p>倚天屠龙，啥，男主死了？女主死了？张三丰还不会复活术？谁要看他家十岁小孩的破故事？</p>
+<p>笑傲江湖，啥，第一本前几回的视角人物林平之不是主角？</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-02</category>
+      </categories>
+      <tags>
+        <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>何日，中文科技教科书将被翻译成英文？</title>
+    <url>/2025/02/04/When_Will_Chinese_Textbooks_Be_Translated_into_English/</url>
+    <content><![CDATA[<p>小林又更新了，涉及自己的赚钱方式和团队组成，真是个诚实的自媒体啊。  </p>
+<p>中文科技教科书能被翻译成英文的，我只听说过周志华的西瓜书。  </p>
+<p>中文科技自媒体能让英文母语者打开字幕看的，我只知道小林和李永乐。  </p>
+<p>等啥时候中文科技教科书能全都咔咔被翻译成英文，中文科技自媒体在YouTube上能让其它母语者心甘情愿地开字幕看，那一天太美不敢想。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-02</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>THINK</tag>
+        <tag>nationalism</tag>
       </tags>
   </entry>
   <entry>
@@ -246,6 +316,7 @@
 <li>731部队的科学家：<a href="https://physics-lee.github.io/pdfs/731.pdf">731部队的囚犯无一人生还，涉案的学者们无一人受罚</a>。</li>
 <li><a href="https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%B0%94%E9%A1%BF%C2%B7%E7%9B%96%E6%9D%9C%E8%B0%A2%E5%85%8B">Daniel Carleton Gajdusek</a> (1923-2008): 发现了<a href="https://zh.wikipedia.org/wiki/%E5%BA%93%E9%B2%81%E7%97%85">库鲁病</a>（一种南太平洋岛屿的疾病，由<a href="https://zh.wikipedia.org/wiki/%E6%9C%8A%E6%AF%92%E9%AB%94">朊毒体</a>引起）的病因，有功。但他当年带了56个南太平洋小孩回美国，之后却对其中部分实施了性侵犯。但不知为何他最后只被判了12个月。详情见<a href="https://en.wikipedia.org/wiki/Daniel_Carleton_Gajdusek">此处</a>。</li>
 <li><a href="https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Lee Minsky</a> (1927-2016): 达特茅斯会议的组织者之一，有功。2015年，爱泼斯坦案的受害者之一指控他强奸。因为此案涉及美英众多政治人物，所以取证困难。他没有受到惩罚。详情见<a href="https://en.wikipedia.org/wiki/Marvin_Minsky#Association_with_Jeffrey_Epstein">此处</a>。</li>
+<li>给听花酒打广告的三个诺奖得主。</li>
 </ol>
 ]]></content>
       <categories>
@@ -344,6 +415,19 @@
       <tags>
         <tag>science</tag>
         <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>机器学习笔记 | 计算物理B助教</title>
+    <url>/2025/01/15/ML_Note_Yixuan/</url>
+    <content><![CDATA[<p>见<a href="https://physics-lee.github.io/tags/pdfs/ML_Note_Yixuan.pdf">此处</a>。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-01</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -986,6 +1070,29 @@
       </tags>
   </entry>
   <entry>
+    <title>深度学习掀起的技术革命 | Science Revolution Caused by DL</title>
+    <url>/2024/12/25/Technology_Revolution_by_DL/</url>
+    <content><![CDATA[<p>和上一小节极富争议不同，深度学习将掀起新一轮技术革命、解放生产力，是不争的事实。我想它至少可以和以下几次技术革命并列：</p>
+<ol>
+<li>火</li>
+<li>第一次工业革命</li>
+<li>第二次工业革命</li>
+<li>电子计算机</li>
+</ol>
+<p>在十年的时间尺度上，深度学习可能导致失业率飙升，也可能导致经济危机。但从百年的时间尺度上，这当然是好事。</p>
+<p>这是最好的时代，这是最坏的时代。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-12</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>technology</tag>
+        <tag>engineering</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>欢迎来到我的B站</title>
     <url>/2024/12/23/Welcom_to_My_Bilibili/</url>
     <content><![CDATA[<blockquote>
@@ -1387,6 +1494,24 @@
       </categories>
       <tags>
         <tag>politics</tag>
+        <tag>economy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>投资不过山海关？</title>
+    <url>/2024/10/30/Investiment_Beyond_Shan-Hai-Guan/</url>
+    <content><![CDATA[<p>今天发现学校超市进了桃李面包。</p>
+<p>桃李公司是东北为数不多的全国性企业。显然面包并非东北特产，我也不太清楚他们是怎么做大做强的。 </p>
+<p>九一八事变、共和国长子、下岗潮那些历史咱们就不说了。我上高中时（2015-2018），有一句很火的话，叫“投资不过山海关”。16年时总理引用过（特别是知乎，说这话的人很多），18年时有一个亚布力事件。简而言之，东北比较像裙带市场经济，长三角和珠三角是自由市场经济。2019年左右，大连还喊了一句口号：山海关不住，投资到金普，反映了19年时这句话还很火。 </p>
+<p>但是，2020年至今，说这七个字的人少了很多。为啥呢？无非是因为网络舆论从赞美市场经济转向了批评市场经济。曾经的知乎是小资产阶级聚集地，现在的知乎快成无产阶级先锋队了。 </p>
+<p>但是，中国既然选择了市场经济，往后很多年应该也还会按照市场经济往下走。虽然我支持社会主义，但我觉得多种所有制并存值得探索。那么东北扮演什么角色呢。 我对家乡有一种深沉的爱。我觉得东北比工业、制造业、新能源车（最近一汽做得怎么样？我也不太清楚）、互联网、AI肯定干不过长三角和珠三角，重心可以放在第一产业和第三产业。家乡可以做中国的粮仓，也欢迎所有人来玩。东北有四个国家级滑雪场。 </p>
+<p>另，家乡的风能也不错，我这次回家是参观了很多风车。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-10</category>
+      </categories>
+      <tags>
         <tag>economy</tag>
       </tags>
   </entry>
@@ -3708,32 +3833,6 @@
       </categories>
   </entry>
   <entry>
-    <title>且看LLM如何改变电子游戏</title>
-    <url>/2023/12/19/Game_Industry_by_Lin/</url>
-    <content><![CDATA[<p>今日看了小林最新一期讲电子游戏产业的<a href="https://www.youtube.com/watch?v=8BbG1Jr94o8&lc=UgwSl0pet4Y3sqqeXnJ4AaABAg">视频</a>，有感而发，遂作此文。</p>
-<img src="/2023/12/19/Game_Industry_by_Lin/1.png" class="">
-
-<img src="/2023/12/19/Game_Industry_by_Lin/2.png" class="">
-
-<img src="/2023/12/19/Game_Industry_by_Lin/3.png" class="">
-
-
-
-
-
-<p>虽然数据满满，但是小林在视频里没有提到LLM将会对电子游戏产生的影响。我个人认为，LLM会改变一切产业，科技、教育、游戏、农业、工业、服务业，所有的一切！</p>
-<p>且看LLM如何改变游戏！</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>video game</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>疲惫悖论</title>
     <url>/2023/12/19/Fatigue_Paradox/</url>
     <content><![CDATA[<p>这篇文章为<a href="https://www.bilibili.com/video/BV1tC4y1X7TU/?spm_id_from=333.999.0.0&vd_source=7f7311e573a7f2a9bab48f7645a4e660">此视频</a>而作。</p>
@@ -3788,6 +3887,32 @@
         <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>且看LLM如何改变电子游戏</title>
+    <url>/2023/12/19/Game_Industry_by_Lin/</url>
+    <content><![CDATA[<p>今日看了小林最新一期讲电子游戏产业的<a href="https://www.youtube.com/watch?v=8BbG1Jr94o8&lc=UgwSl0pet4Y3sqqeXnJ4AaABAg">视频</a>，有感而发，遂作此文。</p>
+<img src="/2023/12/19/Game_Industry_by_Lin/1.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/2.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/3.png" class="">
+
+
+
+
+
+<p>虽然数据满满，但是小林在视频里没有提到LLM将会对电子游戏产生的影响。我个人认为，LLM会改变一切产业，科技、教育、游戏、农业、工业、服务业，所有的一切！</p>
+<p>且看LLM如何改变游戏！</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>video game</tag>
       </tags>
   </entry>
   <entry>
@@ -4344,8 +4469,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -4390,8 +4515,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -4791,8 +4916,8 @@
         <category>2023-10</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>madness</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -5507,8 +5632,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -5781,8 +5906,8 @@
       </categories>
       <tags>
         <tag>socialism</tag>
-        <tag>capitalism</tag>
         <tag>scientific misconduct</tag>
+        <tag>capitalism</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -8037,8 +8162,8 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>madness</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>soccer</tag>
         <tag>rush</tag>
@@ -9138,6 +9263,22 @@
       </tags>
   </entry>
   <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -9201,22 +9342,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
