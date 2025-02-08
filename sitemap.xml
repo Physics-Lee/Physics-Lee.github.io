@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/02/08/Communications_Between_Civilizations/</loc>
+    
+    <lastmod>2025-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2024/03/16/Ting_Hua/</loc>
+    
+    <lastmod>2025-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/28/LLM_Reports/</loc>
+    
+    <lastmod>2025-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/30/Family_vs_Work/</loc>
+    
+    <lastmod>2025-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/13/Towel_of_Babel_Among_Scientists/</loc>
+    
+    <lastmod>2025-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/12/15/MIT_and_Jeffrey_Epstein/</loc>
     
     <lastmod>2025-02-07</lastmod>
@@ -137,27 +182,9 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/01/30/Family_vs_Work/</loc>
-    
-    <lastmod>2025-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/01/02/Academy_or_Industry/</loc>
     
     <lastmod>2025-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/01/28/LLM_Reports/</loc>
-    
-    <lastmod>2025-01-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -201,15 +228,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/01/19/AI_and_Comp_Neuro_Help_Each_Other/</loc>
-    
-    <lastmod>2025-01-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/03/16/Ting_Hua/</loc>
     
     <lastmod>2025-01-13</lastmod>
     
@@ -3190,7 +3208,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-02-07</lastmod>
+    <lastmod>2025-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
