@@ -22,34 +22,40 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="近几个月，不知哪个大聪明发现，直接问LLM:”Which is bigger, 9.11 or 9.9.”，LLM有很大的概率会回答错。包括o1-preview。 我之前试过，如果言明是实数或者是版本号，LLM几乎100%会回答正确。我是拿讯飞星火试的，都没用GPT。因此我觉得，很多人只是想靠这件事水文章。 我个人认为，人类和LLM是两种智能，就像人类视觉和CNN是两种视觉一样。两种视觉互有长短，">
+    <meta name="description" content="陪姑姑的两个小孩玩了会，他俩都是18年夏天出生的。  还记得b站的《后浪》吗，有一条评论让我印象深刻：这个视频反应的并不是我们的生活，但如果想让下一代成为视频中的后浪，那就只能靠我们的努力。  我很伤心，我心里很清楚，我姑姑的孩子不可能和我导师的孩子享受同样的教育资源。  我一直觉得大语言模型可以改变教育资源的分配不公。以后给每个小孩微调一个LLM并非不可能。  从前有个人写：各尽所能，各取所需。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="9.11vs9.9">
-<meta property="og:url" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/index.html">
+<meta property="og:title" content="大语言模型和教育">
+<meta property="og:url" content="https://physics-lee.github.io/2024/08/29/LLM_and_Education/index.html">
 <meta property="og:site_name" content="XuanJr&#39;s Land">
-<meta property="og:description" content="近几个月，不知哪个大聪明发现，直接问LLM:”Which is bigger, 9.11 or 9.9.”，LLM有很大的概率会回答错。包括o1-preview。 我之前试过，如果言明是实数或者是版本号，LLM几乎100%会回答正确。我是拿讯飞星火试的，都没用GPT。因此我觉得，很多人只是想靠这件事水文章。 我个人认为，人类和LLM是两种智能，就像人类视觉和CNN是两种视觉一样。两种视觉互有长短，">
+<meta property="og:description" content="陪姑姑的两个小孩玩了会，他俩都是18年夏天出生的。  还记得b站的《后浪》吗，有一条评论让我印象深刻：这个视频反应的并不是我们的生活，但如果想让下一代成为视频中的后浪，那就只能靠我们的努力。  我很伤心，我心里很清楚，我姑姑的孩子不可能和我导师的孩子享受同样的教育资源。  我一直觉得大语言模型可以改变教育资源的分配不公。以后给每个小孩微调一个LLM并非不可能。  从前有个人写：各尽所能，各取所需。">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/1.jpg">
-<meta property="og:image" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/2.jpg">
-<meta property="og:image" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/3.jpg">
-<meta property="og:image" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/4.jpg">
-<meta property="article:published_time" content="2024-09-16T16:00:00.000Z">
-<meta property="article:modified_time" content="2024-09-17T05:23:29.000Z">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif">
+<meta property="og:image" content="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif">
+<meta property="article:published_time" content="2024-08-28T16:00:00.000Z">
+<meta property="article:modified_time" content="2025-02-08T13:53:48.623Z">
 <meta property="article:author" content="Xuan Jr.">
-<meta property="article:tag" content="AI">
 <meta property="article:tag" content="THINK">
+<meta property="article:tag" content="education">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://physics-lee.github.io/2024/09/17/9.11vs9.9/1.jpg">
+<meta name="twitter:image" content="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif">
 
 
-<link rel="canonical" href="https://physics-lee.github.io/2024/09/17/9.11vs9.9/">
+<link rel="canonical" href="https://physics-lee.github.io/2024/08/29/LLM_and_Education/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2024/09/17/9.11vs9.9/","path":"2024/09/17/9.11vs9.9/","title":"9.11vs9.9"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2024/08/29/LLM_and_Education/","path":"2024/08/29/LLM_and_Education/","title":"大语言模型和教育"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>9.11vs9.9 | XuanJr's Land</title>
+<title>大语言模型和教育 | XuanJr's Land</title>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
   <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
@@ -165,7 +171,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">357</span>
+          <span class="site-state-item-count">367</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -176,7 +182,7 @@
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">61</span>
+        <span class="site-state-item-count">63</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -217,7 +223,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2024/09/17/9.11vs9.9/">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2024/08/29/LLM_and_Education/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -230,12 +236,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="9.11vs9.9 | XuanJr's Land">
+      <meta itemprop="name" content="大语言模型和教育 | XuanJr's Land">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          9.11vs9.9
+          大语言模型和教育
         </h1>
 
         <div class="post-meta-container">
@@ -246,7 +252,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2024-09-17 00:00:00" itemprop="dateCreated datePublished" datetime="2024-09-17T00:00:00+08:00">2024-09-17</time>
+      <time title="Created: 2024-08-29 00:00:00" itemprop="dateCreated datePublished" datetime="2024-08-29T00:00:00+08:00">2024-08-29</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -258,7 +264,7 @@
         </span>
           , 
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/2024/2024-09/" itemprop="url" rel="index"><span itemprop="name">2024-09</span></a>
+          <a href="/categories/2024/2024-08/" itemprop="url" rel="index"><span itemprop="name">2024-08</span></a>
         </span>
     </span>
 
@@ -269,7 +275,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>359</span>
+      <span>235</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -286,18 +292,12 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><p>近几个月，不知哪个大聪明发现，直接问LLM:”Which is bigger, 9.11 or 9.9.”，LLM有很大的概率会回答错。包括o1-preview。</p>
-<p>我之前试过，如果言明是实数或者是版本号，LLM几乎100%会回答正确。我是拿讯飞星火试的，都没用GPT。因此我觉得，很多人只是想靠这件事水文章。</p>
-<p>我个人认为，人类和LLM是两种智能，就像人类视觉和CNN是两种视觉一样。两种视觉互有长短，两种智能也是。人看到9.11和9.9会先想到实数，LLM看到（可能）会先想到版本号，两种智能有不同的先验和直觉，仅此而已。</p>
-<p>伽利略之前，没有任何一个人意识到物体的运动是不需要力来维持的，所有人都认为不推一个物体它就不会动，因为这就是人类的先验和直觉。这件事在现在看来就跟说9.11比9.9大一样愚蠢。但这能说明伽利略之前的人都很蠢吗？</p>
-<p>不同人的先验和直觉不一样（因此，未来不同LLM的先验和直觉也有可能不一样）。比如那个著名的三门问题(Monty Hall Problem)，保罗·埃尔德什竟然会做错，但此问题的答案是很符合我的直觉的。  </p>
-<img src="/2024/09/17/9.11vs9.9/1.jpg" class="">
+    <div class="post-body" itemprop="articleBody"><p><img src="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif" alt="img">陪姑姑的两个小孩玩了会，他俩都是18年夏天出生的。 </p>
+<p><img src="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif" alt="img">还记得b站的《后浪》吗，有一条评论让我印象深刻：这个视频反应的并不是我们的生活，但如果想让下一代成为视频中的后浪，那就只能靠我们的努力。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif" alt="img">我很伤心，我心里很清楚，我姑姑的孩子不可能和我导师的孩子享受同样的教育资源。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif" alt="img">我一直觉得大语言模型可以改变教育资源的分配不公。以后给每个小孩微调一个LLM并非不可能。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif" alt="img">从前有个人写：各尽所能，各取所需。(Each person should contribute according to his&#x2F;her ability, and each person should receive according to his&#x2F;her needs.)。我很认可这句话，且，我一直自诩是一个很有能力的人，因此我应该去做更多的事情。</p>
 
-<img src="/2024/09/17/9.11vs9.9/2.jpg" class="">
-
-<img src="/2024/09/17/9.11vs9.9/3.jpg" class="">
-
-<img src="/2024/09/17/9.11vs9.9/4.jpg" class="">
     </div>
 
     
@@ -306,21 +306,21 @@
 
     <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/AI/" rel="tag"># AI</a>
               <a href="/tags/THINK/" rel="tag"># THINK</a>
+              <a href="/tags/education/" rel="tag"># education</a>
           </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2024/09/17/Terence_Tao_on_o1/" rel="prev" title="陶哲轩评o1">
-                  <i class="fa fa-angle-left"></i> 陶哲轩评o1
+                <a href="/2024/08/24/Han-Chan/" rel="prev" title="故乡秋夜">
+                  <i class="fa fa-angle-left"></i> 故乡秋夜
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2024/09/18/When_They_Own_o1/" rel="next" title="当他们拥有GPT-o1">
-                  当他们拥有GPT-o1 <i class="fa fa-angle-right"></i>
+                <a href="/2024/09/02/TOEFL_HELP_MANUAL/" rel="next" title="TOEFL HELP MANUAL">
+                  TOEFL HELP MANUAL <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>
@@ -353,13 +353,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">182k</span>
+    <span title="Word count total">184k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">10:07</span>
+    <span title="Reading time total">10:14</span>
   </span>
 </div>
 <div class="busuanzi-count">
@@ -431,7 +431,7 @@
   </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
 
-<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"19526083ada2733c7b81489e447d69ba"}</script>
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"485ac1f9d9fdfb61605c9baca7d14c0c"}</script>
 <script src="/js/third-party/comments/gitalk.js"></script>
 
 </body>

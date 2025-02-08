@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2025/02/08/Terrified_by_o1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>文明间的交流</title>
     <url>/2025/02/08/Communications_Between_Civilizations/</url>
     <content><![CDATA[<p>2月4号，和母亲去看了《唐探1900》，彩蛋里有句话：</p>
@@ -80,8 +85,8 @@
       <tags>
         <tag>science</tag>
         <tag>THINK</tag>
-        <tag>history</tag>
         <tag>capitalism</tag>
+        <tag>history</tag>
       </tags>
   </entry>
   <entry>
@@ -140,6 +145,42 @@
       </tags>
   </entry>
   <entry>
+    <title>World Order | Ray Dalio</title>
+    <url>/2025/02/08/World_Order/</url>
+    <content><![CDATA[<p>看了 Dalio 的 <a href="https://www.youtube.com/watch?v=xguam0TKMw8&t=638s">World Order</a>，写点文字</p>
+<p>优点</p>
+<ol>
+<li>他的理解出自资本主义、市场经济。</li>
+<li>他正确解释了衰落两部曲：名不副实 -&gt; 内忧外患。</li>
+</ol>
+<p>缺点</p>
+<ol>
+<li>他忽略了法国和德国对英国的挑战</li>
+<li>他忽略了英国对西班牙的挑战</li>
+<li>他过于渲染中国威胁论</li>
+<li>他忽略了荷兰、英国的人民生活得依旧很好</li>
+<li>他的模型可以随意调参</li>
+<li>他忽略了冷战中苏联和美国的对峙，这是超越资本主义、市场经济框架的。</li>
+</ol>
+<hr>
+<p>去年十月，我在北京捡到了久未谋面的可心。</p>
+<p>她说，她认为，中国是不会侵略别的国家的。</p>
+<p>我说，希望如此。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-02</category>
+      </categories>
+      <tags>
+        <tag>socialism</tag>
+        <tag>THINK</tag>
+        <tag>capitalism</tag>
+        <tag>history</tag>
+        <tag>politics</tag>
+        <tag>nationlism</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《置身事内》读后感</title>
     <url>/2025/02/06/Reading_Zhi-Shen-Shi-Nei/</url>
     <content><![CDATA[<p>参考<a href="https://physics-lee.github.io/pdfs/Reading_Zhi-Shen-Shi-Nei.pdf">此处</a>。</p>
@@ -192,8 +233,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>THINK</tag>
         <tag>nationalism</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -768,8 +809,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>THINK</tag>
         <tag>nationalism</tag>
+        <tag>THINK</tag>
         <tag>language</tag>
       </tags>
   </entry>
@@ -1561,6 +1602,26 @@
       </tags>
   </entry>
   <entry>
+    <title>2024年诺贝尔物理学奖</title>
+    <url>/2024/10/08/Nobel_Prize_in_Physics_2024/</url>
+    <content><![CDATA[<p>太意外太超出预期了吧，给了Hopfield和Hinton。。。 </p>
+<p>第一眼觉得离谱。仔细想想，当年伦琴发现X射线时候，居里夫人发现天然放射性时候，人类对于原子分子的结构也一无所知。</p>
+<p>这么一看，给Hinton非常符合物理学！ </p>
+<p>当年伦琴把他夫人手戴<img src="https://qzonestyle.gtimg.cn/qzone/em/e400615@2x.gif" alt="img">的X光照片拿出来时，整个世界都轰动了。</p>
+<p>虽然没人知道背后的原理，只能瞎猜。</p>
+<p>就像现在世界被GPT轰动一样。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-10</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+        <tag>AI</tag>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Vision Pro和视觉重建</title>
     <url>/2024/09/28/Vision_Pro_and_Vision_Reconstruction/</url>
     <content><![CDATA[<p>今天去体验了一下Apple的Vision Pro，挺好玩的。它可以让使用者同时看到周围世界和虚拟世界。有一点非常不错：它对使用者周围世界的拍摄非常清晰。</p>
@@ -1576,6 +1637,29 @@
       <tags>
         <tag>fun</tag>
         <tag>BCI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GPT-o1将降低数学门槛</title>
+    <url>/2024/09/27/GPT-o1_Will_Lower_the_Math_Barrier/</url>
+    <content><![CDATA[<p>在苏州开会。昨夜在窗口吹风，思绪万千。 </p>
+<p>深度学习自2012年后发展这么快，有很多原因，比如数据和算力，但以下这个也很重要：<strong>深度学习需要的数学远低于传统机器学习，从而让更多人可以参与进来。</strong> </p>
+<p>以前有次回家，母亲跟我说，我现在用的教材简直就是天书。但是，现在有了GPT-o1，数学不再是门槛了，有什么问题问它就行了。</p>
+<p><strong>数学门槛降低让深度学习的从业者数量超越机器学习，o1则会降低所有领域的数学门槛。</strong> </p>
+<p>数学物理一个很坏的点：顿悟。懂的就是懂，不懂的就是不懂。这让很多人教学时很急躁。但GPT-o1从来不会急躁或没耐心。 </p>
+<p>我一直相信——<strong>所谓的数理能力，后天远比先天重要</strong>。但要从很小的时候让小孩产生兴趣，如果在这个年龄段时父母表现出对数学的恐惧和厌恶，恐怕这孩子会一辈子恨数学物理了。</p>
+<p><strong>从今往后，GPT-o1将帮助无数的孩子。</strong> </p>
+<p>建国前，四千年中国，识字率一直都低于10%。这在今天真是难以想象。但是，今天，距离麦克斯韦发表《电磁通论》过了一百五十年，距离爱因斯坦发表狭义相对论过了一百年，但甚少有人能理解这些，有10%吗？也许，再过五十年，两代人，我们的孙辈就会觉得——90%的人都不理解麦克斯韦方程组和狭义相对论，真是难以想象。 </p>
+<p>GPT-o1，一二十年内也许会导致失业潮，甚至经济危机，但眼光放到五六十年，好处远远多于坏处。 </p>
+<p>苏州的夜色真美啊，但是世界上还有很多人享受不到这样的快乐。包括建设这些高楼大厦的人。我看不见他们，但我知道他们存在。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-09</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -1681,20 +1765,20 @@
       </tags>
   </entry>
   <entry>
-    <title>9.11vs9.9</title>
-    <url>/2024/09/17/9.11vs9.9/</url>
+    <title>9.11 vs 9.9</title>
+    <url>/2024/09/17/9.11-vs-9.9/</url>
     <content><![CDATA[<p>近几个月，不知哪个大聪明发现，直接问LLM:”Which is bigger, 9.11 or 9.9.”，LLM有很大的概率会回答错。包括o1-preview。</p>
 <p>我之前试过，如果言明是实数或者是版本号，LLM几乎100%会回答正确。我是拿讯飞星火试的，都没用GPT。因此我觉得，很多人只是想靠这件事水文章。</p>
 <p>我个人认为，人类和LLM是两种智能，就像人类视觉和CNN是两种视觉一样。两种视觉互有长短，两种智能也是。人看到9.11和9.9会先想到实数，LLM看到（可能）会先想到版本号，两种智能有不同的先验和直觉，仅此而已。</p>
 <p>伽利略之前，没有任何一个人意识到物体的运动是不需要力来维持的，所有人都认为不推一个物体它就不会动，因为这就是人类的先验和直觉。这件事在现在看来就跟说9.11比9.9大一样愚蠢。但这能说明伽利略之前的人都很蠢吗？</p>
 <p>不同人的先验和直觉不一样（因此，未来不同LLM的先验和直觉也有可能不一样）。比如那个著名的三门问题(Monty Hall Problem)，保罗·埃尔德什竟然会做错，但此问题的答案是很符合我的直觉的。  </p>
-<img src="/2024/09/17/9.11vs9.9/1.jpg" class="">
+<img src="/2024/09/17/9.11-vs-9.9/1.jpg" class="">
 
-<img src="/2024/09/17/9.11vs9.9/2.jpg" class="">
+<img src="/2024/09/17/9.11-vs-9.9/2.jpg" class="">
 
-<img src="/2024/09/17/9.11vs9.9/3.jpg" class="">
+<img src="/2024/09/17/9.11-vs-9.9/3.jpg" class="">
 
-<img src="/2024/09/17/9.11vs9.9/4.jpg" class="">]]></content>
+<img src="/2024/09/17/9.11-vs-9.9/4.jpg" class="">]]></content>
       <categories>
         <category>2024</category>
         <category>2024-09</category>
@@ -1720,6 +1804,29 @@
       </categories>
       <tags>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>甲辰中秋三首</title>
+    <url>/2024/09/15/Jia-Chen-Zhong-Qiu-San-Shou/</url>
+    <content><![CDATA[<p>其一 </p>
+<p>我本松江流，为客寄庐州。 </p>
+<p>中秋常独过，岁末亦怀忧。 </p>
+<p>其二 </p>
+<p>应趁锐气留，速作四方游。 </p>
+<p>落叶归根日，父老举觥筹。 </p>
+<p>其三 </p>
+<p>仲淹置杯酒，弃疾率兜鍪。 </p>
+<p>瓦拉应笑我，不肯去乡愁。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-09</category>
+      </categories>
+      <tags>
+        <tag>nationalism</tag>
+        <tag>poem</tag>
+        <tag>family</tag>
       </tags>
   </entry>
   <entry>
@@ -1757,13 +1864,37 @@
 <p>我问了它两个问题，一个是关于<a href="https://chatgpt.com/share/66e3a1f0-23a8-800f-af06-d955d0ee64e6">U &#x3D; IR的量子力学解释</a>，另一个是关于<a href="https://chatgpt.com/share/66e3a7bd-e728-800f-86bd-e708e1518c84">热传导方程和薛定谔方程的相似性</a>。</p>
 <p>结论：除了那些从事基础数学和理论物理的研究人员，它的数理能力超过了所有人类。</p>
 <hr>
-<p>Today, OpenAI announced its new model: GPT Orion 1.</p>
+<p>Today, OpenAI announced its new model: GPT o1.</p>
 <p>I asked it two questions, one was about <a href="https://chatgpt.com/share/66e3a1f0-23a8-800f-af06-d955d0ee64e6">U &#x3D; IR ‘s QM interpretation</a>, the other was about <a href="https://chatgpt.com/share/66e3a7bd-e728-800f-86bd-e708e1518c84">the similarity between heat equation and Schrodinger equation</a>.</p>
 <p>Conclusion: its ability in math and physics has surpassed all PhDs, except those working in fundamental math and theoretical physics.</p>
 ]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-09</category>
+      </categories>
       <tags>
         <tag>fun</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人崇拜不可取</title>
+    <url>/2024/09/09/Cult_of_Personality/</url>
+    <content><![CDATA[<p>b站首页看到官方媒体批评体育饭圈化。 </p>
+<p>体育饭圈化这个词在陈梦和颖莎的决赛后火了。</p>
+<p>但实际上之前体育就挺饭圈的，梅西C罗，科比詹姆斯，粉丝之间天天对骂。 </p>
+<p>在我眼里，饭圈和个人崇拜可以划等号。</p>
+<p>无论是体育、文化、政治还是科学领域，个人崇拜都不可取。 </p>
+<p>没有谁是不可或缺的，就算是伽罗瓦、爱因斯坦，少了他们，他们的那些东西也会被二三十年之后的人提出来。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-09</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+        <tag>sports</tag>
+        <tag>politics</tag>
       </tags>
   </entry>
   <entry>
@@ -1818,6 +1949,85 @@
       </categories>
       <tags>
         <tag>language</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大语言模型和教育</title>
+    <url>/2024/08/29/LLM_and_Education/</url>
+    <content><![CDATA[<p><img src="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400834@2x.gif" alt="img">陪姑姑的两个小孩玩了会，他俩都是18年夏天出生的。 </p>
+<p><img src="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400853@2x.gif" alt="img">还记得b站的《后浪》吗，有一条评论让我印象深刻：这个视频反应的并不是我们的生活，但如果想让下一代成为视频中的后浪，那就只能靠我们的努力。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400852@2x.gif" alt="img">我很伤心，我心里很清楚，我姑姑的孩子不可能和我导师的孩子享受同样的教育资源。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e400868@2x.gif" alt="img">我一直觉得大语言模型可以改变教育资源的分配不公。以后给每个小孩微调一个LLM并非不可能。</p>
+<p> <img src="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif" alt="img"><img src="https://qzonestyle.gtimg.cn/qzone/em/e401184@2x.gif" alt="img">从前有个人写：各尽所能，各取所需。(Each person should contribute according to his&#x2F;her ability, and each person should receive according to his&#x2F;her needs.)。我很认可这句话，且，我一直自诩是一个很有能力的人，因此我应该去做更多的事情。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-08</category>
+      </categories>
+      <tags>
+        <tag>THINK</tag>
+        <tag>education</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>故乡秋夜</title>
+    <url>/2024/08/24/Han-Chan/</url>
+    <content><![CDATA[<p>寒蝉秋夜半，别梦穿心肝。 </p>
+<p>长路何漫漫，我心依湛蓝。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-08</category>
+      </categories>
+      <tags>
+        <tag>love</tag>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那些年，我吹过的一些nb</title>
+    <url>/2024/08/13/My_Bullshit/</url>
+    <content><![CDATA[<p>坐飞机时候写的： </p>
+<hr>
+<p>1 </p>
+<p>我：有一天，人们会把我的雕像立在这里，用来取代郭沫若。 </p>
+<p>B、C: … </p>
+<hr>
+<p>2 </p>
+<p>我：我将来要把中科大买下来。 </p>
+<p>B: 建议你问一下GPT，看看多少钱能买。 </p>
+<p>GPT告诉我，我可以买一个蓝翔，但是买中科大有点难。 </p>
+<p>我：那我将来要建一个新学校，比中科大厉害一百倍。 </p>
+<hr>
+<p>3 </p>
+<p>我：我数了一下，新千年，日本已经出了7.5个诺贝尔物理奖得主（双重国籍算0.5）。 </p>
+<p>我：TMD </p>
+<p>我：只要我拿8个诺奖，就可以以一己之力让中国的物理学超过日本，至少在诺奖人数上。 </p>
+<p>B：TMD，有人拿过8个诺贝尔奖吗？天天说这些屁话。你不如先定一个小目标，先拿他一个诺贝尔奖。 </p>
+<p>隔了几天之后，我又想起来这件事，于是去查了查，真的没有人拿过8个诺奖吗？ </p>
+<p>我：有一对夫妻，他们各拿了一个诺贝尔奖，他们实验室后来又出了六个，二加六刚好得八。 </p>
+<p>B: 行，祝你早日拿八个诺贝尔奖。 </p>
+<hr>
+<p>4 </p>
+<p>我：前天，我们晚餐后讨论的是如何让中国拿到一个诺贝尔奖；昨天，我们讨论的是如何让中国的科学超过日本；今天，我们讨论一下如何让人类登上火星。 </p>
+<hr>
+<p>5（这个是这期里最搞笑的，可惜主角不是我） </p>
+<p>W是实验室里一个CS很厉害的师兄。</p>
+<p>W和B是同桌。 </p>
+<p>W: 你知道比特币是谁发明的吗？ </p>
+<p>B: 谁？ </p>
+<p>W：没有人知道。 </p>
+<p>B：咋可能？不是个日本人吗？ </p>
+<p>W：呵呵，他自己不说有谁会知道？世人只知道他化名中本聪。 </p>
+<p>B：哦。 </p>
+<p>过了一会儿，W冷冷地说： 也许中本聪就坐在你的身边。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-08</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -2056,6 +2266,24 @@
       </tags>
   </entry>
   <entry>
+    <title>火影 OP</title>
+    <url>/2024/06/15/Naruto_OP/</url>
+    <content><![CDATA[<p>偶然间刷到火影的op合集。</p>
+<p>Hero Has Come Back中鸣人倒数三二一起立举手制噪，青鸟中的蓝色羽毛，萤火虫中小樱落寞地望向天空。</p>
+<p>这三首都是2011、2012那会听的。</p>
+<p>青春期、狂热、悸动仿佛就在昨天。 </p>
+<p>据弹幕说，全体起立出自Hero Has Come Back，但是真假我就不知道了。</p>
+]]></content>
+      <categories>
+        <category>2024</category>
+        <category>2024-06</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>movie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《进击的巨人》中的自由之翼</title>
     <url>/2024/06/11/The_Wings_of_Liberty_in_Attack_on_Titan/</url>
     <content><![CDATA[<p>《进击的巨人》，用前2&#x2F;3，讲了一个伟大的调查兵团。他们为了保卫人类的家园而战，为了自由而战。他们的徽章是左蓝右白的双翼，被称为“自由之翼”。观众们见证了调查兵团出生入死，无数人牺牲在了战斗中。</p>
@@ -2108,10 +2336,10 @@
 <p>这大概是最美好的火影之一了。不过正因为原版是痛苦且残忍的，我才会觉得此版如此温馨和美好。如果从不知道鼬的经历，我也不会因为鼬和家人其乐融融而开心；如果从不知道弥彦三人的经历，我也不会因为他们还活着还在一起而开心。</p>
 <hr>
 <p>我的性格和鸣人、弥彦很像。既然如此，接受自己的性格，做自己想做的事。</p>
-<p>我想起了弥彦说过的一句话：自己的缺点，就让同伴来补足。</p>
+<p>我想起了弥彦说过的一句话：<strong>自己的缺点，就让同伴来补足。</strong></p>
 <hr>
 <p>你以为看火影没有现实意义吗？</p>
-<p>当今世界，世界大战一触即发，有谁能够像波风水门夜访宇智波一样化战争于无形呢？</p>
+<p><strong>当今世界，世界大战一触即发，有谁能够像波风水门夜访宇智波一样化战争于无形呢？</strong></p>
 ]]></content>
       <categories>
         <category>2024</category>
@@ -2831,12 +3059,12 @@
       </tags>
   </entry>
   <entry>
-    <title>实操</title>
+    <title>实干</title>
     <url>/2024/03/07/Do_It/</url>
     <content><![CDATA[<p>独行夜色中，</p>
 <p>思索古今通。</p>
 <p>空想误人甚，</p>
-<p>实操兴国邦。</p>
+<p>实干兴国邦。</p>
 ]]></content>
       <categories>
         <category>2024</category>
@@ -4259,8 +4487,8 @@
       </categories>
       <tags>
         <tag>socialism</tag>
-        <tag>history</tag>
         <tag>capitalism</tag>
+        <tag>history</tag>
       </tags>
   </entry>
   <entry>
@@ -4305,8 +4533,8 @@
       </categories>
       <tags>
         <tag>socialism</tag>
-        <tag>history</tag>
         <tag>capitalism</tag>
+        <tag>history</tag>
         <tag>break cognitive limits</tag>
         <tag>war</tag>
         <tag>feudalism</tag>
@@ -6250,6 +6478,32 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -6275,32 +6529,6 @@
         <tag>physics</tag>
         <tag>history</tag>
         <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -8036,7 +8264,7 @@
     <content><![CDATA[<p>头痛喉刀身冷，难敌归旅开怀。</p>
 <p>金阳银柳待归来，未见已达三载。</p>
 <p>恍恍学期已尽，悠悠未见蓬莱。</p>
-<p>为期有日易吾才，不负思如雪白。</p>
+<p>愿移硁质化通才，长守冰心不改。</p>
 ]]></content>
       <categories>
         <category>2022</category>
@@ -8044,49 +8272,6 @@
       </categories>
       <tags>
         <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -8117,6 +8302,49 @@
 <p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
 <p>如果你翻译成对偶，浪漫至极。</p>
 <p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Does the Asterisk Mean?</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
 <p>It just like, they have a baby!</p>
 ]]></content>
       <categories>
@@ -8607,8 +8835,8 @@
       </categories>
       <tags>
         <tag>socialism</tag>
-        <tag>history</tag>
         <tag>capitalism</tag>
+        <tag>history</tag>
         <tag>war</tag>
         <tag>feudalism</tag>
       </tags>
@@ -9453,8 +9681,8 @@
       <tags>
         <tag>statistics</tag>
         <tag>socialism</tag>
-        <tag>history</tag>
         <tag>capitalism</tag>
+        <tag>history</tag>
         <tag>break cognitive limits</tag>
       </tags>
   </entry>
@@ -12511,8 +12739,8 @@
       </categories>
       <tags>
         <tag>basketball</tag>
-        <tag>madness</tag>
         <tag>nationalism</tag>
+        <tag>madness</tag>
       </tags>
   </entry>
   <entry>
