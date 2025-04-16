@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/03/03/Unemployment/</loc>
+    
+    <lastmod>2025-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/Games/index.html</loc>
     
     <lastmod>2025-04-16</lastmod>
@@ -47,9 +56,36 @@
   </url>
   
   <url>
+    <loc>https://physics-lee.github.io/2025/03/21/Nobel_Level_Physics/</loc>
+    
+    <lastmod>2025-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2024/12/31/Why_Not_Being_Leisurely/</loc>
     
     <lastmod>2025-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/03/04/Why_Does_Not_Scaling_Law_Lead_To_Overfit/</loc>
+    
+    <lastmod>2025-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
+    
+    <lastmod>2025-03-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
