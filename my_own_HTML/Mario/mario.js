@@ -26,6 +26,7 @@ const jumpSound = new Audio('jump.wav');
 const coinSound = new Audio('coin.wav');
 const gameoverSound = new Audio('gameover.wav');
 const killSound = new Audio('kill.wav');
+const flagSound = new Audio('flag.wav');  // 添加升旗音效
 
 let level = 1;
 let maxUnlockedLevel = 1;  // 添加最大解锁关卡记录
@@ -54,6 +55,7 @@ let enemies = [];
 let flag = null;
 let flagRaising = false;
 let flagY = 0;
+let flagParticles = [];  // 添加旗子粒子效果
 
 // 马里奥对象
 const mario = {
@@ -218,11 +220,11 @@ function initLevel() {
     // 旗子
     flag = {
         x: worldWidth - 40,
-        y: platforms[0].y - 120,
+        y: platforms[0].y - 240,  // 高度改为240（原来的2倍）
         width: 20,
-        height: 120
+        height: 240  // 高度改为240（原来的2倍）
     };
-    flagY = flag.y + flag.height - 60;
+    flagY = flag.y + flag.height * 0.75;  // 旗子初始位置在从上往下3/4处
 }
 
 // 键盘输入
@@ -310,6 +312,7 @@ function nextLevel() {
     flagRaising = false;
     gamePaused = false;
     levelSelectionMode = false;  // 退出选关模式
+    flagParticles = [];  // 清空粒子效果
     startLockCountdown();
     initLevel();
 }
@@ -317,7 +320,12 @@ function nextLevel() {
 function triggerNextLevel() {
     if (levelPassed) return;
     levelPassed = true;
-    gamePaused = true;  // 过关时暂停游戏
+    gamePaused = true;  // 立即暂停游戏
+    
+    // 延迟1.2秒后切换关卡
+    if (nextLevelTimer) {
+        clearTimeout(nextLevelTimer);
+    }
     nextLevelTimer = setTimeout(() => {
         nextLevel();
     }, 1200);
@@ -334,7 +342,9 @@ function resetGame() {
     level = 1;
     levelPassed = false;
     gamePaused = false;
-    levelSelectionMode = false;  // 退出选关模式
+    levelSelectionMode = false;
+    flagParticles = [];
+    selectedOption = 0;  // 重置选项选择
     startLockCountdown();
     initLevel();
 }
@@ -353,11 +363,213 @@ function enterLevelSelection() {
     gamePaused = true;
 }
 
+// 手柄支持
+let gamepadConnected = false;
+let lastGamepadButtons = [];
+let selectedOption = 0; // 游戏结束界面的选项选择
+
+// 手柄连接事件
+window.addEventListener("gamepadconnected", function(e) {
+    console.log("手柄已连接：", e.gamepad);
+    gamepadConnected = true;
+});
+
+window.addEventListener("gamepaddisconnected", function(e) {
+    console.log("手柄已断开：", e.gamepad);
+    gamepadConnected = false;
+});
+
+// 更新手柄输入
+function updateGamepadInput() {
+    if (!gamepadConnected) return;
+    
+    const gamepads = navigator.getGamepads();
+    if (!gamepads) return;
+
+    const gamepad = gamepads[0]; // 使用第一个手柄
+    if (!gamepad) return;
+
+    // 方向键或左摇杆
+    if (gamepad.axes[0] < -0.5 || gamepad.buttons[14].pressed) { // 左
+        keys['ArrowLeft'] = true;
+        keys['ArrowRight'] = false;
+    } else if (gamepad.axes[0] > 0.5 || gamepad.buttons[15].pressed) { // 右
+        keys['ArrowLeft'] = false;
+        keys['ArrowRight'] = true;
+    } else {
+        keys['ArrowLeft'] = false;
+        keys['ArrowRight'] = false;
+    }
+
+    // 上下方向键或左摇杆上下 - 用于菜单选择
+    if (gamepad.axes[1] < -0.5 || gamepad.buttons[12].pressed) { // 上
+        keys['ArrowUp'] = true;
+        keys['ArrowDown'] = false;
+    } else if (gamepad.axes[1] > 0.5 || gamepad.buttons[13].pressed) { // 下
+        keys['ArrowUp'] = false;
+        keys['ArrowDown'] = true;
+    } else {
+        keys['ArrowUp'] = false;
+        keys['ArrowDown'] = false;
+    }
+
+    // A键(0)、B键(1)、X键(2)、Y键(3) 任意一个按下都跳跃或确认选择
+    const actionPressed = gamepad.buttons[0].pressed || 
+                        gamepad.buttons[1].pressed || 
+                        gamepad.buttons[2].pressed || 
+                        gamepad.buttons[3].pressed;
+    keys['Space'] = actionPressed;
+
+    // 菜单键(≡)(8)或分享键(⧉)(9) - 进入选关模式
+    if ((gamepad.buttons[8].pressed || gamepad.buttons[9].pressed) && 
+        !lastGamepadButtons[8]?.pressed && 
+        !lastGamepadButtons[9]?.pressed && 
+        !gameOver) {
+        enterLevelSelection();
+    }
+
+    // 游戏结束界面的手柄控制
+    if (gameOver) {
+        // 上下键选择选项
+        if ((gamepad.axes[1] < -0.5 || gamepad.buttons[12].pressed) && 
+            !lastGamepadButtons[12]?.pressed) {
+            selectedOption = 0;
+        } else if ((gamepad.axes[1] > 0.5 || gamepad.buttons[13].pressed) && 
+                   !lastGamepadButtons[13]?.pressed) {
+            selectedOption = 1;
+        }
+        
+        // A键确认选择
+        if (gamepad.buttons[0].pressed && !lastGamepadButtons[0]?.pressed) {
+            if (selectedOption === 0) {
+                resetGame();
+            } else {
+                window.close();
+                alert('请直接关闭浏览器窗口来退出游戏');
+            }
+        }
+    }
+
+    // 更新按钮状态
+    lastGamepadButtons = gamepad.buttons.map(b => ({pressed: b.pressed}));
+}
+
+// 添加移动设备支持
+const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+const virtualButtons = {
+    left: { x: 20, y: canvas.height - 100, width: 60, height: 60, pressed: false },
+    right: { x: 100, y: canvas.height - 100, width: 60, height: 60, pressed: false },
+    jump: { x: canvas.width - 80, y: canvas.height - 100, width: 60, height: 60, pressed: false },
+    menu: { x: canvas.width - 50, y: 20, width: 40, height: 40, pressed: false }
+};
+
+// 触摸事件处理
+function handleTouchStart(e) {
+    e.preventDefault();
+    const rect = canvas.getBoundingClientRect();
+    const touches = e.touches;
+    
+    for (let i = 0; i < touches.length; i++) {
+        const touch = touches[i];
+        const x = touch.clientX - rect.left;
+        const y = touch.clientY - rect.top;
+        
+        // 检查每个虚拟按钮
+        for (const [key, btn] of Object.entries(virtualButtons)) {
+            if (x >= btn.x && x <= btn.x + btn.width &&
+                y >= btn.y && y <= btn.y + btn.height) {
+                btn.pressed = true;
+                if (key === 'menu' && !gameOver) {
+                    enterLevelSelection();
+                }
+            }
+        }
+    }
+}
+
+function handleTouchMove(e) {
+    e.preventDefault();
+    const rect = canvas.getBoundingClientRect();
+    const touches = e.touches;
+    
+    // 重置所有按钮状态
+    for (const btn of Object.values(virtualButtons)) {
+        btn.pressed = false;
+    }
+    
+    // 检查每个触摸点
+    for (let i = 0; i < touches.length; i++) {
+        const touch = touches[i];
+        const x = touch.clientX - rect.left;
+        const y = touch.clientY - rect.top;
+        
+        for (const btn of Object.values(virtualButtons)) {
+            if (x >= btn.x && x <= btn.x + btn.width &&
+                y >= btn.y && y <= btn.y + btn.height) {
+                btn.pressed = true;
+            }
+        }
+    }
+}
+
+function handleTouchEnd(e) {
+    e.preventDefault();
+    // 重置所有按钮状态
+    for (const btn of Object.values(virtualButtons)) {
+        btn.pressed = false;
+    }
+}
+
+// 如果是移动设备，添加触摸事件监听器
+if (isMobile) {
+    canvas.addEventListener('touchstart', handleTouchStart, { passive: false });
+    canvas.addEventListener('touchmove', handleTouchMove, { passive: false });
+    canvas.addEventListener('touchend', handleTouchEnd, { passive: false });
+    canvas.addEventListener('touchcancel', handleTouchEnd, { passive: false });
+}
+
 function update() {
+    // 更新手柄输入
+    updateGamepadInput();
+
     // 调试输出
     console.log('inputLocked:', inputLocked, 'lockEndTime:', lockEndTime, 'now:', Date.now(), 'gameOver:', gameOver, 'levelPassed:', levelPassed);
     
-    // 游戏结束或暂停时不更新
+    // 更新旗子动画和粒子效果，即使在游戏暂停时也继续
+    if (flagRaising) {
+        // 旗子升起
+        if (flagY > flag.y) {
+            flagY -= 8;  // 升旗速度
+            // 添加上升过程中的粒子
+            if (Math.random() < 0.5) {  // 增加粒子生成概率
+                flagParticles.push({
+                    x: flag.x + flag.width/2,
+                    y: flagY,
+                    vx: (Math.random() - 0.5) * 2,
+                    vy: -Math.random() * 2,
+                    life: 30 + Math.random() * 20,
+                    color: Math.random() < 0.5 ? '#fff' : '#ff0'
+                });
+            }
+        }
+        if (flagY < flag.y) {
+            flagY = flag.y;
+        }
+    }
+
+    // 更新粒子效果
+    for (let i = flagParticles.length - 1; i >= 0; i--) {
+        const particle = flagParticles[i];
+        particle.x += particle.vx;
+        particle.y += particle.vy;
+        particle.vy += 0.1;  // 重力
+        particle.life--;
+        if (particle.life <= 0) {
+            flagParticles.splice(i, 1);
+        }
+    }
+
+    // 如果游戏暂停，不更新其他游戏逻辑
     if (gameOver || gamePaused) return;
 
     // 输入锁定（基于时间戳）
@@ -370,17 +582,17 @@ function update() {
         return;
     }
 
-    // 只在未锁定时处理玩家输入
-    if (keys['ArrowLeft'] || keys['KeyA']) {
+    // 修改输入检测部分
+    if (keys['ArrowLeft'] || keys['KeyA'] || virtualButtons.left.pressed) {
         mario.vx = -MOVE_SPEED;
-    } else if (keys['ArrowRight'] || keys['KeyD']) {
+    } else if (keys['ArrowRight'] || keys['KeyD'] || virtualButtons.right.pressed) {
         mario.vx = MOVE_SPEED;
     } else {
         mario.vx = 0;
     }
 
     // 跳跃（支持二段跳）
-    if ((keys['ArrowUp'] || keys['Space'] || keys['KeyW'])) {
+    if ((keys['ArrowUp'] || keys['Space'] || keys['KeyW'] || virtualButtons.jump.pressed)) {
         if (!jumpPressed && mario.jumpCount < MAX_JUMP) {
             mario.vy = -JUMP_POWER;
             mario.onGround = false;
@@ -486,134 +698,139 @@ function update() {
     let killedEnemiesThisFrame = 0;  // 记录这一帧踩死的敌人数
     let enemiesKilledThisJump = [];  // 记录这一跳踩到的所有敌人
     
-    // 先检查所有可能被踩到的敌人
-    for (let i = enemies.length - 1; i >= 0; i--) {
-        let enemy = enemies[i];
-        if (rectsCollide(mario, enemy) && 
-            mario.vy > 0 && 
-            mario.y + mario.height - enemy.y < STOMP_MARGIN) {
-            enemiesKilledThisJump.push(enemy);
+    // 只有在非升旗状态下才更新敌人位置
+    if (!flagRaising) {
+        // 先检查所有可能被踩到的敌人
+        for (let i = enemies.length - 1; i >= 0; i--) {
+            let enemy = enemies[i];
+            if (rectsCollide(mario, enemy) && 
+                mario.vy > 0 && 
+                mario.y + mario.height - enemy.y < STOMP_MARGIN) {
+                enemiesKilledThisJump.push(enemy);
+            }
         }
-    }
 
-    // 如果有击杀，一次性处理所有被踩到的敌人
-    if (enemiesKilledThisJump.length > 0) {
-        killedEnemiesThisFrame = enemiesKilledThisJump.length;
-        enemies = enemies.filter(enemy => !enemiesKilledThisJump.includes(enemy));
-        
-        // 设置无敌时间
-        mario.invincibleTime = INVINCIBLE_FRAMES;
-        
-        // 根据连杀数处理奖励
-        if (killedEnemiesThisFrame >= 4) {
-            mario.vy = -JUMP_POWER * 1.2;
-            score += killedEnemiesThisFrame * 10;
-            const killText = {
-                x: mario.x,
-                y: mario.y - 40,
-                vy: -2,
-                alpha: 1,
-                life: 60,
-                text: `${killedEnemiesThisFrame}连杀！+${killedEnemiesThisFrame * 10}`
-            };
-            specialEffects.push(killText);
-        } else if (killedEnemiesThisFrame === 3) {
-            mario.vy = -JUMP_POWER * 1.1; // 三杀反弹较高
-            score += 30;
-            const killText = {
-                x: mario.x,
-                y: mario.y - 40,
-                vy: -2,
-                alpha: 1,
-                life: 60,
-                text: "三杀！+30"
-            };
-            specialEffects.push(killText);
-        } else if (killedEnemiesThisFrame === 2) {
-            mario.vy = -JUMP_POWER; // 双杀反弹高
-            score += 15;
-            const killText = {
-                x: mario.x,
-                y: mario.y - 40,
-                vy: -2,
-                alpha: 1,
-                life: 60,
-                text: "双杀！+15"
-            };
-            specialEffects.push(killText);
-        } else {
-            mario.vy = -JUMP_POWER / 1.5; // 单杀普通反弹
-            score += 5;
+        // 如果有击杀，一次性处理所有被踩到的敌人
+        if (enemiesKilledThisJump.length > 0) {
+            killedEnemiesThisFrame = enemiesKilledThisJump.length;
+            enemies = enemies.filter(enemy => !enemiesKilledThisJump.includes(enemy));
+            
+            // 设置无敌时间
+            mario.invincibleTime = INVINCIBLE_FRAMES;
+            
+            // 根据连杀数处理奖励
+            if (killedEnemiesThisFrame >= 4) {
+                mario.vy = -JUMP_POWER * 1.2;
+                score += killedEnemiesThisFrame * 10;
+                const killText = {
+                    x: mario.x,
+                    y: mario.y - 40,
+                    vy: -2,
+                    alpha: 1,
+                    life: 60,
+                    text: `${killedEnemiesThisFrame}连杀！+${killedEnemiesThisFrame * 10}`
+                };
+                specialEffects.push(killText);
+            } else if (killedEnemiesThisFrame === 3) {
+                mario.vy = -JUMP_POWER * 1.1; // 三杀反弹较高
+                score += 30;
+                const killText = {
+                    x: mario.x,
+                    y: mario.y - 40,
+                    vy: -2,
+                    alpha: 1,
+                    life: 60,
+                    text: "三杀！+30"
+                };
+                specialEffects.push(killText);
+            } else if (killedEnemiesThisFrame === 2) {
+                mario.vy = -JUMP_POWER; // 双杀反弹高
+                score += 15;
+                const killText = {
+                    x: mario.x,
+                    y: mario.y - 40,
+                    vy: -2,
+                    alpha: 1,
+                    life: 60,
+                    text: "双杀！+15"
+                };
+                specialEffects.push(killText);
+            } else {
+                mario.vy = -JUMP_POWER / 1.5; // 单杀普通反弹
+                score += 5;
+            }
+            killSound.currentTime = 0;
+            killSound.play();
         }
-        killSound.currentTime = 0;
-        killSound.play();
-    }
 
-    // 正常的敌人更新逻辑
-    for (let i = enemies.length - 1; i >= 0; i--) {
-        let enemy = enemies[i];
-        if (!enemy.onGround) {
-            // 敌人在空中，应用重力
-            enemy.vy = (enemy.vy || 0) + GRAVITY;
-            enemy.y += enemy.vy;
-            // 检查是否落到地面
-            if (enemy.y + enemy.height >= platforms[0].y) {
-                enemy.y = platforms[0].y - enemy.height;
-                enemy.vy = 0;
-                enemy.onGround = true;
-            }
-        } else {
-            // 敌人在平台/砖块/地面上，左右移动
-            enemy.x += enemy.vx * enemy.dir;
-            let onPlatform = false;
-            let currentSurface = null;
-            for (let plat of platforms) {
-                if (
-                    enemy.x + enemy.width > plat.x &&
-                    enemy.x < plat.x + plat.width &&
-                    enemy.y + enemy.height === plat.y
-                ) {
-                    onPlatform = true;
-                    currentSurface = plat;
-                }
-            }
-            for (let brick of bricks) {
-                if (
-                    enemy.x + enemy.width > brick.x &&
-                    enemy.x < brick.x + brick.width &&
-                    enemy.y + enemy.height === brick.y
-                ) {
-                    onPlatform = true;
-                    currentSurface = brick;
-                }
-            }
-            // 检查是否到达边缘
-            if (onPlatform && currentSurface) {
-                if (
-                    (enemy.dir > 0 && enemy.x + enemy.width >= currentSurface.x + currentSurface.width) ||
-                    (enemy.dir < 0 && enemy.x <= currentSurface.x)
-                ) {
-                    // 0.5概率掉落
-                    if (Math.random() < 0.5 && currentSurface !== platforms[0]) {
-                        enemy.onGround = false;
-                        enemy.vy = 0;
-                    } else {
-                        enemy.dir *= -1;
-                        // 防止卡边
-                        if (enemy.dir > 0) enemy.x = currentSurface.x;
-                        else enemy.x = currentSurface.x + currentSurface.width - enemy.width;
-                    }
+        // 正常的敌人更新逻辑
+        for (let i = enemies.length - 1; i >= 0; i--) {
+            let enemy = enemies[i];
+            if (!enemy.onGround) {
+                // 敌人在空中，应用重力
+                enemy.vy = (enemy.vy || 0) + GRAVITY;
+                enemy.y += enemy.vy;
+                // 检查是否落到地面
+                if (enemy.y + enemy.height >= platforms[0].y) {
+                    enemy.y = platforms[0].y - enemy.height;
+                    enemy.vy = 0;
+                    enemy.onGround = true;
                 }
             } else {
-                // 不在平台上，掉头
-                enemy.dir *= -1;
+                // 敌人在平台/砖块/地面上，左右移动
+                enemy.x += enemy.vx * enemy.dir;
+                let onPlatform = false;
+                let currentSurface = null;
+                for (let plat of platforms) {
+                    if (
+                        enemy.x + enemy.width > plat.x &&
+                        enemy.x < plat.x + plat.width &&
+                        enemy.y + enemy.height === plat.y
+                    ) {
+                        onPlatform = true;
+                        currentSurface = plat;
+                    }
+                }
+                for (let brick of bricks) {
+                    if (
+                        enemy.x + enemy.width > brick.x &&
+                        enemy.x < brick.x + brick.width &&
+                        enemy.y + enemy.height === brick.y
+                    ) {
+                        onPlatform = true;
+                        currentSurface = brick;
+                    }
+                }
+                // 检查是否到达边缘
+                if (onPlatform && currentSurface) {
+                    if (
+                        (enemy.dir > 0 && enemy.x + enemy.width >= currentSurface.x + currentSurface.width) ||
+                        (enemy.dir < 0 && enemy.x <= currentSurface.x)
+                    ) {
+                        // 0.5概率掉落
+                        if (Math.random() < 0.5 && currentSurface !== platforms[0]) {
+                            enemy.onGround = false;
+                            enemy.vy = 0;
+                        } else {
+                            enemy.dir *= -1;
+                            // 防止卡边
+                            if (enemy.dir > 0) enemy.x = currentSurface.x;
+                            else enemy.x = currentSurface.x + currentSurface.width - enemy.width;
+                        }
+                    }
+                } else {
+                    // 不在平台上，掉头
+                    enemy.dir *= -1;
+                }
+                // 边界限制
+                if (enemy.x < 0) enemy.x = 0;
+                if (enemy.x + enemy.width > worldWidth) enemy.x = worldWidth - enemy.width;
             }
-            // 边界限制
-            if (enemy.x < 0) enemy.x = 0;
-            if (enemy.x + enemy.width > worldWidth) enemy.x = worldWidth - enemy.width;
         }
-        
-        // 敌人与马里奥碰撞（只在非无敌时检查致死碰撞）
+    }
+    
+    // 敌人与马里奥碰撞（只在非无敌时检查致死碰撞）
+    for (let enemy of enemies) {
         if (rectsCollide(mario, enemy) && 
             (mario.vy <= 0 || mario.y + mario.height - enemy.y >= STOMP_MARGIN)) {
             if (!gameOver && mario.invincibleTime <= 0) {  // 只有在非无敌状态才会死亡
@@ -661,12 +878,35 @@ function update() {
     if (flag && rectsCollide(mario, { x: flag.x, y: flag.y, width: flag.width, height: flag.height })) {
         if (!flagRaising && !levelPassed) {
             flagRaising = true;
-            triggerNextLevel();
+            mario.vx = 0;  // 停止马里奥的水平移动
+            mario.x = flag.x - mario.width/2;  // 将马里奥固定在旗杆位置
+            mario.vy = 2;  // 设置一个缓慢的下落速度
+            flagSound.currentTime = 0;
+            flagSound.play();
+            // 创建升旗粒子效果
+            for (let i = 0; i < 20; i++) {
+                flagParticles.push({
+                    x: flag.x + flag.width/2,
+                    y: flagY,
+                    vx: (Math.random() - 0.5) * 4,
+                    vy: -Math.random() * 3 - 2,
+                    life: 60 + Math.random() * 30,
+                    color: Math.random() < 0.5 ? '#fff' : '#ff0'
+                });
+            }
         }
-    }
-    if (flagRaising && flagY > flag.y) {
-        flagY -= 2;
-        if (flagY < flag.y) flagY = flag.y;
+        
+        // 如果马里奥还没有到达地面，继续下滑
+        if (mario.y + mario.height < platforms[0].y) {
+            mario.x = flag.x - mario.width/2;  // 保持在旗杆位置
+        } else {
+            // 到达地面后停止下滑
+            mario.y = platforms[0].y - mario.height;
+            mario.vy = 0;
+            if (!levelPassed) {
+                triggerNextLevel();
+            }
+        }
     }
 
     // 过关判定：马里奥到达最右侧
@@ -848,6 +1088,16 @@ function draw() {
         ctx.fillRect(flag.x - viewX + flag.width / 2 - 2, flag.y, 4, flag.height);
         ctx.fillStyle = '#f00';
         ctx.fillRect(flag.x - viewX + flag.width / 2, flagY, 18, 12);
+        
+        // 绘制粒子
+        for (const particle of flagParticles) {
+            ctx.fillStyle = particle.color;
+            ctx.globalAlpha = particle.life / 90;  // 粒子逐渐消失
+            ctx.beginPath();
+            ctx.arc(particle.x - viewX, particle.y, 2, 0, Math.PI * 2);
+            ctx.fill();
+        }
+        ctx.globalAlpha = 1;  // 恢复透明度
     }
 
     // 分数和关卡
@@ -884,7 +1134,8 @@ function draw() {
             width: 200,
             height: 40
         };
-        ctx.fillStyle = '#87CEEB';  // 浅蓝色
+        // 根据手柄选择状态改变颜色
+        ctx.fillStyle = (gamepadConnected && selectedOption === 0) ? '#4CA6FF' : '#87CEEB';
         ctx.fillRect(restartBtn.x, restartBtn.y, restartBtn.width, restartBtn.height);
         ctx.fillStyle = '#000';
         ctx.font = '20px Arial';
@@ -897,10 +1148,18 @@ function draw() {
             width: 200,
             height: 40
         };
-        ctx.fillStyle = '#B0E2FF';  // 更浅的蓝色
+        // 根据手柄选择状态改变颜色
+        ctx.fillStyle = (gamepadConnected && selectedOption === 1) ? '#7AC5FF' : '#B0E2FF';
         ctx.fillRect(quitBtn.x, quitBtn.y, quitBtn.width, quitBtn.height);
         ctx.fillStyle = '#000';
         ctx.fillText('退出游戏', canvas.width/2, quitBtn.y + 28);
+
+        // 如果连接了手柄，显示操作提示
+        if (gamepadConnected) {
+            ctx.fillStyle = '#fff';
+            ctx.font = '16px Arial';
+            ctx.fillText('使用方向键选择，A键确认', canvas.width/2, quitBtn.y + 80);
+        }
         
         // 添加按钮点击事件
         canvas.onclick = function(e) {
@@ -929,11 +1188,14 @@ function draw() {
 
     // 过关提示
     if (levelPassed && !gameOver) {
-        ctx.fillStyle = 'rgba(0,0,0,0.4)';
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-        ctx.fillStyle = '#fff';
-        ctx.font = '36px Arial';
-        ctx.fillText('过关！', canvas.width/2-60, canvas.height/2);
+        // 只在升旗动画完成后显示过关提示
+        if (!flagRaising || flagY <= flag.y) {
+            ctx.fillStyle = 'rgba(0,0,0,0.4)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = '#fff';
+            ctx.font = '36px Arial';
+            ctx.fillText('过关！', canvas.width/2-60, canvas.height/2);
+        }
     }
 
     // 绘制特效
@@ -951,10 +1213,134 @@ function draw() {
             specialEffects.splice(i, 1);
         }
     }
+
+    // 在移动设备上绘制虚拟按钮
+    if (isMobile && !gameOver && !levelSelectionMode) {
+        // 绘制半透明的控制按钮
+        ctx.globalAlpha = 0.5;
+        
+        // 左箭头按钮
+        ctx.fillStyle = virtualButtons.left.pressed ? '#87CEEB' : '#4682B4';
+        ctx.beginPath();
+        ctx.moveTo(virtualButtons.left.x + virtualButtons.left.width, virtualButtons.left.y);
+        ctx.lineTo(virtualButtons.left.x + virtualButtons.left.width, virtualButtons.left.y + virtualButtons.left.height);
+        ctx.lineTo(virtualButtons.left.x, virtualButtons.left.y + virtualButtons.left.height/2);
+        ctx.closePath();
+        ctx.fill();
+        
+        // 右箭头按钮
+        ctx.fillStyle = virtualButtons.right.pressed ? '#87CEEB' : '#4682B4';
+        ctx.beginPath();
+        ctx.moveTo(virtualButtons.right.x, virtualButtons.right.y);
+        ctx.lineTo(virtualButtons.right.x, virtualButtons.right.y + virtualButtons.right.height);
+        ctx.lineTo(virtualButtons.right.x + virtualButtons.right.width, virtualButtons.right.y + virtualButtons.right.height/2);
+        ctx.closePath();
+        ctx.fill();
+        
+        // 跳跃按钮
+        ctx.fillStyle = virtualButtons.jump.pressed ? '#87CEEB' : '#4682B4';
+        ctx.beginPath();
+        ctx.arc(virtualButtons.jump.x + virtualButtons.jump.width/2, 
+                virtualButtons.jump.y + virtualButtons.jump.height/2,
+                virtualButtons.jump.width/2, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.fillStyle = '#fff';
+        ctx.font = '24px Arial';
+        ctx.fillText('跳', virtualButtons.jump.x + virtualButtons.jump.width/2 - 12,
+                    virtualButtons.jump.y + virtualButtons.jump.height/2 + 8);
+        
+        // 菜单按钮
+        ctx.fillStyle = virtualButtons.menu.pressed ? '#87CEEB' : '#4682B4';
+        ctx.fillRect(virtualButtons.menu.x, virtualButtons.menu.y,
+                    virtualButtons.menu.width, virtualButtons.menu.height);
+        ctx.fillStyle = '#fff';
+        ctx.font = '20px Arial';
+        ctx.fillText('L', virtualButtons.menu.x + virtualButtons.menu.width/2 - 6,
+                    virtualButtons.menu.y + virtualButtons.menu.height/2 + 6);
+        
+        ctx.globalAlpha = 1.0;
+    }
 }
 
 function gameLoop() {
     update();
     draw();
     requestAnimationFrame(gameLoop);
-} 
+}
+
+// 修改canvas的点击处理，支持移动设备的选关界面
+function initTouchControls() {
+    canvas.addEventListener('pointerdown', function(e) {
+        const rect = canvas.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        
+        if (gameOver) {
+            // Game Over 界面的按钮处理
+            const restartBtn = {
+                x: canvas.width/2 - 100,
+                y: canvas.height/2 + 80,
+                width: 200,
+                height: 40
+            };
+            const quitBtn = {
+                x: canvas.width/2 - 100,
+                y: canvas.height/2 + 140,
+                width: 200,
+                height: 40
+            };
+            
+            if (x >= restartBtn.x && x <= restartBtn.x + restartBtn.width &&
+                y >= restartBtn.y && y <= restartBtn.y + restartBtn.height) {
+                resetGame();
+            } else if (x >= quitBtn.x && x <= quitBtn.x + quitBtn.width &&
+                       y >= quitBtn.y && y <= quitBtn.y + quitBtn.height) {
+                window.close();
+                alert('请直接关闭浏览器窗口来退出游戏');
+            }
+        } else if (levelSelectionMode) {
+            // 选关界面的按钮处理
+            const LEVELS_PER_ROW = 5;
+            const BUTTON_WIDTH = 80;
+            const BUTTON_HEIGHT = 40;
+            const BUTTON_MARGIN = 20;
+            
+            // 检查关卡按钮
+            for (let i = 0; i < TOTAL_LEVELS; i++) {
+                const levelNum = i + 1;
+                const row = Math.floor(i / LEVELS_PER_ROW);
+                const col = i % LEVELS_PER_ROW;
+                const btnX = canvas.width/2 + (col - LEVELS_PER_ROW/2) * (BUTTON_WIDTH + BUTTON_MARGIN) - BUTTON_WIDTH/2;
+                const btnY = 150 + row * (BUTTON_HEIGHT + BUTTON_MARGIN) - BUTTON_HEIGHT/2;
+                
+                if (x >= btnX && x <= btnX + BUTTON_WIDTH &&
+                    y >= btnY && y <= btnY + BUTTON_HEIGHT &&
+                    levelNum <= maxUnlockedLevel) {
+                    level = levelNum;
+                    levelSelectionMode = false;
+                    gamePaused = false;
+                    startLockCountdown();
+                    initLevel();
+                    return;
+                }
+            }
+            
+            // 返回按钮
+            const backBtn = {
+                x: canvas.width/2 - 60,
+                y: canvas.height - 80,
+                width: 120,
+                height: 40
+            };
+            
+            if (x >= backBtn.x && x <= backBtn.x + backBtn.width &&
+                y >= backBtn.y && y <= backBtn.y + backBtn.height) {
+                levelSelectionMode = false;
+                gamePaused = false;
+            }
+        }
+    });
+}
+
+// 初始化触摸控制
+initTouchControls(); 
