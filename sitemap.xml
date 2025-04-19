@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/04/16/Leave_USTC/</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2025/01/13/Three_Ups_and_Downs/</loc>
     
     <lastmod>2025-04-19</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://physics-lee.github.io/2025/02/04/When_Will_Chinese_Textbooks_Be_Translated_into_English/</loc>
     
     <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/04/02/Leave_USTC/</loc>
-    
-    <lastmod>2025-04-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
