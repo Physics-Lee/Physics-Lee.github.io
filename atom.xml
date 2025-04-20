@@ -50,6 +50,33 @@
   </entry>
   
   <entry>
+    <title>动作捕捉</title>
+    <link href="https://physics-lee.github.io/2025/04/20/Motion_Capture/"/>
+    <id>https://physics-lee.github.io/2025/04/20/Motion_Capture/</id>
+    <published>2025-04-19T16:00:00.000Z</published>
+    <updated>2025-04-20T15:14:45.992Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;下午去博洲家体验他的5070Ti和动作捕捉。他常常跟我吹嘘他用虚幻4写的动捕软件。那今天我就来品鉴一下吧。&lt;/p&gt;
+&lt;p&gt;但是，我只有从15:00到17:00的两个小时。&lt;/p&gt;
+&lt;p&gt;为了演示5070Ti，他秀了秀最高画质的《赛博朋克2077》。哦对，期间他还熟练地使用风灵月影修改，边修改边吐槽现在风灵月影竟然要收费。&lt;/p&gt;
+&lt;p&gt;随后他掏出了Meta出的VR头显，打开了VRChat。&lt;/p&gt;
+&lt;p&gt;“VRChat是什么游戏？”我问。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    
+    <category term="technology" scheme="https://physics-lee.github.io/tags/technology/"/>
+    
+  </entry>
+  
+  <entry>
     <title>离别时刻</title>
     <link href="https://physics-lee.github.io/2025/04/16/Leave_USTC/"/>
     <id>https://physics-lee.github.io/2025/04/16/Leave_USTC/</id>
@@ -8297,17 +8324,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是学术造假</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:15:51.479Z</updated>
+    <updated>2023-11-01T07:16:00.174Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
+&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
+&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
+&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
     
     
     
@@ -8321,17 +8348,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是学术造假</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:16:00.174Z</updated>
+    <updated>2023-11-01T07:15:51.479Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
-&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
-&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
-&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
     
     
     
