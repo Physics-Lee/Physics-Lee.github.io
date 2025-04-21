@@ -50,11 +50,11 @@
   </entry>
   
   <entry>
-    <title>动作捕捉</title>
+    <title>动作捕捉 | 1</title>
     <link href="https://physics-lee.github.io/2025/04/20/Motion_Capture/"/>
     <id>https://physics-lee.github.io/2025/04/20/Motion_Capture/</id>
     <published>2025-04-19T16:00:00.000Z</published>
-    <updated>2025-04-20T15:14:45.992Z</updated>
+    <updated>2025-04-20T15:19:51.646Z</updated>
     
     
     <summary type="html">&lt;p&gt;下午去博洲家体验他的5070Ti和动作捕捉。他常常跟我吹嘘他用虚幻4写的动捕软件。那今天我就来品鉴一下吧。&lt;/p&gt;
@@ -105,6 +105,31 @@
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天琦家的休闲时光</title>
+    <link href="https://physics-lee.github.io/2025/04/13/Leisure_Time_at_Tianqi_Home/"/>
+    <id>https://physics-lee.github.io/2025/04/13/Leisure_Time_at_Tianqi_Home/</id>
+    <published>2025-04-12T16:00:00.000Z</published>
+    <updated>2025-04-21T03:23:32.045Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天去天琦师兄家做客。&lt;/p&gt;
+&lt;p&gt;本来说好午餐去，但是周六没能教完睿骐MATLAB绘图。我只好周日中午教。于是，我只好厚着脸皮跟天琦说：“下午三点再去吧。”天琦只是回了一句“行吧”。后来我才知道，他和师姐准备了两个荤菜，我说不来之后他们又放回冰箱了。&lt;/p&gt;
+&lt;p&gt;天琦家中布置干净且整洁，是我喜欢的模样。鞋盒、小物品收纳、走线板、书柜均精心设置。此布置需要细心呵护。&lt;/p&gt;
+&lt;p&gt;天琦家的高端设备还有不少呢。恒温饮水器、巨大电视、PS5、Switch、投影仪。&lt;strong&gt;我也可以和父母商量换个大电视。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下午和天琦一起玩了玩PS5上的游戏。《Cyberpunk 2077》并不像我想的那样好玩。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -8324,17 +8349,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是学术造假</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:16:00.174Z</updated>
+    <updated>2023-11-01T07:15:51.479Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
-&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
-&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
-&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
     
     
     
@@ -8348,17 +8373,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是学术造假</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:15:51.479Z</updated>
+    <updated>2023-11-01T07:16:00.174Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
+&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
+&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
+&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
     
     
     
