@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-04-19T23:50:22.216Z</updated>
+  <updated>2025-04-27T03:25:46.000Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《写作和思考》、《语言和智能》</title>
+    <link href="https://physics-lee.github.io/2025/04/27/Writing_and_Thinking_Language_and_Intelligence/"/>
+    <id>https://physics-lee.github.io/2025/04/27/Writing_and_Thinking_Language_and_Intelligence/</id>
+    <published>2025-04-26T16:00:00.000Z</published>
+    <updated>2025-04-27T03:25:46.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天因为工作原因要写一个文档说明自己的工作。&lt;strong&gt;我发觉，写作时，思维的的确确比不写作时要清晰很多。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;写作和思考&quot;&gt;&lt;a href=&quot;#写作和思考&quot; class=&quot;headerlink&quot; title=&quot;写作和思考&quot;&gt;&lt;/a&gt;写作和思考&lt;/h1&gt;&lt;p&gt;24年12月读了&lt;a href=&quot;https://paulgraham.com/writes.html&quot;&gt;一篇博客&lt;/a&gt;，其观点是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果你只思考、交谈而不写作，你只是认为你在思考。&lt;/p&gt;
+&lt;p&gt;If you’re thinking without writing, you only think you’re thinking.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;并且给出了一个预言：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
+    
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="language" scheme="https://physics-lee.github.io/tags/language/"/>
+    
+  </entry>
   
   <entry>
     <title>如何给Hexo博客加入RSS功能？</title>
