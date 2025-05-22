@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Gemini 学生认证 | Claude 注册</title>
+    <url>/2025/05/22/Gemini_Student_Verification/</url>
+    <content><![CDATA[<p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
+<hr>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#52;&#x38;&#52;&#52;&#97;&#x40;&#103;&#109;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#52;&#x38;&#52;&#52;&#97;&#x40;&#103;&#109;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#x72;&#x75;&#99;&#x65;&#46;&#121;&#105;&#120;&#x75;&#x61;&#110;&#46;&#x6c;&#x69;&#64;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#109;">&#98;&#x72;&#x75;&#99;&#x65;&#46;&#121;&#105;&#120;&#x75;&#x61;&#110;&#46;&#x6c;&#x69;&#64;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<hr>
+<p>5月21日，我又想起此事，尝试了如下方法：</p>
+<ol>
+<li>清空全部的浏览记录、cookie</li>
+<li>更改支付地址至美国，并和VPN地址一致</li>
+<li>改中文名为英文名</li>
+</ol>
+<p>然而依旧显示“This account is not eligible for the Google One AI Premium plan”。</p>
+<hr>
+<p>5月22日，我注册了一个新的谷歌账号。要点如下：</p>
+<ol>
+<li>邮箱用的是<a href="https://mp.weixin.qq.com/s/kdsN0_kPx8B43YNcUc5Hrw">中科大校友邮箱</a>，而非gmail。</li>
+<li>手机号采用了中国大陆手机号。</li>
+<li>支付地址设置为美国，并和VPN地址一致</li>
+</ol>
+<p>这次当我<a href="https://gemini.google/students/?hl=en">进行学生认证</a>时，直接成功了。</p>
+<hr>
+<p>欣喜若狂之下，我又想到，我之前的两个谷歌账号注册Claude均失败、被秒封，报错为：Anthropic认定我的账号不合规。我猜是他们检测出了我的IP地址是一个VPN地址。</p>
+<p>我抱着试一试的心态，用新注册的谷歌账号去注册了Claude。为了调查2024和2025年的Claude注册情况，我参考了<a href="https://github.com/anyofai/claude-pro">这篇攻略</a>。</p>
+<p>和昔日注册 ChatGPT 3.5 一样，我在 <a href="https://sms-activate.io/cn">sms-activate</a> 购买了虚拟手机号。（之前，第二个谷歌账号注册 Claude 时，我已经在 sms-activate 购买并成功收到了验证码，但是注册之后，发了一句 “hi”，就被秒封了）</p>
+<p>不过，历史没有重演。这次我成功注册了 Claude。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《三角洲行动》和埃隆·马斯克</title>
+    <url>/2025/05/20/Delta_Force_and_Elon_Musk/</url>
+    <content><![CDATA[<p>最近沉迷于腾讯的《三角洲行动》(<em>Delta Force</em>)。它于2024年9月上线。玩法上，它有互不干扰的三大玩法，分别借鉴了《逃离塔科夫》(<em>Escape from Tarkov</em>)、《战地》 （<em>Battlefield</em>)、《使命召唤》(<em>Call of Duty</em>)，同时，前两种玩法又借鉴了 <em>Valorant</em> 等游戏的人物技能机制。流行程度上，<a href="https://steamcharts.com/app/2507950#3m">目前它在Steam上日活跃用户在14万左右</a>，这还不包括使用官方客户端和WeGame启动的玩家。国际上，<a href="https://www.youtube.com/@DeltaForceGame">它的YouTube频道</a>办得有声有色，播放量和关注者甚多。</p>
+<p>毫不夸张地说，它是腾讯历史上最成功的自研端游。远远超出了昔日的《逆战》和《枪神纪》。</p>
+<hr>
+<p>作为一个挚爱剧情的人，我自然去关注了《三角洲行动》的背景故事。其中最具魅力的组织名为哈夫克(Haavk)，是一家富可敌国的科技公司。它旗下有两个产品：</p>
+<ol>
+<li>天网 (Skynet)：环绕地球的人造卫星网络。<a href="https://www.youtube.com/watch?v=Nu4d889Mpi8">S3</a>和<a href="https://www.youtube.com/watch?v=IdFgayIUk6Y">S4</a>赛季的焦点。哈夫克用它来监视全世界的通讯、并执行其他功能。“天空属于哈夫克”。</li>
+<li>Relink：哈夫克研发的的脑机接口。<a href="https://www.youtube.com/watch?v=PPB6D2HNx1I">S2</a>和<a href="https://www.youtube.com/watch?v=Tz3P8LJyEVc">S4</a>赛季的焦点。哈夫克用它来打造超级战士。“世界在洗牌，Relink在重塑未来”。S2的主角是两位制作Relink的科学家，S4的主角则是一名使用Relink的士兵。</li>
+</ol>
+<p>到这里，大家应该都知道哈夫克的原型是谁了——没错，就是Elon Musk以及他旗下的SpaceX和Neuralink。</p>
+<p>哈夫克的一些台词也很明显地模仿这个自负、叛逆、狂热之人。<a href="https://www.youtube.com/watch?v=4BF2-C7kb_w">S0</a>中的“恐惧让他们反对我”、<a href="https://www.youtube.com/watch?v=YY6mxdHdHNg">S1</a>中的“哈夫克要用科技给人类带来更美好的生活，只需付出一些小小的代价”、<a href="https://www.youtube.com/watch?v=Tz3P8LJyEVc">S4</a>中的“不是哈夫克需要你，而是你需要哈夫克”。</p>
+<hr>
+<p>那么，这两句话真的能成真吗？</p>
+<p>我觉得SpaceX的星链(Starlink)和星舰(Starship)已经做到了”天空属于SpaceX”，但是Neuralink并不能做到“世界在洗牌，Neuralink在重塑未来。”</p>
+<p>我觉得包括钱学森、Yann LeCun、Elon Musk在内的众多科学家都低估了生物学和神经科学的复杂程度。</p>
+<hr>
+<p>哈夫克之外，剧情中还有另外两股势力。</p>
+<p>一股是以联合国为原型、自诩为和平使者、前身为三角洲特种部队、与哈夫克针锋相对的全球应急行动组织(Global Threat Initiative, G.T.I.)。</p>
+<p>另一股是以哈马斯为原型、饱受哈夫克所制造的战乱之苦、制造恐怖袭击的阿萨拉卫队(Ahsarah Guard)。</p>
+<p>两者都十分痛恨哈夫克。玩家所扮演的是G.T.I.。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>physics</tag>
+        <tag>THINK</tag>
+        <tag>BCI</tag>
+        <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>与LX的谈话</title>
     <url>/2025/05/10/Talk_With_Lixian/</url>
     <content><![CDATA[<p>前几日，一天晚上，LX又在唉声叹气。</p>
@@ -79,9 +150,9 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -109,9 +180,9 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -371,8 +442,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>AI</tag>
+        <tag>science</tag>
         <tag>THINK</tag>
       </tags>
   </entry>
@@ -400,9 +471,9 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -572,10 +643,10 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>history</tag>
         <tag>politics</tag>
       </tags>
@@ -1222,8 +1293,8 @@
       <tags>
         <tag>love</tag>
         <tag>madness</tag>
-        <tag>romance</tag>
         <tag>THINK</tag>
+        <tag>romance</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -1295,9 +1366,9 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -1573,8 +1644,8 @@
         <category>2024-12</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>AI</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -1727,8 +1798,8 @@
         <category>2024-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -2156,8 +2227,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>AI</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -3008,8 +3079,8 @@
         <category>2024-04</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -3401,8 +3472,8 @@
         <category>2024-03</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -3594,8 +3665,8 @@
         <category>2024-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -4156,8 +4227,8 @@
         <category>2024-01</category>
       </categories>
       <tags>
-        <tag>statistics</tag>
         <tag>AI</tag>
+        <tag>statistics</tag>
       </tags>
   </entry>
   <entry>
@@ -4195,8 +4266,8 @@
         <category>2024-01</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -4620,9 +4691,9 @@
         <category>2023-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -4968,8 +5039,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>history</tag>
       </tags>
   </entry>
@@ -5014,8 +5085,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>history</tag>
         <tag>break cognitive limits</tag>
         <tag>war</tag>
@@ -5099,8 +5170,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>romance</tag>
         <tag>biology</tag>
+        <tag>romance</tag>
         <tag>break cognitive limits</tag>
       </tags>
   </entry>
@@ -5653,8 +5724,8 @@
       </categories>
       <tags>
         <tag>madness</tag>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -5850,8 +5921,8 @@
         <category>2023-10</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>AI</tag>
+        <tag>science</tag>
         <tag>family</tag>
       </tags>
   </entry>
@@ -5959,8 +6030,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -6237,8 +6308,8 @@
         <category>2023-09</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -6500,8 +6571,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -6527,8 +6598,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>modesty</tag>
       </tags>
   </entry>
@@ -6561,8 +6632,8 @@
       <tags>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>romance</tag>
         <tag>biology</tag>
+        <tag>romance</tag>
         <tag>family</tag>
       </tags>
   </entry>
@@ -6641,9 +6712,9 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>scientific misconduct</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -6965,10 +7036,26 @@
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>history</tag>
         <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -6995,22 +7082,6 @@
         <tag>biography</tag>
         <tag>drug</tag>
         <tag>break cognitive limits</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -7080,8 +7151,8 @@
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
       </tags>
@@ -7245,9 +7316,9 @@
         <category>2023-06</category>
       </categories>
       <tags>
+        <tag>physics</tag>
         <tag>science</tag>
         <tag>socialism</tag>
-        <tag>physics</tag>
         <tag>family</tag>
         <tag>movie</tag>
       </tags>
@@ -7271,8 +7342,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>romance</tag>
         <tag>biology</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -7388,8 +7459,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>romance</tag>
         <tag>socialism</tag>
+        <tag>romance</tag>
         <tag>running</tag>
       </tags>
   </entry>
@@ -7492,9 +7563,9 @@
         <category>2023-05</category>
       </categories>
       <tags>
+        <tag>physics</tag>
         <tag>science</tag>
         <tag>statistics</tag>
-        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -8605,8 +8676,8 @@
         <category>2023-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>anti illegal pornography</tag>
         <tag>drug</tag>
         <tag>raised on porn</tag>
@@ -8686,8 +8757,8 @@
         <category>2023-01</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>AI</tag>
+        <tag>science</tag>
         <tag>sports science</tag>
         <tag>injury</tag>
       </tags>
@@ -8799,11 +8870,11 @@
       </categories>
       <tags>
         <tag>fun</tag>
+        <tag>physics</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
         <tag>math</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -8842,11 +8913,11 @@
       </categories>
       <tags>
         <tag>fun</tag>
+        <tag>physics</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
         <tag>math</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -8906,8 +8977,8 @@
       </categories>
       <tags>
         <tag>madness</tag>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>soccer</tag>
         <tag>rush</tag>
       </tags>
@@ -9110,10 +9181,10 @@
         <category>2022-11</category>
       </categories>
       <tags>
-        <tag>science</tag>
-        <tag>romance</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>biology</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -9323,8 +9394,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>history</tag>
         <tag>war</tag>
         <tag>feudalism</tag>
@@ -9540,8 +9611,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>family</tag>
       </tags>
   </entry>
@@ -9725,9 +9796,9 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
         <tag>AI</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -10006,22 +10077,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -10085,6 +10140,22 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
@@ -10169,8 +10240,8 @@
       </categories>
       <tags>
         <tag>statistics</tag>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
         <tag>history</tag>
         <tag>break cognitive limits</tag>
       </tags>
@@ -12114,8 +12185,8 @@
         <category>2022-01</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>geography</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -12352,8 +12423,8 @@
       </categories>
       <tags>
         <tag>love</tag>
-        <tag>romance</tag>
         <tag>biography</tag>
+        <tag>romance</tag>
       </tags>
   </entry>
   <entry>
@@ -12446,8 +12517,8 @@
         <category>2021-09</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>teaching</tag>
       </tags>
   </entry>
@@ -12623,8 +12694,8 @@
         <category>2021-06</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -12640,8 +12711,8 @@
         <category>2021-06</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -12679,8 +12750,8 @@
         <category>2021-06</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
         <tag>senior high school</tag>
       </tags>
   </entry>
@@ -12772,8 +12843,8 @@
         <category>2021-02</category>
       </categories>
       <tags>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -12853,8 +12924,8 @@
         <category>2021-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>capitalism</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -12964,8 +13035,8 @@
         <category>2020-08</category>
       </categories>
       <tags>
-        <tag>fun</tag>
         <tag>geography</tag>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -13228,8 +13299,8 @@
       </categories>
       <tags>
         <tag>basketball</tag>
-        <tag>madness</tag>
         <tag>nationalism</tag>
+        <tag>madness</tag>
       </tags>
   </entry>
   <entry>
@@ -13395,8 +13466,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>science</tag>
         <tag>physics</tag>
+        <tag>science</tag>
       </tags>
   </entry>
 </search>
