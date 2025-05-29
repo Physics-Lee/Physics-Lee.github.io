@@ -4,7 +4,7 @@
     <title>New Progress of Exodus Cry, May 27th, 2025</title>
     <url>/2025/05/27/New_Progress_of_Exodus_Cry_20250527/</url>
     <content><![CDATA[<h1 id="美国-色情网站年龄认证"><a href="#美国-色情网站年龄认证" class="headerlink" title="美国 | 色情网站年龄认证"></a>美国 | 色情网站年龄认证</h1><p>今天和朋友聊天，聊到性教育、网络色情、年龄限制。我上网查了查，<a href="https://exoduscry.com/pcnp/tracker/">美国出台色情网站严格年龄认证法案的州已经超过一半了</a>，如下图所示：</p>
-<img src="New_Progress_of_Exodus_Cry_20250527/image-20250527223515960.png" alt="image-20250527223515960" style="zoom: 67%;" />
+<img src="/2025/05/27/New_Progress_of_Exodus_Cry_20250527/image-20250527223515960.png" class="">
 
 <p><a href="https://www.pcmag.com/opinions/louisianas-new-porn-law-is-a-privacy-time-bomb#:~:text=As%20of%20Jan.,and%20personal%20information%20at%20risk.">最早加入的是路易斯安那州，2023年1月1日</a>。<a href="https://azmirror.com/briefs/arizona-joins-growing-list-of-states-requiring-id-for-online-porn-access/">最新加入的是亚利桑那州，2025年5月14日</a>。</p>
 <p>法案要求色情网站的浏览者上传年龄证明，比如，<a href="https://www.augustachronicle.com/story/news/politics/state/2025/01/07/pornography-will-be-partially-blocked-under-new-georgia-law-what-to-know/77490065007/">佐治亚州可以通过上传驾驶证完成年龄认证</a>。</p>
@@ -133,7 +133,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#x30;&#57;&#55;&#x33;&#x34;&#56;&#52;&#x34;&#x61;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x31;&#49;&#x30;&#57;&#55;&#x33;&#x34;&#56;&#52;&#x34;&#x61;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#98;&#x72;&#117;&#99;&#101;&#x2e;&#x79;&#105;&#x78;&#117;&#x61;&#110;&#46;&#x6c;&#105;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#98;&#x72;&#117;&#99;&#101;&#x2e;&#x79;&#105;&#x78;&#117;&#x61;&#110;&#46;&#x6c;&#105;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#46;&#99;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#57;&#x37;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#49;&#x31;&#x30;&#57;&#x37;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#98;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#98;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -199,8 +199,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>physics</tag>
         <tag>THINK</tag>
+        <tag>physics</tag>
         <tag>BCI</tag>
         <tag>video game</tag>
       </tags>
@@ -345,8 +345,8 @@
         <category>2025-04</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
         <tag>language</tag>
       </tags>
   </entry>
@@ -521,8 +521,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>physics</tag>
         <tag>AI</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -548,8 +548,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -577,8 +577,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -1396,8 +1396,8 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>physics</tag>
         <tag>THINK</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -1427,8 +1427,8 @@
       <tags>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>THINK</tag>
         <tag>madness</tag>
+        <tag>THINK</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -2288,9 +2288,9 @@
         <category>2024-10</category>
       </categories>
       <tags>
-        <tag>physics</tag>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -2330,8 +2330,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2379,8 +2379,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2394,8 +2394,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2471,8 +2471,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2739,8 +2739,8 @@
         <category>2024-08</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3508,8 +3508,8 @@
         <category>2024-04</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3947,8 +3947,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>physics</tag>
         <tag>AI</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -7175,6 +7175,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -7200,22 +7216,6 @@
         <tag>physics</tag>
         <tag>history</tag>
         <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -9931,8 +9931,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>AI</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
