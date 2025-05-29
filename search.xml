@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>用API构建自己的Sider或者Monica</title>
+    <url>/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</url>
+    <content><![CDATA[<p>太爽了</p>
+<img class="-20250529144509791.png">]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sider vs Monica</title>
+    <url>/2025/05/29/Sider_vs_Monica/</url>
+    <content><![CDATA[<p>I purchased Sider and Monica for 1 month.</p>
+<p>Let me see which one is better.</p>
+<img class="-20250529162957397.png">
+
+<hr>
+<p>For the first glance:</p>
+<ol>
+<li>Front End: Sider is better than Monica.</li>
+<li>The Number of LLMs: Monica is better than Sider.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>New Progress of Exodus Cry, May 27th, 2025</title>
     <url>/2025/05/27/New_Progress_of_Exodus_Cry_20250527/</url>
     <content><![CDATA[<h1 id="美国-色情网站年龄认证"><a href="#美国-色情网站年龄认证" class="headerlink" title="美国 | 色情网站年龄认证"></a>美国 | 色情网站年龄认证</h1><p>今天和朋友聊天，聊到性教育、网络色情、年龄限制。我上网查了查，<a href="https://exoduscry.com/pcnp/tracker/">美国出台色情网站严格年龄认证法案的州已经超过一半了</a>，如下图所示：</p>
@@ -133,7 +170,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#57;&#x37;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#49;&#x31;&#x30;&#57;&#x37;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#98;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#98;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#49;&#x30;&#57;&#x37;&#x33;&#x34;&#x38;&#52;&#52;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#109;">&#49;&#49;&#x30;&#57;&#x37;&#x33;&#x34;&#x38;&#52;&#52;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -521,8 +558,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>physics</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2289,8 +2326,8 @@
       </categories>
       <tags>
         <tag>THINK</tag>
-        <tag>AI</tag>
         <tag>physics</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3947,8 +3984,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>AI</tag>
         <tag>physics</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -7149,6 +7186,34 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
+    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
+    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
+<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
+<blockquote>
+<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
+</blockquote>
+<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
+<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
+
+<hr>
+<p>在这里，我有一个疑问。</p>
+<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
+<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
+<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>history</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -7188,34 +7253,6 @@
       </categories>
       <tags>
         <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
-    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
-    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
-<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
-<blockquote>
-<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
-</blockquote>
-<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
-<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
-
-<hr>
-<p>在这里，我有一个疑问。</p>
-<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
-<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
-<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>history</tag>
-        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -7355,22 +7392,6 @@
       </tags>
   </entry>
   <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/The_Southern_City/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>The Southern Town</title>
     <url>/2023/06/22/The_Southern_Town/</url>
     <content><![CDATA[<p>Silently I wander to the southern town, remembering the past so profound.</p>
@@ -7397,6 +7418,22 @@
       <tags>
         <tag>poem</tag>
         <tag>translation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/The_Southern_City/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -8969,49 +9006,6 @@
       </tags>
   </entry>
   <entry>
-    <title>星星意味着什么？</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
-    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
-<p>审稿：天阳</p>
-<hr>
-<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
-<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
-<p>不过，这也太扯淡了。</p>
-<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
-<p>这个*，可能是对偶的意思。</p>
-<p>所有的男生构成一个向量空间，</p>
-<p>所有的女生构成一个向量空间，</p>
-<p>这两个空间互为对偶空间。</p>
-<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
-<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
-<p>这两个元素互为对偶元素。</p>
-<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
-<p>是不是很浪漫。</p>
-<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
-<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
-<p>行向量也叫co-vector。</p>
-<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
-<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
-<p>不过，同一个星号，</p>
-<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
-<p>如果你翻译成对偶，浪漫至极。</p>
-<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Does the Asterisk Mean?</title>
     <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
     <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
@@ -9039,6 +9033,49 @@
 <p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
 <p>If you translate it into duality, then you are such a breathless romanticer.</p>
 <p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星星意味着什么？</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
+    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
+<p>审稿：天阳</p>
+<hr>
+<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
+<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
+<p>不过，这也太扯淡了。</p>
+<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
+<p>这个*，可能是对偶的意思。</p>
+<p>所有的男生构成一个向量空间，</p>
+<p>所有的女生构成一个向量空间，</p>
+<p>这两个空间互为对偶空间。</p>
+<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
+<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
+<p>这两个元素互为对偶元素。</p>
+<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
+<p>是不是很浪漫。</p>
+<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
+<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
+<p>行向量也叫co-vector。</p>
+<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
+<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
+<p>不过，同一个星号，</p>
+<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
+<p>如果你翻译成对偶，浪漫至极。</p>
+<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
 <p>It just like, they have a baby!</p>
 ]]></content>
       <categories>
@@ -9931,8 +9968,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>AI</tag>
         <tag>physics</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>

@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-05-29T01:28:30.128Z</updated>
+  <updated>2025-05-29T06:45:40.897Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用API构建自己的Sider或者Monica</title>
+    <link href="https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/"/>
+    <id>https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</id>
+    <published>2025-05-28T16:00:00.000Z</published>
+    <updated>2025-05-29T06:45:40.897Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;太爽了&lt;/p&gt;
+&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sider vs Monica</title>
+    <link href="https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/"/>
+    <id>https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/</id>
+    <published>2025-05-28T16:00:00.000Z</published>
+    <updated>2025-05-29T08:55:20.742Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;I purchased Sider and Monica for 1 month.&lt;/p&gt;
+&lt;p&gt;Let me see which one is better.&lt;/p&gt;
+&lt;img class=&quot;-20250529162957397.png&quot;&gt;
+
+&lt;hr&gt;
+&lt;p&gt;For the first glance:&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>New Progress of Exodus Cry, May 27th, 2025</title>
@@ -80,7 +138,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#51;&amp;#x34;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#51;&amp;#x34;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#98;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -461,9 +519,9 @@
     <category term="2025-03" scheme="https://physics-lee.github.io/categories/2025/2025-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -1792,9 +1850,9 @@
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -3397,9 +3455,9 @@
     
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -6130,6 +6188,39 @@
   </entry>
   
   <entry>
+    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-11-01T07:14:00.371Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。&lt;/p&gt;
+&lt;p&gt;杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;更重要的是，杨振宁《晨曦集》直接收录了邓稼先的&lt;a href=&quot;https://xsg.tsinghua.edu.cn/info/1004/2778.htm&quot;&gt;这封信&lt;/a&gt;！&lt;/p&gt;
+&lt;img src=&quot;/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png&quot; class&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+  </entry>
+  
+  <entry>
     <title>杨振宁回忆鸦片</title>
     <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
     <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
@@ -6188,39 +6279,6 @@
     
     
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-11-01T07:14:00.371Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。&lt;/p&gt;
-&lt;p&gt;杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;更重要的是，杨振宁《晨曦集》直接收录了邓稼先的&lt;a href=&quot;https://xsg.tsinghua.edu.cn/info/1004/2778.htm&quot;&gt;这封信&lt;/a&gt;！&lt;/p&gt;
-&lt;img src=&quot;/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png&quot; class&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
   </entry>
   
@@ -6311,6 +6369,33 @@
   </entry>
   
   <entry>
+    <title>The Southern Town</title>
+    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
+    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
+    <published>2023-06-21T16:00:00.000Z</published>
+    <updated>2025-02-08T15:31:39.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
+&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
+&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
+&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
+    
+    
+    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
+    
+  </entry>
+  
+  <entry>
     <title>相见欢·南城</title>
     <link href="https://physics-lee.github.io/2023/06/22/The_Southern_City/"/>
     <id>https://physics-lee.github.io/2023/06/22/The_Southern_City/</id>
@@ -6338,33 +6423,6 @@
     
     
     <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The Southern Town</title>
-    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
-    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
-    <published>2023-06-21T16:00:00.000Z</published>
-    <updated>2025-02-08T15:31:39.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
-&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
-&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
-&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
-    
-    
-    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
-    
-    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
     
   </entry>
   
@@ -7381,17 +7439,17 @@
   </entry>
   
   <entry>
-    <title>星星意味着什么？</title>
-    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/"/>
-    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</id>
+    <title>What Does the Asterisk Mean?</title>
+    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/"/>
+    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/</id>
     <published>2022-12-17T16:00:00.000Z</published>
-    <updated>2023-11-01T08:12:03.113Z</updated>
+    <updated>2023-12-22T14:54:47.212Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;星星意味着什么？&quot;&gt;&lt;a href=&quot;#星星意味着什么？&quot; class=&quot;headerlink&quot; title=&quot;星星意味着什么？&quot;&gt;&lt;/a&gt;星星意味着什么？&lt;/h1&gt;&lt;p&gt;撰文：轩少&lt;/p&gt;
-&lt;p&gt;审稿：天阳&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;What-does-the-asterisk-mean&quot;&gt;&lt;a href=&quot;#What-does-the-asterisk-mean&quot; class=&quot;headerlink&quot; title=&quot;What does the asterisk mean?&quot;&gt;&lt;/a&gt;What does the asterisk mean?&lt;/h1&gt;&lt;p&gt;Author: Xuan Jr.&lt;/p&gt;
+&lt;p&gt;Review: Tianyang.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。&lt;/p&gt;</summary>
+&lt;p&gt;USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.&lt;/p&gt;</summary>
     
     
     
@@ -7415,17 +7473,17 @@
   </entry>
   
   <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/"/>
-    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/</id>
+    <title>星星意味着什么？</title>
+    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/"/>
+    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</id>
     <published>2022-12-17T16:00:00.000Z</published>
-    <updated>2023-12-22T14:54:47.212Z</updated>
+    <updated>2023-11-01T08:12:03.113Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;What-does-the-asterisk-mean&quot;&gt;&lt;a href=&quot;#What-does-the-asterisk-mean&quot; class=&quot;headerlink&quot; title=&quot;What does the asterisk mean?&quot;&gt;&lt;/a&gt;What does the asterisk mean?&lt;/h1&gt;&lt;p&gt;Author: Xuan Jr.&lt;/p&gt;
-&lt;p&gt;Review: Tianyang.&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;星星意味着什么？&quot;&gt;&lt;a href=&quot;#星星意味着什么？&quot; class=&quot;headerlink&quot; title=&quot;星星意味着什么？&quot;&gt;&lt;/a&gt;星星意味着什么？&lt;/h1&gt;&lt;p&gt;撰文：轩少&lt;/p&gt;
+&lt;p&gt;审稿：天阳&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.&lt;/p&gt;</summary>
+&lt;p&gt;科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。&lt;/p&gt;</summary>
     
     
     
@@ -8328,9 +8386,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
