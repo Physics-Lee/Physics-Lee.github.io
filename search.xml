@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>爱你，科大</title>
+    <url>/2025/05/30/Love_USTC/</url>
+    <content><![CDATA[<p>最后一次听报告</p>
+<p>最后一次去食堂</p>
+<p>最后一次跑操场</p>
+<p>最后一次打篮球</p>
+<p>最后一次游泳馆</p>
+<p>也许有人会讨厌你、远离你、甚至仇恨你。</p>
+<p>我能理解人们的想法，但是我依然很爱你。</p>
+<p>爱你，是因为你最初肩负的使命。</p>
+<p>爱你，是因为在此处遇到的优秀人们。</p>
+<p>爱你，是因为在这里视野更加开阔。</p>
+<p>我希望有一天，你可以培养更多元的价值观，让想当科学家的学生当科学家、想当工程师的学生当工程师、想当老师的学生当老师、想当作家的学生当作家、想当画家的学生当画家。</p>
+<p>我希望有一天，你可以给注重交叉学科的发展，抓住第三次深度学习浪潮。</p>
+<p>我希望有一天，你不仅是中国的加州理工，也依然是在为了全体劳动人民的幸福而奋斗。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>love</tag>
+        <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用API构建自己的Sider或者Monica</title>
     <url>/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</url>
     <content><![CDATA[<p>太爽了</p>
@@ -12,6 +38,29 @@
       <tags>
         <tag>fun</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Covariance Is Meaningless for Unpaired Data</title>
+    <url>/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/</url>
+    <content><![CDATA[<p>Today, through chatting with <a href="https://chatgpt.com/share/683862c7-1448-8002-a35a-fa1e901e5769">GPT</a> and <a href="https://g.co/gemini/share/b8320a70d534">Gemini</a>, I suddenly realized that the sample covariance<br>$$<br>s_{ij} :&#x3D; \frac{1}{n-1} \sum_{i&#x3D;1}^n (s_i - \bar{s}_i) (s_j - \bar{s}_j)<br>$$<br>is meaningful if and only if $s_i$ and $s_j$ are paired.</p>
+<p>If they are not paired, </p>
+<blockquote>
+<p>any arbitrary pairing would lead to an arbitrary and meaningless covariance value. (from Gemini)</p>
+</blockquote>
+<hr>
+<p>For a real life example, imagine that you want to investigate the production of rice of two different farms. You got $n_1$ bags of rice from the first farm, and $n_2$ bags of rice from the second farm. Each bag has its weight. Here, $s_i$ are weights for bag of rice from the 1st farm, while $s_j$ are weights for bag of rice from the 2nd farm.</p>
+<p>Obviously, </p>
+<blockquote>
+<p>any arbitrary pairing would lead to an arbitrary and meaningless covariance value.</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>statistics</tag>
       </tags>
   </entry>
   <entry>
@@ -170,7 +219,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#49;&#x30;&#57;&#x37;&#x33;&#x34;&#x38;&#52;&#52;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#109;">&#49;&#49;&#x30;&#57;&#x37;&#x33;&#x34;&#x38;&#52;&#52;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#56;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#56;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#x63;&#x65;&#46;&#121;&#x69;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#x62;&#x72;&#x75;&#x63;&#x65;&#46;&#121;&#x69;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -236,8 +285,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>THINK</tag>
         <tag>physics</tag>
+        <tag>THINK</tag>
         <tag>BCI</tag>
         <tag>video game</tag>
       </tags>
@@ -382,8 +431,8 @@
         <category>2025-04</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
         <tag>language</tag>
       </tags>
   </entry>
@@ -585,8 +634,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -614,8 +663,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -1433,8 +1482,8 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>physics</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -1464,8 +1513,8 @@
       <tags>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>madness</tag>
         <tag>THINK</tag>
+        <tag>madness</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -2325,9 +2374,9 @@
         <category>2024-10</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>physics</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -2367,8 +2416,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -2416,8 +2465,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -2431,8 +2480,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -2508,8 +2557,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -2776,8 +2825,8 @@
         <category>2024-08</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -3545,8 +3594,8 @@
         <category>2024-04</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>AI</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -7392,6 +7441,22 @@
       </tags>
   </entry>
   <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/The_Southern_City/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>The Southern Town</title>
     <url>/2023/06/22/The_Southern_Town/</url>
     <content><![CDATA[<p>Silently I wander to the southern town, remembering the past so profound.</p>
@@ -7418,22 +7483,6 @@
       <tags>
         <tag>poem</tag>
         <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/The_Southern_City/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -9006,49 +9055,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>星星意味着什么？</title>
     <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
     <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
@@ -9076,6 +9082,49 @@
 <p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
 <p>如果你翻译成对偶，浪漫至极。</p>
 <p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Does the Asterisk Mean?</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
 <p>It just like, they have a baby!</p>
 ]]></content>
       <categories>

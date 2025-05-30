@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-05-29T06:45:40.897Z</updated>
+  <updated>2025-05-30T07:28:52.763Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>爱你，科大</title>
+    <link href="https://physics-lee.github.io/2025/05/30/Love_USTC/"/>
+    <id>https://physics-lee.github.io/2025/05/30/Love_USTC/</id>
+    <published>2025-05-29T16:00:00.000Z</published>
+    <updated>2025-05-30T07:28:52.763Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最后一次听报告&lt;/p&gt;
+&lt;p&gt;最后一次去食堂&lt;/p&gt;
+&lt;p&gt;最后一次跑操场&lt;/p&gt;
+&lt;p&gt;最后一次打篮球&lt;/p&gt;
+&lt;p&gt;最后一次游泳馆&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
+    
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
+    
+    <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
+    
+  </entry>
   
   <entry>
     <title>用API构建自己的Sider或者Monica</title>
@@ -43,6 +70,33 @@
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Covariance Is Meaningless for Unpaired Data</title>
+    <link href="https://physics-lee.github.io/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/"/>
+    <id>https://physics-lee.github.io/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/</id>
+    <published>2025-05-28T16:00:00.000Z</published>
+    <updated>2025-05-29T13:42:48.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Today, through chatting with &lt;a href=&quot;https://chatgpt.com/share/683862c7-1448-8002-a35a-fa1e901e5769&quot;&gt;GPT&lt;/a&gt; and &lt;a href=&quot;https://g.co/gemini/share/b8320a70d534&quot;&gt;Gemini&lt;/a&gt;, I suddenly realized that the sample covariance&lt;br&gt;$$&lt;br&gt;s_{ij} :&amp;#x3D; &#92;frac{1}{n-1} &#92;sum_{i&amp;#x3D;1}^n (s_i - &#92;bar{s}_i) (s_j - &#92;bar{s}_j)&lt;br&gt;$$&lt;br&gt;is meaningful if and only if $s_i$ and $s_j$ are paired.&lt;/p&gt;
+&lt;p&gt;If they are not paired, &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;any arbitrary pairing would lead to an arbitrary and meaningless covariance value. (from Gemini)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;For a real life example, imagine that you want to investigate the production of rice of two different farms. You got $n_1$ bags of rice from the first farm, and $n_2$ bags of rice from the second farm. Each bag has its weight. Here, $s_i$ are weights for bag of rice from the 1st farm, while $s_j$ are weights for bag of rice from the 2nd farm.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
+    
+    
+    <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
     
   </entry>
   
@@ -138,7 +192,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x31;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#46;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#46;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -178,9 +232,9 @@
     
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="BCI" scheme="https://physics-lee.github.io/tags/BCI/"/>
     
@@ -317,9 +371,9 @@
     <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="language" scheme="https://physics-lee.github.io/tags/language/"/>
     
@@ -549,9 +603,9 @@
     <category term="2025-03" scheme="https://physics-lee.github.io/categories/2025/2025-03/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -578,9 +632,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1050,9 +1104,9 @@
     <category term="2025-01" scheme="https://physics-lee.github.io/categories/2025/2025-01/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1081,9 +1135,9 @@
     
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -1848,11 +1902,11 @@
     <category term="2024-10" scheme="https://physics-lee.github.io/categories/2024/2024-10/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1904,9 +1958,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1964,9 +2018,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1995,9 +2049,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -2073,9 +2127,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -2373,9 +2427,9 @@
     <category term="2024-08" scheme="https://physics-lee.github.io/categories/2024/2024-08/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -3076,9 +3130,9 @@
     <category term="2024-04" scheme="https://physics-lee.github.io/categories/2024/2024-04/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -6369,33 +6423,6 @@
   </entry>
   
   <entry>
-    <title>The Southern Town</title>
-    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
-    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
-    <published>2023-06-21T16:00:00.000Z</published>
-    <updated>2025-02-08T15:31:39.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
-&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
-&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
-&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
-    
-    
-    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
-    
-    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
-    
-  </entry>
-  
-  <entry>
     <title>相见欢·南城</title>
     <link href="https://physics-lee.github.io/2023/06/22/The_Southern_City/"/>
     <id>https://physics-lee.github.io/2023/06/22/The_Southern_City/</id>
@@ -6423,6 +6450,33 @@
     
     
     <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Southern Town</title>
+    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
+    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
+    <published>2023-06-21T16:00:00.000Z</published>
+    <updated>2025-02-08T15:31:39.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
+&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
+&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
+&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
+    
+    
+    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
     
   </entry>
   
@@ -7439,17 +7493,17 @@
   </entry>
   
   <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/"/>
-    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/</id>
+    <title>星星意味着什么？</title>
+    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/"/>
+    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</id>
     <published>2022-12-17T16:00:00.000Z</published>
-    <updated>2023-12-22T14:54:47.212Z</updated>
+    <updated>2023-11-01T08:12:03.113Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;What-does-the-asterisk-mean&quot;&gt;&lt;a href=&quot;#What-does-the-asterisk-mean&quot; class=&quot;headerlink&quot; title=&quot;What does the asterisk mean?&quot;&gt;&lt;/a&gt;What does the asterisk mean?&lt;/h1&gt;&lt;p&gt;Author: Xuan Jr.&lt;/p&gt;
-&lt;p&gt;Review: Tianyang.&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;星星意味着什么？&quot;&gt;&lt;a href=&quot;#星星意味着什么？&quot; class=&quot;headerlink&quot; title=&quot;星星意味着什么？&quot;&gt;&lt;/a&gt;星星意味着什么？&lt;/h1&gt;&lt;p&gt;撰文：轩少&lt;/p&gt;
+&lt;p&gt;审稿：天阳&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.&lt;/p&gt;</summary>
+&lt;p&gt;科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。&lt;/p&gt;</summary>
     
     
     
@@ -7473,17 +7527,17 @@
   </entry>
   
   <entry>
-    <title>星星意味着什么？</title>
-    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/"/>
-    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</id>
+    <title>What Does the Asterisk Mean?</title>
+    <link href="https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/"/>
+    <id>https://physics-lee.github.io/2022/12/18/What_Does_the_Asterisk_Mean_English/</id>
     <published>2022-12-17T16:00:00.000Z</published>
-    <updated>2023-11-01T08:12:03.113Z</updated>
+    <updated>2023-12-22T14:54:47.212Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;星星意味着什么？&quot;&gt;&lt;a href=&quot;#星星意味着什么？&quot; class=&quot;headerlink&quot; title=&quot;星星意味着什么？&quot;&gt;&lt;/a&gt;星星意味着什么？&lt;/h1&gt;&lt;p&gt;撰文：轩少&lt;/p&gt;
-&lt;p&gt;审稿：天阳&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;What-does-the-asterisk-mean&quot;&gt;&lt;a href=&quot;#What-does-the-asterisk-mean&quot; class=&quot;headerlink&quot; title=&quot;What does the asterisk mean?&quot;&gt;&lt;/a&gt;What does the asterisk mean?&lt;/h1&gt;&lt;p&gt;Author: Xuan Jr.&lt;/p&gt;
+&lt;p&gt;Review: Tianyang.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。&lt;/p&gt;</summary>
+&lt;p&gt;USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.&lt;/p&gt;</summary>
     
     
     

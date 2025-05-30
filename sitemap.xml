@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/05/30/Love_USTC/</loc>
+    
+    <lastmod>2025-05-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/</loc>
+    
+    <lastmod>2025-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/</loc>
     
     <lastmod>2025-05-29</lastmod>
@@ -3577,7 +3595,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-05-29</lastmod>
+    <lastmod>2025-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
