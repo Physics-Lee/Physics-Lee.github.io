@@ -44,6 +44,34 @@
   </entry>
   
   <entry>
+    <title>Paul Frampton 的故事</title>
+    <link href="https://physics-lee.github.io/2025/05/30/Story_of_Paul_Frampton/"/>
+    <id>https://physics-lee.github.io/2025/05/30/Story_of_Paul_Frampton/</id>
+    <published>2025-05-29T16:00:00.000Z</published>
+    <updated>2025-06-01T01:01:35.277Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天和小娄聊天，聊到英国的理论物理、粒子物理学家&lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Frampton&quot;&gt;Paul Frampton&lt;/a&gt;因色情诈骗被逮捕的事。&lt;/p&gt;
+&lt;p&gt;2011年，他丧偶后，想再找一个伴侣——随后他用了某个恋爱软件找对象——找到了一个前凸后翘的拉美姑娘——对方说“Age Is Just A</summary>
+        
+      
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    
+  </entry>
+  
+  <entry>
     <title>用API构建自己的Sider或者Monica</title>
     <link href="https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/"/>
     <id>https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</id>
@@ -192,7 +220,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x31;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#46;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#46;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#x31;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#97;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x31;&amp;#x31;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#97;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -6242,39 +6270,6 @@
   </entry>
   
   <entry>
-    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-11-01T07:14:00.371Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。&lt;/p&gt;
-&lt;p&gt;杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;更重要的是，杨振宁《晨曦集》直接收录了邓稼先的&lt;a href=&quot;https://xsg.tsinghua.edu.cn/info/1004/2778.htm&quot;&gt;这封信&lt;/a&gt;！&lt;/p&gt;
-&lt;img src=&quot;/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png&quot; class&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-  </entry>
-  
-  <entry>
     <title>杨振宁回忆鸦片</title>
     <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
     <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
@@ -6308,22 +6303,20 @@
   </entry>
   
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/</id>
+    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</id>
     <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-11-15T09:34:36.597Z</updated>
+    <updated>2023-11-01T07:14:00.371Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。&lt;/p&gt;
-&lt;p&gt;记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。&lt;/p&gt;
-&lt;p&gt;但是</summary>
-        
-      
+    <summary type="html">&lt;p&gt;寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。&lt;/p&gt;
+&lt;p&gt;杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;更重要的是，杨振宁《晨曦集》直接收录了邓稼先的&lt;a href=&quot;https://xsg.tsinghua.edu.cn/info/1004/2778.htm&quot;&gt;这封信&lt;/a&gt;！&lt;/p&gt;
+&lt;img src=&quot;/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png&quot; class&gt;</summary>
     
     
     
@@ -6332,7 +6325,13 @@
     <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
   </entry>
   
@@ -6366,6 +6365,35 @@
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-11-15T09:34:36.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。&lt;/p&gt;
+&lt;p&gt;记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。&lt;/p&gt;
+&lt;p&gt;但是</summary>
+        
+      
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -8142,9 +8170,9 @@
     <category term="2022-10" scheme="https://physics-lee.github.io/categories/2022/2022-10/"/>
     
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -8670,9 +8698,9 @@
     <category term="2022-09" scheme="https://physics-lee.github.io/categories/2022/2022-09/"/>
     
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
@@ -8712,17 +8740,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是学术造假</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:15:51.479Z</updated>
+    <updated>2023-11-01T07:16:00.174Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
+&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
+&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
+&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
     
     
     
@@ -8736,17 +8764,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是学术造假</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:16:00.174Z</updated>
+    <updated>2023-11-01T07:15:51.479Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
-&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
-&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
-&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
     
     
     

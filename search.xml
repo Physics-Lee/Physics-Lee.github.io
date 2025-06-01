@@ -27,6 +27,22 @@
       </tags>
   </entry>
   <entry>
+    <title>Paul Frampton 的故事</title>
+    <url>/2025/05/30/Story_of_Paul_Frampton/</url>
+    <content><![CDATA[<p>今天和小娄聊天，聊到英国的理论物理、粒子物理学家<a href="https://en.wikipedia.org/wiki/Paul_Frampton">Paul Frampton</a>因色情诈骗被逮捕的事。</p>
+<p>2011年，他丧偶后，想再找一个伴侣——随后他用了某个恋爱软件找对象——找到了一个前凸后翘的拉美姑娘——对方说“Age Is Just A Number”（年龄不是问题）——他去拉美和对方见面——对方要求他帮忙带一个行李——行李里面有两千克可卡因——他被判了两年。</p>
+<p>虽然看上去很蠢，但是也能理解，哈哈哈。</p>
+<p>故事的经过是我从 <a href="https://www.youtube.com/watch?v=Y82KJWFdWZw">Sabin 的频道</a>里看的。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-05</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用API构建自己的Sider或者Monica</title>
     <url>/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</url>
     <content><![CDATA[<p>太爽了</p>
@@ -219,7 +235,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#56;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#56;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#x63;&#x65;&#46;&#121;&#x69;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#x62;&#x72;&#x75;&#x63;&#x65;&#46;&#121;&#x69;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#48;&#57;&#55;&#51;&#52;&#x38;&#52;&#52;&#97;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x31;&#x31;&#48;&#57;&#55;&#51;&#52;&#x38;&#52;&#52;&#97;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#46;&#108;&#x69;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x62;&#x72;&#x75;&#99;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#46;&#108;&#x69;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -7235,34 +7251,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
-    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
-    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
-<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
-<blockquote>
-<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
-</blockquote>
-<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
-<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
-
-<hr>
-<p>在这里，我有一个疑问。</p>
-<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
-<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
-<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
-        <tag>physics</tag>
-        <tag>history</tag>
-        <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -7289,19 +7277,31 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+    <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
+    <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
+    <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
+<p>杨振宁《晨曦集》收录了一篇他1993年写的文章，其中提到：1971年8月，杨振宁回中国，问邓稼先寒春有没有参与中国原子弹计划，邓稼先说他觉得没有，但是他要去证实一下。后来邓给杨写了一封信，信中写</p>
+<blockquote>
+<p>我已向组织上了解，寒春确实没有参加过我国任何制造核武器的事。</p>
+</blockquote>
+<p>更重要的是，杨振宁《晨曦集》直接收录了邓稼先的<a href="https://xsg.tsinghua.edu.cn/info/1004/2778.htm">这封信</a>！</p>
+<img src="/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/1.png" class="">
+
+<hr>
+<p>在这里，我有一个疑问。</p>
+<p>我从小就听过一种说法——<a href="https://zh.wikipedia.org/zh-cn/%E9%82%93%E7%A8%BC%E5%85%88#%E6%96%87%E9%9D%A9">杨振宁回国救了邓稼先，后者才免于在文革中被批斗致死</a>。</p>
+<p>这件事情，我在网上找到的资料，都显示来自于<a href="http://www.shkpzx.com/9538/9540/12430/12170.html">这篇文章</a>。</p>
+<p>我认为这其中可能有猫腻——至少，从这封信来看，邓稼先可以向上级问这么敏感的事情，完全不像是一个生命受到威胁的人。</p>
 ]]></content>
       <categories>
         <category>2023</category>
         <category>2023-07</category>
       </categories>
       <tags>
-        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>physics</tag>
+        <tag>history</tag>
+        <tag>biography</tag>
       </tags>
   </entry>
   <entry>
@@ -7375,6 +7375,22 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -9771,8 +9787,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>madness</tag>
         <tag>scientific misconduct</tag>
+        <tag>madness</tag>
         <tag>USTC</tag>
       </tags>
   </entry>
@@ -10255,8 +10271,8 @@
         <category>2022-09</category>
       </categories>
       <tags>
-        <tag>madness</tag>
         <tag>scientific misconduct</tag>
+        <tag>madness</tag>
         <tag>biology</tag>
         <tag>USTC</tag>
       </tags>
@@ -10294,6 +10310,22 @@
       </categories>
       <tags>
         <tag>biology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -10360,22 +10392,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
