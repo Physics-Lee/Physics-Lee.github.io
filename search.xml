@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>泛舟</title>
+    <url>/2025/06/02/On_the_Boat/</url>
+    <content><![CDATA[<p>惊夜鹭而群飞，访枯树以寻古。</p>
+<p>叹人生之短暂，欲留名于史书。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>爱你，科大</title>
     <url>/2025/05/30/Love_USTC/</url>
     <content><![CDATA[<p>最后一次听报告</p>
@@ -235,7 +249,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#48;&#57;&#55;&#51;&#52;&#x38;&#52;&#52;&#97;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x31;&#x31;&#48;&#57;&#55;&#51;&#52;&#x38;&#52;&#52;&#97;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#46;&#108;&#x69;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x62;&#x72;&#x75;&#99;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#46;&#108;&#x69;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#57;&#55;&#51;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;">&#49;&#x31;&#x30;&#57;&#55;&#51;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#117;&#x61;&#x6e;&#x2e;&#108;&#x69;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x62;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#117;&#x61;&#x6e;&#x2e;&#108;&#x69;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -1529,8 +1543,8 @@
       <tags>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>THINK</tag>
         <tag>madness</tag>
+        <tag>THINK</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -7251,32 +7265,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -7302,6 +7290,32 @@
         <tag>physics</tag>
         <tag>history</tag>
         <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -9787,8 +9801,8 @@
         <category>2022-10</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
         <tag>madness</tag>
+        <tag>scientific misconduct</tag>
         <tag>USTC</tag>
       </tags>
   </entry>
@@ -10271,8 +10285,8 @@
         <category>2022-09</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
         <tag>madness</tag>
+        <tag>scientific misconduct</tag>
         <tag>biology</tag>
         <tag>USTC</tag>
       </tags>
@@ -10310,22 +10324,6 @@
       </categories>
       <tags>
         <tag>biology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
       </tags>
   </entry>
   <entry>
@@ -10392,6 +10390,22 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>

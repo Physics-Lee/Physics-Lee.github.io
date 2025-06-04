@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-05-30T07:28:52.763Z</updated>
+  <updated>2025-06-04T00:57:16.379Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>泛舟</title>
+    <link href="https://physics-lee.github.io/2025/06/02/On_the_Boat/"/>
+    <id>https://physics-lee.github.io/2025/06/02/On_the_Boat/</id>
+    <published>2025-06-01T16:00:00.000Z</published>
+    <updated>2025-06-04T00:57:16.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;惊夜鹭而群飞，访枯树以寻古。&lt;/p&gt;
+&lt;p&gt;叹人生之短暂，欲留名于史书。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
+    
+    
+    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+  </entry>
   
   <entry>
     <title>爱你，科大</title>
@@ -220,7 +249,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#x31;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#97;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x31;&amp;#x31;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#97;&amp;#64;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#x61;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#55;&amp;#51;&amp;#52;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#x61;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#x40;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#117;&amp;#x61;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#x40;&amp;#103;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -1163,9 +1192,9 @@
     
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -6270,39 +6299,6 @@
   </entry>
   
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-12-21T15:15:13.049Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太傻逼了。&lt;/p&gt;
-&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
-    
-    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
-    
-  </entry>
-  
-  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/"/>
     <id>https://physics-lee.github.io/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</id>
@@ -6332,6 +6328,39 @@
     <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
     
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-12-21T15:15:13.049Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;太傻逼了。&lt;/p&gt;
+&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
+    
+    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
     
   </entry>
   
@@ -8170,9 +8199,9 @@
     <category term="2022-10" scheme="https://physics-lee.github.io/categories/2022/2022-10/"/>
     
     
-    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -8698,9 +8727,9 @@
     <category term="2022-09" scheme="https://physics-lee.github.io/categories/2022/2022-09/"/>
     
     
-    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
@@ -8740,17 +8769,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是学术造假</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:16:00.174Z</updated>
+    <updated>2023-11-01T07:15:51.479Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
-&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
-&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
-&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
     
     
     
@@ -8764,17 +8793,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是学术造假</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:15:51.479Z</updated>
+    <updated>2023-11-01T07:16:00.174Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
+&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
+&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
+&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
     
     
     
