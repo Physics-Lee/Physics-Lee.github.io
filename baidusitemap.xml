@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/</loc>
+    <lastmod>2025-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/06/06/Listen_to_Bengio_and_Sutton/</loc>
+    <lastmod>2025-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</loc>
+    <lastmod>2025-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/</loc>
+    <lastmod>2025-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/06/05/TTS_Extensions_Comparing/</loc>
+    <lastmod>2025-06-05</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/03/08/Yan_Tai/</loc>
+    <lastmod>2025-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2021/10/01/Academician/</loc>
+    <lastmod>2025-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
+    <lastmod>2025-06-04</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2025/06/02/On_the_Boat/</loc>
     <lastmod>2025-06-04</lastmod>
   </url>
@@ -14,14 +46,6 @@
   </url>
   <url>
     <loc>https://physics-lee.github.io/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/</loc>
-    <lastmod>2025-05-29</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/</loc>
-    <lastmod>2025-05-29</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</loc>
     <lastmod>2025-05-29</lastmod>
   </url>
   <url>
@@ -119,10 +143,6 @@
   <url>
     <loc>https://physics-lee.github.io/2025/03/04/Why_Does_Not_Scaling_Law_Lead_To_Overfit/</loc>
     <lastmod>2025-03-04</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
-    <lastmod>2025-03-03</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</loc>
@@ -1166,10 +1186,6 @@
   </url>
   <url>
     <loc>https://physics-lee.github.io/2022/07/20/Essays_on_Script_Killings/</loc>
-    <lastmod>2023-11-01</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2021/10/01/Academician/</loc>
     <lastmod>2023-11-01</lastmod>
   </url>
   <url>

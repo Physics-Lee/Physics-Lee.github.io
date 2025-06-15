@@ -1,6 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>OneNote vs Obsidian</title>
+    <url>/2025/06/08/OneNote_vs_Obsidian/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th></th>
+<th>OneNote</th>
+<th>Obsidian</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>价格</td>
+<td>免费</td>
+<td>部分功能需付费</td>
+</tr>
+<tr>
+<td>开源？</td>
+<td>闭源</td>
+<td>闭源</td>
+</tr>
+<tr>
+<td>插件</td>
+<td>少</td>
+<td>多</td>
+</tr>
+<tr>
+<td>插入图片</td>
+<td>面向对象</td>
+<td>面向过程</td>
+</tr>
+<tr>
+<td>数学公式</td>
+<td>输入繁琐</td>
+<td>输入简单</td>
+</tr>
+</tbody></table>
+<p>我最后的选择依然是OneNote。它更面向对象，维护起来更加方便。至于数学公式，我用别的笔记软件（Markdown, Latex, GoodNote) 代替此功能。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-06</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>听Bengio和Sutton的两席话</title>
+    <url>/2025/06/06/Listen_to_Bengio_and_Sutton/</url>
+    <content><![CDATA[<p>今天在<a href="https://2025.baai.ac.cn/">2025年智源大会</a>上听了Bengio和Sutton的讲座。虽然是线上，但是两位老哥都非常有热情，明显是认真准备了。Bengio先，Sutton后。</p>
+<h1 id="Bengio"><a href="#Bengio" class="headerlink" title="Bengio"></a>Bengio</h1><p>Bengio的讲座和<a href="https://www.youtube.com/watch?v=qe9QSCF-d88">他两周前的TED讲座</a>主旨类似，但细节更加丰富。</p>
+<p>2023年，Hinton表示：<a href="https://www.bilibili.com/video/BV1yo4y1J7mK/?spm_id_from=333.1391.0.0&vd_source=7f7311e573a7f2a9bab48f7645a4e660">我从未听说过高级智能会被低级智能控制住</a>。</p>
+<p>Bengio表示：吾有一计。真正危险的是Agentic AI，而Chat AI的威胁并不大。那么，我们可以用Chat AI监督Agentic AI。言下之意——他大概是觉得光靠人类自己是限制不了Agentic AI了。</p>
+<p>他对Agentic AI的定义是：能连续几小时、几天执行任务的AI。而Chat AI则是问答式。在过去的几年里，AI执行任务之时长指数增长，见下图。这正是他所担心的。</p>
+<img src="/2025/06/06/Listen_to_Bengio_and_Sutton/image-20250606221310027.png" class="">
+
+<p>Bengio非常动情。他说：“2023年，我的孙子刚刚一岁。一想到他二十年后的生活，我就寝食难安。所以，我放弃了其他所有研究方向，只做AI安全。我无法忍受，我别无选择。”</p>
+<h1 id="Sutton"><a href="#Sutton" class="headerlink" title="Sutton"></a>Sutton</h1><p>Sutton的讲座就更有意思了，他先讲了<a href="https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf">五分钟强化学习</a>，随后花了半小时讲自己的政治理念。（略有夸张）</p>
+<p>Sutton表示：我们不用担心，即使有的Agentic AI想毁灭人类也无所谓。</p>
+<p>啊？</p>
+<p>Sutton继续说：“我的政治理念是去中心化，民主而非独裁。我相信人类有不同的价值观（而非相同的）才能让人类整体变得更好。同样，我也认为Agentic AI有不同的价值观才能让人类社会和AI社会都变得更好。”</p>
+<p>他也听了Bengio的讲座。对于Bengio的看法，他指出：“像Bengio这样的做法是想让全部的Agentic AI拥有相同的价值观（不得伤害人类），基于上一段的观点，我反而觉得这样是对人类整体有害的。”</p>
+<img src="/2025/06/06/Listen_to_Bengio_and_Sutton/image-20250606223536511.png" class="">
+
+
+
+<h1 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h1><p>我更支持Bengio观点。这是我能想到的破解Hinton之问（“我从未听说过高级智能会被低级智能控制住”）的唯一方法。</p>
+<p>对于Sutton，我觉得他的政治观点是极端去中心化的，类似于无政府主义者。但是，无政府主义有个大问题——<strong>小生产效率不如大生产</strong>。大生产恰恰是需要每个个体服从管理、有相同价值观的。因此极端去中心化似乎并不是社会形式的最优解。这样的社会是会被生产能力更强的其他社会形式取代的。</p>
+<h1 id="Joke"><a href="#Joke" class="headerlink" title="Joke"></a>Joke</h1><p>讲座结束后，我去找恒聊天。他上午没有来。我把Bengio和Sutton的意思转告给他后，他愤怒地表示——他之前让Agent接管电脑，希望删除一个GitHub仓库中部分push和pull的历史，结果Agent把他的仓库搞坏了！！！</p>
+<p>于是乎，他语重心长地对我说：Agentic AI还真是危险啊！</p>
+<p>我心里却在犯嘀咕：Agent究竟是能力不足呢，还是故意弄坏的呢？</p>
+<h1 id="附录：囚徒困境"><a href="#附录：囚徒困境" class="headerlink" title="附录：囚徒困境"></a>附录：囚徒困境</h1><p>Bengio还表示：”我希望大家能放下野心，转而关注我们爱的人。但我心里清楚，大公司之间已经陷入了囚徒困境。他们为了短期利益，不得不开发不安全的AI。“</p>
+<p>我帮Bengio花了一个简单的囚徒困境表：</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Develop Unsafe AI</th>
+<th>Not Develop Unsafe AI</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Develop Unsafe AI</td>
+<td>5,5</td>
+<td>10,-10</td>
+</tr>
+<tr>
+<td>Not Develop Unsafe AI</td>
+<td>-10,10</td>
+<td>1,1</td>
+</tr>
+</tbody></table>
+<p>Develop Unsafe AI 包括</p>
+<ol>
+<li>AI能力先于AI安全（<a href="https://www.qbitai.com/2024/09/197019.html">OpenAI为赶在谷歌开发者大会前发布GPT-4o，只给安全团队留了9天做检测</a>）。</li>
+<li>研发Agentic AI。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-06</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Text-To-Speech 插件测评</title>
+    <url>/2025/06/05/TTS_Extensions_Comparing/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th></th>
+<th>Read Aloud</th>
+<th>Sider</th>
+<th>Speechify</th>
+<th>Read Aloud TTS</th>
+<th>Read to Me</th>
+<th>Natural Reader</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>价格</td>
+<td>Free</td>
+<td>$10&#x2F;Month</td>
+<td>$29&#x2F;Month</td>
+<td>Free</td>
+<td>Free</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>PDF</td>
+<td><strong>直接朗读</strong></td>
+<td>不能朗读</td>
+<td>处理后朗读</td>
+<td>不能朗读</td>
+<td>不能朗读</td>
+<td>不能朗读</td>
+</tr>
+<tr>
+<td>语音自然程度</td>
+<td>中（高需要每次点击认证）</td>
+<td>高</td>
+<td>高</td>
+<td>不知（出错率高）</td>
+<td>不知（出错率高）</td>
+<td>不知（出错率高）</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-06</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>泛舟</title>
     <url>/2025/06/02/On_the_Boat/</url>
     <content><![CDATA[<p>惊夜鹭而群飞，访枯树以寻古。</p>
@@ -60,7 +221,7 @@
     <title>用API构建自己的Sider或者Monica</title>
     <url>/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</url>
     <content><![CDATA[<p>太爽了</p>
-<img class="-20250529144509791.png">]]></content>
+]]></content>
       <categories>
         <category>2025</category>
         <category>2025-05</category>
@@ -98,7 +259,7 @@
     <url>/2025/05/29/Sider_vs_Monica/</url>
     <content><![CDATA[<p>I purchased Sider and Monica for 1 month.</p>
 <p>Let me see which one is better.</p>
-<img class="-20250529162957397.png">
+<img src="/2025/05/29/Sider_vs_Monica/image-20250529162957397.png" class="">
 
 <hr>
 <p>For the first glance:</p>
@@ -249,7 +410,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#57;&#55;&#51;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;">&#49;&#x31;&#x30;&#57;&#55;&#51;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#117;&#x61;&#x6e;&#x2e;&#108;&#x69;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x62;&#x72;&#x75;&#99;&#101;&#x2e;&#x79;&#x69;&#x78;&#117;&#x61;&#x6e;&#x2e;&#108;&#x69;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#48;&#57;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#48;&#57;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#114;&#x75;&#99;&#101;&#x2e;&#x79;&#105;&#x78;&#117;&#x61;&#x6e;&#46;&#108;&#x69;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">&#98;&#114;&#x75;&#99;&#101;&#x2e;&#x79;&#105;&#x78;&#117;&#x61;&#x6e;&#46;&#108;&#x69;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -642,6 +803,20 @@
       </tags>
   </entry>
   <entry>
+    <title>烟台</title>
+    <url>/2025/03/08/Yan_Tai/</url>
+    <content><![CDATA[<p>飒飒银翼起，迢迢赴烟台。</p>
+<p>坎坷非失意，沧桑亦快哉。</p>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-03</category>
+      </categories>
+      <tags>
+        <tag>poems</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Scaling Law 为何没有导致过拟合？</title>
     <url>/2025/03/04/Why_Does_Not_Scaling_Law_Lead_To_Overfit/</url>
     <content><![CDATA[<p>昨天给学生上课，讲到这张图：</p>
@@ -703,7 +878,7 @@
     <content><![CDATA[<p>随感：</p>
 <p>刚才看了看<a href="https://www.bilibili.com/video/BV1E5411w7WH/?spm_id_from=333.1387.upload.video_card.click">八王之乱</a>和<a href="https://www.bilibili.com/video/BV1FN4y1H7YD/?spm_id_from=333.1387.search.video_card.click">隋末唐初</a>历史视频，感觉晋惠帝司马衷和隋炀帝杨广真是神似。一个聪明到极致，一个傻到极致。之前也写过，但没写得很露骨。 </p>
 <p>我一路走来，没见过司马衷，杨广 倒是见过不少。只不过杨广擅长文学，他们擅长数学，仅此而已。 </p>
-<p>杨广当年有句名言：“天下的人还是太多了。”在广哥眼里，人不是人，和猪羊差不多，死了一批还会再有一批，所以他修新都城、修大运河、三征高句丽，死了再多人他都不心疼。另外，在广哥眼里，天下都是他的，他给天下人发工资，天下人自然都应该为他而死。 </p>
+<p>杨广当年有句名言：“天下的人还是太多了。”在广哥眼里，人不是人，和猪羊差不多，死了一批还会再有一批，所以他修新都城、修大运河、三年三征高句丽，死了再多人他都不心疼。另外，在广哥眼里，天下都是他的，他给天下人发工资，天下人自然都应该为他而死。 </p>
 <p>我看现在的科学家，有不少也和杨广一样，并不把人当人看，而当成工具或者耗材，不管是对自己的学生还是对社会上其他人。只不过现在是文明社会，不能像杨广一样动不动害死百万人。 </p>
 <p>刘备死前对刘禅说：“惟贤惟德，能服于人。” </p>
 <p>小时候不懂，也没怎么震撼。现在经历世事洗礼，方知仁义之不易。一个人只有做利于底层人民的事，才能被称为英雄。老板就对员工好点，教授就对学生好点，官员就对农民工人好点，仅此而已。此为首推，否则，一个人就算再聪明，诗文写得再漂亮，数学物理学得再好，恐怕只是为祸更多。正像聪明的杨广，古今中外，能把一个蒸蒸日上的国家带到灭亡的，仅他一人。 </p>
@@ -7319,6 +7494,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁 vs 李政道</title>
     <url>/2023/07/08/CN-Yang_vs_TD-Lee/</url>
     <content><![CDATA[<h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table>
@@ -7389,22 +7580,6 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -10327,6 +10502,22 @@
       </tags>
   </entry>
   <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -10390,22 +10581,6 @@
 </ul>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
@@ -12552,7 +12727,8 @@
         <category>2021-10</category>
       </categories>
       <tags>
-        <tag>scientific misconduct</tag>
+        <tag>scientific</tag>
+        <tag>misconduct</tag>
       </tags>
   </entry>
   <entry>
