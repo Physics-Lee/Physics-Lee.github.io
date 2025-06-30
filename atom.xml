@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-06-28T10:20:31.457Z</updated>
+  <updated>2025-06-30T03:35:45.560Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的缺点</title>
+    <link href="https://physics-lee.github.io/2025/06/29/My_Drawbacks/"/>
+    <id>https://physics-lee.github.io/2025/06/29/My_Drawbacks/</id>
+    <published>2025-06-28T16:00:00.000Z</published>
+    <updated>2025-06-30T03:35:45.560Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;上午聊天，聊到我的优点和缺点。其实我还是有蛮多缺点的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;冲动：现在的我已经比本科冷静很多，但偶尔依旧急躁。比如和表妹自习时。&lt;/li&gt;
+&lt;li&gt;处事不够成熟：虽然已进步很多，但我依然觉得我称不上擅长处理人际关系，特别是和上级的关系。这点是我非常想要改变的。&lt;/li&gt;
+&lt;li&gt;与社会脱节、喜宏大叙事：我太热衷宏大叙事、太依赖互联网、在象牙塔里待太久、对社会太不了解。这点亦是我非常想要改变的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上都是从小到大都有的缺点，以下是以前没有、读硕士这三年才有的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;焦虑：23年初起，我开始掉头发。24年初至今，心脏时不时地揪。我经常思考未来要干什么，却没有享受当前的生活，也没有利用空闲时间水滴石穿。今年五月我依旧有些焦虑。&lt;/li&gt;
+&lt;li&gt;刻薄：或多或少受某人影响，我对于”愚蠢”的问题和“反应慢”的学生非常刻薄。这当然是不对的，因为没有任何一个问题是愚蠢的。它可能看上去愚蠢，但是背后可能有深刻的内涵。学生或许看上去反应慢，但是他们可能想到了我没有想到的东西。本来，24年秋当助教时候，我已经变得非常不刻薄了，但25春给表妹辅导时，还是挺刻薄的。所以这个缺点可能还要伴随我一会儿。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主要就是这些，剩下的，偶尔熬夜、偶尔拖延、偶尔吹牛，等等，皆为次要。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
+    
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过去三年内人类最重要的两天</title>
+    <link href="https://physics-lee.github.io/2025/06/29/Two_Dates/"/>
+    <id>https://physics-lee.github.io/2025/06/29/Two_Dates/</id>
+    <published>2025-06-28T16:00:00.000Z</published>
+    <updated>2025-06-30T03:47:24.502Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第一个日期是2022年11月30日（北京时间），OpenAI放出ChatGPT-3.5。&lt;/p&gt;
+&lt;p&gt;第二个日期是&lt;a href=&quot;https://physics-lee.github.io/2024/09/13/Meet_o1/&quot;&gt;2024年09月13日（北京时间），OpenAI放出ChatGPT-o1&lt;/a&gt;。&lt;/p&gt;
+&lt;h1 id=&quot;24年6月和25年6月的对比&quot;&gt;&lt;a href=&quot;#24年6月和25年6月的对比&quot; class=&quot;headerlink&quot; title=&quot;24年6月和25年6月的对比&quot;&gt;&lt;/a&gt;24年6月和25年6月的对比&lt;/h1&gt;&lt;p&gt;中国高考：&lt;a href=&quot;https://mp.weixin.qq.com/s/xlE4krBPTIL2VMNraDPdBQ&quot;&gt;2024年6月最高者勉强及格&lt;/a&gt;、&lt;a href=&quot;https://mp.weixin.qq.com/s/E1D_QA5lXwXRc6aSaU_zog&quot;&gt;2025年6月最高接近满分&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;AIME数据集也类似。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
+    
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+  </entry>
   
   <entry>
     <title>为什么我选择物理学</title>
@@ -384,7 +442,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#x31;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#x31;&amp;#x31;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#52;&amp;#x61;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#114;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x31;&amp;#49;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#105;&amp;#x78;&amp;#117;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#105;&amp;#x78;&amp;#117;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -1727,9 +1785,9 @@
     <category term="2024-12" scheme="https://physics-lee.github.io/categories/2024/2024-12/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -1966,15 +2024,14 @@
     <link href="https://physics-lee.github.io/2024/11/09/Weng-Li_Leaves_OpenAI/"/>
     <id>https://physics-lee.github.io/2024/11/09/Weng-Li_Leaves_OpenAI/</id>
     <published>2024-11-08T16:00:00.000Z</published>
-    <updated>2025-02-08T08:08:05.000Z</updated>
+    <updated>2025-06-29T08:32:51.152Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;Weng-Li_Leaves_OpenAI/image-20250208160442578.png&quot; alt=&quot;image-20250208160442578&quot; style=&quot;zoom:50%;&quot;&gt;
-
-&lt;p&gt;原来她叫翁荔呀，真是个不错的名字啊！ &lt;/p&gt;
+    <summary type="html">&lt;p&gt;原来她叫翁荔呀，真是个不错的名字啊！ &lt;/p&gt;
 &lt;p&gt;她也就比我大个十岁左右吧，但她的博客在世界范围内似乎也没有敌手了。 &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV19dSHYUEAo/&quot;&gt;她参加b站活动&lt;/a&gt;还是有点紧张，但是她说的都是对的。 &lt;/p&gt;
-&lt;p&gt;以她的才华，何愁下家？&lt;/p&gt;</summary>
+&lt;p&gt;以她的才华，何愁下家？&lt;/p&gt;
+&lt;p&gt;她会去Ilya的公司吗？&lt;/p&gt;</summary>
     
     
     
@@ -6496,39 +6553,6 @@
   </entry>
   
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-12-21T15:15:13.000Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太傻逼了。&lt;/p&gt;
-&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
-    
-    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
-    
-  </entry>
-  
-  <entry>
     <title>杨振宁 vs 李政道</title>
     <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/"/>
     <id>https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/</id>
@@ -6558,6 +6582,39 @@
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-12-21T15:15:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;太傻逼了。&lt;/p&gt;
+&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
+    
+    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
     
   </entry>
   
@@ -8363,9 +8420,9 @@
     <category term="2022-10" scheme="https://physics-lee.github.io/categories/2022/2022-10/"/>
     
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -8891,9 +8948,9 @@
     <category term="2022-09" scheme="https://physics-lee.github.io/categories/2022/2022-09/"/>
     
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
