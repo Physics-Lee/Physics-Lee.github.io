@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/07/02/Travel_to_Anqing/</loc>
+    
+    <lastmod>2025-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2025/06/29/Two_Dates/</loc>
     
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/07/10/Grok_4/</loc>
+    
+    <lastmod>2025-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/about/index.html</loc>
+    
+    <lastmod>2025-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -498,15 +525,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/09/27/GPT-o1_Will_Lower_the_Math_Barrier/</loc>
-    
-    <lastmod>2025-02-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/about/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -3676,7 +3694,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

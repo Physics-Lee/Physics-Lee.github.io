@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-06-30T03:35:45.560Z</updated>
+  <updated>2025-07-29T06:38:52.134Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://physics-lee.github.io/2025/07/10/Grok_4/"/>
+    <id>https://physics-lee.github.io/2025/07/10/Grok_4/</id>
+    <published>2025-07-10T09:03:32.149Z</published>
+    <updated>2025-07-29T06:38:52.134Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;自&lt;a href=&quot;https://mp.weixin.qq.com/s/F5K7D1HjBvq5q4Kvme18Aw&quot;&gt;24年9月13日OpenAI的o1发布&lt;/a&gt;、展示出惊人的数理能力后，&lt;a href=&quot;https://mp.weixin.qq.com/s/oOgZGwnFpxZXgUq_XP8fVQ&quot;&gt;DS的R1是第一个赶上的（25年1月）&lt;/a&gt;，随后是&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/bad2aKVaMl1nlXCDlVU0yg&quot;&gt;xAI的Grok 3（25年2月）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/unlZoM5oCH3HCw2kxy6X_w&quot;&gt;Google的Gemini 2.5 Pro（25年3月）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/Kqk36zfBrZvu6IpCp2lBbw&quot;&gt;Meta的LLAMA 4（25年4月）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/GU-1nc9eSz1EU9lIbaB_4g&quot;&gt;Claude的Claude 4 Opus（25年5月）&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;R1面世时世界只有惊艳。后四者中，羊驼不及预期，Grok差强人意，剩下两个都非常强悍，特别是Gemini 2.5 Pro，似乎已经重新让谷歌回到了它失去了三年的AI王座。&lt;/p&gt;
+&lt;p&gt;今天，仅仅过了5个月，xAI又发布了Grok 4，迭代速度真是惊人。&lt;/p&gt;
+&lt;p&gt;御六家：&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://physics-lee.github.io/2025/07/02/Travel_to_Anqing/"/>
+    <id>https://physics-lee.github.io/2025/07/02/Travel_to_Anqing/</id>
+    <published>2025-07-02T03:50:28.506Z</published>
+    <updated>2025-07-29T06:39:55.456Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;《安庆游记》&lt;/p&gt;
+&lt;p&gt;六点起床，星座早餐，匆匆赶往安庆。&lt;/p&gt;
+&lt;p&gt;到站打车，路途行餐，大龙山攀岩壁。&lt;/p&gt;
+&lt;p&gt;安徽省安庆市是一个四百万人口的城市，是我的家乡吉林省松原市的两倍。&lt;/p&gt;
+&lt;p&gt;在岩壁上，我突然，有一种再也不想户外之感。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的缺点</title>
@@ -53,7 +96,7 @@
     <link href="https://physics-lee.github.io/2025/06/29/Two_Dates/"/>
     <id>https://physics-lee.github.io/2025/06/29/Two_Dates/</id>
     <published>2025-06-28T16:00:00.000Z</published>
-    <updated>2025-06-30T03:47:24.502Z</updated>
+    <updated>2025-07-29T06:39:25.945Z</updated>
     
     
     <summary type="html">&lt;p&gt;第一个日期是2022年11月30日（北京时间），OpenAI放出ChatGPT-3.5。&lt;/p&gt;
@@ -442,7 +485,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x31;&amp;#49;&amp;#48;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#105;&amp;#x78;&amp;#117;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#105;&amp;#x78;&amp;#117;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#x30;&amp;#x39;&amp;#x37;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#49;&amp;#49;&amp;#x30;&amp;#x39;&amp;#x37;&amp;#51;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#x2e;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#114;&amp;#x75;&amp;#x63;&amp;#x65;&amp;#x2e;&amp;#121;&amp;#x69;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -1785,9 +1828,9 @@
     <category term="2024-12" scheme="https://physics-lee.github.io/categories/2024/2024-12/"/>
     
     
-    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
   </entry>
   
@@ -6553,18 +6596,20 @@
   </entry>
   
   <entry>
-    <title>杨振宁 vs 李政道</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/</id>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/</id>
     <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-11-01T07:14:27.000Z</updated>
+    <updated>2023-11-15T09:34:36.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;表格&quot;&gt;&lt;a href=&quot;#表格&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。&lt;/p&gt;
+&lt;p&gt;记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。&lt;/p&gt;
+&lt;p&gt;但是</summary>
         
       
     
@@ -6575,13 +6620,7 @@
     <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
     
     
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-    <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -6619,20 +6658,18 @@
   </entry>
   
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/</id>
+    <title>杨振宁 vs 李政道</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_vs_TD-Lee/</id>
     <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-11-15T09:34:36.000Z</updated>
+    <updated>2023-11-01T07:14:27.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。&lt;/p&gt;
-&lt;p&gt;记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。&lt;/p&gt;
-&lt;p&gt;但是</summary>
+    <summary type="html">&lt;h1 id=&quot;表格&quot;&gt;&lt;a href=&quot;#表格&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -6643,7 +6680,13 @@
     <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+    <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
   </entry>
   
@@ -8420,9 +8463,9 @@
     <category term="2022-10" scheme="https://physics-lee.github.io/categories/2022/2022-10/"/>
     
     
-    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -8948,9 +8991,9 @@
     <category term="2022-09" scheme="https://physics-lee.github.io/categories/2022/2022-09/"/>
     
     
-    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
