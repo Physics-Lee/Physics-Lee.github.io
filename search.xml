@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>Grok 4</title>
     <url>/2025/07/10/Grok_4/</url>
     <content><![CDATA[<p>自<a href="https://mp.weixin.qq.com/s/F5K7D1HjBvq5q4Kvme18Aw">24年9月13日OpenAI的o1发布</a>、展示出惊人的数理能力后，<a href="https://mp.weixin.qq.com/s/oOgZGwnFpxZXgUq_XP8fVQ">DS的R1是第一个赶上的（25年1月）</a>，随后是</p>
 <ol>
@@ -14,34 +14,13 @@
 <p>今天，仅仅过了5个月，xAI又发布了Grok 4，迭代速度真是惊人。</p>
 <p>御六家：</p>
 <img src="/2025/07/10/Grok_4/image-20250714163117141.png" class="">]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2025/07/02/Travel_to_Anqing/</url>
-    <content><![CDATA[<p>《安庆游记》</p>
-<p>六点起床，星座早餐，匆匆赶往安庆。</p>
-<p>到站打车，路途行餐，大龙山攀岩壁。</p>
-<p>安徽省安庆市是一个四百万人口的城市，是我的家乡吉林省松原市的两倍。</p>
-<p>在岩壁上，我突然，有一种再也不想户外之感。</p>
-<p>我想到八岁时，爬上假山，却不敢跳下来，最后一个路过的好心阿姨把我抱了下来。</p>
-<p>我想到我的膝盖、心脏、胃，似乎更适合跑步，而不是如此激烈的户外运动。</p>
-<p>我想到，我更在乎的是和山水旁边的人交流，听听他们的生活、需求、苦难、快乐，而非山水。</p>
-<p>我想到，我更在乎的是见世面，既要向上，也要向下。我更愿意在上海看看向上和向下的生活。</p>
-<p>未来，当有朋友约我去爬山，我可能会去。但我一定不会主动去了。</p>
-<p>我弄坏了我最喜欢的跑步裤，专为马拉松涉及的。至此，大二和大三买的迪卡侬跑步装都或坏、或丟、或退役。</p>
-<p>我弄坏了母亲送给我的RS。攀岩时，为了拉同伴，我听到了清脆的玻璃碎裂声。从今天开始，我运动时候一定带包，并且把手机放包里。</p>
-<p>我最爱的护目镜上也多了几道划痕。</p>
-<hr>
-<p>下山后，打滴去宾馆。</p>
-<p>司机很健谈，看出来我们是大学生，便说：玩的时候就好好玩，学的时候就好好学。千万别学的时候想着爬山，爬山的时候想着学。</p>
-<p>我和林林都深以为然，因为我们本来打算今天带着电脑过来。</p>
-<p>晚上去了长江边的步行街，吃了点馄饨。韩懿林和冬月点了炒面。我们和买面老板相谈甚欢。我们又买了酒酿和酸奶。</p>
-<p>酒足饭饱，我们沿着长江散步。每次看到长江，我都被它的雄伟所震撼。大船与大江齐鸣，黑水共黑夜一色。</p>
-<hr>
-<p>第二天上午九点，我们出发去安庆博物馆。此馆藏品丰富，不逊合肥、黄山、烟台之馆。</p>
-<p>我又看到了商周时期精美的玉环、大鼎、陶器。真是能工巧匠。我永远不可能做出这些。</p>
-<p>就像我之前写的，单论工程，北非、中东、印度、东亚、美洲甚至复活节岛，都不逊于欧洲。数学起源于希腊，物理起源于西欧，在我眼里只是巧合。</p>
-]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-07</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的缺点</title>
@@ -521,7 +500,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#49;&#x30;&#x39;&#x37;&#51;&#52;&#x38;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#x6d;">&#49;&#49;&#x30;&#x39;&#x37;&#51;&#52;&#x38;&#52;&#x34;&#97;&#64;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#x6d;</a>和<a href="mailto:&#x62;&#114;&#x75;&#x63;&#x65;&#x2e;&#121;&#x69;&#120;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x62;&#114;&#x75;&#x63;&#x65;&#x2e;&#121;&#x69;&#120;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#48;&#x39;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#97;&#x40;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x31;&#x31;&#48;&#x39;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#97;&#x40;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#114;&#x75;&#99;&#101;&#46;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#108;&#105;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#109;">&#98;&#114;&#x75;&#99;&#101;&#46;&#x79;&#x69;&#x78;&#x75;&#x61;&#x6e;&#x2e;&#108;&#105;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -7549,6 +7528,48 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁、邓稼先、寒春 (Joan Hinton)</title>
     <url>/2023/07/08/CN-Yang_JX-Deng_Joan-Hinton/</url>
     <content><![CDATA[<p>寒春 (Joan Hinton)是土生土长的美国人、物理学家，曾在曼哈顿计划中给费米当过助手。1948年，她因为对共产主义感兴趣而和丈夫一起来到中国，之后她和丈夫非常喜爱中国的制度，于是一直留在了这里。</p>
@@ -7574,48 +7595,6 @@
         <tag>physics</tag>
         <tag>history</tag>
         <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -7755,22 +7734,6 @@
       </tags>
   </entry>
   <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/The_Southern_City/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>The Southern Town</title>
     <url>/2023/06/22/The_Southern_Town/</url>
     <content><![CDATA[<p>Silently I wander to the southern town, remembering the past so profound.</p>
@@ -7797,6 +7760,22 @@
       <tags>
         <tag>poem</tag>
         <tag>translation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/The_Southern_City/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -9369,49 +9348,6 @@
       </tags>
   </entry>
   <entry>
-    <title>星星意味着什么？</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
-    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
-<p>审稿：天阳</p>
-<hr>
-<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
-<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
-<p>不过，这也太扯淡了。</p>
-<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
-<p>这个*，可能是对偶的意思。</p>
-<p>所有的男生构成一个向量空间，</p>
-<p>所有的女生构成一个向量空间，</p>
-<p>这两个空间互为对偶空间。</p>
-<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
-<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
-<p>这两个元素互为对偶元素。</p>
-<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
-<p>是不是很浪漫。</p>
-<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
-<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
-<p>行向量也叫co-vector。</p>
-<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
-<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
-<p>不过，同一个星号，</p>
-<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
-<p>如果你翻译成对偶，浪漫至极。</p>
-<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Does the Asterisk Mean?</title>
     <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
     <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
@@ -9439,6 +9375,49 @@
 <p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
 <p>If you translate it into duality, then you are such a breathless romanticer.</p>
 <p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>romance</tag>
+        <tag>physics</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星星意味着什么？</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
+    <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
+<p>审稿：天阳</p>
+<hr>
+<p>科大本科有一个奇怪的传统——所有的点名册上，女生的名字后面都要加一个星号，即*。</p>
+<p>曾经有人告诉我，这个*是共轭转置的意思。</p>
+<p>不过，这也太扯淡了。</p>
+<p>今天中午起床时，我突然想到了一个浪漫的解释。</p>
+<p>这个*，可能是对偶的意思。</p>
+<p>所有的男生构成一个向量空间，</p>
+<p>所有的女生构成一个向量空间，</p>
+<p>这两个空间互为对偶空间。</p>
+<p>第一个向量空间中的每一个元素在第二个向量空间中都有一个元素与之对应，</p>
+<p>第二个向量空间中的每一个元素在第一个向量空间中都有一个元素与之对应，</p>
+<p>这两个元素互为对偶元素。</p>
+<p>而且这种对偶关系与生俱来（命中注定），且永远存在（白头偕老），且永远不会改变（从一而终）。</p>
+<p>是不是很浪漫。</p>
+<p>站在物理学家的视角看，你可以把第一个向量空间理解成列向量构成的空间，第二个向量空间理解成行向量构成的空间。</p>
+<p>用张量的语言说，列向量是(1,0) tensor，行向量是(0,1) tensor。</p>
+<p>行向量也叫co-vector。</p>
+<p>若想了解对偶空间相关的更多细节，请参考维基百科、知乎等</p>
+<p>好吧，其实共轭转置和对偶描述的是同一个东西。</p>
+<p>不过，同一个星号，</p>
+<p>如果你翻译成共轭转置或者厄米，愚不可及。</p>
+<p>如果你翻译成对偶，浪漫至极。</p>
+<p>最浪漫的是，这两个对偶元素结合在一起，会把对方映射到$R$。</p>
 <p>It just like, they have a baby!</p>
 ]]></content>
       <categories>
