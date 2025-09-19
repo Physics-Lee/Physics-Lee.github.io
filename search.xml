@@ -1,6 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>GPT 5 | 数学 幻觉</title>
+    <url>/2025/08/08/GPT-5_Math_Hallucination/</url>
+    <content><![CDATA[<p>北京时间2025年8月8日凌晨1点，加州时间2025年8月7日上午10点，GPT-5终于发布了。</p>
+<p>我关注了两点——数学和幻觉。</p>
+<h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><h2 id="GPT-5"><a href="#GPT-5" class="headerlink" title="GPT-5"></a>GPT-5</h2><p><a href="https://mp.weixin.qq.com/s/FuJVqWOQcTIEhHeI3I8xuw">之前的流言</a>说：非推理版的 GPT-5 在AIME 2025（美国IMO国家队选拔赛试题）上拿下100分。但这是假的。</p>
+<p>事实上，在不使用工具的情况下，非推理版拿到了61.9分，推理版拿下了94.6分。</p>
+<img src="/2025/08/08/GPT-5_Math_Hallucination/image-20250808094216268.png" class="">
+
+<img src="GPT-5_Math_Hallucination/image-20250808094216268.png" alt="image-20250808094216268" style="zoom:50%;" />
+
+<center> 图片来自<a href = "https://openai.com/index/introducing-gpt-5/">GPT-5博客</a> </center>
+
+<h2 id="前代模型"><a href="#前代模型" class="headerlink" title="前代模型"></a>前代模型</h2><p>前代模型中，在AIME 2024上，在不使用工具的情况下，GPT-4o不足20分，o1-preview 60分，o1 80分，o3 90分。</p>
+<img src="/2025/08/08/GPT-5_Math_Hallucination/image-20250808094423280.png" class="">
+
+<img src="GPT-5_Math_Hallucination/image-20250808094423280.png" alt="image-20250808094423280" style="zoom:67%;" />
+
+<center> 图片来自<a href="https://openai.com/o1/">GPT-o1博客</a> </center>
+
+<img src="/2025/08/08/GPT-5_Math_Hallucination/image-20250808094437876.png" class="">
+
+<img src="GPT-5_Math_Hallucination/image-20250808094437876.png" alt="image-20250808094437876" style="zoom:67%;" />
+
+<center> 图片来自 <a href = "https://openai.com/index/introducing-o3-and-o4-mini/">GPT-o3博客 </a> </center>
+
+<h2 id="思索"><a href="#思索" class="headerlink" title="思索"></a>思索</h2><ol>
+<li>为什么非推理模型能进步到60分呢？<ol>
+<li>我的猜测是——采用了类似蒸馏的方法，用推理模型给出的概率分布教学非推理模型。</li>
+</ol>
+</li>
+<li>Kimi-k2和DeepSeek-V3的AIME表现如何？</li>
+</ol>
+<img src="/2025/08/08/GPT-5_Math_Hallucination/image-20250808110159383.png" class="">
+
+<p><img src="/GPT-5_Math_Hallucination/image-20250808110159383.png" alt="image-20250808110159383"></p>
+<center> 图片来自 <a href = "https://openai.com/index/introducing-o3-and-o4-mini/"> Kimi-k2博客 </a> </center>
+
+<h1 id="幻觉"><a href="#幻觉" class="headerlink" title="幻觉"></a>幻觉</h1><h2 id="GPT-5-1"><a href="#GPT-5-1" class="headerlink" title="GPT-5"></a>GPT-5</h2><p>GPT-5的幻觉低于o3，很好。</p>
+<img src="image-20250808095929910.png" width = 50%/>
+
+<img src="GPT-5_Math_Hallucination/image-20250808095929910.png" alt="image-20250808095929910" style="zoom: 33%;" />
+
+<center> 图片来自<a href = "https://openai.com/index/introducing-gpt-5/">GPT-5博客</a> </center>
+
+<h2 id="前代模型-1"><a href="#前代模型-1" class="headerlink" title="前代模型"></a>前代模型</h2><p><a href="https://mp.weixin.qq.com/s/oZYrfH8C9xnOZqsVWPOY3w">从ChatGPT 3.5到ChatGPT o1，幻觉率（大体上）是在下降的</a>。</p>
+<p>但是，<strong>o3的幻觉率大于o1，o4-mini的幻觉率大于o3！</strong></p>
+<img src="/2025/08/08/GPT-5_Math_Hallucination/image-20250808095546753.png" class="">
+
+<img src="GPT-5_Math_Hallucination/image-20250808095546753.png" alt="image-20250808095546753" style="zoom:67%;" />
+
+<center> 图片来自 <a href = 'https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf'>GPT-o3 System Card</a> </center>
+
+<p>原因众说纷纭——<a href="https://mp.weixin.qq.com/s/rQXOpEjXjFi-cE331D3eFg">一个合理点的说法是，因为OpenAI为了节约成本抛弃了Reasoning Token</a>。但是这也无法解释为啥o3的幻觉率大于o1。</p>
+<h2 id="思索-1"><a href="#思索-1" class="headerlink" title="思索"></a>思索</h2><ol>
+<li>GPT-o3 System Card 的两个数据集均来自OpenAI，GPT-5 博客上的三个数据集均公开。为什么他们不在前两个数据集上也测一下呢？</li>
+<li>o3的幻觉率大于o1，o4-mini的幻觉率大于o3，我觉得这是一个值得研究的科学问题。<ol>
+<li>但是现在看来OpenAI不想研究。</li>
+</ol>
+</li>
+<li><strong>我认为LLM是取代不了搜索引擎的。</strong><ol>
+<li>Ronald Fisher 写文章说现有证据只能说明吸烟和肺癌有相关性，不能说明有因果性；Albert Einstein认可计划经济，Von Neumann反对计划经济。<ol>
+<li>他们仨都是人类历史上最聪明的人之一。</li>
+<li>专业和爱好。<ol>
+<li>Fisher是统计学之父，这就是他的专业。</li>
+<li>Einstein不是经济学家，这算是他的爱好。</li>
+<li>Von Neumann在经济学上很有建树，这也算是他的专业。</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>在没有互联网的时代，你听到了他们仨的观点，应该去问问其他人的看法，或者去翻翻书（书是前辈们的看法）。做一个交叉验证。</li>
+<li>在有互联网的时代，搜索引擎可以帮你更快速地询问其他人、前辈们的看法。</li>
+<li><strong>所以，就算LLM达到了Fisher, Einstein, Neumann的水平，也不能取代搜索引擎。</strong></li>
+<li>参考：<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/2000852/">总结 Fisher 对吸烟和肺癌观点的论文——When genius errs: R.A. Fisher and the lung cancer controversy</a>。</li>
+<li><a href="https://monthlyreview.org/2009/05/01/why-socialism/">爱因斯坦对计划经济的看法——<em>Why Socialism</em>。</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Theory_of_Games_and_Economic_Behavior">Von Neumann的经济学著作——<em>Theory of Games and Economic Behavior</em>。</a></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>2025</category>
+        <category>2025-07</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Grok 4</title>
     <url>/2025/07/10/Grok_4/</url>
     <content><![CDATA[<p>自<a href="https://mp.weixin.qq.com/s/F5K7D1HjBvq5q4Kvme18Aw">24年9月13日OpenAI的o1发布</a>、展示出惊人的数理能力后，<a href="https://mp.weixin.qq.com/s/oOgZGwnFpxZXgUq_XP8fVQ">DS的R1是第一个赶上的（25年1月）</a>，随后是</p>
@@ -107,7 +199,7 @@
 <td>部分功能需付费</td>
 </tr>
 <tr>
-<td>开源？</td>
+<td>开源</td>
 <td>闭源</td>
 <td>闭源</td>
 </tr>
@@ -308,20 +400,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用API构建自己的Sider或者Monica</title>
-    <url>/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</url>
-    <content><![CDATA[<p>太爽了</p>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-05</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Covariance Is Meaningless for Unpaired Data</title>
     <url>/2025/05/29/Covariance_Is_Meaningless_for_Unpaired_Data/</url>
     <content><![CDATA[<p>Today, through chatting with <a href="https://chatgpt.com/share/683862c7-1448-8002-a35a-fa1e901e5769">GPT</a> and <a href="https://g.co/gemini/share/b8320a70d534">Gemini</a>, I suddenly realized that the sample covariance<br>$$<br>s_{ij} :&#x3D; \frac{1}{n-1} \sum_{i&#x3D;1}^n (s_i - \bar{s}_i) (s_j - \bar{s}_j)<br>$$<br>is meaningful if and only if $s_i$ and $s_j$ are paired.</p>
@@ -342,29 +420,6 @@
       </categories>
       <tags>
         <tag>statistics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sider vs Monica</title>
-    <url>/2025/05/29/Sider_vs_Monica/</url>
-    <content><![CDATA[<p>I purchased Sider and Monica for 1 month.</p>
-<p>Let me see which one is better.</p>
-<img src="/2025/05/29/Sider_vs_Monica/image-20250529162957397.png" class="">
-
-<hr>
-<p>For the first glance:</p>
-<ol>
-<li>Front End: Sider is better than Monica.</li>
-<li>The Number of LLMs: Monica is better than Sider.</li>
-</ol>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-05</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -500,7 +555,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#57;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#x61;&#64;&#103;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#49;&#x31;&#x30;&#57;&#55;&#51;&#x34;&#56;&#x34;&#x34;&#x61;&#64;&#103;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#x62;&#x72;&#117;&#99;&#101;&#46;&#121;&#105;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#x62;&#x72;&#117;&#99;&#101;&#46;&#121;&#105;&#120;&#117;&#x61;&#x6e;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#48;&#57;&#x37;&#51;&#x34;&#56;&#52;&#x34;&#x61;&#x40;&#x67;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#48;&#57;&#x37;&#51;&#x34;&#56;&#52;&#x34;&#x61;&#x40;&#x67;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#117;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#99;&#x6f;&#109;">&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#120;&#117;&#97;&#110;&#x2e;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#99;&#x6f;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -616,12 +671,12 @@
 <p>他还从健身房里找灵感，设计了一个可以在相同位置配不同重量哑铃的装置。于是乎，当猴子的手腕处于相同位置时，他可以给不同重量。这类似于伽利略干的事——控制变量。</p>
 <p>他总共记录了31个神经元，其中26个的动作电位频率和哑铃重量强相关，剩下5个不好解释，而31个神经元动作电位频率和手腕位置都不相关。</p>
 <p>注意，这里他只记录了31个神经元。只有31维。降维的必要性还不那么明显。</p>
-<h1 id="第四代：希腊老哥"><a href="#第四代：希腊老哥" class="headerlink" title="第四代：希腊老哥"></a>第四代：希腊老哥</h1><p>1998年，出生在希腊的美国科学家Apostolos Georgopoulos发现：当猴子做著名的in-out范式时，有些神经元在某一方向反应最强烈。</p>
+<h1 id="第四代：希腊老哥"><a href="#第四代：希腊老哥" class="headerlink" title="第四代：希腊老哥"></a>第四代：希腊老哥</h1><p><strong>1998年，出生在希腊的美国科学家Apostolos Georgopoulos发现：当猴子做著名的in-out范式时，有些神经元在某一方向反应最强烈。</strong></p>
 <p>换句话说，神经元并不像Evarts想的那么简单。</p>
 <p>同时，希腊老哥同时记录到了更多神经元的数据——于是他不得不向统计学家和机器学习专家请教降维方法。</p>
 <h1 id="第五代：不辱使命"><a href="#第五代：不辱使命" class="headerlink" title="第五代：不辱使命"></a>第五代：不辱使命</h1><p>2012年，BrainGate招募了55岁的Cathy Hutchinson。她中风已经16年，颈椎以下全部瘫痪。</p>
 <p>科学家们在她大脑的左侧运动皮质区域植入了96个电极。一番波折后，她终于可以控制一条机械臂了。</p>
-<p>机械臂走走停停、来回摇摆，最终总算不辱使命——给她倒了一杯咖啡。</p>
+<p><strong>机械臂走走停停、来回摇摆，最终总算不辱使命——给她倒了一杯咖啡。</strong></p>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -669,7 +724,7 @@
 <p>我们作为后发国家，一直很努力。真真切切地努力了百年。现在，我们的内部矛盾变得很大了，又达到了一个高峰，甚至堪比晚清和民国。我也不知未来会如何发展。</p>
 <p>百年长河激荡你的风华，从康园春秋到冬夏。</p>
 <p>万里山川留下你的风华，从红楼去天涯。</p>
-<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>今年一月，有一件让我很高兴的事，那就是DeepSeek R1的诞生。过去三四十年，中国的顶尖人才大多被美国拿去，但是剩下的人依然有能力做出DeepSeek！</p>
+<h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>今年一月，有一件让我很高兴的事，那就是DeepSeek R1的诞生。<strong>过去三四十年，中国的顶尖人才大多被美国拿去，但是剩下的人依然有能力做出DeepSeek！</strong></p>
 <p>最慌的应该是Google, Meta, Anthropic, xAI这四个野心勃勃的挑战者。毕竟当时OpenAI已经放出了o3。</p>
 <p>我总觉得未来的科研会更倾向于业界。毕竟他们不需要屎上雕花、不需要同行评审、不需要求推荐信、不需要求那点可怜的经费、也不会因为一个PhD毕业就中断某个项目。</p>
 <p>过去总有人批评业界短视而学界目光长远，现在已经不好说，我估计未来应该不是。</p>
@@ -681,8 +736,8 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
+        <tag>socialism</tag>
         <tag>THINK</tag>
       </tags>
   </entry>
@@ -943,7 +998,7 @@
 <p>去年九月，GPT-o1出来后，我用了用，就发觉这哥们的数理能力在中国科大物院本科也名列前茅，大约是10%-20%的水平。 </p>
 <p>我思考了下，我过去四年做的研究，它都能干（我做的实验工作很少，主要是理论和计算）。或者保守点说，十个我干的活，现在一个我加上一个它就差不多了。那剩下九个我不就失业了吗。 </p>
 <p>假期时候跟父母聊AI和失业，父母开心地很我说：“我俩马上就要退休了，我们担心个屁，你们这些晚辈才需要担心。” </p>
-<p>我也跟爷爷奶奶聊了。他们更希望有个机器人能帮忙做家务、做饭、理发。于是，我跟他们说：“机器人对视觉和空间的理解能力较弱，只要某个工作不需要手指，就有可能在十年内被机器人取代，要是需要复杂的手指操作，十年之内没希望”。他们失望地摇了摇头。 </p>
+<p>我也跟爷爷奶奶聊了。他们更希望有个机器人能帮忙做家务、做饭、理发。于是，我跟他们说：“<strong>机器人对视觉和空间的理解能力较弱，因此，只要某个工作不需要手指，就有可能在十年内被机器人取代，要是需要复杂的手指操作，十年之内没希望</strong>”。他们失望地摇了摇头。 </p>
 <p>其实换个角度想，如果未来AI真的能帮助科学家做研究，或许会给科学界带来很多积极的变化——</p>
 <ol>
 <li>学生压力能减轻：博士生不用因为无法完成论文陷入绝望，博士后也不必为八股式的经费申请焦头烂额，教授们不需要强迫学生做不感兴趣的项目。</li>
@@ -967,19 +1022,17 @@
     <url>/2025/02/22/Ren_Yi/</url>
     <content><![CDATA[<p>随感：</p>
 <p>刚才看了看<a href="https://www.bilibili.com/video/BV1E5411w7WH/?spm_id_from=333.1387.upload.video_card.click">八王之乱</a>和<a href="https://www.bilibili.com/video/BV1FN4y1H7YD/?spm_id_from=333.1387.search.video_card.click">隋末唐初</a>历史视频，感觉晋惠帝司马衷和隋炀帝杨广真是神似。一个聪明到极致，一个傻到极致。之前也写过，但没写得很露骨。 </p>
-<p>我一路走来，没见过司马衷，杨广 倒是见过不少。只不过杨广擅长文学，他们擅长数学，仅此而已。 </p>
+<p>我一路走来，没见过司马衷，杨广倒是见过不少。只不过杨广擅长文学，他们擅长数学，仅此而已。 </p>
 <p>杨广当年有句名言：“天下的人还是太多了。”在广哥眼里，人不是人，和猪羊差不多，死了一批还会再有一批，所以他修新都城、修大运河、三年三征高句丽，死了再多人他都不心疼。另外，在广哥眼里，天下都是他的，他给天下人发工资，天下人自然都应该为他而死。 </p>
 <p>我看现在的科学家，有不少也和杨广一样，并不把人当人看，而当成工具或者耗材，不管是对自己的学生还是对社会上其他人。只不过现在是文明社会，不能像杨广一样动不动害死百万人。 </p>
-<p>刘备死前对刘禅说：“惟贤惟德，能服于人。” </p>
-<p>小时候不懂，也没怎么震撼。现在经历世事洗礼，方知仁义之不易。一个人只有做利于底层人民的事，才能被称为英雄。老板就对员工好点，教授就对学生好点，官员就对农民工人好点，仅此而已。此为首推，否则，一个人就算再聪明，诗文写得再漂亮，数学物理学得再好，恐怕只是为祸更多。正像聪明的杨广，古今中外，能把一个蒸蒸日上的国家带到灭亡的，仅他一人。 </p>
+<p>刘备死前对刘禅说：“惟贤惟德，能服于人。” 我小时候不懂，也没怎么震撼。现在经历世事洗礼，方知仁义之不易。一个人只有做利于底层人民的事，才能被称为英雄。老板就对员工好点，教授就对学生好点，官员就对农民工人好点，仅此而已。此为首推，否则，一个人就算再聪明，诗文写得再漂亮，数学物理学得再好，恐怕只是为祸更多。正像聪明的杨广，古今中外，能把一个蒸蒸日上的国家带到灭亡的，仅他一人。 </p>
 <hr>
-<p>观史偶得</p>
+<p>观史偶得：</p>
 <p>适览<a href="https://www.bilibili.com/video/BV1E5411w7WH/?spm_id_from=333.1387.upload.video_card.click">八王乱局</a>并<a href="https://www.bilibili.com/video/BV1FN4y1H7YD/?spm_id_from=333.1387.search.video_card.click">隋唐鼎革</a>事，惠帝与炀帝若合符契。一者聪颖绝伦，一者愚蒙至极。曩日虽尝论及，犹未畅言其髓。</p>
 <p>某遍历世途，未尝遇司马衷之属，然杨广之俦实夥。唯广工词章，彼辈精数术，其本一也。</p>
-<p>昔炀帝尝言：”天下民多矣。” 在其目中，黔首非人，犹豕彘耳。故筑新都、凿漕渠、三征辽东，殒命如芥，未尝稍恤。复以天下为私产，自谓赐俸万民，则万民当效死以报。</p>
+<p>昔炀帝尝言：”天下民多矣。” 在其目中，黔首非人，犹豕彘耳。故筑新都、凿漕渠、三岁三征辽东，殒命如芥，未尝稍恤。复以天下为私产，自谓赐俸万民，则万民当效死以报。</p>
 <p>今观士林，颇有效广之为者。待门生如器用，视百姓若刍狗。唯今世崇文治，不可效广之暴戾，动辄伏尸百万耳。</p>
 <p>昭烈皇帝临终诫禅曰：”惟贤惟德，能服于人。” 幼时懵懂，未解深意。今经沧桑，方知仁德之难持。丈夫欲称英杰，必以利济苍生为本。商贾厚待僮仆，鸿儒善导生徒，官吏抚恤耕夫，如是而已。若悖此道，纵有子建之才、管乐之智，适足为祸愈烈。观炀帝故事可知：寰宇列国，能摧鼎盛之朝于俄顷者，舍广其谁？</p>
-<p>太史公尝云：”恃德者昌，恃力者亡。” 信哉斯言！夫仁德者，立身之本，亦治国之纲也。</p>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -1158,8 +1211,8 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
+        <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
         <tag>history</tag>
@@ -1782,7 +1835,7 @@
       </tags>
   </entry>
   <entry>
-    <title>三起三落 | 刚愎自用、井底之蛙</title>
+    <title>三落三起</title>
     <url>/2025/01/13/Three_Ups_and_Downs/</url>
     <content><![CDATA[<p>我在<a href="https://physics-lee.github.io/2024/11/29/Sci_and_Tech_All_Over_the_World/">《美国申请结束 | 叹世界科技分布之不均》</a>中写，在科大经历了三落三起。</p>
 <p>我上大学前没经历过什么挫折，少数几个勉强算。但在科大，真真正正、结结实实地撞了三次墙。</p>
@@ -1808,8 +1861,8 @@
       <tags>
         <tag>love</tag>
         <tag>romance</tag>
-        <tag>THINK</tag>
         <tag>madness</tag>
+        <tag>THINK</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -2783,7 +2836,7 @@
     <content><![CDATA[<p>我推测了一下各个科学家对o1的态度。</p>
 <ol>
 <li>伽利略：呜呜┭┮﹏┭┮，几乎没人理解我的惯性定律。</li>
-<li>牛顿：《格列弗游记》竟然敢讽刺我！我的三定律如何能做出一些对人类有利的发明创造？</li>
+<li>牛顿：《格列弗游记》竟然敢讽刺我！</li>
 <li>法拉第：高斯、纽曼、韦伯那些相信超距作用的蠢货。</li>
 <li>麦克斯韦：为啥我的方程和伽利略变换不相容？</li>
 <li>玻尔兹曼：马赫那些白痴非说原子和分子都是不存在的，怎么设计实验说服他们？</li>
@@ -4331,15 +4384,15 @@
       </tags>
   </entry>
   <entry>
-    <title>AI和Comp Neuro互相帮助</title>
+    <title>AI和Compu Neuro互相帮助</title>
     <url>/2024/01/19/AI_and_Comp_Neuro_Help_Each_Other/</url>
     <content><![CDATA[<p>以下同样是上交冬校让我想明白的。</p>
-<h1 id="Comp-Neuro帮助AI"><a href="#Comp-Neuro帮助AI" class="headerlink" title="Comp Neuro帮助AI"></a>Comp Neuro帮助AI</h1><ul>
+<h1 id="Compu-Neuro帮助AI"><a href="#Compu-Neuro帮助AI" class="headerlink" title="Compu Neuro帮助AI"></a>Compu Neuro帮助AI</h1><ul>
 <li>真正给灵感<ul>
 <li>M-P Model</li>
-<li>Hopfield Model</li>
+<li>Hopfield Model（这个主要灵感来自物理）</li>
 <li>Convolution Neural Network</li>
-<li>Plasticity Rules</li>
+<li>Plasticity Rules（这里我当时写反了）</li>
 <li>Spiking Neural Network</li>
 </ul>
 </li>
@@ -4350,16 +4403,17 @@
 </ul>
 <h1 id="AI帮助Compu-Neuro"><a href="#AI帮助Compu-Neuro" class="headerlink" title="AI帮助Compu Neuro"></a>AI帮助Compu Neuro</h1><ul>
 <li>真正给灵感<ul>
+<li>Hebb</li>
 <li>Reward Prediction Error</li>
-<li>如何给机器好奇心</li>
+<li>如何给机器好奇心（Luben做的和它非常类似！）</li>
 </ul>
 </li>
 <li>帮忙用一个黑盒子完美拟合另一个黑盒子<ul>
 <li>2016, DL + Vision</li>
-<li>杨光宇做的RNN</li>
+<li>杨光宇、李济安做的RNN</li>
 </ul>
 </li>
-<li>帮忙处理图片（类似人脸识别）<ul>
+<li>帮忙处理图片<ul>
 <li>Deep Lab Cut, Yolo, U-net</li>
 <li>周鹏程做的Denoise</li>
 </ul>
@@ -4711,37 +4765,6 @@
         <tag>fun</tag>
         <tag>statistics</tag>
         <tag>story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Markov and Temporal Difference Learning</title>
-    <url>/2024/01/11/Markov_and_Temporal_Difference_Learning/</url>
-    <content><![CDATA[<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/1.png" class="">
-
-<img src="/2024/01/11/Markov_and_Temporal_Difference_Learning/2.png" class="">
-
-<p>准备明天的幻灯片时，又读到西瓜书上的这两段故事，我的心情依旧和2022年夏天，第一次读这本书时一样激动。</p>
-<p>那个暑假，这是我带回家的唯一一本书。</p>
-<p>我和某人开玩笑说，我拿到书之后，最先看的是章后小故事。</p>
-<p>耳机里放着《我们都一样》的回忆版。</p>
-<blockquote>
-<p>你知道我的梦，你知道我的痛。</p>
-<p>你知道我们感受都相同。</p>
-<p>就算有再大的风，</p>
-<p>也挡不住，</p>
-<p>勇敢的，</p>
-<p>冲动。</p>
-<p>努力的往前飞，再累也无所谓。</p>
-<p>黑夜过后的光芒有多美。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>2024</category>
-        <category>2024-01</category>
-      </categories>
-      <tags>
-        <tag>statistics</tag>
-        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -5789,8 +5812,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -5835,44 +5858,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>微软、动视暴雪、OpenAI</title>
-    <url>/2023/11/03/Microsoft_Activision_Blizzard_OpenAI/</url>
-    <content><![CDATA[<p>微软花687亿美元收购动视暴雪，但是只给OpenAI投资了120亿美元。</p>
-<p>你是一只傻狗！</p>
-<p>动视暴雪代表着过去，而OpenAI代表着未来！</p>
-<p>我预言一波，2030年前，AI市场将超过电子游戏市场。</p>
-<p>在青少年眼里，电子游戏有AI有意思吗？好好想想吧！</p>
-<hr>
-<p>参考链接：</p>
-<p><a href="https://www.youtube.com/watch?v=WoPwVT9Nrdw">微软如何打破索尼的重重阻碍，通过全球各国的反垄断审查？</a></p>
-<p>非常有趣的视频，可以带着这几个问题去看</p>
-<ul>
-<li><p>未来，游戏出品方和发行方，谁将分到更多的利益？</p>
-</li>
-<li><p>谷歌搜索在全球搜索引擎中占比超过90%，为什么各国不认为这是垄断？</p>
-</li>
-<li><p>如何判断微软收购暴雪后是否会阻碍竞争？</p>
-</li>
-<li><p>股价和收购成功率之间到底有什么关系？</p>
-</li>
-</ul>
-<p><a href="https://www.youtube.com/watch?v=cmadZ1uEzWw">暴雪如何走下神坛？</a></p>
-<p>质量没有小林的那么高，且几处关键的地方不知真假（个人感觉大概率是假的），但也算是从一个玩家的角度讲出了暴雪的傲慢。</p>
-<p><a href="https://www.youtube.com/watch?v=EdTPykGAe0Q">芯片之王英伟达。</a></p>
-<p>2023年，英伟达的AI业务已经超过了游戏业务。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-11</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>AI</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -6294,20 +6281,6 @@
       <tags>
         <tag>science</tag>
         <tag>statistics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GitHub Copilot and PayPal</title>
-    <url>/2023/10/16/GitHub_Copilot_and_Paypal/</url>
-    <content><![CDATA[<p>Today I have my PayPal and GitHub Copilot!</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-10</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -6952,8 +6925,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -10742,7 +10715,7 @@
 <blockquote>
 <p>你不要只看个例，要看统计数据！</p>
 </blockquote>
-<h1 id="2023-11-27-更新"><a href="#2023-11-27-更新" class="headerlink" title="2023-11-27 更新"></a>2023-11-27 更新</h1><p>现在想来，<a href="https://physics-lee.github.io/2020/05/17/Learn_from_Ancient_History/">以古代史为鉴是不可能的</a>这篇文章，思想形成于2018年年初，那时我还没上大学，高三下。趁着寒假，我从京东上买来史记和汉书，忙里偷闲地看了看，便发觉了史记和汉书的问题。这篇文章代表着我上大学前对社会科学的理解的最高水平。</p>
+<h1 id="2023-11-27-更新"><a href="#2023-11-27-更新" class="headerlink" title="2023-11-27 更新"></a>2023-11-27 更新</h1><p>现在想来，<a href="https://physics-lee.github.io/2020/05/17/Learn_from_Ancient_History/">《以古代史为鉴是不可能的》</a>这篇文章，思想形成于2018年年初，那时我还没上大学，高三下。趁着寒假，我从京东上买来史记和汉书，忙里偷闲地看了看，便发觉了史记和汉书的问题。这篇文章代表着我上大学前对社会科学的理解的最高水平。</p>
 <p>2018-2022这四年，我的社会科学水平停滞不前，没有重大突破。</p>
 <p>下一次突破要等到2022年暑假，我和政燃、程辉聊了不少，他们的思想让我惊讶。</p>
 <p>程辉的那句“你不要只看个例，要看统计数据！”永远地刻进了我的脑海里。</p>

@@ -2,6 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2024/01/19/AI_and_Comp_Neuro_Help_Each_Other/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2024/09/18/When_They_Own_o1/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2022/08/20/National_Bureau_of_Statistics/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/01/13/Three_Ups_and_Downs/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/02/Feng_Hua/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/10/CH8_Movement_in_Low_Dim/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/30/Love_USTC/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/</loc>
+    
+    <lastmod>2025-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/08/08/GPT-5_Math_Hallucination/</loc>
+    
+    <lastmod>2025-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/03/03/Unemployment_Eager-to-Subvert/</loc>
+    
+    <lastmod>2025-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/about/index.html</loc>
     
     <lastmod>2025-07-29</lastmod>
@@ -56,34 +155,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/</loc>
-    
-    <lastmod>2025-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/06/06/Listen_to_Bengio_and_Sutton/</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/29/Build_My_Own_Sider_or_Monica_Through_API/</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/29/Sider_vs_Monica/</loc>
     
     <lastmod>2025-06-06</lastmod>
     
@@ -119,15 +191,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
-    
-    <lastmod>2025-06-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/06/02/On_the_Boat/</loc>
     
     <lastmod>2025-06-04</lastmod>
@@ -140,15 +203,6 @@
     <loc>https://physics-lee.github.io/2025/05/30/Story_of_Paul_Frampton/</loc>
     
     <lastmod>2025-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/30/Love_USTC/</loc>
-    
-    <lastmod>2025-05-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -200,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/05/10/CH8_Movement_in_Low_Dim/</loc>
-    
-    <lastmod>2025-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/05/10/Talk_With_Lixian/</loc>
     
     <lastmod>2025-05-10</lastmod>
@@ -219,15 +264,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2025/05/05/Tomb_of_Su_Yu/</loc>
-    
-    <lastmod>2025-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/05/02/Feng_Hua/</loc>
     
     <lastmod>2025-05-06</lastmod>
     
@@ -290,15 +326,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/01/13/Three_Ups_and_Downs/</loc>
-    
-    <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/04/02/Academy_or_Industry_2/</loc>
     
     <lastmod>2025-04-19</lastmod>
@@ -318,15 +345,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2025/01/13/My_Journey/</loc>
-    
-    <lastmod>2025-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/03/03/Unemployment_Eager-to-Subvert/</loc>
     
     <lastmod>2025-04-16</lastmod>
     
@@ -650,15 +668,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2024/09/18/When_They_Own_o1/</loc>
-    
-    <lastmod>2025-02-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2024/11/29/Theory_of_Everything/</loc>
     
     <lastmod>2025-02-07</lastmod>
@@ -768,15 +777,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/03/31/Brain_Prize/</loc>
-    
-    <lastmod>2025-01-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/01/19/AI_and_Comp_Neuro_Help_Each_Other/</loc>
     
     <lastmod>2025-01-13</lastmod>
     
@@ -1524,15 +1524,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2024/01/04/The_End_of_TA/</loc>
-    
-    <lastmod>2024-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2024/01/11/Markov_and_Temporal_Difference_Learning/</loc>
     
     <lastmod>2024-01-11</lastmod>
     
@@ -2423,24 +2414,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2022/08/20/National_Bureau_of_Statistics/</loc>
-    
-    <lastmod>2023-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2023/10/16/GitHub_Copilot_and_Paypal/</loc>
-    
-    <lastmod>2023-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2023/11/13/Taxis_Behavior_of_Birds/</loc>
     
     <lastmod>2023-11-27</lastmod>
@@ -2568,15 +2541,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2019/05/01/Why_Does_Not_the_Bicycle_Fall_Down/</loc>
-    
-    <lastmod>2023-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2023/11/03/Microsoft_Activision_Blizzard_OpenAI/</loc>
     
     <lastmod>2023-11-11</lastmod>
     
@@ -3685,7 +3649,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2025-07-29</lastmod>
+    <lastmod>2025-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
