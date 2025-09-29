@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-08-08T04:22:19.000Z</updated>
+  <updated>2025-09-27T03:34:04.000Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>物理学的困境</title>
+    <link href="https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/"/>
+    <id>https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/</id>
+    <published>2025-09-26T16:00:00.000Z</published>
+    <updated>2025-09-27T03:34:04.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;早上看到一只小蚂蚁在努力地搬动几十倍体积于自己的食物。心中忿忿。人类真的比蚂蚁厉害很多吗？蚂蚁无法离开地球，人类无法离开太阳系。&lt;/p&gt;
+&lt;p&gt;从托勒密的时代开始，物理学最火的研究领域经历过多次变迁：从天文学，到力学，到热学，到电磁学，到原子和分子物理，到粒子物理，到凝聚态。&lt;/p&gt;
+&lt;p&gt;最后一个转变我想大家都清楚。上世纪六七十年代，物理学家分裂成两派，一派认为the party is over，人类已经没钱造加速器了。另一派认为人类应该努力造。2016年杨振宁和丘成桐的辩论即为此（两人的文章发表在&lt;a href=&quot;https://mp.weixin.qq.com/s/JCOTJVW3uk8HgYzrIeM8QA&quot;&gt;知识分子&lt;/a&gt;，如此重要的东西首发于微信公众号，极为罕见）。从今天往回看，历史基本延续了前一派的预测，物理学的重心变到了凝聚态，去研究固体、液体、导体、玻璃的性质。凝聚态不那么费钱，也几乎立刻就能对人类有帮助。&lt;/p&gt;
+&lt;p&gt;悲伤的是，我觉得，如果没有更大的加速器的话，人类永远也理解不了暗物质和暗能量，也永远不知道量子力学的众多诠释（哥本哈根、德布罗意-波姆、多世界）谁对谁错，也永远不可能实现星际旅行。&lt;/p&gt;
+&lt;p&gt;但是，我依然是认可杨振宁的想法的。有人说，造大加速器也就能花个几百亿美元，&lt;a href=&quot;https://zh.wikipedia.org/zh-cn/%E6%81%86%E5%A4%A7%E5%82%B5%E5%8B%99%E5%8D%B1%E6%A9%9F&quot;&gt;一个恒大欠了几千亿美元&lt;/a&gt;，&lt;a href=&quot;https://news.qq.com/rain/a/20250116A04ZLJ00&quot;&gt;王者荣耀一年的收入有几十亿美元&lt;/a&gt;，&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA&quot;&gt;摩根大通的年收入有一千多亿美元&lt;/a&gt;，&lt;a href=&quot;https://www.thecrimson.com/article/2023/10/20/budget-surplus-fy23/&quot;&gt;Harvard每年的收入也有几十亿美元&lt;/a&gt;。但是，在目前的经济学体制下，各国投入的研究经费(R&amp;amp;D)至多只能占GDP的5%（&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_sovereign_states_by_research_and_development_spending&quot;&gt;各国列表&lt;/a&gt;，以色列和韩国最高，5%左右），这是经济学的客观规律，不是人的主观意志能改变的——你不可能要求所有人都勒紧裤腰带过日子，去帮助国家搞科研，把研究经费占GDP的比例提高到50%。&lt;strong&gt;如果一个国家真的这么做了，那么就类似于杨广造大运河，过不了几年就会游行、起义、革命，到时候政府停摆，连本来的研究经费都没了。&lt;/strong&gt;说白了，老百姓更关心能不能在城市里有房子住、有没有游戏可以玩、股票是涨还是跌、小孩能不能受到更好的教育，而不是五十年、一百年之内不会改善人类生活的粒子物理。这也无可非议。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-09" scheme="https://physics-lee.github.io/categories/2025/2025-09/"/>
+    
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+  </entry>
   
   <entry>
     <title>GPT 5 | 数学 幻觉</title>
@@ -437,7 +462,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#48;&amp;#57;&amp;#x37;&amp;#51;&amp;#x34;&amp;#56;&amp;#52;&amp;#x34;&amp;#x61;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x31;&amp;#49;&amp;#48;&amp;#57;&amp;#x37;&amp;#51;&amp;#x34;&amp;#56;&amp;#52;&amp;#x34;&amp;#x61;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#117;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x62;&amp;#114;&amp;#x75;&amp;#99;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#117;&amp;#97;&amp;#110;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#48;&amp;#x39;&amp;#x37;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#49;&amp;#x31;&amp;#48;&amp;#x39;&amp;#x37;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#114;&amp;#117;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#98;&amp;#114;&amp;#117;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -585,9 +610,9 @@
     <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
     
     
-    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
@@ -1059,9 +1084,9 @@
     <category term="2025-02" scheme="https://physics-lee.github.io/categories/2025/2025-02/"/>
     
     
-    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
@@ -1898,6 +1923,35 @@
   </entry>
   
   <entry>
+    <title>731 | 无人生还、无人受罚</title>
+    <link href="https://physics-lee.github.io/2024/12/05/731/"/>
+    <id>https://physics-lee.github.io/2024/12/05/731/</id>
+    <published>2024-12-04T16:00:00.000Z</published>
+    <updated>2025-09-19T23:06:09.628Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="2024" scheme="https://physics-lee.github.io/categories/2024/"/>
+    
+    <category term="2024-12" scheme="https://physics-lee.github.io/categories/2024/2024-12/"/>
+    
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+  </entry>
+  
+  <entry>
     <title>731</title>
     <link href="https://physics-lee.github.io/2024/12/05/Fuck_731/"/>
     <id>https://physics-lee.github.io/2024/12/05/Fuck_731/</id>
@@ -2011,31 +2065,6 @@
     <category term="politics" scheme="https://physics-lee.github.io/tags/politics/"/>
     
     <category term="open science" scheme="https://physics-lee.github.io/tags/open-science/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>翁荔离开OpenAI</title>
-    <link href="https://physics-lee.github.io/2024/11/09/Weng-Li_Leaves_OpenAI/"/>
-    <id>https://physics-lee.github.io/2024/11/09/Weng-Li_Leaves_OpenAI/</id>
-    <published>2024-11-08T16:00:00.000Z</published>
-    <updated>2025-06-29T08:32:51.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;原来她叫翁荔呀，真是个不错的名字啊！ &lt;/p&gt;
-&lt;p&gt;她也就比我大个十岁左右吧，但她的博客在世界范围内似乎也没有敌手了。 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV19dSHYUEAo/&quot;&gt;她参加b站活动&lt;/a&gt;还是有点紧张，但是她说的都是对的。 &lt;/p&gt;
-&lt;p&gt;以她的才华，何愁下家？&lt;/p&gt;
-&lt;p&gt;她会去Ilya的公司吗？&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2024" scheme="https://physics-lee.github.io/categories/2024/"/>
-    
-    <category term="2024-11" scheme="https://physics-lee.github.io/categories/2024/2024-11/"/>
-    
-    
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -5173,9 +5202,9 @@
     <category term="2023-11" scheme="https://physics-lee.github.io/categories/2023/2023-11/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
   </entry>
   
@@ -5228,9 +5257,9 @@
     <category term="2023-11" scheme="https://physics-lee.github.io/categories/2023/2023-11/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
   </entry>
   
@@ -6046,9 +6075,9 @@
     <category term="2023-08" scheme="https://physics-lee.github.io/categories/2023/2023-08/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
     <category term="injury" scheme="https://physics-lee.github.io/tags/injury/"/>
     
