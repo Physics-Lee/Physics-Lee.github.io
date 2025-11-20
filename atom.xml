@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2025-09-27T03:34:04.000Z</updated>
+  <updated>2025-11-11T06:30:48.713Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AI and Dota</title>
+    <link href="https://physics-lee.github.io/2025/11/04/AI_and_Dota/"/>
+    <id>https://physics-lee.github.io/2025/11/04/AI_and_Dota/</id>
+    <published>2025-11-03T16:00:00.000Z</published>
+    <updated>2025-11-11T06:30:48.713Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天突然好奇——AI能击败象棋和围棋顶级职业选手，能击败DOTA和LOL，CSGO和PUBG的顶级职业选手吗？&lt;/p&gt;
+&lt;p&gt;我找到两个不错的参考资料：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一个&lt;a href=&quot;https://thesouther.github.io/myNotes/paper_RL/juewu2.html&quot;&gt;很不错的博客&lt;/a&gt;，总结了几个有名的AI打游戏的工作——AlphaGO, OPENAI FIVE, 绝悟等。&lt;/li&gt;
+&lt;li&gt;一个&lt;a href=&quot;https://www.bilibili.com/video/BV1VmpezZEdx/?spm_id_from=333.1387.collection.video_card.click&amp;vd_source=38ef32ce71fc9a790036b5de6f876e1a&quot;&gt;非常不错的自媒体&lt;/a&gt;，他在2022年11月30日chatgpt推出前就做了很多AI的科普工作。他最近出了一个训练AI玩csgo的视频。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;结论：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;号称击败DOTA2顶级职业选手的OpenAI FIVE只能用17个英雄。OPENAI宣传时刻意忽略了这点。&lt;/li&gt;
+&lt;li&gt;AI想打赢DOTA2, LOL, CSGO, PUBG的顶级队伍现在还做不到，哪怕已经有了ChatGPT。我认为经过1-2年的努力后可以。就看公司们有没有意愿了。&lt;/li&gt;
+&lt;li&gt;AI打赢上述职业战队，难度仅仅是&lt;strong&gt;略小于&lt;/strong&gt;自动驾驶，但获得的收益&lt;strong&gt;远小于&lt;/strong&gt;自动驾驶。&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-11" scheme="https://physics-lee.github.io/categories/2025/2025-11/"/>
+    
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
+    
+    <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>遗忘是常态，流传是奇迹</title>
+    <link href="https://physics-lee.github.io/2025/11/04/Remember_and_Forget/"/>
+    <id>https://physics-lee.github.io/2025/11/04/Remember_and_Forget/</id>
+    <published>2025-11-03T16:00:00.000Z</published>
+    <updated>2025-11-04T10:50:50.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今年英雄联盟世界赛改成了全局bp，感觉很有趣，于是时隔多年又关注了，的确精彩，以前翻来覆去就是那些英雄。&lt;/p&gt;
+&lt;p&gt;有人说中国俱乐部再不拿冠军，英雄联盟热度就更低了。但其实它本来入坑就越来越难。英雄越来越多，新手上来就要面对170个，怎么搞。没有新人加入，它终究会冷寂、停服、被遗忘。&lt;/p&gt;
+&lt;p&gt;我忍不住想，将来我们的下一代还会玩这些游戏吗。&lt;/p&gt;
+&lt;p&gt;我回忆起从小玩的那些，即时战略、赛车、横版闯关、爆破、生化、三国杀、类dota、吃鸡、自走棋、搜打撤，但实在找不出它们能流传很久的理由。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;没玩过的人压根看不懂，这限制了传播性。问了几个朋友，没玩过lol基本没人看。足球则是一项不会踢的也能看懂的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;玩法不够简洁有力，这限制了美感。上述玩法的确都是很有想象力的发明，但都很冗长。做得最好的是围棋，以及数学。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
+    
+    <category term="2025-11" scheme="https://physics-lee.github.io/categories/2025/2025-11/"/>
+    
+    
+    <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
+    
+  </entry>
+  
+  <entry>
     <title>物理学的困境</title>
     <link href="https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/"/>
     <id>https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/</id>
     <published>2025-09-26T16:00:00.000Z</published>
-    <updated>2025-09-27T03:34:04.000Z</updated>
+    <updated>2025-11-04T10:52:02.000Z</updated>
     
     
     <summary type="html">&lt;p&gt;早上看到一只小蚂蚁在努力地搬动几十倍体积于自己的食物。心中忿忿。人类真的比蚂蚁厉害很多吗？蚂蚁无法离开地球，人类无法离开太阳系。&lt;/p&gt;
@@ -462,7 +526,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#48;&amp;#x39;&amp;#x37;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#49;&amp;#x31;&amp;#48;&amp;#x39;&amp;#x37;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#114;&amp;#117;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#98;&amp;#114;&amp;#117;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#105;&amp;#120;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#51;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#x31;&amp;#49;&amp;#x30;&amp;#57;&amp;#x37;&amp;#51;&amp;#52;&amp;#56;&amp;#52;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#110;&amp;#x2e;&amp;#108;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#110;&amp;#x2e;&amp;#108;&amp;#105;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -506,34 +570,9 @@
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
-    <category term="BCI" scheme="https://physics-lee.github.io/tags/BCI/"/>
-    
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
     
-  </entry>
-  
-  <entry>
-    <title>与LX的谈话</title>
-    <link href="https://physics-lee.github.io/2025/05/10/Talk_With_Lixian/"/>
-    <id>https://physics-lee.github.io/2025/05/10/Talk_With_Lixian/</id>
-    <published>2025-05-10T00:10:00.000Z</published>
-    <updated>2025-05-10T00:17:07.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;前几日，一天晚上，LX又在唉声叹气。&lt;/p&gt;
-&lt;p&gt;我：咋了。&lt;/p&gt;
-&lt;p&gt;LX：我在科大这么多年，一事无成。&lt;/p&gt;
-&lt;p&gt;我：你是不是研究了意识？&lt;/p&gt;
-&lt;p&gt;LX：是。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
-    
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    <category term="BCI" scheme="https://physics-lee.github.io/tags/BCI/"/>
     
   </entry>
   
@@ -733,11 +772,11 @@
     <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
     
     
+    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
-    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
   </entry>
   
@@ -1430,11 +1469,11 @@
     <category term="2025-01" scheme="https://physics-lee.github.io/categories/2025/2025-01/"/>
     
     
-    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
@@ -3245,9 +3284,9 @@
     <category term="2024-05" scheme="https://physics-lee.github.io/categories/2024/2024-05/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -5069,9 +5108,9 @@
     <category term="2023-11" scheme="https://physics-lee.github.io/categories/2023/2023-11/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
@@ -6190,11 +6229,11 @@
     <category term="2023-08" scheme="https://physics-lee.github.io/categories/2023/2023-08/"/>
     
     
+    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
-    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
@@ -6222,9 +6261,9 @@
     <category term="2023-08" scheme="https://physics-lee.github.io/categories/2023/2023-08/"/>
     
     
-    <category term="family" scheme="https://physics-lee.github.io/tags/family/"/>
-    
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
+    
+    <category term="family" scheme="https://physics-lee.github.io/tags/family/"/>
     
   </entry>
   
@@ -6451,9 +6490,9 @@
     <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
     
@@ -6777,9 +6816,9 @@
     <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
     
     
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
@@ -6835,9 +6874,9 @@
     <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
     
     
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
     
@@ -6936,9 +6975,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
-    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
     
   </entry>
   
@@ -7192,9 +7231,9 @@
     <category term="2023-04" scheme="https://physics-lee.github.io/categories/2023/2023-04/"/>
     
     
-    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
   </entry>
   
@@ -7563,9 +7602,9 @@
     <category term="2023-02" scheme="https://physics-lee.github.io/categories/2023/2023-02/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -7730,15 +7769,15 @@
     <category term="2022-12" scheme="https://physics-lee.github.io/categories/2022/2022-12/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
-    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="math" scheme="https://physics-lee.github.io/tags/math/"/>
     
@@ -7764,15 +7803,15 @@
     <category term="2022-12" scheme="https://physics-lee.github.io/categories/2022/2022-12/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
+    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
-    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="math" scheme="https://physics-lee.github.io/tags/math/"/>
     
@@ -7953,9 +7992,9 @@
     <category term="2022-11" scheme="https://physics-lee.github.io/categories/2022/2022-11/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
     
@@ -8038,9 +8077,9 @@
     <category term="2022-11" scheme="https://physics-lee.github.io/categories/2022/2022-11/"/>
     
     
-    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
@@ -8768,9 +8807,9 @@
     <category term="2022-10" scheme="https://physics-lee.github.io/categories/2022/2022-10/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="math" scheme="https://physics-lee.github.io/tags/math/"/>
     
@@ -8930,17 +8969,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是学术造假</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:15:51.000Z</updated>
+    <updated>2023-11-01T07:16:00.000Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
+&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
+&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
+&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
     
     
     
@@ -8954,17 +8993,17 @@
   </entry>
   
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/"/>
-    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</id>
+    <title>用高中生能看懂的话解释什么是学术造假</title>
+    <link href="https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/"/>
+    <id>https://physics-lee.github.io/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</id>
     <published>2022-09-08T16:00:00.000Z</published>
-    <updated>2023-11-01T07:16:00.000Z</updated>
+    <updated>2023-11-01T07:15:51.000Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;灌水&quot;&gt;&lt;a href=&quot;#灌水&quot; class=&quot;headerlink&quot; title=&quot;灌水&quot;&gt;&lt;/a&gt;灌水&lt;/h2&gt;&lt;p&gt;定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。&lt;/p&gt;
-&lt;p&gt;方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果&lt;/p&gt;
-&lt;p&gt;方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。&lt;/p&gt;
-&lt;p&gt;有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;a href=&quot;#用高中生能看懂的话解释什么是学术造假&quot; class=&quot;headerlink&quot; title=&quot;用高中生能看懂的话解释什么是学术造假&quot;&gt;&lt;/a&gt;用高中生能看懂的话解释什么是学术造假&lt;/h1&gt;&lt;p&gt;引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术研究定义为：一种发现客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我把学术造假定义为：一种伪造客观真理的行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述定义，想必大多数科研工作者都会认可。&lt;/p&gt;</summary>
     
     
     
@@ -9057,9 +9096,9 @@
     <category term="2022-08" scheme="https://physics-lee.github.io/categories/2022/2022-08/"/>
     
     
-    <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -9250,9 +9289,9 @@
     <category term="2022-08" scheme="https://physics-lee.github.io/categories/2022/2022-08/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="senior high school" scheme="https://physics-lee.github.io/tags/senior-high-school/"/>
     
@@ -9938,9 +9977,9 @@
     <category term="2022-07" scheme="https://physics-lee.github.io/categories/2022/2022-07/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="statistics" scheme="https://physics-lee.github.io/tags/statistics/"/>
     
@@ -10208,9 +10247,9 @@
     <category term="2022-04" scheme="https://physics-lee.github.io/categories/2022/2022-04/"/>
     
     
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
   </entry>
   
@@ -10479,9 +10518,9 @@
     <category term="2022-01" scheme="https://physics-lee.github.io/categories/2022/2022-01/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="geography" scheme="https://physics-lee.github.io/tags/geography/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -10634,9 +10673,9 @@
     <category term="2021-09" scheme="https://physics-lee.github.io/categories/2021/2021-09/"/>
     
     
-    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
@@ -10785,9 +10824,9 @@
     <category term="2021-09" scheme="https://physics-lee.github.io/categories/2021/2021-09/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
     
@@ -11446,9 +11485,9 @@
     <category term="2020-08" scheme="https://physics-lee.github.io/categories/2020/2020-08/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="geography" scheme="https://physics-lee.github.io/tags/geography/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -11535,9 +11574,9 @@
     <category term="2020-05" scheme="https://physics-lee.github.io/categories/2020/2020-05/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -11830,9 +11869,9 @@
     <category term="2018-11" scheme="https://physics-lee.github.io/categories/2018/2018-11/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
   </entry>
   
@@ -11911,9 +11950,9 @@
     <category term="2018-08" scheme="https://physics-lee.github.io/categories/2018/2018-08/"/>
     
     
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
