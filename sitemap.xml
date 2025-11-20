@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
+    
+    <lastmod>2025-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/about/index.html</loc>
+    
+    <lastmod>2025-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/05/22/Gemini_Student_Verification/</loc>
+    
+    <lastmod>2025-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2025/04/20/Motion_Capture/</loc>
+    
+    <lastmod>2025-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2025/03/03/Unemployment_Eager-to-Subvert/</loc>
     
     <lastmod>2025-11-20</lastmod>
@@ -137,27 +173,9 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/02/22/Ren_Yi/</loc>
-    
-    <lastmod>2025-08-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/</loc>
     
     <lastmod>2025-08-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/about/index.html</loc>
-    
-    <lastmod>2025-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -272,15 +290,6 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/05/22/Gemini_Student_Verification/</loc>
-    
-    <lastmod>2025-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/05/23/Watching_15_YouTubers_Playing_the_Telephone_Game/</loc>
     
     <lastmod>2025-05-23</lastmod>
@@ -320,15 +329,6 @@
     <loc>https://physics-lee.github.io/2025/04/13/Leisure_Time_at_Tianqi_Home/</loc>
     
     <lastmod>2025-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/04/20/Motion_Capture/</loc>
-    
-    <lastmod>2025-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
