@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="r-VnR_9WEe-TelKdzkrFWPN779jN-sZhatKeISSLq2U">
+  <meta name="msvalidate.01" content="BD9404A1FE093987092D7FA9ACAF4EAA">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="高中对于p值的误用写在最前：  本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：《2022新高考数学概率统计大题中的概念问题》 感谢Gian学长帮我理清了p-value、显著性水平的概念。  在2022年高考全国I卷中，有这么一个题：">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Misuse of p-value in the Senior High School">
+<meta property="og:url" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/index.html">
+<meta property="og:site_name" content="Physics-Lee&#39;s Land">
+<meta property="og:description" content="高中对于p值的误用写在最前：  本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：《2022新高考数学概率统计大题中的概念问题》 感谢Gian学长帮我理清了p-value、显著性水平的概念。  在2022年高考全国I卷中，有这么一个题：">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png">
+<meta property="og:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png">
+<meta property="article:published_time" content="2022-08-09T16:00:00.000Z">
+<meta property="article:modified_time" content="2023-11-26T11:28:51.000Z">
+<meta property="article:author" content="Physics-Lee">
+<meta property="article:tag" content="science">
+<meta property="article:tag" content="statistics">
+<meta property="article:tag" content="THINK">
+<meta property="article:tag" content="senior high school">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png">
+
+
+<link rel="canonical" href="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/","path":"2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/","title":"The Misuse of p-value in the Senior High School"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>The Misuse of p-value in the Senior High School | Physics-Lee's Land</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?d2fddd04f380f60410824da431ddee80"></script>
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Physics-Lee's Land" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Physics-Lee's Land</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li><li class="menu-item menu-item-games"><a href="/Games/" rel="section"><i class="fa fa-sailboat fa-fw"></i>Games</a></li><li class="menu-item menu-item-compu_neuro"><a href="/Compu_Neuro/" rel="section"><i class="fa-solid fa-code-branch fa-fw"></i>Compu_Neuro</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E9%AB%98%E4%B8%AD%E5%AF%B9%E4%BA%8Ep%E5%80%BC%E7%9A%84%E8%AF%AF%E7%94%A8"><span class="nav-number">1.</span> <span class="nav-text">高中对于p值的误用</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2005%E5%B9%B4%E8%BF%87%E5%AE%A1%E7%9A%84%E9%AB%98%E4%B8%AD%E6%95%99%E6%9D%90"><span class="nav-number">2.</span> <span class="nav-text">2005年过审的高中教材</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2019%E5%B9%B4%E8%BF%87%E5%AE%A1%E7%9A%84%E9%AB%98%E4%B8%AD%E6%95%99%E6%9D%90"><span class="nav-number">3.</span> <span class="nav-text">2019年过审的高中教材</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Bayes"><span class="nav-number">4.</span> <span class="nav-text">Bayes</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Physics-Lee</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">403</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">82</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://math.stackexchange.com/users/1247222/bruce-lee-of-ustc" title="MathOverflow → https:&#x2F;&#x2F;math.stackexchange.com&#x2F;users&#x2F;1247222&#x2F;bruce-lee-of-ustc" rel="noopener me" target="_blank"><i class="fa-regular fa-paper-plane fa-fw"></i></a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Physics-Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="The Misuse of p-value in the Senior High School | Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          The Misuse of p-value in the Senior High School
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2022-08-10 00:00:00" itemprop="dateCreated datePublished" datetime="2022-08-10T00:00:00+08:00">2022-08-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/" itemprop="url" rel="index"><span itemprop="name">2022</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2022/2022-08/" itemprop="url" rel="index"><span itemprop="name">2022-08</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.6k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>5 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h1 id="高中对于p值的误用"><a href="#高中对于p值的误用" class="headerlink" title="高中对于p值的误用"></a>高中对于p值的误用</h1><p>写在最前：</p>
+<ul>
+<li>本文缘起于：我在知乎上看到知乎用户Yves S的一篇专栏：<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/525629496">《2022新高考数学概率统计大题中的概念问题》</a></li>
+<li>感谢Gian学长帮我理清了p-value、显著性水平的概念。</li>
+</ul>
+<p>在2022年高考全国I卷中，有这么一个题：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/2022_gaokao.png" class="">
+
+
+
+<p>这道题的第一问中，“能否有99%的把握认为患该疾病群体与未患该疾病群体的卫生习惯有差异？“是对p-value的错误使用。原因请往下看。</p>
+<h1 id="2005年过审的高中教材"><a href="#2005年过审的高中教材" class="headerlink" title="2005年过审的高中教材"></a>2005年过审的高中教材</h1><p>我去找到了我上高中时用的数学教材的电子版，这套教材于2005年初审通过。</p>
+<p>在选修2-3中，同样有”我们有99%的把握认为’吸烟与患肺癌有关系“这样的话。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/book_3.png" class="">
+
+
+
+<p>上图里的$K^2$，就是大学数理统计教材里的$\chi^2$。</p>
+<p>上图里的$P(K^2 \ge k_0)$，就是大学数理统计教材里的p-value。</p>
+<p>值得一提的是，上图用一通错得很离谱的推导得到了(1)式。不过这个错误在新版的教材中得到了更改。</p>
+<p>上图中对p-value的解释同样错得很离谱。</p>
+<p>p-value的定义是：<strong>假设H0成立，出现现有数据或更极端数据的概率</strong>。</p>
+<p>写成数学语言是：$p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)$</p>
+<p>上式可以简写为：$p-value :&#x3D; P(data|H0)$</p>
+<p>这里解释一下什么是假设检验，什么是H0。</p>
+<ul>
+<li><p>假设检验说白了就是提出一个假设，然后对其做出检验。</p>
+<ul>
+<li><p>比如说，如果我们想探究吸烟和肺癌是否有关，假设可以是“吸烟和肺癌独立”（独立是无关的一种更严谨的数学说法，这里不展开讨论）</p>
+</li>
+<li><p>比如说，如果我们想探究身高和国家是否有关，假设可以是“身高和国家独立”</p>
+</li>
+<li><p>再比如说，如果我们想探究弹跳高度和种族是否有关，假设可以是“弹跳高度和种族独立”</p>
+</li>
+</ul>
+</li>
+<li><p>H0指假设检验中的原假设，比如说“吸烟和肺癌独立”、“身高和国家独立”、“弹跳高度和种族独立”。</p>
+</li>
+<li><p>如前所述，p-value的定义是，假设H0成立，出现现有数据或更极端数据的概率。</p>
+</li>
+</ul>
+<p><strong>很显然，“p-value &#x3D; 0.01”和”我们有99%的把握认为H0成立“是不一样的。</strong></p>
+<p>在Yves S的专栏《2022新高考数学概率统计大题中的概念问题》中，他举了一个绝妙的例子：</p>
+<ul>
+<li>假设一个工厂生产了100万个硬币，其中10个硬币是有问题的，导致掷这些硬币时，正面朝上的概率明显超过1&#x2F;2。</li>
+<li>为了找到这些硬币，我们对每一枚硬币做假设检验：抛它100次，做$\chi ^2$检验，把p-value的阈值设为0.01，把p-value小于0.01的硬币认为是有质量问题的。</li>
+<li>阈值为0.01，意味着有1%的出错概率，即在$（10^7-10）$的正常硬币，会有大约1万个硬币的p-value小于0.01。</li>
+<li>那么问题来了，按照选修2-3和高考题的说法，这1W个硬币每个硬币都”有99%的把握有质量问题“</li>
+</ul>
+<p>正确的说法是：</p>
+<ul>
+<li>假设硬币没有问题，出现现有数据或更极端数据的概率是1%</li>
+<li>假设患该疾病群体与未患该疾病群体的卫生习惯独立，出现现有数据或更极端数据的概率是1%</li>
+<li>假设吸烟和肺癌独立，出现现有数据或更极端数据的概率是1%</li>
+</ul>
+<p>用数学语言来说，p-value的真正定义是<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立)<br>$$</p>
+<p>但选修2-3把p-value错误理解成：<br>$$<br>p-value&#x3D;P(H0不成立|出现现有数据)<br>$$<br>同时，选修2-3把1-(p-value)错误理解成：<br>$$<br>1-(p-value)&#x3D;P(H0成立|出现现有数据)<br>$$</p>
+<h1 id="2019年过审的高中教材"><a href="#2019年过审的高中教材" class="headerlink" title="2019年过审的高中教材"></a>2019年过审的高中教材</h1><p>2019年，高中教材出了新版。</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_1.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_2.png" class="">
+
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/new_book_3.png" class="">
+
+
+
+<p>在数学的《选择性必修3》中，有以下进步</p>
+<ul>
+<li>那句大错特错的”99%的把握“被去掉了</li>
+<li>给出了正确的推导</li>
+<li>采用了和大学数理统计教材一样的符号<ul>
+<li>用$\chi ^2$代替了$K^2$</li>
+<li>用了$\alpha$</li>
+</ul>
+</li>
+</ul>
+<p>但是有一句话仍然有一定的问题。这个问题不是错误，但容易引起歧义——当我们用自然语言写”犯错误的概率不超过$\alpha$时，我们容易理解为，$P(H0不成立|出现现有数据) \le \alpha$。</p>
+<p>为了避免歧义，我们不能用写”犯<strong>错误</strong>的概率“，而要写”犯<strong>第一类错误</strong>的概率”。（统计学家把第一类错误<strong>定义</strong>成$P(拒绝H0|H0成立)$，把第二类错误<strong>定义</strong>为$P(接受H0|H0不成立)$。）</p>
+<p>下图为陈希孺的《概率论与数理统计》，他的写法是正确的：</p>
+<img src="/2022/08/10/The_Misuse_of_p-value_in_the_Senior_High_School/%E9%99%88%E5%B8%8C%E5%AD%BA.png" class="">
+
+<p>传统的频率学派使用假设检验时，如果他发现p-value小于某个给定的值，比如0.01，他就会拒绝H0。在这种做法下：<br>$$<br>p-value &#x3D; P(拒绝H0|H0成立)<br>$$</p>
+<p>总结：<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(拒绝H0|H0成立) &#x3D; P(犯第一类错误)<br>$$</p>
+<h1 id="Bayes"><a href="#Bayes" class="headerlink" title="Bayes"></a>Bayes</h1><p>——2023-01-05 更新——</p>
+<p>以上所写的都是频率学派的假设检验。</p>
+<p>接下来我将写一下贝叶斯学派的假设检验。</p>
+<p>我们把p-value简记为<br>$$<br>p-value :&#x3D; P(出现现有数据或更极端数据|H0成立) &#x3D; P(data|H0)<br>$$<br>利用贝叶斯公式<br>$$<br>P(H0|data) &#x3D; \frac{P(data|H0)P(H0)}{P(data)}<br>$$<br>P(H0)被称为先验(prior)，P(data|H0)被称为似然(likelihood)，P(H0|data)被称为后验(posterior)，P(data)可以认为是一个常数。</p>
+<p>在频率学派眼里，H0要么成立要么不成立，不可以考虑P(H0)，也不可以考虑P(H0|data)。</p>
+<p>在贝叶斯学派眼里，H0不是要么成立要么不成立，可以考虑P(H0)，也可以考虑P(H0|data)。</p>
+<p>如果我们不那么学究，我们可以认为，频率学派 &#x3D; 贝叶斯学派 + 无信息先验。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/science/" rel="tag"># science</a>
+              <a href="/tags/statistics/" rel="tag"># statistics</a>
+              <a href="/tags/THINK/" rel="tag"># THINK</a>
+              <a href="/tags/senior-high-school/" rel="tag"># senior high school</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2022/08/10/With_Xuanhao/" rel="prev" title="with Xuanhao">
+                  <i class="fa fa-angle-left"></i> with Xuanhao
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2022/08/10/My_Thinking_from_Zhou_and_Guo/" rel="next" title="周琦和郭艾伦带给我的思索">
+                  周琦和郭艾伦带给我的思索 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments gitalk-container"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Physics-Lee</span>
+  </div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Word count total">201k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">11:12</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+  <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
+  <script src="/js/third-party/tags/pdf.js"></script>
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+
+  <script async src="/js/cursor/fireworks.js"></script>
+
+
+
+
+  <script src="/js/type/type.js"></script>
+  <script>
+    POWERMODE.colorful = true;
+    POWERMODE.shake = false;
+    document.body.addEventListener('input', POWERMODE);
+  </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
+
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"154cbfff818f5e0f6da3f5722b91de02"}</script>
+<script src="/js/third-party/comments/gitalk.js"></script>
+
+</body>
+</html>

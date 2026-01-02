@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="r-VnR_9WEe-TelKdzkrFWPN779jN-sZhatKeISSLq2U">
+  <meta name="msvalidate.01" content="BD9404A1FE093987092D7FA9ACAF4EAA">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="2023-10-18今天神游时看到了此视频。 哦，我以前确实想当然的以为，“不生儿子不罢休”会导致男多女少。 但看到这个标题之后我算了一下，这无非是个几何分布的问题。这种策略并不会导致男多女少。 此视频中，李永乐老师没有讲几何分布（高中生不会无穷级数），而是用错位相减法解决此问题。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="死于非命">
+<meta property="og:url" content="https://physics-lee.github.io/2023/10/18/Heartless/index.html">
+<meta property="og:site_name" content="Physics-Lee&#39;s Land">
+<meta property="og:description" content="2023-10-18今天神游时看到了此视频。 哦，我以前确实想当然的以为，“不生儿子不罢休”会导致男多女少。 但看到这个标题之后我算了一下，这无非是个几何分布的问题。这种策略并不会导致男多女少。 此视频中，李永乐老师没有讲几何分布（高中生不会无穷级数），而是用错位相减法解决此问题。">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-10-17T16:00:00.000Z">
+<meta property="article:modified_time" content="2023-11-03T01:20:11.000Z">
+<meta property="article:author" content="Physics-Lee">
+<meta property="article:tag" content="science">
+<meta property="article:tag" content="statistics">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://physics-lee.github.io/2023/10/18/Heartless/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2023/10/18/Heartless/","path":"2023/10/18/Heartless/","title":"死于非命"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>死于非命 | Physics-Lee's Land</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?d2fddd04f380f60410824da431ddee80"></script>
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Physics-Lee's Land" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Physics-Lee's Land</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li><li class="menu-item menu-item-games"><a href="/Games/" rel="section"><i class="fa fa-sailboat fa-fw"></i>Games</a></li><li class="menu-item menu-item-compu_neuro"><a href="/Compu_Neuro/" rel="section"><i class="fa-solid fa-code-branch fa-fw"></i>Compu_Neuro</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#2023-10-18"><span class="nav-number">1.</span> <span class="nav-text">2023-10-18</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2023-11-03"><span class="nav-number">2.</span> <span class="nav-text">2023-11-03</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Physics-Lee</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">403</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">82</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://math.stackexchange.com/users/1247222/bruce-lee-of-ustc" title="MathOverflow → https:&#x2F;&#x2F;math.stackexchange.com&#x2F;users&#x2F;1247222&#x2F;bruce-lee-of-ustc" rel="noopener me" target="_blank"><i class="fa-regular fa-paper-plane fa-fw"></i></a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/10/18/Heartless/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Physics-Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="死于非命 | Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          死于非命
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-10-18 00:00:00" itemprop="dateCreated datePublished" datetime="2023-10-18T00:00:00+08:00">2023-10-18</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-10/" itemprop="url" rel="index"><span itemprop="name">2023-10</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>6 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h1 id="2023-10-18"><a href="#2023-10-18" class="headerlink" title="2023-10-18"></a>2023-10-18</h1><p>今天神游时看到了<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=LGvJpCv9f6w">此视频</a>。</p>
+<p>哦，我以前确实想当然的以为，“不生儿子不罢休”会导致男多女少。</p>
+<p>但看到这个标题之后我算了一下，这无非是个几何分布的问题。这种策略并不会导致男多女少。</p>
+<p>此视频中，李永乐老师没有讲几何分布（高中生不会无穷级数），而是用错位相减法解决此问题。</p>
+<hr>
+<p>另一种思考方式是，当一个孩子将要出生，他&#x2F;她是男是女的概率都是50%，因此，无论采用什么生育策略，都不会导致男女比失衡。</p>
+<hr>
+<p>但在<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%BA%E5%8F%A3">中国大陆各年龄段人口比例</a>中，从1990年出生的人开始，男性的确多于女性，比例常年超过110：100。</p>
+<p><a target="_blank" rel="noopener" href="http://health.people.com.cn/n/2015/0204/c14739-26503659.html">2014年中国大陆出生人口性别比为115.88:100</a>。（<a target="_blank" rel="noopener" href="https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E9%A1%9E%E6%80%A7%E5%88%A5%E6%AF%94">自然条件下，这个数字会是104：100</a>）</p>
+<hr>
+<p>这可就是说，每100名女婴中，就有9.86名死于非命。</p>
+<p>This is, too ruthless, too heartless, even humanless。</p>
+<h1 id="2023-11-03"><a href="#2023-11-03" class="headerlink" title="2023-11-03"></a>2023-11-03</h1><p>心中郁闷，走到外面看了看星空。天空是多么的浩瀚、神秘与浪漫。但我低下头，看周围的世界时，却看到了各种不平等，性别之间的不平等，国家之间的不平等，民族&#x2F;种族之间的不平等，阶级之间的不平等。每当我看到这些时，总会异常地生气和愤怒。</p>
+<p>织女、牵牛、天津四这三颗恒星，已经存在了几亿年。如果它们有意识，看着一个蔚蓝星球上寿命不过几十年的某种生物因为一些差异而吵来吵去，因为下一代是男是女而挑选，是否会觉得可笑与难以理解。</p>
+<p>从小我就觉得，每个人都应该是平等的，至少每个孩子都应该是平等的，社会应该让每个孩子都成为自己想成为的人。我没有说必须成为科学家，科学和艺术是相辅相成的。</p>
+<p>为什么我会这么想？今天我有点想清楚了。</p>
+<p>从非功利的角度，我觉得一个人做错了事情才应该受到惩罚，而刚出生的孩子没有做错任何事情，应该是平等的。</p>
+<p>从功利的角度，人类，在浩瀚星空下，在茫茫宇宙中，是多么渺小。唯有教育和科学，才能让这个物种走出地球，走出太阳系，走出银河系。这些不平等，只会拖慢人类进步的步伐，别无他用。比如，我奶奶就只上了小学，因为她父母只愿意供儿子上初中。比如，巴以之间、俄乌之间，战争花的这些钱，如果投入在教育上，会产生多大的进步。</p>
+<p>诸位都是很有才华、很有知识的人，你们的才华已经足够支撑你们去改变一些事情。希望你们以后都能帮助更多的人。就像吴思，他写这本书，能帮助几千人，他本来可以不写这本书；就像饶毅和蒲慕明，他俩肯定呆在美国更爽啊，何必回中国受气，但是那样他俩不过普通院士，能帮助的不过几千人，他俩在中国，可以帮助几万人甚至几十万人。你们的才华并不逊于他们。温老师和我，努力地准备这个课，每年能帮的不过二三十人，希望你们能超过我们。</p>
+<p>当然了，我不是要道德绑架你们。像上一段那么做会过得很累。如果你只是想早日财富自由，自己舒舒服服、快快乐乐地过一生，那也无可非议，只要不伤害其他人。有多少能力就帮多少人吧。</p>
+<hr>
+<p>后记：</p>
+<p>上面那段话是我发给我的学生们的。</p>
+<p>我生气，是因为，从1990年到2020年，中国每年出生1000W人，每年二十分之一，那就是每年50W人。五十万条生命啊！这他妈的和德国日本有什么区别？而且，哪怕是在这个看似已经很进步的<a target="_blank" rel="noopener" href="https://wallstreetcn.com/articles/3699472">2021年</a>和<a target="_blank" rel="noopener" href="https://finance.eastmoney.com/a/202310122867937895.html">2022年</a>，性别比竟然还超过110：100，草。</p>
+<p>fyx同学安慰我说，她相信这是马尔科夫链，即，只要从2023年开始，大家的思想全都转变，那2023的新生儿男女比就会立刻回归正常。希望如此吧。</p>
+<p>以下是我和她的对话，涉及此问题，也涉及要不要报仇，她的话对我启发良多，现在记录下来。</p>
+<blockquote>
+<p>她：我感觉男生可能很晚才意识到很多女孩子被谋杀了，我妈妈刚出生就差点被杀了，学生物很早就知道出生人口比例不对劲。</p>
+<p>我：我也不知道该怎么回。。。只是感觉到深深的悲哀。。。我可以说一句抱歉，但是我说一句抱歉也于事无补。。。我只能说之后的中国出生人口比例会变正常。。。像李永乐视频里说的一样，我之前一直以为，不生儿子不罢休就会导致男多女少。。。</p>
+<p>她：不过其实堕胎的话，不算谋杀，太小了不认为有意识，受精卵还是属于财产的，人类胚胎实验一直也有的吧，不过那都是很小的胚胎，彩超能看出来性别的时候已经没那么小了（18-22周），更别提对母亲身体心理都伤害很大。我比较能接受的堕胎是那种查出来有先天疾病的。</p>
+<p>我：我也是。</p>
+<p>我：我这句抱歉，其实是想替所有男性说的。从某种意义上说，我们每个男生都有罪，哪怕我们并没有做什么，但就像德国和日本在二战后赔偿了很多战争赔款，每个德国人和日本人都有罪，哪怕他们并没有侵略其它国家。我这么说似乎很伪君子，但是我确实是这么想的，一个国家犯了罪，有时只能让所有国民一起承担责任。</p>
+<p>她：我觉得是马尔可夫的</p>
+<p>我：yep，如果我们这代人观念上全都男女平等</p>
+<p>她：那以后就没罪了</p>
+<p>她：如果历史的仇都要报的话，那就没完没了了。虽然，好像现在确实是没完没了。只不过我不觉得就该这样。</p>
+<p>我：中国官方的发言一直是铭记二战，不提倡仇恨，珍爱和平，中国人民和日本人民之间没有仇恨。但是民间确实也有没完没了的声音。我小时候，内心民族主义很强烈，总觉得有一天应该去找日本报仇。现在想来，如果他们珍爱和平，那当然不必，如果他们不承认历史，那要抗议，但也不要通过战争的方式来报仇。</p>
+<p>她：确实。</p>
+<p>我：观念上男女平等，做一些有益于男女平等的事（比如平等的教育？），也算是赎罪了。就像日本人民，如果珍爱和平的话，也算是赎罪了。</p>
+<p>她：是的</p>
+</blockquote>
+<p>”如果历史的仇都要报的话，那就没完没了了“，划线记下来。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/science/" rel="tag"># science</a>
+              <a href="/tags/statistics/" rel="tag"># statistics</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2023/10/12/The_Greatest_Scientific_Couple_of_All_Time/" rel="prev" title="GOAT Science Couple">
+                  <i class="fa fa-angle-left"></i> GOAT Science Couple
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2023/10/22/Before_Sampling_vs_After_Sampling/" rel="next" title="Before Sampling vs After Sampling">
+                  Before Sampling vs After Sampling <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments gitalk-container"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Physics-Lee</span>
+  </div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Word count total">201k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">11:12</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+  <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
+  <script src="/js/third-party/tags/pdf.js"></script>
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+
+  <script async src="/js/cursor/fireworks.js"></script>
+
+
+
+
+  <script src="/js/type/type.js"></script>
+  <script>
+    POWERMODE.colorful = true;
+    POWERMODE.shake = false;
+    document.body.addEventListener('input', POWERMODE);
+  </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
+
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"b12f23ce2b93b902808040a14eb348c2"}</script>
+<script src="/js/third-party/comments/gitalk.js"></script>
+
+</body>
+</html>

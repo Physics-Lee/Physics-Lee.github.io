@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="r-VnR_9WEe-TelKdzkrFWPN779jN-sZhatKeISSLq2U">
+  <meta name="msvalidate.01" content="BD9404A1FE093987092D7FA9ACAF4EAA">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="这篇文章是一门课的一次作业，在此分享给大家！  1 观点概述我和 Large Language Model2022年11月末，OpenAI推出了ChatGPT。 2022年12月，我开始使用ChatGPT，并且把它推荐给了我的几位好朋友。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Large Language Model对于教育、科学的影响">
+<meta property="og:url" content="https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/index.html">
+<meta property="og:site_name" content="Physics-Lee&#39;s Land">
+<meta property="og:description" content="这篇文章是一门课的一次作业，在此分享给大家！  1 观点概述我和 Large Language Model2022年11月末，OpenAI推出了ChatGPT。 2022年12月，我开始使用ChatGPT，并且把它推荐给了我的几位好朋友。">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/1.png">
+<meta property="article:published_time" content="2023-04-09T16:00:00.000Z">
+<meta property="article:modified_time" content="2023-11-11T13:06:24.000Z">
+<meta property="article:author" content="Physics-Lee">
+<meta property="article:tag" content="AI">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/1.png">
+
+
+<link rel="canonical" href="https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/","path":"2023/04/10/The_Impact_of_LLM_to_Science_and_Education/","title":"Large Language Model对于教育、科学的影响"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>Large Language Model对于教育、科学的影响 | Physics-Lee's Land</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?d2fddd04f380f60410824da431ddee80"></script>
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Physics-Lee's Land" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Physics-Lee's Land</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li><li class="menu-item menu-item-games"><a href="/Games/" rel="section"><i class="fa fa-sailboat fa-fw"></i>Games</a></li><li class="menu-item menu-item-compu_neuro"><a href="/Compu_Neuro/" rel="section"><i class="fa-solid fa-code-branch fa-fw"></i>Compu_Neuro</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-%E8%A7%82%E7%82%B9%E6%A6%82%E8%BF%B0"><span class="nav-number">1.</span> <span class="nav-text">1 观点概述</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%91%E5%92%8C-Large-Language-Model"><span class="nav-number">1.1.</span> <span class="nav-text">我和 Large Language Model</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Large-Language-Model%E7%9A%84%E5%8E%9F%E7%90%86%E7%AE%80%E4%BB%8B"><span class="nav-number">1.2.</span> <span class="nav-text">Large Language Model的原理简介</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BB%99%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%A3%E9%87%8A"><span class="nav-number">1.2.1.</span> <span class="nav-text">给一个小学生解释</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BB%99%E4%B8%80%E4%B8%AA%E6%9C%AC%E7%A7%91%E7%94%9F%E8%A7%A3%E9%87%8A"><span class="nav-number">1.2.2.</span> <span class="nav-text">给一个本科生解释</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Large-Language-Model%E5%AF%B9%E6%95%99%E8%82%B2%E7%9A%84%E5%BD%B1%E5%93%8D"><span class="nav-number">1.3.</span> <span class="nav-text">Large Language Model对教育的影响</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Large-Language-Model%E5%AF%B9%E7%A7%91%E5%AD%A6%E7%9A%84%E5%BD%B1%E5%93%8D"><span class="nav-number">1.4.</span> <span class="nav-text">Large Language Model对科学的影响</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Large-Language-Model%E7%9A%84%E6%9C%AA%E6%9D%A5"><span class="nav-number">1.5.</span> <span class="nav-text">Large Language Model的未来</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%88%AA%E5%9B%BE"><span class="nav-number">2.</span> <span class="nav-text">2 思维导图截图</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E6%94%B6%E8%8E%B7%E3%80%81%E6%84%9F%E6%82%9F%E3%80%81%E8%AF%84%E4%BB%B7"><span class="nav-number">3.</span> <span class="nav-text">3 收获、感悟、评价</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#4-%E5%9C%A8%E5%93%AA%E9%87%8C%E6%A3%80%E7%B4%A2"><span class="nav-number">4.</span> <span class="nav-text">4 在哪里检索</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#5-%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"><span class="nav-number">5.</span> <span class="nav-text">5 参考资料</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Physics-Lee</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">403</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">82</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://math.stackexchange.com/users/1247222/bruce-lee-of-ustc" title="MathOverflow → https:&#x2F;&#x2F;math.stackexchange.com&#x2F;users&#x2F;1247222&#x2F;bruce-lee-of-ustc" rel="noopener me" target="_blank"><i class="fa-regular fa-paper-plane fa-fw"></i></a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Physics-Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="Large Language Model对于教育、科学的影响 | Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Large Language Model对于教育、科学的影响
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2023-04-10 00:00:00" itemprop="dateCreated datePublished" datetime="2023-04-10T00:00:00+08:00">2023-04-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/" itemprop="url" rel="index"><span itemprop="name">2023</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2023/2023-04/" itemprop="url" rel="index"><span itemprop="name">2023-04</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>2k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>7 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>这篇文章是一门课的一次作业，在此分享给大家！</p>
+</blockquote>
+<h1 id="1-观点概述"><a href="#1-观点概述" class="headerlink" title="1 观点概述"></a>1 观点概述</h1><h2 id="我和-Large-Language-Model"><a href="#我和-Large-Language-Model" class="headerlink" title="我和 Large Language Model"></a>我和 Large Language Model</h2><p>2022年11月末，OpenAI推出了ChatGPT。</p>
+<p>2022年12月，我开始使用ChatGPT，并且把它推荐给了我的几位好朋友。</p>
+<p>使用中，我发现</p>
+<ul>
+<li><p>数学物理上，它的逻辑推理能力较差，但是它可以给出一些解题灵感。</p>
+</li>
+<li><p>计算机科学上，它具有极强的编程能力。毫不夸张地说，学C语言、数据结构、机器学习、R语言时有它将快十倍。</p>
+</li>
+<li><p>化学生物上，它给出的信息都可以去搜索引擎查证，因此用它来解决化学生物问题是一个不错的选择。</p>
+</li>
+<li><p>它具有极强的人文关怀。事实上，我最开始拿到它时，和它聊的是我的心事，它展现了超强的人文关怀能力。</p>
+</li>
+</ul>
+<p>以上几点都将在本文中得到体现。</p>
+<p>除了ChatGPT，我也使用了New Bing, Bard。</p>
+<p>简单地说，New Bing的感觉和ChatGPT类似，Bard不如两者好用。</p>
+<h2 id="Large-Language-Model的原理简介"><a href="#Large-Language-Model的原理简介" class="headerlink" title="Large Language Model的原理简介"></a>Large Language Model的原理简介</h2><h3 id="给一个小学生解释"><a href="#给一个小学生解释" class="headerlink" title="给一个小学生解释"></a>给一个小学生解释</h3><p>如果给一个7岁小孩解释大语言模型，那就是——大语言模型通过上下文之间的相关性来生成一句话。</p>
+<h3 id="给一个本科生解释"><a href="#给一个本科生解释" class="headerlink" title="给一个本科生解释"></a>给一个本科生解释</h3><ul>
+<li><p>Large Language Model是一个巨大的人工神经网络，可以有1000亿个weight和bias。</p>
+</li>
+<li><p>Transformer: 它通常采用Transformer架构。Transformer采用了self-attention，可以按输入数据各部分重要性的不同而分配不同的权重。</p>
+</li>
+<li><p>self-supervised learning: 它通过self-supervised learning利用无标签的数据。self-supervised learning有三种常见的形式，它用的是第一种。</p>
+<ul>
+<li>文本处理：在文本数据中，可以移除某些单词或句子，并让模型预测这些缺失的部分。这种方法让模型学会了语言的结构和语义，而不需要任何外部的标签。</li>
+<li>图像处理：在图像处理中，可以遮蔽图像的一部分，并让模型尝试重建被遮蔽的部分。这种方法使得模型学习到图像的特征和结构。</li>
+<li>音频处理：在音频数据中，可以移除音频的一部分，并让模型预测缺失的音频。这样的训练帮助模型理解音频的模式和结构。</li>
+</ul>
+</li>
+<li><p>auto-regressive: 某次输出中，每一个新生成的单词依赖于之前的所有输入、之前的所有输出、本次输出中之前的所有输出。</p>
+</li>
+<li><p>Reinforcement-Learning-Human-Feedback: 第一步，准备一个大量的由人类构造的问答对（比如，对于广义相对论的标准答案），让GPT进行有监督学习；第二步，让GPT生成自己的回答，让人类进行打分，进行所谓的人类反馈强化学习。</p>
+<ul>
+<li>第二步选择强化学习不是必须的，也可以选择其它ML方法，但是，强化学习根据奖励、惩罚来调整行为，因此比较适合这种训练。</li>
+</ul>
+</li>
+<li><p>说了这么多，还不如<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA">60行代码就能构建自己的GPT！</a></p>
+</li>
+</ul>
+<p>我个人认为，Reinforcement-Learning-Human-Feedback是让GPT-3.5远远强于GPT-3的关键。当然我还只是门外汉啦。<a target="_blank" rel="noopener" href="https://www.51cto.com/article/743023.html">这里有位学者和我由类似的看法。</a></p>
+<p>这是很重要的一点，我个人认为GPT3.5和GPT3的区别大于GPT4和GPT3.5的区别。</p>
+<p>要知道，GPT3可只有<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/2YC1N3MB8G7mw1HThucceQ">这种水平</a>。</p>
+<h2 id="Large-Language-Model对教育的影响"><a href="#Large-Language-Model对教育的影响" class="headerlink" title="Large Language Model对教育的影响"></a>Large Language Model对教育的影响</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LsO_-VvPtcb1H5yyBzqc1w">GPT-4最震撼我的一点</a></p>
+<p>在这篇文章中，作者展示了GPT如何能一步一步引导初一学生学会解二元一次方程。GPT循循善诱，一步一步引导，而不是直接灌输。</p>
+<p><a target="_blank" rel="noopener" href="https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/">可汗学院已经在开发用于教育的AI</a></p>
+<p>可汗学院是世界文明的非盈利组织，他们教授小学、初中、高中、本科的课程。我曾经看过他们的许多课。</p>
+<p>之前说过，ChatGPT具有极强的人文关怀。我的一个朋友假装自己是一个留守儿童，ChatGPT贴心地给了很多建议。我的一个老师假装自己是高考前压力大的学生，New Bing也贴心地帮忙。</p>
+<p>GPT对于我自己的学习而言（我的学习也隶属于教育嘛）：</p>
+<p>编程上</p>
+<ul>
+<li>刚出时，我惊讶地发现它可以用5种不同的方法实现Support Vector Machine，而我憋了一个月啥也写不出来。</li>
+<li>随后，我用它掌握了很多Python, MATLAB的技巧，让我的代码远远比以前优雅。</li>
+</ul>
+<p>计算机上：我经常问它一些和ML、AI有关的问题，它都能解释。解释的结果可以通过搜索引擎验证。</p>
+<p>数学物理上：因为我最近半年的数学物理课不多，我用得较少</p>
+<p>化学生物上：和计算机类似，它给出的答案可以通过搜索引擎验证。</p>
+<p>总而言之，在编程上，LLM让我的学习效率高了2-4倍。</p>
+<p>尽管如此，我要写下两个警告</p>
+<ul>
+<li>不要傻傻地复制粘贴AI给的代码，要理解它写的代码的原理。它用了什么样的库函数避免重复造轮子？它如何更优雅？</li>
+<li>不要问AI你无法查证的东西，除非你只是想问着玩玩。</li>
+</ul>
+<h2 id="Large-Language-Model对科学的影响"><a href="#Large-Language-Model对科学的影响" class="headerlink" title="Large Language Model对科学的影响"></a>Large Language Model对科学的影响</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA">陶哲轩发文称自己已经把GPT加入工作流</a></p>
+<p>这篇文章对我最大的启发是——陶认为ChatGPT的逻辑很有问题，但是可以给出解题的灵感。</p>
+<p>对此，我想感慨一下——Two mathematicians used ChatGPT, one saw mistakes, the other saw inspirations.</p>
+<p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/40lR75jbv4L0IuTfWF4mrw">陶哲轩再发文展示自己玩GPT</a></p>
+<p>在此文中，陶给GPT看了自己的工作，让GPT问自己问题，而不是自己问GPT问题，这是一个很nb的创新。</p>
+<p>GPT给陶挑刺之后，陶收益颇丰。</p>
+<p>这两篇文章对我启发极大，特别是第二篇（第一篇因为我目前工作涉及到的数学物理较少，暂时用不上），我可以让AI作为学生、作为editor、作为review，去给我挑刺。</p>
+<h2 id="Large-Language-Model的未来"><a href="#Large-Language-Model的未来" class="headerlink" title="Large Language Model的未来"></a>Large Language Model的未来</h2><p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/XaWPP0GRsCCvkVUCQAZulg">微软154页研究报告</a></p>
+<p>这个报告写了GPT-4对于各行各业的影响。</p>
+<p>值得注意的是，LeCun一直不喜欢LLM，认为LLM是通用人工智能的邪路。</p>
+<p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/0Nk2jpWkxXQ-mZKjKQNvnw">GPT-4已经可以使用插件，从而联网，从而使用Wolfram</a></p>
+<p>可惜由于种种原因，我现在用不上GPT-4</p>
+<p><a target="_blank" rel="noopener" href="https://www.nature.com/articles/s41467-023-37180-x">下一代人工智能：NeuroAI</a></p>
+<p>这篇论文里，作者们认为，光具备语言能力的机器不能称之为人工智能，还需要有感觉、运动、学习、记忆的能力。</p>
+<p>这里打个广告，这也是我们实验室未来5年的目标。欢迎联系中科大生命学院温泉老师。</p>
+<h1 id="2-思维导图截图"><a href="#2-思维导图截图" class="headerlink" title="2 思维导图截图"></a>2 思维导图截图</h1><img src="/2023/04/10/The_Impact_of_LLM_to_Science_and_Education/1.png" class="">
+
+
+
+<h1 id="3-收获、感悟、评价"><a href="#3-收获、感悟、评价" class="headerlink" title="3 收获、感悟、评价"></a>3 收获、感悟、评价</h1><p>我之前已经很会使用搜索引擎了，所以这方面提升不大。</p>
+<p>对我提升大的是，我整合了很多和GPT有关的信息，我之前一直没有整合。</p>
+<h1 id="4-在哪里检索"><a href="#4-在哪里检索" class="headerlink" title="4 在哪里检索"></a>4 在哪里检索</h1><p>主动搜索：Google, GPT.</p>
+<p>被动搜索：之前我的朋友发给了我很多这方面的微信推送，质量都极高。</p>
+<h1 id="5-参考资料"><a href="#5-参考资料" class="headerlink" title="5 参考资料"></a>5 参考资料</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Large_language_model">LLM in Wikipedia</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA">60行代码就能构建GPT！</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/LsO_-VvPtcb1H5yyBzqc1w">GPT-4最震撼我的一点</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/">可汗学院已经在开发用于教育的AI</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA">陶哲轩发文称自己已经把GPT加入工作流</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/40lR75jbv4L0IuTfWF4mrw">陶哲轩再发文展示自己玩GPT</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/XaWPP0GRsCCvkVUCQAZulg">微软154页研究报告</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/0Nk2jpWkxXQ-mZKjKQNvnw">GPT-4已经可以使用插件，从而联网，从而使用Wolfram</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.nature.com/articles/s41467-023-37180-x">下一代人工智能：NeuroAI</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.51cto.com/article/743023.html">Why is GPT-3.5 so much better than GPT-3?</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/2YC1N3MB8G7mw1HThucceQ">Deep Learning Is Hitting a Wall.</a></li>
+</ol>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/AI/" rel="tag"># AI</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2023/04/04/Introduction_to_C_elegans/" rel="prev" title="Introduction to C.elegans">
+                  <i class="fa fa-angle-left"></i> Introduction to C.elegans
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2023/04/22/Scientists_vs_Basketball_Players/" rel="next" title="科学家和篮球运动员">
+                  科学家和篮球运动员 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments gitalk-container"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Physics-Lee</span>
+  </div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Word count total">201k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">11:12</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+  <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
+  <script src="/js/third-party/tags/pdf.js"></script>
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+
+  <script async src="/js/cursor/fireworks.js"></script>
+
+
+
+
+  <script src="/js/type/type.js"></script>
+  <script>
+    POWERMODE.colorful = true;
+    POWERMODE.shake = false;
+    document.body.addEventListener('input', POWERMODE);
+  </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
+
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"c31fd1df60f1ba59a88d0e1199986c6b"}</script>
+<script src="/js/third-party/comments/gitalk.js"></script>
+
+</body>
+</html>

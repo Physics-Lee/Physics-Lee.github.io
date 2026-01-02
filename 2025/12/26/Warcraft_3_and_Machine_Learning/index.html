@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="r-VnR_9WEe-TelKdzkrFWPN779jN-sZhatKeISSLq2U">
+  <meta name="msvalidate.01" content="BD9404A1FE093987092D7FA9ACAF4EAA">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="问答问：为什么我打不过电脑，而infi和ted能打过？ 答：他们的Action Per Minute是300个每分钟，我是70个分钟，相当于他们的时间流逝速度比我慢4倍。这就像跑步比赛，他们的步频是300，我的步频是70，这还比个啥。 问：为什么我用某种特殊兵种（狮鹫）能打过电脑，换其他兵种就不行了？ 答：">
+<meta property="og:type" content="article">
+<meta property="og:title" content="魔兽争霸中的通用智能和专用智能">
+<meta property="og:url" content="https://physics-lee.github.io/2025/12/26/Warcraft_3_and_Machine_Learning/index.html">
+<meta property="og:site_name" content="Physics-Lee&#39;s Land">
+<meta property="og:description" content="问答问：为什么我打不过电脑，而infi和ted能打过？ 答：他们的Action Per Minute是300个每分钟，我是70个分钟，相当于他们的时间流逝速度比我慢4倍。这就像跑步比赛，他们的步频是300，我的步频是70，这还比个啥。 问：为什么我用某种特殊兵种（狮鹫）能打过电脑，换其他兵种就不行了？ 答：">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-12-25T16:00:00.000Z">
+<meta property="article:modified_time" content="2025-12-28T11:56:47.184Z">
+<meta property="article:author" content="Physics-Lee">
+<meta property="article:tag" content="AI">
+<meta property="article:tag" content="video game">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://physics-lee.github.io/2025/12/26/Warcraft_3_and_Machine_Learning/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2025/12/26/Warcraft_3_and_Machine_Learning/","path":"2025/12/26/Warcraft_3_and_Machine_Learning/","title":"魔兽争霸中的通用智能和专用智能"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>魔兽争霸中的通用智能和专用智能 | Physics-Lee's Land</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?d2fddd04f380f60410824da431ddee80"></script>
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Physics-Lee's Land" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Physics-Lee's Land</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li><li class="menu-item menu-item-games"><a href="/Games/" rel="section"><i class="fa fa-sailboat fa-fw"></i>Games</a></li><li class="menu-item menu-item-compu_neuro"><a href="/Compu_Neuro/" rel="section"><i class="fa-solid fa-code-branch fa-fw"></i>Compu_Neuro</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E9%97%AE%E7%AD%94"><span class="nav-number">1.</span> <span class="nav-text">问答</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#GPT%E5%AF%B9%E4%BA%8E%E5%A6%82%E4%BD%95%E4%BB%8E%E4%B8%93%E7%94%A8%E6%99%BA%E8%83%BD%E8%BF%9B%E6%AD%A5%E5%88%B0%E9%80%9A%E7%94%A8%E6%99%BA%E8%83%BD%E7%9A%84%E5%9B%9E%E7%AD%94"><span class="nav-number">2.</span> <span class="nav-text">GPT对于如何从专用智能进步到通用智能的回答</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2025-12-28-%E6%9B%B4%E6%96%B0"><span class="nav-number">3.</span> <span class="nav-text">2025-12-28 更新</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Physics-Lee</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">403</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">82</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://math.stackexchange.com/users/1247222/bruce-lee-of-ustc" title="MathOverflow → https:&#x2F;&#x2F;math.stackexchange.com&#x2F;users&#x2F;1247222&#x2F;bruce-lee-of-ustc" rel="noopener me" target="_blank"><i class="fa-regular fa-paper-plane fa-fw"></i></a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2025/12/26/Warcraft_3_and_Machine_Learning/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Physics-Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="魔兽争霸中的通用智能和专用智能 | Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          魔兽争霸中的通用智能和专用智能
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2025-12-26 00:00:00" itemprop="dateCreated datePublished" datetime="2025-12-26T00:00:00+08:00">2025-12-26</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2025/" itemprop="url" rel="index"><span itemprop="name">2025</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2025/2025-12/" itemprop="url" rel="index"><span itemprop="name">2025-12</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.9k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>6 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h1 id="问答"><a href="#问答" class="headerlink" title="问答"></a>问答</h1><p>问：为什么我打不过电脑，而infi和ted能打过？</p>
+<p>答：他们的Action Per Minute是300个每分钟，我是70个分钟，相当于他们的时间流逝速度比我慢4倍。这就像跑步比赛，他们的步频是300，我的步频是70，这还比个啥。</p>
+<p>问：为什么我用某种特殊兵种（狮鹫）能打过电脑，换其他兵种就不行了？</p>
+<p>答：</p>
+<ol>
+<li><p>利用电脑的弱点：2003年暴雪做的这个AI是符号主义人工智能，是一条条规则组合在一起的，它有一些弱点（例如被狮鹫克制、被奇美拉克制、打完野怪一定要回城）。我利用这些弱点指定的策略可以打赢电脑，但是这些策略无法<strong>泛化</strong>到其他兵种。</p>
+</li>
+<li><p>规避自己的弱点：这些特殊兵种需要的APM较低。</p>
+</li>
+</ol>
+<p>问：在魔兽争霸的世界里，infi和ted是“通用智能”，我是“专用智能”？</p>
+<p>答：在魔兽争霸的世界里，是的。因为infi和ted可以使用多个种族、多个兵种、多个策略来应付多种不同的敌人，无论敌人是人还是符号主义人工智能还是联结主义人工智能而我只能使用单一种族、单一兵种、单一策略来应对一种人工智能（2003版）</p>
+<p>问：如何从专用智能进步到通用智能？</p>
+<p>答：多样训练——在各种数据集上训练，不要过拟合到任何种族、兵种、策略、敌人。</p>
+<p>问：多样训练是必要条件还是充分条件？</p>
+<p>答：必要条件。</p>
+<p>问：符号主义人工智能或联结主义人工智能能否击败infi和ted这种水平的通用智能？</p>
+<p>答：比象棋和围棋难，但仍然有希望。</p>
+<p>问：是否应该要求符号主义人工智能或联结主义人工智能像infi和ted一样有限制？（例如战争迷雾、画面必须串行获取、一次最多能操纵的部队为12个等）</p>
+<p>答：取决于目的。</p>
+<ol>
+<li>如果目标是像AlphaGo一样堂堂正正击败敌人，需要。</li>
+<li>如果目标是像ChatGPT一样帮助人类，不需要。——就像你不会要求ChatGPT阅读速度有上限。</li>
+</ol>
+<p>问：所以你觉得在war3的世界里你也是一个专用智能？</p>
+<p>答：是的。war3世界里，专用智能有：绝大多数玩家，简单的、中等的、令人发狂的电脑。通用智能有：Infi等职业选手，尚未出现的魔兽争霸强大AI。</p>
+<h1 id="GPT对于如何从专用智能进步到通用智能的回答"><a href="#GPT对于如何从专用智能进步到通用智能的回答" class="headerlink" title="GPT对于如何从专用智能进步到通用智能的回答"></a>GPT对于如何从专用智能进步到通用智能的回答</h1><p>详细地说，我还需要</p>
+<blockquote>
+<p>第一步：接受“不熟练”和胜率下降（多样训练）</p>
+<p><strong>（这是从专用走向通用的心理门槛）</strong></p>
+<p>专用智能是怎么形成的？</p>
+<p>专用智能几乎总是这样来的：</p>
+<p>找到一套<strong>稳定赢的方法</strong></p>
+<p>在这套方法上不断熟练</p>
+<p>把所有失败都当成“执行不够好”</p>
+<p>在你文中的例子就是：</p>
+<p>狮鹫 → 利用电脑弱点 → 稳定获胜</p>
+<p>这一步没有错，但它会产生一个后果：</p>
+<p><strong>你只在一个极窄的分布上优化自己。</strong></p>
+<hr>
+<p>通用智能的第一步是什么？</p>
+<p>不是学新技巧，而是<strong>主动离开舒适区</strong>：</p>
+<p>用你不熟的兵种</p>
+<p>用你不擅长的种族</p>
+<p>对手不再是“那一个 AI”</p>
+<p>结果几乎必然是：</p>
+<p>操作变形</p>
+<p>决策混乱</p>
+<p>胜率显著下降</p>
+<p>👉 这一步的本质是： <strong>承认“我现在不行”，而不是“这局我一定要赢”。</strong></p>
+<p>这是所有泛化能力的代价。</p>
+<hr>
+<p>第二步：从“具体套路”转向“抽象概念”（多样训练）</p>
+<p><strong>（这是能力结构的变化，不是熟练度变化）</strong></p>
+<p>专用智能在“记什么”？</p>
+<p>专用智能记的是：</p>
+<p>什么时候出狮鹫</p>
+<p>对方出什么我就出什么</p>
+<p>第几分钟做什么事</p>
+<p>这些都是<strong>具体的、不可迁移的知识</strong>。</p>
+<hr>
+<p>通用智能在“想什么”？</p>
+<p>通用智能不直接操作“兵种名”，而是操作<strong>中间抽象</strong>：</p>
+<p>资源是否领先</p>
+<p>节奏快还是慢</p>
+<p>当前威胁来自哪里</p>
+<p>对方是否有反制空间</p>
+<p>比如高手不会想：</p>
+<p>“我要出狮鹫”</p>
+<p>而是想：</p>
+<p>“我现在需要一个<strong>对方短时间内处理不了的空中威胁</strong>”</p>
+<p>狮鹫只是这个抽象的一个实例。</p>
+<p>👉 这一步完成后，你<strong>即使换兵种，也不会完全失效</strong>。</p>
+<hr>
+<p>第三步：策略失效时，局部失败而不是系统崩溃（多样训练的结果检验）</p>
+<p><strong>（这是“通用”的核心能力之一）</strong></p>
+<p>专用智能的典型失败模式</p>
+<p>专用智能往往是：</p>
+<p>套路成立 → 表现很好</p>
+<p>套路被破 → 全盘崩溃</p>
+<p>因为：</p>
+<p>所有判断都围绕那一个策略</p>
+<p>没有“备选结构”</p>
+<p>这就是你文中说的：</p>
+<p>策略无法泛化</p>
+<hr>
+<p>通用智能的关键区别</p>
+<p>通用智能有一个能力：</p>
+<p><strong>允许某个局部假设是错的，而整体仍然继续运转。</strong></p>
+<p>在魔兽中表现为：</p>
+<p>发现对方克制我主力 → 不继续硬送</p>
+<p>放弃原计划 → 改节奏、缩资源、拖时间</p>
+<p>不指望“翻盘套路”，而是“止损调整”</p>
+<p>这不是“临场灵感”，而是：</p>
+<p><strong>决策系统本身就允许失败发生。</strong></p>
+<hr>
+<p>第四步：把“自身限制”当成决策输入（把自身限制当输入）</p>
+<p><strong>（这一步你文中其实已经点到了 APM）</strong></p>
+<p>专用智能的隐含假设</p>
+<p>专用智能往往假设：</p>
+<p>“这套策略只要执行到位就行”</p>
+<p>但这个“到位”往往隐含：</p>
+<p>很高 APM</p>
+<p>多线操作</p>
+<p>极强执行稳定性</p>
+<p>一旦现实达不到，就会崩。</p>
+<hr>
+<p>通用智能怎么做？</p>
+<p>通用智能从一开始就把限制算进去：</p>
+<p>我现在的 APM 上限是多少</p>
+<p>我能稳定处理几条战线</p>
+<p>我是否能持续高强度操作</p>
+<p>然后选择：</p>
+<p><strong>在这些限制下最稳健的策略</strong></p>
+<p>所以高手往往：</p>
+<p>主动简化操作</p>
+<p>放弃理论最优但执行困难的方案</p>
+<p>选择“我能一直打对的东西”</p>
+<p>👉 这不是退化，而是<strong>自知 + 稳定性</strong>。</p>
+</blockquote>
+<h1 id="2025-12-28-更新"><a href="#2025-12-28-更新" class="headerlink" title="2025-12-28 更新"></a>2025-12-28 更新</h1><p>今天我学会了使用魔兽争霸的地图编辑器。我在里面跑上一个模拟，离开家去工位上班。</p>
+<p>没错，电子游戏中的模拟和物理学中的模拟一样，都是对现实世界的模仿。这件事我本科就意识到了，想清楚这件事时我很兴奋！<a href="https://physics-lee.github.io/2021/09/01/Travel_Back/">还写了一篇博客</a>。你可以认为，红色警戒、魔兽争霸、我的世界都是对于现实世界的仿真。</p>
+<p>今天我又想清楚一件有意思的事——如果你早上跑了一个魔兽的模拟，晚上回来发现它竟然能够告诉你现实世界的很多事情，你是不是感觉很离谱也很兴奋。然而事实就是这样——所谓的联结主义&#x2F;深度学习&#x2F;人工神经网络，就像魔兽的地图编辑器一样，你在里面跑上几百个几千个几万个几亿个人工神经元，然后它就会告诉你现实世界中将会发生什么。这就是AlphaFold。当然，你需要把和现实世界有关的一些信息输入进去。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/AI/" rel="tag"># AI</a>
+              <a href="/tags/video-game/" rel="tag"># video game</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2025/11/04/AI_and_Dota/" rel="prev" title="AI真的能击败Dota顶级职业选手吗？">
+                  <i class="fa fa-angle-left"></i> AI真的能击败Dota顶级职业选手吗？
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2025/12/28/How_To_Work_With_AI/" rel="next" title="如何和LLM协作？">
+                  如何和LLM协作？ <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments gitalk-container"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Physics-Lee</span>
+  </div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Word count total">201k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">11:12</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+  <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
+  <script src="/js/third-party/tags/pdf.js"></script>
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+
+  <script async src="/js/cursor/fireworks.js"></script>
+
+
+
+
+  <script src="/js/type/type.js"></script>
+  <script>
+    POWERMODE.colorful = true;
+    POWERMODE.shake = false;
+    document.body.addEventListener('input', POWERMODE);
+  </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
+
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"ecaf8af696fa7648f7024e5cdbacbe40"}</script>
+<script src="/js/third-party/comments/gitalk.js"></script>
+
+</body>
+</html>
