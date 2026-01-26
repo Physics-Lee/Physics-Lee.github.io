@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2025/09/16/Death_Coming/</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2026/01/01/Kelvin/</loc>
     
     <lastmod>2026-01-02</lastmod>
@@ -20,34 +29,7 @@
   </url>
   
   <url>
-    <loc>https://physics-lee.github.io/2025/12/26/Warcraft_3_and_Machine_Learning/</loc>
-    
-    <lastmod>2025-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/02/08/Who_Is_the_Most_Irreplaceable/</loc>
-    
-    <lastmod>2025-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://physics-lee.github.io/2025/10/09/Speaking_and_Writing_Languages/</loc>
-    
-    <lastmod>2025-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2025/09/16/Death_Coming/</loc>
     
     <lastmod>2025-12-11</lastmod>
     
@@ -3694,7 +3676,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2026-01-02</lastmod>
+    <lastmod>2026-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
