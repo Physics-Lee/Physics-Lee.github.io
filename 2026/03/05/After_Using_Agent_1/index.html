@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="r-VnR_9WEe-TelKdzkrFWPN779jN-sZhatKeISSLq2U">
+  <meta name="msvalidate.01" content="BD9404A1FE093987092D7FA9ACAF4EAA">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"physics-lee.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.18.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="最近几天玩了玩claude code&#x2F;codex&#x2F;opencode，有些体会，作文分享。这仨都是在25年下半年越来越火的agent。 类似物它们类似于vscode&#x2F;cursor的agent模式，但能跑更长时间，使用方式更极简。 危险程度排行众所周知，agent是十分危险的，无论是对个人还是对全人类。轻则删库删文件，重可。。。（自行联想）">
+<meta property="og:type" content="article">
+<meta property="og:title" content="agent有感1：claude code&#x2F;codex&#x2F;opencode">
+<meta property="og:url" content="https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/index.html">
+<meta property="og:site_name" content="Physics-Lee&#39;s Land">
+<meta property="og:description" content="最近几天玩了玩claude code&#x2F;codex&#x2F;opencode，有些体会，作文分享。这仨都是在25年下半年越来越火的agent。 类似物它们类似于vscode&#x2F;cursor的agent模式，但能跑更长时间，使用方式更极简。 危险程度排行众所周知，agent是十分危险的，无论是对个人还是对全人类。轻则删库删文件，重可。。。（自行联想）">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2026-03-04T16:00:00.000Z">
+<meta property="article:modified_time" content="2026-03-05T03:06:20.704Z">
+<meta property="article:author" content="Physics-Lee">
+<meta property="article:tag" content="AI">
+<meta property="article:tag" content="THINK">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/","path":"2026/03/05/After_Using_Agent_1/","title":"agent有感1：claude code/codex/opencode"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>agent有感1：claude code/codex/opencode | Physics-Lee's Land</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7TPY4HDXE"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-B7TPY4HDXE","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?d2fddd04f380f60410824da431ddee80"></script>
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Physics-Lee's Land" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Physics-Lee's Land</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="Search" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li><li class="menu-item menu-item-games"><a href="/Games/" rel="section"><i class="fa fa-sailboat fa-fw"></i>Games</a></li><li class="menu-item menu-item-compu_neuro"><a href="/Compu_Neuro/" rel="section"><i class="fa-solid fa-code-branch fa-fw"></i>Compu_Neuro</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%B1%BB%E4%BC%BC%E7%89%A9"><span class="nav-number">1.</span> <span class="nav-text">类似物</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%B1%E9%99%A9%E7%A8%8B%E5%BA%A6%E6%8E%92%E8%A1%8C"><span class="nav-number">2.</span> <span class="nav-text">危险程度排行</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0"><span class="nav-number">3.</span> <span class="nav-text">学习</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%A7%91%E7%A0%94%E4%B8%8E%E5%B7%A5%E7%A8%8B"><span class="nav-number">4.</span> <span class="nav-text">科研与工程</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC"><span class="nav-number">5.</span> <span class="nav-text">商业价值</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%8F%90%E7%A4%BA%E8%AF%8D"><span class="nav-number">6.</span> <span class="nav-text">提示词</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%B7%A5%E4%BD%9C%E6%B5%81"><span class="nav-number">7.</span> <span class="nav-text">工作流</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C"><span class="nav-number">8.</span> <span class="nav-text">多智能体协作</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%BC%96%E7%A8%8B%E4%B8%8E%E6%95%B0%E5%AD%A6"><span class="nav-number">9.</span> <span class="nav-text">编程与数学</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%89%A9%E7%90%86"><span class="nav-number">10.</span> <span class="nav-text">物理</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BB%98%E8%B4%B9"><span class="nav-number">11.</span> <span class="nav-text">付费</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Physics-Lee</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">402</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">83</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Physics-Lee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Physics-Lee" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/Yixuan_Li_USTC" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Yixuan_Li_USTC" rel="noopener me" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.youtube.com/@XuanJr." title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;@XuanJr." rel="noopener me" target="_blank"><i class="fab fa-youtube fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://math.stackexchange.com/users/1247222/bruce-lee-of-ustc" title="MathOverflow → https:&#x2F;&#x2F;math.stackexchange.com&#x2F;users&#x2F;1247222&#x2F;bruce-lee-of-ustc" rel="noopener me" target="_blank"><i class="fa-regular fa-paper-plane fa-fw"></i></a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Physics-Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="agent有感1：claude code/codex/opencode | Physics-Lee's Land">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          agent有感1：claude code/codex/opencode
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2026-03-05 00:00:00" itemprop="dateCreated datePublished" datetime="2026-03-05T00:00:00+08:00">2026-03-05</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2026/" itemprop="url" rel="index"><span itemprop="name">2026</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/2026/2026-03/" itemprop="url" rel="index"><span itemprop="name">2026-03</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>1.7k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>6 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><p>最近几天玩了玩claude code&#x2F;codex&#x2F;opencode，有些体会，作文分享。这仨都是在25年下半年越来越火的agent。</p>
+<h1 id="类似物"><a href="#类似物" class="headerlink" title="类似物"></a>类似物</h1><p><strong>它们类似于vscode&#x2F;cursor的agent模式</strong>，但能跑更长时间，使用方式更极简。</p>
+<h1 id="危险程度排行"><a href="#危险程度排行" class="headerlink" title="危险程度排行"></a>危险程度排行</h1><p>众所周知，agent是十分危险的，无论是对个人还是对全人类。轻则删库删文件，重可。。。（自行联想）</p>
+<p>如果对现在的AI做一个<strong>危险程度排行</strong>，我认为，<strong>问答式＜vscode&#x2F;cursor的agent模式＜cc&#x2F;codex</strong>。</p>
+<p>问答式AI，最近危险的情况无非是散布谣言、忽悠一大批人，这种事古已有之，不怕。</p>
+<p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=qe9QSCF-d88">25年春夏，Bengio曾希望用问答式AI（他称之为Scientist AI）来控制agent</a>。这可能是低级智能控制高级智能的唯一方法。</p>
+<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>cc&#x2F;codex是不利于学习的。我可以用它俩帮我复现一篇文章，但我会对这篇文章一无所知。我也可以用它们帮我写出vit或mamba，但我也会对它们一无所知。</p>
+<p><strong>学到东西排行：问答式＞vs code&#x2F;codex的agent模式＞cc&#x2F;codex</strong>。</p>
+<p>我认为，至少目前，人参与得越多，学到的东西越多，危险程度越小。</p>
+<h1 id="科研与工程"><a href="#科研与工程" class="headerlink" title="科研与工程"></a>科研与工程</h1><p>如果你发明了一个新算法，或者用ai证明了某个数学难题，本着负责任的态度，<strong>你应当一行一行看</strong>。</p>
+<p>但对于工程问题，cc&#x2F;codex是可用的，因为你可以根据他们给出的<strong>定量指标</strong>来判断对错。</p>
+<h1 id="商业价值"><a href="#商业价值" class="headerlink" title="商业价值"></a>商业价值</h1><p>cc&#x2F;codex当然有很高的商业价值，也带来很多机遇。现在我奶奶都可以用它们都可以写网页、APP、软件。<strong>只不过后续维护很困难。</strong></p>
+<h1 id="提示词"><a href="#提示词" class="headerlink" title="提示词"></a>提示词</h1><p><a target="_blank" rel="noopener" href="https://baike.baidu.com/item/OpenAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A/63690813">23年秋gpt-store发布时（openai第一届开发者大会）</a>，我曾以为它也能改变世界，结果并没有。我用了快一年，后来用得越来越少，直到彻底不用。</p>
+<p>究其原因，<strong>它不过是相当于多写了一轮提示词</strong>。那我为什么不直接多写一轮提示词呢？</p>
+<p>现在anthropic推出的所谓的MCP和skills，无非也是写得很好的提示词罢了。</p>
+<p><strong>但是，要注意GPT-Store是和问答式AI绑定的， mcp和skills是和agent AI绑定的，因此或许后者可以超越前者。</strong></p>
+<h1 id="工作流"><a href="#工作流" class="headerlink" title="工作流"></a>工作流</h1><p>它们对于工作流可能带来颠覆。</p>
+<p>比如，我之前用AI做PPT，需要先用问答式AI写提示词，再把提示词教给gamma这样专门生成PPT的AI。现在直接用它们就行了。而且，前者没法迭代，后者可以。</p>
+<p>这里的关键是：<strong>安全对你的工作到底有多重要？如果改错了对你影响大不大？需不需要你自己去检查它们的修改？</strong></p>
+<p>如果你的回答是：非常重要、非常大、需要，那么它们对你的帮助可能不大。</p>
+<h1 id="多智能体协作"><a href="#多智能体协作" class="headerlink" title="多智能体协作"></a>多智能体协作</h1><p>cc和codex在25年上半年就出了。opencode则是最近几个月推出的开源替代物。开源好处之一是有很多人无偿支持。这不，有一个很好用的插件叫oh-my-opencode，发明者搞了7个智能体协同工作。<strong>这东西很不错，很可能改变世界。</strong></p>
+<p>多智能体协作这事古已有之。24年的alpha geometry, 22年年初的instruct gpt, 甚至14年的GAN，称得上是广义的多智能体协作。</p>
+<h1 id="编程与数学"><a href="#编程与数学" class="headerlink" title="编程与数学"></a>编程与数学</h1><p>聪明的你已经发现了，上述内容都是AI在编程上的进步。其实从2022年11月ChatGPT发布的那天，大家就应该想到会有今天的结局。<strong>当年的ChatGPT就可以5分钟用5种方法实现svm，那今天的这些又有什么可让人惊讶的呢？</strong></p>
+<p>接下来也写一写数学吧。编程和数学是两个<strong>标签非常明确</strong>的任务，很适合测试AI，我很喜欢。</p>
+<p>据我所知，目前有5个自然语言模型可以达到IMO Gold的水平，Openai和Google在25年夏天各有一个， DeepSeek在25年秋冬发了两个(<a target="_blank" rel="noopener" href="https://arxiv.org/html/2511.22570v1">https://arxiv.org/html/2511.22570v1</a>, <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2512.02556)%EF%BC%8CGoogle%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%BA%8C%E6%9C%88%E5%8F%88%E5%8F%91%E4%B8%80%E4%B8%AA(https://arxiv.org/abs/2602.10177)%E3%80%82%E4%BD%86%E6%98%AFOpenAI%E5%92%8CGoogle%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%8F%90%E4%BB%96%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84%EF%BC%8C%E8%80%8C**DeepSeek%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%99%E5%BE%97%E5%BE%88%E8%AF%A6%E5%B0%BD**%E3%80%82%E6%88%91%E7%9B%B8%E4%BF%A1%E5%85%AC%E9%81%93%E8%87%AA%E5%9C%A8%E4%BA%BA%E5%BF%83%E3%80%82">https://arxiv.org/abs/2512.02556)，Google在今年二月又发一个(https://arxiv.org/abs/2602.10177)。但是OpenAI和Google完全不提他们是怎么做到的，而**DeepSeek的文章写得很详尽**。我相信公道自在人心。</a></p>
+<p>多智能体协作应可以帮助人类达到IMO第一的水平，现在只有一步之遥。<strong>gpt-o1发布的那天就注定如此了，因为它五分钟就能解决五道本科水平的数学题。</strong></p>
+<p>下一步则是超越人类，去证明人类不曾证明的重要的数学题。<strong>注意是重要难题，而不是边角料和小鱼小虾</strong>。<strong>这点未必能做到</strong>。毕竟IMO只是高中水平的数学比赛。</p>
+<h1 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h1><p>大语言模型，在编程、数学、语文上都展现出了极强的能力。但是他的物理水平也就那么回事儿。他可以拿到IMO金牌，但是却并不能给你讲清楚，地球如果不自转绕着太阳是平动还是转动；也不能说明白，为什么伽利略用脉搏测单摆周期而桑托里奥用单摆周期测脉搏，物理学家却认为他俩都是对的。</p>
+<p>许多学者渴望的 世界模型&#x2F;具身智能 是一个真正理解物理的AI。<strong>这点也未必能做到。</strong></p>
+<p><strong>为什么大语言模型在数学会比物理先成功呢？</strong></p>
+<p>我想到两个原因，第一，数学更适合用语言来描述，相比物理，<strong>故而训练数据上前者远比后者多</strong>。第二，数学是极端严谨的，物理则是介于严谨和不严谨之间的，这就是说，对于前者，<strong>大语言模型可以得到一个明确的label</strong>，从而有明确的反馈。</p>
+<p>有一个很有名的物理学家曾经对学生说，不要问我质量是怎么定义的，电荷是怎么定义的，在物理学里我们没法精确的定义任何东西，当我说一件事情，你大约知道我在说什么，当你说一件事情，我也大约知道你在说什么，这就足够了。</p>
+<p>也许多智能体协作也能对理解物理有些帮助吧。</p>
+<h1 id="付费"><a href="#付费" class="headerlink" title="付费"></a>付费</h1><p>订阅上，我为OpenAI, Github Copilot, Sider付费较多。</p>
+<p>API上，我为DeepSeek, Kimi付费较多。</p>
+<p>这些钱我觉得都很值。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/AI/" rel="tag"># AI</a>
+              <a href="/tags/THINK/" rel="tag"># THINK</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2026/01/01/Kelvin/" rel="prev" title="开尔文、大西洋电缆、电缆方程、格林、卡诺">
+                  <i class="fa fa-angle-left"></i> 开尔文、大西洋电缆、电缆方程、格林、卡诺
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments gitalk-container"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Physics-Lee</span>
+  </div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Word count total">201k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">11:11</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+  <script class="next-config" data-name="pdf" type="application/json">{"object_url":{"url":"https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.12/pdfobject.min.js","integrity":"sha256-g2xji1rlE3KsGVClvuxTbcR0Kn2+wtQADSff2Tbb4zA="},"url":"/lib/pdf/web/viewer.html"}</script>
+  <script src="/js/third-party/tags/pdf.js"></script>
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+
+  <script async src="/js/cursor/fireworks.js"></script>
+
+
+
+
+  <script src="/js/type/type.js"></script>
+  <script>
+    POWERMODE.colorful = true;
+    POWERMODE.shake = false;
+    document.body.addEventListener('input', POWERMODE);
+  </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
+
+<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Physics-Lee","repo":"physics-lee.github.io","client_id":"afcfae9bf2a88299fba8","client_secret":"52d3480f8f93d03a5c970c34934701b527e68b38","admin_user":"Physics-Lee","distraction_free_mode":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"1d9d6a1aa2080e1a8418078794c58822"}</script>
+<script src="/js/third-party/comments/gitalk.js"></script>
+
+</body>
+</html>
