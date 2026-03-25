@@ -141,7 +141,7 @@
 <td><strong>1 涌现</strong></td>
 <td>早期专家系统</td>
 <td>GPT-1, GPT-2, GPT-3</td>
-<td>GPT-3.5, GPT-o1</td>
+<td>GPT-3.5, GPT-o1, Claude Code</td>
 </tr>
 <tr>
 <td><strong>2 有能力</strong> (&gt;50% 专业人士)</td>
@@ -589,53 +589,6 @@
       </tags>
   </entry>
   <entry>
-    <title>OneNote vs Obsidian</title>
-    <url>/2025/06/08/OneNote_vs_Obsidian/</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th></th>
-<th>OneNote</th>
-<th>Obsidian</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>价格</td>
-<td>免费</td>
-<td>部分功能需付费</td>
-</tr>
-<tr>
-<td>开源</td>
-<td>闭源</td>
-<td>闭源</td>
-</tr>
-<tr>
-<td>插件</td>
-<td>少</td>
-<td>多</td>
-</tr>
-<tr>
-<td>插入图片</td>
-<td>面向对象</td>
-<td>面向过程</td>
-</tr>
-<tr>
-<td>数学公式</td>
-<td>输入繁琐</td>
-<td>输入简单</td>
-</tr>
-</tbody></table>
-<p>我最后的选择依然是OneNote。它更面向对象，维护起来更加方便。至于数学公式，我用别的笔记软件（Markdown, Latex, GoodNote) 代替此功能。</p>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-06</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>听Bengio和Sutton的两席话</title>
     <url>/2025/06/06/Listen_to_Bengio_and_Sutton/</url>
     <content><![CDATA[<p>今天在<a href="https://2025.baai.ac.cn/">2025年智源大会</a>上听了Bengio和Sutton的讲座。虽然是线上，但是两位老哥都非常有热情，明显是认真准备了。Bengio先，Sutton后。</p>
@@ -686,59 +639,6 @@
 <li>AI能力先于AI安全（<a href="https://www.qbitai.com/2024/09/197019.html">OpenAI为赶在谷歌开发者大会前发布GPT-4o，只给安全团队留了9天做检测</a>）。</li>
 <li>研发Agentic AI。</li>
 </ol>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-06</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Text-To-Speech 插件测评</title>
-    <url>/2025/06/05/TTS_Extensions_Comparing/</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th></th>
-<th>Read Aloud</th>
-<th>Sider</th>
-<th>Speechify</th>
-<th>Read Aloud TTS</th>
-<th>Read to Me</th>
-<th>Natural Reader</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>价格</td>
-<td>Free</td>
-<td>$10&#x2F;Month</td>
-<td>$29&#x2F;Month</td>
-<td>Free</td>
-<td>Free</td>
-<td>Free</td>
-</tr>
-<tr>
-<td>PDF</td>
-<td><strong>直接朗读</strong></td>
-<td>不能朗读</td>
-<td>处理后朗读</td>
-<td>不能朗读</td>
-<td>不能朗读</td>
-<td>不能朗读</td>
-</tr>
-<tr>
-<td>语音自然程度</td>
-<td>中（高需要每次点击认证）</td>
-<td>高</td>
-<td>高</td>
-<td>不知（出错率高）</td>
-<td>不知（出错率高）</td>
-<td>不知（出错率高）</td>
-</tr>
-</tbody></table>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -935,33 +835,11 @@
       </tags>
   </entry>
   <entry>
-    <title>Watching 15 YouTubers Playing the Telephone Game</title>
-    <url>/2025/05/23/Watching_15_YouTubers_Playing_the_Telephone_Game/</url>
-    <content><![CDATA[<p>Hi, Guys! Today I watch <a href="https://www.youtube.com/watch?v=MCuCBt24hAk">a YouTube video</a> about 15 popular science YouTubers playing the telephone game. This video was published on Sep 25, 2020, nearly 5 years ago! Time passes by so quick!</p>
-<p>The 15 YouTubers include 3Blue1Brown, Welch Labs, Physics Girl, and so on. Among them, 3B1B and Welch Labs are hard-core, others are soft-core. But do not worry, who says we must watch hard-core popular science videos?</p>
-<p>Of course, they failed to convey the original meaning, haha.</p>
-<hr>
-<p>3Blue1Brown is so good at teaching hard-core knowledge in an easy way. I should call him Richard Feynman in our era.</p>
-<hr>
-<p>Physics Girl has got Long COVID and ME&#x2F;CFS, wish her become healthy again soon!</p>
-<hr>
-<p>One day, if I make money, I will donate to education, part of them will go into media for popular science.</p>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-05</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>THINK</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Gemini 学生认证</title>
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#48;&#57;&#55;&#x33;&#52;&#x38;&#52;&#x34;&#97;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#48;&#57;&#55;&#x33;&#52;&#x38;&#52;&#x34;&#97;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#114;&#117;&#x63;&#101;&#46;&#121;&#x69;&#x78;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#98;&#114;&#117;&#x63;&#101;&#46;&#121;&#x69;&#x78;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#x34;&#56;&#x34;&#52;&#x61;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#x34;&#56;&#x34;&#52;&#x61;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#x65;&#x2e;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x62;&#x72;&#x75;&#99;&#x65;&#x2e;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -1034,36 +912,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Models of the Mind 第八章 | 运动</title>
-    <url>/2025/05/10/CH8_Movement_in_Low_Dim/</url>
-    <content><![CDATA[<p>5月8日，火车上，我读了 <em>Models of the Mind</em> 的第八章—— Movement in Low Dim，主打运动。</p>
-<p>Grace介绍了四代科学家</p>
-<h1 id="第一代：德国兄弟"><a href="#第一代：德国兄弟" class="headerlink" title="第一代：德国兄弟"></a>第一代：德国兄弟</h1><p>Gustav Fritsch 和 Eduard Hitzig 都活跃于1850年。他俩对狗的大脑皮层进行电极，发现电某些部位的时候，狗会抽搐 (twitch)。正如你所想的，他俩发现的部位在后世被称之为运动皮层 (Motor Cortex, M1)。</p>
-<p>在那之前，人们通常认为，皮质是一层惰性外壳，下面包裹着的才是有用的东西。Cortex这个词在拉丁语中就是惰性外壳的意思。</p>
-<h1 id="第二代：叛逆少年"><a href="#第二代：叛逆少年" class="headerlink" title="第二代：叛逆少年"></a>第二代：叛逆少年</h1><p>与德国的两位老哥同时代的科学家John Jackson重复了两者的实验。当然，重复出来了。他的学生David Ferrier随后进行了更加细致的研究。</p>
-<p>Ferrier使用了当时刚刚被法拉第发明的交流电。不知为何，动物对交流电的忍耐力远强于对直流电。Ferrier的实验动物不仅仅会抽搐，有时还会做一些有意义的、自然的、顺滑的运动。”抽搐vs顺滑”成了第一次大辩论的主题。</p>
-<p>Ferrier对德国老哥很不友好，据说是因为后者对他的老师不尊重。</p>
-<h1 id="第三代：小伽利略"><a href="#第三代：小伽利略" class="headerlink" title="第三代：小伽利略"></a>第三代：小伽利略</h1><p>下一次飞跃，发生在新技术诞生后。1920年，人类第一次记录到单神经元信号。1950年，人类可以记录自由运动的动物的神经元信号了。</p>
-<p>1967年，美国的Edward Evarts设计了一个仅需少量动作的简单任务——训练猴子握住一个竖直杆并左右移动。该动作只需要手腕。于是乎，只由前臂的两块肌控制。</p>
-<p>他还从健身房里找灵感，设计了一个可以在相同位置配不同重量哑铃的装置。于是乎，当猴子的手腕处于相同位置时，他可以给不同重量。这类似于伽利略干的事——控制变量。</p>
-<p>他总共记录了31个神经元，其中26个的动作电位频率和哑铃重量强相关，剩下5个不好解释，而31个神经元动作电位频率和手腕位置都不相关。</p>
-<p>注意，这里他只记录了31个神经元。只有31维。降维的必要性还不那么明显。</p>
-<h1 id="第四代：希腊老哥"><a href="#第四代：希腊老哥" class="headerlink" title="第四代：希腊老哥"></a>第四代：希腊老哥</h1><p><strong>1998年，出生在希腊的美国科学家Apostolos Georgopoulos发现：当猴子做著名的in-out范式时，有些神经元在某一方向反应最强烈。</strong></p>
-<p>换句话说，神经元并不像Evarts想的那么简单。</p>
-<p>同时，希腊老哥同时记录到了更多神经元的数据——于是他不得不向统计学家和机器学习专家请教降维方法。</p>
-<h1 id="第五代：不辱使命"><a href="#第五代：不辱使命" class="headerlink" title="第五代：不辱使命"></a>第五代：不辱使命</h1><p>2012年，BrainGate招募了55岁的Cathy Hutchinson。她中风已经16年，颈椎以下全部瘫痪。</p>
-<p>科学家们在她大脑的左侧运动皮质区域植入了96个电极。一番波折后，她终于可以控制一条机械臂了。</p>
-<p><strong>机械臂走走停停、来回摇摆，最终总算不辱使命——给她倒了一杯咖啡。</strong></p>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-05</category>
-      </categories>
-      <tags>
-        <tag>Computational Neuroscience</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>粟裕墓</title>
     <url>/2025/05/05/Tomb_of_Su_Yu/</url>
     <content><![CDATA[<p>粟裕骨灰部分藏于安徽黄山。</p>
@@ -1083,8 +931,8 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>socialism</tag>
+        <tag>THINK</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -1113,9 +961,9 @@
         <category>2025-05</category>
       </categories>
       <tags>
+        <tag>socialism</tag>
         <tag>nationalism</tag>
         <tag>THINK</tag>
-        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -1417,8 +1265,8 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>socialism</tag>
+        <tag>THINK</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -1531,42 +1379,6 @@
       </categories>
       <tags>
         <tag>tools</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>World Order | Ray Dalio</title>
-    <url>/2025/02/08/World_Order_by_Ray_Dalio/</url>
-    <content><![CDATA[<p>Dalio 的 <a href="https://www.youtube.com/watch?v=xguam0TKMw8&t=638s">World Order</a>：</p>
-<p>优点</p>
-<ol>
-<li>他的理解出自资本主义、市场经济。他的视频可以告诉我们一个坚信市场经济的人是如何看待World Order的。</li>
-<li>他正确解释了衰落两部曲：名不副实 -&gt; 内忧外患。</li>
-</ol>
-<p>缺点</p>
-<ol>
-<li>他忽略了英国对西班牙的挑战</li>
-<li>他忽略了法国和德国对英国的挑战</li>
-<li>他过于渲染中国威胁论</li>
-<li>他忽略了荷兰、英国的人民生活得依旧很好</li>
-<li>他的模型可以随意调参</li>
-<li>他忽略了冷战中苏联和美国的对峙，这是超越资本主义、市场经济框架的。</li>
-</ol>
-<hr>
-<p>去年十月，我在北京捡到了久未谋面的可心。</p>
-<p>她说，她认为，中国是不会侵略别的国家的。</p>
-<p>我说，希望如此。</p>
-]]></content>
-      <categories>
-        <category>2025</category>
-        <category>2025-02</category>
-      </categories>
-      <tags>
-        <tag>nationalism</tag>
-        <tag>THINK</tag>
-        <tag>socialism</tag>
-        <tag>capitalism</tag>
-        <tag>history</tag>
-        <tag>politics</tag>
       </tags>
   </entry>
   <entry>
@@ -2210,9 +2022,9 @@
       </categories>
       <tags>
         <tag>love</tag>
+        <tag>romance</tag>
         <tag>madness</tag>
         <tag>THINK</tag>
-        <tag>romance</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -2284,8 +2096,8 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>socialism</tag>
+        <tag>THINK</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -2716,8 +2528,8 @@
         <category>2024-12</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>socialism</tag>
+        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -3133,8 +2945,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>socialism</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -5567,8 +5379,8 @@
         <category>2023-12</category>
       </categories>
       <tags>
-        <tag>THINK</tag>
         <tag>socialism</tag>
+        <tag>THINK</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -6139,8 +5951,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
@@ -6185,8 +5997,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
       </tags>
   </entry>
   <entry>
@@ -7130,8 +6942,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>basketball</tag>
         <tag>running</tag>
+        <tag>basketball</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -7734,32 +7546,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杨振宁和黄昆还不够铁啊</title>
     <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
     <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
@@ -7846,6 +7632,32 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
@@ -8008,8 +7820,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>socialism</tag>
+        <tag>physics</tag>
         <tag>family</tag>
         <tag>movie</tag>
       </tags>
@@ -9563,8 +9375,8 @@
         <tag>fun</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>physics</tag>
         <tag>romance</tag>
+        <tag>physics</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -9606,8 +9418,8 @@
         <tag>fun</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>physics</tag>
         <tag>romance</tag>
+        <tag>physics</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -9667,8 +9479,8 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>madness</tag>
         <tag>socialism</tag>
+        <tag>madness</tag>
         <tag>capitalism</tag>
         <tag>soccer</tag>
         <tag>rush</tag>
@@ -9873,8 +9685,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>physics</tag>
         <tag>romance</tag>
+        <tag>physics</tag>
         <tag>biology</tag>
       </tags>
   </entry>

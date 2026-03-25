@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2026-03-25T04:15:47.719Z</updated>
+  <updated>2026-03-25T04:36:06.717Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/"/>
     <id>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/</id>
     <published>2026-03-04T16:00:00.000Z</published>
-    <updated>2026-03-25T04:15:47.719Z</updated>
+    <updated>2026-03-25T04:36:06.717Z</updated>
     
     
     <summary type="html">&lt;p&gt;最近几天玩了玩三个AI智能体（英文称之为AI Agent）——claude code&amp;#x2F;codex&amp;#x2F;opencode，有些体会，作文分享。&lt;/p&gt;
@@ -430,52 +430,6 @@
   </entry>
   
   <entry>
-    <title>OneNote vs Obsidian</title>
-    <link href="https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/"/>
-    <id>https://physics-lee.github.io/2025/06/08/OneNote_vs_Obsidian/</id>
-    <published>2025-06-07T16:00:00.000Z</published>
-    <updated>2025-08-31T14:22:49.387Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;OneNote&lt;/th&gt;
-&lt;th&gt;Obsidian&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;价格&lt;/td&gt;
-&lt;td&gt;免费&lt;/td&gt;
-&lt;td&gt;部分功能需付费&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;开源&lt;/td&gt;
-&lt;td&gt;闭源&lt;/td&gt;
-&lt;td&gt;闭源&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;插件&lt;/</summary>
-        
-      
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
-    
-    
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
-  </entry>
-  
-  <entry>
     <title>听Bengio和Sutton的两席话</title>
     <link href="https://physics-lee.github.io/2025/06/06/Listen_to_Bengio_and_Sutton/"/>
     <id>https://physics-lee.github.io/2025/06/06/Listen_to_Bengio_and_Sutton/</id>
@@ -487,44 +441,6 @@
 &lt;h1 id=&quot;Bengio&quot;&gt;&lt;a href=&quot;#Bengio&quot; class=&quot;headerlink&quot; title=&quot;Bengio&quot;&gt;&lt;/a&gt;Bengio&lt;/h1&gt;&lt;p&gt;Bengio的讲座和&lt;a href=&quot;https://www.youtube.com/watch?v=qe9QSCF-d88&quot;&gt;他两周前的TED讲座&lt;/a&gt;主旨类似，但细节更加丰富。&lt;/p&gt;
 &lt;p&gt;2023年，Hinton表示：&lt;a href=&quot;https://www.bilibili.com/video/BV1yo4y1J7mK/?spm_id_from=333.1391.0.0&amp;vd_source=7f7311e573a7f2a9bab48f7645a4e660&quot;&gt;我从未听说过高级智能会被低级智能控制住&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;Bengio表示：吾有一计。真正危险的是Agentic AI，而Chat AI的威胁并不大。那么，我们可以用Chat AI监督Agentic AI。言下之意——他大概是觉得光靠人类自己是限制不了Agentic AI了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
-    
-    
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Text-To-Speech 插件测评</title>
-    <link href="https://physics-lee.github.io/2025/06/05/TTS_Extensions_Comparing/"/>
-    <id>https://physics-lee.github.io/2025/06/05/TTS_Extensions_Comparing/</id>
-    <published>2025-06-04T16:00:00.000Z</published>
-    <updated>2025-06-05T11:14:44.207Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Read Aloud&lt;/th&gt;
-&lt;th&gt;Sider&lt;/th&gt;
-&lt;th&gt;Speechify&lt;/th&gt;
-&lt;th&gt;Read Aloud TTS&lt;/th&gt;
-&lt;th&gt;Read to Me&lt;/th&gt;
-&lt;th&gt;Natural</summary>
-        
-      
     
     
     
@@ -678,33 +594,6 @@
   </entry>
   
   <entry>
-    <title>Watching 15 YouTubers Playing the Telephone Game</title>
-    <link href="https://physics-lee.github.io/2025/05/23/Watching_15_YouTubers_Playing_the_Telephone_Game/"/>
-    <id>https://physics-lee.github.io/2025/05/23/Watching_15_YouTubers_Playing_the_Telephone_Game/</id>
-    <published>2025-05-22T16:00:00.000Z</published>
-    <updated>2025-05-23T09:50:07.534Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Hi, Guys! Today I watch &lt;a href=&quot;https://www.youtube.com/watch?v=MCuCBt24hAk&quot;&gt;a YouTube video&lt;/a&gt; about 15 popular science YouTubers playing the telephone game. This video was published on Sep 25, 2020, nearly 5 years ago! Time passes by so quick!&lt;/p&gt;
-&lt;p&gt;The 15 YouTubers include 3Blue1Brown, Welch Labs, Physics Girl, and so on. Among them, 3B1B and Welch Labs are hard-core, others are soft-core. But do not worry, who says we must watch hard-core popular science videos?&lt;/p&gt;
-&lt;p&gt;Of course, they failed to convey the original meaning, haha.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;3Blue1Brown is so good at teaching hard-core knowledge in an easy way. I should call him Richard Feynman in our era.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
-    
-    
-    <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Gemini 学生认证</title>
     <link href="https://physics-lee.github.io/2025/05/22/Gemini_Student_Verification/"/>
     <id>https://physics-lee.github.io/2025/05/22/Gemini_Student_Verification/</id>
@@ -714,7 +603,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x31;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#114;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#x69;&amp;#x78;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#98;&amp;#114;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#121;&amp;#x69;&amp;#x78;&amp;#117;&amp;#x61;&amp;#110;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#x30;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#56;&amp;#x34;&amp;#52;&amp;#x61;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x31;&amp;#49;&amp;#x30;&amp;#x39;&amp;#55;&amp;#x33;&amp;#x34;&amp;#56;&amp;#x34;&amp;#52;&amp;#x61;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#x62;&amp;#x72;&amp;#x75;&amp;#99;&amp;#x65;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -765,30 +654,6 @@
   </entry>
   
   <entry>
-    <title>Models of the Mind 第八章 | 运动</title>
-    <link href="https://physics-lee.github.io/2025/05/10/CH8_Movement_in_Low_Dim/"/>
-    <id>https://physics-lee.github.io/2025/05/10/CH8_Movement_in_Low_Dim/</id>
-    <published>2025-05-09T16:00:00.000Z</published>
-    <updated>2025-11-20T06:31:24.309Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;5月8日，火车上，我读了 &lt;em&gt;Models of the Mind&lt;/em&gt; 的第八章—— Movement in Low Dim，主打运动。&lt;/p&gt;
-&lt;p&gt;Grace介绍了四代科学家&lt;/p&gt;
-&lt;h1 id=&quot;第一代：德国兄弟&quot;&gt;&lt;a href=&quot;#第一代：德国兄弟&quot; class=&quot;headerlink&quot; title=&quot;第一代：德国兄弟&quot;&gt;&lt;/a&gt;第一代：德国兄弟&lt;/h1&gt;&lt;p&gt;Gustav Fritsch 和 Eduard Hitzig 都活跃于1850年。他俩对狗的大脑皮层进行电极，发现电某些部位的时候，狗会抽搐 (twitch)。正如你所想的，他俩发现的部位在后世被称之为运动皮层 (Motor Cortex, M1)。&lt;/p&gt;
-&lt;p&gt;在那之前，人们通常认为，皮质是一层惰性外壳，下面包裹着的才是有用的东西。Cortex这个词在拉丁语中就是惰性外壳的意思。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
-    
-    
-    <category term="Computational Neuroscience" scheme="https://physics-lee.github.io/tags/Computational-Neuroscience/"/>
-    
-  </entry>
-  
-  <entry>
     <title>粟裕墓</title>
     <link href="https://physics-lee.github.io/2025/05/05/Tomb_of_Su_Yu/"/>
     <id>https://physics-lee.github.io/2025/05/05/Tomb_of_Su_Yu/</id>
@@ -809,9 +674,9 @@
     <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -837,11 +702,11 @@
     <category term="2025-05" scheme="https://physics-lee.github.io/categories/2025/2025-05/"/>
     
     
+    <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
     <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
-    <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
     
   </entry>
   
@@ -1185,9 +1050,9 @@
     <category term="2025-02" scheme="https://physics-lee.github.io/categories/2025/2025-02/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -1247,51 +1112,6 @@
     
     
     <category term="tools" scheme="https://physics-lee.github.io/tags/tools/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>World Order | Ray Dalio</title>
-    <link href="https://physics-lee.github.io/2025/02/08/World_Order_by_Ray_Dalio/"/>
-    <id>https://physics-lee.github.io/2025/02/08/World_Order_by_Ray_Dalio/</id>
-    <published>2025-02-07T16:00:00.000Z</published>
-    <updated>2025-11-20T06:39:13.846Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Dalio 的 &lt;a href=&quot;https://www.youtube.com/watch?v=xguam0TKMw8&amp;t=638s&quot;&gt;World Order&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;优点&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;他的理解出自资本主义、市场经济。他的视频可以告诉我们一个坚信市场经济的人是如何看待World Order的。&lt;/li&gt;
-&lt;li&gt;他正确解释了衰落两部曲：名不副实 -&amp;gt; 内忧外患。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;缺点&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;他忽略了英国对西班牙的挑战&lt;/li&gt;
-&lt;li&gt;他忽略了法国和德国对英国的挑战&lt;/li&gt;
-&lt;li&gt;他过于渲染中国威胁论&lt;/li&gt;
-&lt;li&gt;他忽略了荷兰、英国的人民生活得依旧很好&lt;/li&gt;
-&lt;li&gt;他的模型可以随意调参&lt;/li&gt;
-&lt;li&gt;他忽略了冷战中苏联和美国的对峙，这是超越资本主义、市场经济框架的。&lt;/li&gt;
-&lt;/ol&gt;</summary>
-    
-    
-    
-    <category term="2025" scheme="https://physics-lee.github.io/categories/2025/"/>
-    
-    <category term="2025-02" scheme="https://physics-lee.github.io/categories/2025/2025-02/"/>
-    
-    
-    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
-    <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
-    
-    <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="politics" scheme="https://physics-lee.github.io/tags/politics/"/>
     
   </entry>
   
@@ -1629,11 +1449,11 @@
     
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
+    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
     <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
-    <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
     
@@ -1703,9 +1523,9 @@
     <category term="2025-01" scheme="https://physics-lee.github.io/categories/2025/2025-01/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -2030,9 +1850,9 @@
     <category term="2024-12" scheme="https://physics-lee.github.io/categories/2024/2024-12/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -2490,9 +2310,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -4739,9 +4559,9 @@
     <category term="2023-12" scheme="https://physics-lee.github.io/categories/2023/2023-12/"/>
     
     
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -5371,9 +5191,9 @@
     <category term="2023-11" scheme="https://physics-lee.github.io/categories/2023/2023-11/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
   </entry>
   
@@ -5426,9 +5246,9 @@
     <category term="2023-11" scheme="https://physics-lee.github.io/categories/2023/2023-11/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
   </entry>
   
@@ -6211,9 +6031,9 @@
     <category term="2023-08" scheme="https://physics-lee.github.io/categories/2023/2023-08/"/>
     
     
-    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
-    
     <category term="running" scheme="https://physics-lee.github.io/tags/running/"/>
+    
+    <category term="basketball" scheme="https://physics-lee.github.io/tags/basketball/"/>
     
     <category term="injury" scheme="https://physics-lee.github.io/tags/injury/"/>
     
@@ -6629,39 +6449,6 @@
   </entry>
   
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-12-21T15:15:13.000Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太傻逼了。&lt;/p&gt;
-&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
-    
-    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
-    
-  </entry>
-  
-  <entry>
     <title>杨振宁和黄昆还不够铁啊</title>
     <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/"/>
     <id>https://physics-lee.github.io/2023/07/08/CN-Yang_and_Huang-Kun/</id>
@@ -6720,6 +6507,39 @@
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
     <category term="USTC" scheme="https://physics-lee.github.io/tags/USTC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-12-21T15:15:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;太傻逼了。&lt;/p&gt;
+&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
+    
+    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
     
   </entry>
   
@@ -6882,9 +6702,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="family" scheme="https://physics-lee.github.io/tags/family/"/>
     
@@ -7872,9 +7692,9 @@
     
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="math" scheme="https://physics-lee.github.io/tags/math/"/>
     
@@ -7906,9 +7726,9 @@
     
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="math" scheme="https://physics-lee.github.io/tags/math/"/>
     
@@ -7968,9 +7788,9 @@
     <category term="2022-12" scheme="https://physics-lee.github.io/categories/2022/2022-12/"/>
     
     
-    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
-    
     <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="madness" scheme="https://physics-lee.github.io/tags/madness/"/>
     
     <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
@@ -8176,9 +7996,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="biology" scheme="https://physics-lee.github.io/tags/biology/"/>
     
