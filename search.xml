@@ -8,42 +8,174 @@
 <p>这仨都在25年下半年越来越火。我们可以在 <a href="https://www.star-history.com/">https://www.star-history.com</a> 查看他们走红的时间。</p>
 <img src="/2026/03/05/After_Using_Agent_1/star-history-202635.png" class="">
 
-<p>注：openai 2021年为初版GitHub Copilot训练了一个名为”codex”的模型，在2025年4月又推出了一个名为”codex”的在命令行中运行的软件。两者不是一个东西。</p>
+<p>注：openai 2021年为初版GitHub Copilot训练了一个名为”codex”的模型（对GPT-3微调得到的），在2025年4月又推出了一个名为”codex”的在命令行中运行的软件。两者不是一个东西。</p>
 <h1 id="类似物"><a href="#类似物" class="headerlink" title="类似物"></a>类似物</h1><p><strong>它们类似于vscode&#x2F;cursor的agent模式</strong>，但能跑更长时间，使用方式更极简。</p>
 <h1 id="危险程度排行"><a href="#危险程度排行" class="headerlink" title="危险程度排行"></a>危险程度排行</h1><p>众所周知，agent是十分危险的，无论是对个人还是对全人类。轻则删库删文件，重可。。。（自行联想）</p>
-<p>如果对现在的AI做一个<strong>危险程度排行</strong>，我认为，<strong>问答式＜vscode&#x2F;cursor的agent模式＜cc&#x2F;codex</strong>。</p>
+<p>如果对现在的AI做一个<strong>危险程度排行</strong>，我认为：<strong>问答式＜vscode&#x2F;cursor的agent模式＜cc&#x2F;codex</strong>。</p>
 <p>问答式AI，最危险的情况无非是散布谣言、忽悠一大批人，这种事古已有之，不怕。</p>
 <p><a href="https://www.youtube.com/watch?v=qe9QSCF-d88">25年春夏，Bengio曾希望用问答式AI（他称之为Scientist AI）来控制Agent AI</a>。这可能是低级智能控制高级智能的唯一方法。</p>
-<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>cc&#x2F;codex是不利于学习的。我可以用它俩帮我复现一篇文章，但我会对这篇文章一无所知。我也可以用它们帮我写出vit或mamba，但我也会对它们一无所知。</p>
+<h1 id="学到东西排行"><a href="#学到东西排行" class="headerlink" title="学到东西排行"></a>学到东西排行</h1><p>cc&#x2F;codex是不利于学习的。我可以用它俩帮我复现一篇文章，但我会对这篇文章一无所知。我也可以用它们帮我写出vit或mamba，但我也会对它们一无所知。</p>
 <p><strong>学到东西排行：问答式＞vs code&#x2F;cursor 的agent模式＞cc&#x2F;codex</strong>。</p>
 <p>我认为，至少目前，人参与得越多，学到的东西越多，危险程度越小。</p>
+<h1 id="运行时间排行"><a href="#运行时间排行" class="headerlink" title="运行时间排行"></a>运行时间排行</h1><p>毫无疑问，<strong>问答式＞vs code&#x2F;cursor 的agent模式＞cc&#x2F;codex</strong>。</p>
 <h1 id="科研与工程"><a href="#科研与工程" class="headerlink" title="科研与工程"></a>科研与工程</h1><p>如果你发明了一个新算法，或者用ai证明了某个数学难题，本着负责任的态度，<strong>你应当一行一行看</strong>。</p>
 <p>但对于工程问题，cc&#x2F;codex是可用的，因为你可以根据他们给出的<strong>定量指标</strong>来判断对错。</p>
-<h1 id="商业价值"><a href="#商业价值" class="headerlink" title="商业价值"></a>商业价值</h1><p>cc&#x2F;codex当然有很高的商业价值，也带来很多机遇。现在我奶奶都可以用它们都可以写网页、APP、软件。<strong>只不过后续维护很困难。</strong></p>
+<h1 id="维护困难"><a href="#维护困难" class="headerlink" title="维护困难"></a>维护困难</h1><p>cc&#x2F;codex当然有很高的商业价值，也带来很多机遇。现在我奶奶都可以用它们都可以写网页、APP、软件。<strong>只不过后续维护很困难。</strong></p>
 <h1 id="提示词"><a href="#提示词" class="headerlink" title="提示词"></a>提示词</h1><p><a href="https://www.youtube.com/watch?app=desktop&v=U9mJuUkhUzk">23年秋gpt-store发布时</a>（第一届<a href="https://baike.baidu.com/item/OpenAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A/63690813">openai开发者大会</a>），我曾以为它也能改变世界，结果并没有。我用了快一年，后来用得越来越少，直到彻底不用。</p>
 <p>究其原因，<strong>它不过是相当于多写了一轮提示词</strong>。那我为什么不直接多写一轮提示词呢？</p>
-<p>现在anthropic推出的所谓的MCP和skills，无非也是写得很好的提示词罢了。</p>
-<p><strong>但是，要注意GPT-Store是和问答式AI绑定的， mcp和skills是和agent AI绑定的，因此或许后者可以超越前者。</strong></p>
-<h1 id="工作流"><a href="#工作流" class="headerlink" title="工作流"></a>工作流</h1><p>它们对于工作流可能带来颠覆。</p>
+<p><strong>现在anthropic推出的所谓的MCP和skills，无非也是多写一轮提示词罢了。</strong></p>
+<p>但是，要注意，<strong>GPT-Store是和问答式AI绑定的， mcp和skills是和agent AI绑定的，因此或许后者可以超越前者。</strong></p>
+<h1 id="工作流"><a href="#工作流" class="headerlink" title="工作流"></a>工作流</h1><p>cc&#x2F;codex 对于工作流可能带来颠覆。</p>
 <p>比如，我之前用AI做PPT，需要先用问答式AI写提示词，再把提示词教给gamma这样专门生成PPT的AI。现在直接用它们就行了。而且，前者没法迭代，后者可以。</p>
 <p>这里的关键是：<strong>安全对你的工作到底有多重要？如果改错了对你影响大不大？需不需要你自己去检查它们的修改？</strong></p>
 <p>如果你的回答是：非常重要、非常大、需要，那么它们对你的帮助可能不大。</p>
 <h1 id="多智能体协作"><a href="#多智能体协作" class="headerlink" title="多智能体协作"></a>多智能体协作</h1><p>opencode丝毫不虚cc&#x2F;codex。开源好处之一是有很多人无偿支持。这不，有一个很好用的插件叫oh-my-opencode，发明者搞了7个智能体协同工作。<strong>这东西很不错，很可能改变世界。</strong></p>
 <p>多智能体协作这事古已有之。24年的alpha geometry, 22年年初的instruct gpt, 甚至14年的GAN，称得上是广义的多智能体协作。但在AI Agent时代它可能会大放异彩。</p>
-<h1 id="编程与数学"><a href="#编程与数学" class="headerlink" title="编程与数学"></a>编程与数学</h1><p>聪明的你已经发现了，上述内容都是AI在编程上的进步。其实从2022年11月ChatGPT发布的那天，大家就应该想到会有今天的结局。<strong>当年的ChatGPT就可以5分钟用5种方法实现svm，那今天的这些又有什么可让人惊讶的呢？</strong></p>
-<p>接下来也写一写数学吧。编程和数学是两个<strong>标签非常明确</strong>的任务，很适合测试AI，我很喜欢。</p>
-<p>据我所知，目前有5个自然语言模型可以达到IMO Gold的水平，Openai和Google在25年夏天各有一个， DeepSeek在25年秋冬发了两个 (<a href="https://arxiv.org/html/2511.22570v1">https://arxiv.org/html/2511.22570v1</a> 和 <a href="https://arxiv.org/abs/2512.02556">https://arxiv.org/abs/2512.02556</a> )，Google则在今年2月又发一个(<a href="https://arxiv.org/abs/2602.10177">https://arxiv.org/abs/2602.10177</a> )。但是OpenAI和Google完全不提他们是怎么做到的，而<strong>DeepSeek的文章写得很详尽</strong>。我相信公道自在人心。</p>
+<h1 id="编程、数学、物理"><a href="#编程、数学、物理" class="headerlink" title="编程、数学、物理"></a>编程、数学、物理</h1><h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><p>上述内容都是AI在编程上的进步。其实从2022年11月ChatGPT发布的那天，大家就应该想到会有今天的结局。<strong>当年的ChatGPT就可以5分钟用5种方法实现svm，那今天的这些又有什么可让人惊讶的呢？</strong></p>
+<h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><p>和编程一样，数学也是<strong>标签非常明确</strong>的任务，很适合测试AI，我很喜欢。</p>
+<p>据我所知，目前有6个自然语言模型可以达到IMO Gold的水平：</p>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>模型名称</th>
+<th>开发机构</th>
+<th>发布时间</th>
+<th>论文链接</th>
+<th>开源状态</th>
+<th>模型链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>-</td>
+<td>OpenAI</td>
+<td>2025年7月</td>
+<td>-</td>
+<td>× 封闭权重</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>Google</td>
+<td>2025年7月</td>
+<td>-</td>
+<td>× 封闭权重</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>DeepSeek-Math-V2</td>
+<td>DeepSeek</td>
+<td>2025年11月</td>
+<td><a href="https://arxiv.org/html/2511.22570v1">2511.22570</a></td>
+<td>✓ 开放权重</td>
+<td><a href="https://huggingface.co/deepseek-ai/DeepSeek-Math-V2">Hugging Face</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>DeepSeek-V3.2-Speciale</td>
+<td>DeepSeek</td>
+<td>2025年12月</td>
+<td><a href="https://arxiv.org/abs/2512.02556">2512.02556</a></td>
+<td>✓ 开放权重</td>
+<td><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale">Hugging Face</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Aletheia</td>
+<td>Google</td>
+<td>2026年2月</td>
+<td><a href="https://arxiv.org/abs/2602.10177">2602.10177</a></td>
+<td>× 封闭权重</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ring-2.5-1T</td>
+<td>Inclusion AI</td>
+<td>2026年2月</td>
+<td>-</td>
+<td>✓ 开放权重</td>
+<td><a href="https://huggingface.co/inclusionAI/Ring-2.5-1T">Hugging Face</a></td>
+</tr>
+</tbody></table>
+<p>但是OpenAI和Google完全不提他们是怎么做到的，而<strong>DeepSeek的文章写得很详尽</strong>。我相信公道自在人心。</p>
 <p>多智能体协作应可以帮助人类达到IMO第一的水平，现在只有一步之遥。<strong>gpt-o1发布的那天就注定如此了，因为它五分钟就能解决五道本科水平的数学题。</strong></p>
-<p>下一步则是超越人类，去证明人类不曾证明的重要的数学题。<strong>注意是重要难题，而不是边角料和小鱼小虾</strong>。<strong>这点未必能做到</strong>。毕竟IMO只是高中水平的数学比赛。</p>
-<h1 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h1><p>大语言模型，在编程、数学、语文上都展现出了极强的能力。但是他的物理水平也就那么回事儿。他可以拿到IMO金牌，但是却并不能给你讲清楚，地球如果不自转绕着太阳是平动还是转动；也不能说明白，为什么伽利略用脉搏测单摆周期而桑托里奥用单摆周期测脉搏，物理学家却认为他俩都是对的。</p>
+<p>下一步则是超越人类，去证明人类不曾证明的重要的数学题。<strong>注意是重要难题，而不是边角料和小鱼小虾</strong>。</p>
+<p><strong>这点未必能做到</strong>。毕竟IMO只是高中水平的数学比赛。</p>
+<h2 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h2><p>大语言模型，在编程、数学、语文上都展现出了极强的能力。但是他的物理水平也就那么回事儿。他可以拿到IMO金牌，但是却并不能给你讲清楚，地球如果不自转绕着太阳是平动还是转动；也不能说明白，为什么伽利略用脉搏测单摆周期而桑托里奥用单摆周期测脉搏，物理学家却认为他俩都是对的。</p>
 <p>许多学者渴望的 世界模型&#x2F;具身智能 是一个真正理解物理的AI。<strong>这点也未必能做到。</strong></p>
 <p><strong>为什么大语言模型在数学会比物理先成功呢？</strong></p>
 <p>我想到两个原因，第一，数学更适合用语言来描述，相比物理，<strong>故而训练数据上前者远比后者多</strong>。第二，数学是极端严谨的，物理则是介于严谨和不严谨之间的，这就是说，对于前者，<strong>大语言模型可以得到一个明确的label</strong>，从而有明确的反馈。</p>
 <p>有一个很有名的物理学家曾经对学生说，不要问我质量是怎么定义的，电荷是怎么定义的，在物理学里我们没法精确的定义任何东西，当我说一件事情，你大约知道我在说什么，当你说一件事情，我也大约知道你在说什么，这就足够了。</p>
-<p>也许多智能体协作也能对理解物理有些帮助吧。</p>
+<p>多智能体协作或可对理解物理有些帮助。</p>
 <h1 id="付费"><a href="#付费" class="headerlink" title="付费"></a>付费</h1><p>订阅上，我为OpenAI, Github Copilot, Sider付费较多。</p>
 <p>API上，我为DeepSeek, Kimi付费较多。</p>
 <p>这些钱我觉得都很值。</p>
+<h1 id="专用、通用"><a href="#专用、通用" class="headerlink" title="专用、通用"></a>专用、通用</h1><p><strong>cc&#x2F;codex达到通用人工智能了吗？</strong></p>
+<p>2023年11月，谷歌写了篇论文，名为 *<a href="https://arxiv.org/pdf/2311.02462v1">Levels of AGI for Operationalizing Progress on the Path to AGI</a>*，分析专用人工智能和通用人工智能都做到什么程度，表一如下：</p>
+<img src="/2026/03/05/After_Using_Agent_1/image-20260315134417602.png" class="">
+
+<p>这张表对5个等级的定义，我认为是合理的。</p>
+<p>o1&#x2F;o3、cc&#x2F;codex，厉害归厉害，但是不能给你倒杯水，也不能操纵机械臂倒水，也不能给你炒盘菜，那肯定排不到通用level2。<strong>换句话说，2022年RLHF、2024年chain of thought、2025年agent的突破都达不到谷歌这篇论文里的通用level2。</strong></p>
+<p>我认为可以再加一列：文字相关任务。</p>
+<p>语文、数学、代码，均为文字。</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>专用（Narrow）</th>
+<th>文字相关任务（Literate）</th>
+<th>通用（General）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>0</strong></td>
+<td>无AI</td>
+<td>无AI</td>
+<td>无AI</td>
+</tr>
+<tr>
+<td><strong>1 涌现</strong></td>
+<td>早期专家系统</td>
+<td>GPT-1, GPT-2, GPT-3</td>
+<td>GPT-3.5, GPT-o1</td>
+</tr>
+<tr>
+<td><strong>2 有能力</strong> (&gt;50% 专业人士)</td>
+<td>Siri, Alexa, 智能助手</td>
+<td>GPT-3.5, GPT-4</td>
+<td>尚未实现</td>
+</tr>
+<tr>
+<td><strong>3 专家</strong> (&gt;90% 专业人士)</td>
+<td>DALL-E 2, Grammarly</td>
+<td>GPT-o1, DeepSeek-R1</td>
+<td>尚未实现</td>
+</tr>
+<tr>
+<td><strong>4 大师</strong> (&gt;99% 专业人士)</td>
+<td>深蓝, AlphaGo</td>
+<td>Claude Code&#x2F;Codex&#x2F;Opencode</td>
+<td>尚未实现</td>
+</tr>
+<tr>
+<td><strong>5 超人类</strong> (&gt;100% 专业人士)</td>
+<td>AlphaFold, AlphaZero, StockFish</td>
+<td>尚未实现</td>
+<td>尚未实现</td>
+</tr>
+</tbody></table>
+<h2 id="Human-Last-Exam"><a href="#Human-Last-Exam" class="headerlink" title="Human Last Exam"></a>Human Last Exam</h2><p><a href="https://www.nature.com/articles/s41586-025-09962-4">Human Last Exam, HLE</a> 可以看成文字相关任务4或5的水平。<strong>它不是通用的。</strong></p>
+<h2 id="翻译软件"><a href="#翻译软件" class="headerlink" title="翻译软件"></a>翻译软件</h2><p>2024年12月，<a href="https://physics-lee.github.io/2024/12/25/Science_Revolution_by_DL/">我写下：我认为深度学习是欧几里得、伽利略之后的第三次科学革命</a>。大意是，深度学习可以充当人类和自然界（特别是复杂系统）的“翻译软件”。</p>
+<p>这里有件事需要考虑一下——“翻译软件”要打造成专用还是通用的？</p>
+<p>我现在的想法是：</p>
+<ol>
+<li>对于文字无关的任务（例如，解码EEG或ECoG信号），应走专用路线，类似 AlphaFold。</li>
+<li>对于文字相关的任务（例如，证明黎曼猜想），应走通用路线，类似那6个IMO金牌模型，而不应该再走 AlphaGeometry的专用路线。</li>
+</ol>
 ]]></content>
       <categories>
         <category>2026</category>
@@ -78,31 +210,48 @@
   </entry>
   <entry>
     <title>如何和LLM协作？</title>
-    <url>/2025/12/28/How_To_Work_With_AI/</url>
-    <content><![CDATA[<p>现在已经是2025年12月了，距离ChatGPT-3.5发布已经过去了36个月，距离ChatGPT-o1发布也已经过去15个月。然而，在和LLM协作这件事上，我却停滞不前，甚至有些退步。</p>
-<p>曾经，我会因为 ChatGPT-3.5 写出一篇小作文而欣喜和兴奋，现在我在SIDER或者Cherry Studio里后宫佳丽三千人，却不再因为它们的作文而兴奋。</p>
-<p>曾经，我会因为 ChatGPT-3.5 能够五分钟写完五种SVM的实现方法而震撼，会因为只需要在它的代码基础上改一改而开心好几天。现在却已平淡如水，并且会因为LLM没有立刻写出正确的code而生气。</p>
-<p>曾经，我会心花怒放地和 ChatGPT-o1 聊数学、物理、统计，以及一切可以用数学语言描述的现象。我惊讶于LLM不仅掌握了编程语言和自然语言，现在甚至掌握了数学语言。</p>
-<p>曾经，我会因为 ChatGPT-3.5 能够拒绝回答训练日期之后的事情而惊讶，但现在这件事看起来似乎稀松平常。</p>
-<p>究其原因，是因为我对LLM产生了不切实际的期待。我之前就醒悟过</p>
+    <url>/2025/12/28/How_To_Collaborate_With_LLMs/</url>
+    <content><![CDATA[<h1 id="不切实际的期待"><a href="#不切实际的期待" class="headerlink" title="不切实际的期待"></a>不切实际的期待</h1><p>现在已经是2025年12月了，距离ChatGPT-3.5发布已经过去了36个月，距离ChatGPT-o1发布也已经过去15个月。然而，在和LLM协作这件事上，我却停滞不前，甚至有些退步——<strong>我使用LLM时常常感到疲惫和愤怒</strong>。</p>
+<p>曾经，我会因为 ChatGPT-3.5 写出一篇小作文而欣喜和兴奋，现在我在SIDER或者Cherry Studio里后宫佳丽三千人，<strong>却不再因为它们的作文而兴奋。</strong></p>
+<p>曾经，我会因为 ChatGPT-3.5 能够五分钟写完五种SVM的实现方法而震撼，会因为只需要在它的代码基础上改一改而开心好几天。现在却已平淡如水，<strong>并且会因为LLM没有立刻写出正确的code而生气。</strong></p>
+<p>曾经，我会心花怒放地和 ChatGPT-o1 聊数学、物理、统计，以及一切可以用数学语言描述的现象。我惊讶于LLM不仅掌握了编程语言和自然语言，现在甚至掌握了数学语言。<strong>但是现在我会因为LLM没有立刻写出正确的推导过程而生气。</strong></p>
+<p>曾经，我会因为 ChatGPT-3.5 能够拒绝回答训练日期之后的事情而惊讶，<strong>但现在这件事看起来似乎稀松平常。</strong></p>
+<p><strong>究其原因，是因为2025年夏天LLM的突破让我对LLM产生了不切实际的期待。</strong></p>
+<p>2025年夏天，openai和google各自推出了达到IMO Gold水平的模型。虽然没有对外开放。</p>
+<p>2025年夏天，openai推出GPT-5，跑分上超过ChatGPT-o3。</p>
+<p>因此，我开始觉得LLM是一个<strong>无所不知、无所不能、让我摆烂</strong>的智者。</p>
+<h1 id="图书馆和作者"><a href="#图书馆和作者" class="headerlink" title="图书馆和作者"></a>图书馆和作者</h1><p>我之前就醒悟过</p>
 <ol>
 <li>LLM永远会有幻觉。</li>
 <li>搜索引擎没有幻觉。</li>
-<li>LLM永远不会取代搜索引擎。</li>
 </ol>
+<p>因此LLM永远不会取代搜索引擎。</p>
 <p>这里，我把幻觉定义成——LLM回答错了一个有明确正确答案的题目。例如，Justin Biber的母亲是谁，冒泡排序应该怎么写，调和级数是收敛还是发散的。</p>
 <p>为什么LLM永远会有幻觉？——因为它的训练数据里有错的。</p>
 <p>为什么搜索引擎没有幻觉？——因为它仅仅是把人类产生的文字从数据库里抽取出来。除非抽取算法错了，否则它不可能更改原本的文字。</p>
-<p>搜索引擎就像互联网出现前的书籍，你可以说写书的人写错了，但你不能说书本和纸张更改了他原本的文字。现在，LLM就是那个拿着笔写字的人，搜索引擎是它笔下的书本和纸张。</p>
-<hr>
-<p>既然如此，我应该如何更好地和LLM协作呢？</p>
-<p>那就是，把LLM当成一个可以随时随地交流的智者，但并不是一个无所不知无所不能完全让你摆烂的智者。</p>
-<p>它在所有领域都有phd学位。——<strong>因此要多和它交流。要主动。</strong></p>
-<p>它依然会记错事情，这件事在和它讨论论文时经常发生。——<strong>这时你可以换一个智者交流。</strong></p>
-<p>它经常不承认自己不懂、夸下海口，这件事在和它讨论数学、代码时经常发生。——<strong>这时你也可以换一个智者交流。</strong></p>
-<p>它是仅仅是众多拿着笔写书的智能体中的一个。——<strong>因此不要它因为写的书好就不看其他智能体写的书。要采集众家之长，扬弃众家之短。</strong></p>
-<hr>
+<p><strong>搜索引擎是图书馆，搜到的结果是书籍，如果一本书里出现胡言乱语或者事实性错误，你可以说作者写错了，但你不能说图书馆错了。</strong></p>
+<p><strong>LLM则是作者。</strong></p>
+<h1 id="如何和LLM协作？"><a href="#如何和LLM协作？" class="headerlink" title="如何和LLM协作？"></a>如何和LLM协作？</h1><p>既然如此，我应该如何更好地和LLM协作呢？</p>
+<p><strong>那就是，把LLM当成一个可以随时随地交流的智者，但并不是一个无所不知、无所不能、完全让你摆烂的智者。</strong></p>
+<p>它在所有领域都有 PhD 学位。——<strong>因此要多和它交流。要主动。</strong></p>
+<p>它依然会<strong>记错事情</strong>，这件事在和它讨论论文时经常发生。——<strong>这时你可以换一个智者（LLM）交流。</strong></p>
+<p>它<strong>经常不承认自己不懂</strong>，这件事在和它讨论数学、代码时经常发生。——<strong>这时你也可以换一个智者（LLM）交流。</strong></p>
+<p>它是仅仅是众多拿着笔写书的智者中的一个。——<strong>因此不要它因为写的书好就不看其他智能体写的书。要采集众家之长，扬弃众家之短。</strong></p>
 <p>最后，不要忘了：<br>$$<br>LLM \subseteq DL \subseteq ML \subseteq AI<br>$$<br>以上的文字都只针对LLM。和FNN&#x2F;CNN&#x2F;RNN没关系，和SVM&#x2F;随机森林没关系，和符号主义没关系。</p>
+<h1 id="预测2026"><a href="#预测2026" class="headerlink" title="预测2026"></a>预测2026</h1><h2 id="进步"><a href="#进步" class="headerlink" title="进步"></a>进步</h2><p>预测一下2026年AI在数学、代码、论文上的进步：</p>
+<ol>
+<li>数学：2025年7月，Google和OpenAI都做出了在IMO上拿到金牌的模型。2025年12月，DeepSeek也做到了。<strong>2026年我们能用上IMO金牌水平的模型</strong>（哪怕scaling law在2025年12月立刻失效，也不影响我们用上）。</li>
+<li>代码：和数学进步在o1有突变不同，LLM在代码上的进步是渐变的，从gpt3.5，到gpt4，到claude 3.5，到claude 4.5。<strong>2025年推出的CC和Codex在26年会进一步取代Copilot和Cursor（哪怕scaling law在2025年12月立刻失效，也阻挡不了CC和Codex）</strong>。</li>
+<li>论文：和代码类似，进步也是渐变的。LLM现在看论文已经足够厉害，但是这不意味着它无所不知、无所不能、可以帮你在读书和读论文上摆烂。<strong>我不确定2026年的LLM的看论文能力会加强、持平、还是下降。</strong></li>
+</ol>
+<p><strong>总之，不管scaling law是否失效，至少在2026年，我还能享受到LLM的升级（IMO金牌模型、CC）。</strong></p>
+<h2 id="局限"><a href="#局限" class="headerlink" title="局限"></a>局限</h2><p>当然，LLM能拿到IMO金牌，也不意味着它可以帮你在数学上摆烂——<strong>你如果不主动请教，还是屁都不会</strong>。</p>
+<p>也不意味着LLM无所不知、无所不能——IMO只是【高中】【数学】【考试】。</p>
+<ol>
+<li>不是【高中】，它未必会——【大学】【数学】【考试】，LLM未必有多强。</li>
+<li>不是【数学】，它未必会——【高中】【物理】【考试】和【高中】【化学】【考试】，LLM未必有多强。</li>
+<li>不是【考试】，它未必会——数学家要做的是发现和探索未知，而不是考试，LLM在【发现】和【探索】上未必有多强。</li>
+</ol>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -184,10 +333,12 @@
     <title>物理学的困境</title>
     <url>/2025/09/27/The_Dilemma_of_Physics/</url>
     <content><![CDATA[<p>早上看到一只小蚂蚁在努力地搬动几十倍体积于自己的食物。心中忿忿。人类真的比蚂蚁厉害很多吗？蚂蚁无法离开地球，人类无法离开太阳系。</p>
-<p>从托勒密的时代开始，物理学最火的研究领域经历过多次变迁：从天文学，到力学，到热学，到电磁学，到原子和分子物理，到粒子物理，到凝聚态。</p>
+<p><strong>从托勒密的时代开始，物理学最火的研究领域经历过多次变迁：从天文学，到力学，到热学，到电磁学，到原子分子物理，到粒子物理，到凝聚态。</strong></p>
 <p>最后一个转变我想大家都清楚。上世纪六七十年代，物理学家分裂成两派，一派认为the party is over，人类已经没钱造加速器了。另一派认为人类应该努力造。2016年杨振宁和丘成桐的辩论即为此（两人的文章发表在<a href="https://mp.weixin.qq.com/s/JCOTJVW3uk8HgYzrIeM8QA">知识分子</a>，如此重要的东西首发于微信公众号，极为罕见）。从今天往回看，历史基本延续了前一派的预测，物理学的重心变到了凝聚态，去研究固体、液体、导体、玻璃的性质。凝聚态不那么费钱，也几乎立刻就能对人类有帮助。</p>
-<p>悲伤的是，我觉得，如果没有更大的加速器的话，人类永远也理解不了暗物质和暗能量，也永远不知道量子力学的众多诠释（哥本哈根、德布罗意-波姆、多世界）谁对谁错，也永远不可能实现星际旅行。</p>
-<p>但是，我依然是认可杨振宁的想法的。有人说，造大加速器也就能花个几百亿美元，<a href="https://zh.wikipedia.org/zh-cn/%E6%81%86%E5%A4%A7%E5%82%B5%E5%8B%99%E5%8D%B1%E6%A9%9F">一个恒大欠了几千亿美元</a>，<a href="https://news.qq.com/rain/a/20250116A04ZLJ00">王者荣耀一年的收入有几十亿美元</a>，<a href="https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA">摩根大通的年收入有一千多亿美元</a>，<a href="https://www.thecrimson.com/article/2023/10/20/budget-surplus-fy23/">Harvard每年的收入也有几十亿美元</a>。但是，在目前的经济学体制下，各国投入的研究经费(R&amp;D)至多只能占GDP的5%（<a href="https://en.wikipedia.org/wiki/List_of_sovereign_states_by_research_and_development_spending">各国列表</a>，以色列和韩国最高，5%左右），这是经济学的客观规律，不是人的主观意志能改变的——你不可能要求所有人都勒紧裤腰带过日子，去帮助国家搞科研，把研究经费占GDP的比例提高到50%。<strong>如果一个国家真的这么做了，那么就类似于杨广造大运河，过不了几年就会游行、起义、革命，到时候政府停摆，连本来的研究经费都没了。</strong>说白了，老百姓更关心能不能在城市里有房子住、有没有游戏可以玩、股票是涨还是跌、小孩能不能受到更好的教育，而不是五十年、一百年之内不会改善人类生活的粒子物理。这也无可非议。</p>
+<p>悲伤的是，<strong>我觉得，如果没有更大的加速器的话，人类永远也理解不了暗物质和暗能量，也永远不知道量子力学的众多诠释（哥本哈根、德布罗意-波姆、多世界）谁对谁错，也永远不可能实现星际旅行。</strong></p>
+<p>但是，我依然是认可杨振宁的想法的。有人说，造大加速器也就能花个几百亿美元，<a href="https://zh.wikipedia.org/zh-cn/%E6%81%86%E5%A4%A7%E5%82%B5%E5%8B%99%E5%8D%B1%E6%A9%9F">一个恒大欠了几千亿美元</a>，<a href="https://news.qq.com/rain/a/20250116A04ZLJ00">王者荣耀一年的收入有几十亿美元</a>，<a href="https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA">摩根大通的年收入有一千多亿美元</a>，<a href="https://www.thecrimson.com/article/2023/10/20/budget-surplus-fy23/">Harvard每年的收入也有几十亿美元</a>。</p>
+<p>但是，在目前的经济学体制下，各国投入的研究经费(R&amp;D)至多只能占GDP的5%（<a href="https://en.wikipedia.org/wiki/List_of_sovereign_states_by_research_and_development_spending">各国列表</a>，以色列和韩国最高，5%左右），这是经济学的客观规律，不是人的主观意志能改变的——你不可能要求所有人都勒紧裤腰带过日子，去帮助国家搞科研，把研究经费占GDP的比例提高到50%。<strong>如果一个国家真的这么做了，那么就类似于杨广造大运河，过不了几年就会游行、起义、革命，到时候政府停摆，连本来的研究经费都没了。</strong></p>
+<p>说白了，老百姓更关心能不能在城市里有房子住、有没有游戏可以玩、股票是涨还是跌、小孩能不能受到更好的教育，而不是五十年、一百年之内不会改善人类生活的粒子物理。这也无可非议。</p>
 ]]></content>
       <categories>
         <category>2025</category>
@@ -810,7 +961,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#x31;&#x30;&#x39;&#55;&#x33;&#x34;&#x38;&#x34;&#x34;&#97;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#49;&#x31;&#x30;&#x39;&#55;&#x33;&#x34;&#x38;&#x34;&#x34;&#97;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#x78;&#x75;&#97;&#110;&#46;&#108;&#105;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#x62;&#114;&#x75;&#99;&#x65;&#46;&#x79;&#x69;&#x78;&#x75;&#97;&#110;&#46;&#108;&#105;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#48;&#57;&#55;&#x33;&#52;&#x38;&#52;&#x34;&#97;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#48;&#57;&#55;&#x33;&#52;&#x38;&#52;&#x34;&#97;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#114;&#117;&#x63;&#101;&#46;&#121;&#x69;&#x78;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#98;&#114;&#117;&#x63;&#101;&#46;&#121;&#x69;&#x78;&#117;&#x61;&#110;&#46;&#108;&#x69;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -932,8 +1083,8 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -962,9 +1113,9 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -1266,8 +1417,8 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -1410,9 +1561,9 @@
         <category>2025-02</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>history</tag>
         <tag>politics</tag>
@@ -2059,9 +2210,9 @@
       </categories>
       <tags>
         <tag>love</tag>
-        <tag>romance</tag>
         <tag>madness</tag>
         <tag>THINK</tag>
+        <tag>romance</tag>
         <tag>USTC</tag>
         <tag>family</tag>
         <tag>teaching</tag>
@@ -2133,8 +2284,8 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -2565,8 +2716,8 @@
         <category>2024-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -2982,8 +3133,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>AI</tag>
+        <tag>socialism</tag>
       </tags>
   </entry>
   <entry>
@@ -5416,8 +5567,8 @@
         <category>2023-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>THINK</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
       </tags>
   </entry>
@@ -5988,8 +6139,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -6034,8 +6185,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -6979,8 +7130,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -7609,6 +7760,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁 vs 李政道</title>
     <url>/2023/07/08/CN-Yang_vs_TD-Lee/</url>
     <content><![CDATA[<h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table>
@@ -7682,22 +7849,6 @@
       </tags>
   </entry>
   <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>南城一游</title>
     <url>/2023/06/30/Journey_to_the_Southern_City/</url>
     <content><![CDATA[<p>南城一游。</p>
@@ -7761,6 +7912,22 @@
       </tags>
   </entry>
   <entry>
+    <title>相见欢·南城</title>
+    <url>/2023/06/22/The_Southern_City/</url>
+    <content><![CDATA[<p>无言独往南城，忆重重。</p>
+<p>旧语旧言旧梦旧相诚。</p>
+<p>人相对，心相醉，会相逢。</p>
+<p>笑看杨花飞柳嫁西风。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-06</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>The Southern Town</title>
     <url>/2023/06/22/The_Southern_Town/</url>
     <content><![CDATA[<p>Silently I wander to the southern town, remembering the past so profound.</p>
@@ -7787,22 +7954,6 @@
       <tags>
         <tag>poem</tag>
         <tag>translation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相见欢·南城</title>
-    <url>/2023/06/22/The_Southern_City/</url>
-    <content><![CDATA[<p>无言独往南城，忆重重。</p>
-<p>旧语旧言旧梦旧相诚。</p>
-<p>人相对，心相醉，会相逢。</p>
-<p>笑看杨花飞柳嫁西风。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-06</category>
-      </categories>
-      <tags>
-        <tag>poem</tag>
       </tags>
   </entry>
   <entry>
@@ -7857,8 +8008,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>socialism</tag>
         <tag>physics</tag>
+        <tag>socialism</tag>
         <tag>family</tag>
         <tag>movie</tag>
       </tags>
@@ -9375,49 +9526,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Does the Asterisk Mean?</title>
-    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
-    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
-<p>Review: Tianyang.</p>
-<hr>
-<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
-<p>Somebody once told me that this * means conjugate transpose.</p>
-<p>But, you know, it is so absurd.</p>
-<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
-<p>This *, possibly means duality.</p>
-<p>All boys constitute a vector space.</p>
-<p>All girls constitute a vector space.</p>
-<p>These two spaces are dual space of each other.</p>
-<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
-<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
-<p>These two elements are dual elements of each other.</p>
-<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
-<p>It is so romantic, isn’t it?</p>
-<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
-<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
-<p>By the way, a row vector is also called a co-vector.</p>
-<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
-<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
-<p>However, for the same asterisk:</p>
-<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
-<p>If you translate it into duality, then you are such a breathless romanticer.</p>
-<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
-<p>It just like, they have a baby!</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>science</tag>
-        <tag>love</tag>
-        <tag>romance</tag>
-        <tag>physics</tag>
-        <tag>math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>星星意味着什么？</title>
     <url>/2022/12/18/What_Does_the_Asterisk_Mean_Chinese/</url>
     <content><![CDATA[<h1 id="星星意味着什么？"><a href="#星星意味着什么？" class="headerlink" title="星星意味着什么？"></a>星星意味着什么？</h1><p>撰文：轩少</p>
@@ -9455,8 +9563,51 @@
         <tag>fun</tag>
         <tag>science</tag>
         <tag>love</tag>
-        <tag>romance</tag>
         <tag>physics</tag>
+        <tag>romance</tag>
+        <tag>math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Does the Asterisk Mean?</title>
+    <url>/2022/12/18/What_Does_the_Asterisk_Mean_English/</url>
+    <content><![CDATA[<h1 id="What-does-the-asterisk-mean"><a href="#What-does-the-asterisk-mean" class="headerlink" title="What does the asterisk mean?"></a>What does the asterisk mean?</h1><p>Author: Xuan Jr.</p>
+<p>Review: Tianyang.</p>
+<hr>
+<p>USTC has a strange tradition: there is an asterisk (*) after the name of each female student on all call books of the undergraduate.</p>
+<p>Somebody once told me that this * means conjugate transpose.</p>
+<p>But, you know, it is so absurd.</p>
+<p>Today noon when I got up, I suddenly came up with a romantic explanation.</p>
+<p>This *, possibly means duality.</p>
+<p>All boys constitute a vector space.</p>
+<p>All girls constitute a vector space.</p>
+<p>These two spaces are dual space of each other.</p>
+<p>Each element of the first vector space has a corresponding element in the second vector space.</p>
+<p>Each element of the second vector space has a corresponding element in the first vector space.</p>
+<p>These two elements are dual elements of each other.</p>
+<p>And this dual relationship exists from birth (命中注定), exists forever (白头偕老) and never changes (从一而终).</p>
+<p>It is so romantic, isn’t it?</p>
+<p>From the point of a physicist, you can consider the elements of the first vector space as column vectors and the elements of the second vector space as row vectors.</p>
+<p>In the literature of tensor, column vectors are (1,0) tensors while row vectors are (0,1) tensors.</p>
+<p>By the way, a row vector is also called a co-vector.</p>
+<p>For more details about duality space, please refer to Wikipedia, Zhihu, etc.</p>
+<p>Well, to tell you the truth, conjugate transpose and duality depict the same thing.</p>
+<p>However, for the same asterisk:</p>
+<p>If you translate it into conjugate transpose or Hermite, then you are such a stupid fool.</p>
+<p>If you translate it into duality, then you are such a breathless romanticer.</p>
+<p>The most romantic part of this story is: when two dual elements combine with each other, they will map the other into $R$.</p>
+<p>It just like, they have a baby!</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>science</tag>
+        <tag>love</tag>
+        <tag>physics</tag>
+        <tag>romance</tag>
         <tag>math</tag>
       </tags>
   </entry>
@@ -9516,8 +9667,8 @@
         <category>2022-12</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>madness</tag>
+        <tag>socialism</tag>
         <tag>capitalism</tag>
         <tag>soccer</tag>
         <tag>rush</tag>
@@ -9722,8 +9873,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>romance</tag>
         <tag>physics</tag>
+        <tag>romance</tag>
         <tag>biology</tag>
       </tags>
   </entry>
@@ -10565,22 +10716,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -10644,6 +10779,22 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>

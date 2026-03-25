@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://physics-lee.github.io/2025/12/28/How_To_Collaborate_With_LLMs/</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/</loc>
+    <lastmod>2026-03-15</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2025/09/16/Death_Coming/</loc>
@@ -11,10 +19,6 @@
   <url>
     <loc>https://physics-lee.github.io/2026/01/01/Kelvin/</loc>
     <lastmod>2026-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2025/12/28/How_To_Work_With_AI/</loc>
-    <lastmod>2026-01-01</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2025/10/09/Speaking_and_Writing_Languages/</loc>
@@ -59,10 +63,6 @@
   <url>
     <loc>https://physics-lee.github.io/2025/05/10/CH8_Movement_in_Low_Dim/</loc>
     <lastmod>2025-11-20</lastmod>
-  </url>
-  <url>
-    <loc>https://physics-lee.github.io/2025/09/27/The_Dilemma_of_Physics/</loc>
-    <lastmod>2025-11-04</lastmod>
   </url>
   <url>
     <loc>https://physics-lee.github.io/2025/11/04/Remember_and_Forget/</loc>
