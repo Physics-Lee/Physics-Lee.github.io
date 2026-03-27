@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>哈萨比斯传记</title>
+    <url>/2026/03/14/The_Biography_of_Hassabis/</url>
+    <content><![CDATA[<p>我不喜欢个人崇拜，故而也不喜欢看传记，但<a href="https://mp.weixin.qq.com/s?__biz=MzI3MjQ4MDMyOQ==&mid=2247539304&idx=1&sn=8f0e86d326214d3097b7ce6d81c3a9a4&chksm=ea62b042aa2ab22cfe7ad408576e6709a5e8407f1146768faa22fa92d61cdac422c8d190bfeb&mpshare=1&scene=1&srcid=031422bMQ8nIbz56qlFtfffj&sharer_shareinfo=5e59c562c8748a859c11478fed06366b&sharer_shareinfo_first=73429377852a786c9b33ea3fb9327be8#rd">这书的节选</a>作为历史记录挺有价值，按时间顺序总结如下：</p>
+<ol>
+<li>2022年11月30日，ChatGPT发布，谷歌深感危机。</li>
+<li>2024年9月13日，o1发布，谷歌又一次深感危机，召集员工去搞思维链 (Chain of Thinking, CoT)。（毕竟，思维链最早是谷歌提出来的，让别人抢先，岂不恼怒）</li>
+<li>2024年12月，谷歌发布他们第一个、世界第二个带有思维链的模型——gemini 2.0 Flash thinking。但是第二天openai发布了o3。谷歌又又感到了危机。</li>
+<li>2025年1月，DeepSeek 发布了DeepSeek R1。这篇文章不仅公开了参数，而且毫无保留地公开了做法。除了数据没公开，啥都公开了。谷歌又又又一次感到危机。anthropic则要求制裁deepseek。</li>
+<li>2025年春，谷歌新发布 gemini 2.5，免费送学生会员。这是谷歌自从2022年11月以来第一次找到场子。</li>
+<li>2025年秋，谷歌新发布 gemini 3.0，让openai感到危机。</li>
+<li>但文章中并没有提2025年12月以来 cli agent 的迅速普及，以及谷歌 cli agent 上落后于anthropic和openai。我估计谷歌现在是又又又又一次感到危机。</li>
+<li>文章也没有提2026年1月和2月，kimi, qwen, ring, glm, minimax, stepfun, doubao都发新模型，而且没一个拉胯。</li>
+</ol>
+<p>综上，这本书应该是2025年秋写的。</p>
+]]></content>
+      <categories>
+        <category>2026</category>
+        <category>2026-03</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>原来物理攻击指的是力学攻击</title>
+    <url>/2026/03/13/Physics_Is_Not_Only_Newton_Mechanics/</url>
+    <content><![CDATA[<h1 id="原来物理攻击指的是力学攻击"><a href="#原来物理攻击指的是力学攻击" class="headerlink" title="原来物理攻击指的是力学攻击"></a>原来物理攻击指的是力学攻击</h1><p>昨晚突然想明白一件事。当一个人提起物理这俩字，他脑海里想到的图像应是牛顿力学。想到的是“你推一下、我动一下”、“你打我一拳、我打你一拳”和“你打一拳，墙皮脱落一点”。</p>
+<p>起因是有人问为什么最近用网页端claude变慢了，评论区有人回答说是因为伊朗对亚马逊服务器发动了物理攻击。</p>
+<p>我中学时就一直觉得物理攻击、物理批判、物理腐蚀这三个词很怪。<strong>因为不管是英文的nature philosophy还是中文的物理，字面意思都是万事万物的道理。因此所有攻击都是物理攻击。</strong></p>
+<p>但其实，<strong>这三个词指的是，力学攻击、力学批判、力学腐蚀。。。</strong>当一个人提起物理攻击时，他不会想到电磁现象和热现象，更别提更现代的物理学了。</p>
+<p>应该说，这种想法是合理的。</p>
+<p><strong>牛顿的学说很符合人的日常经验，而物理学家对于热现象和电磁现象的解释就没那么符合了。</strong>如果你让一个人掏钱和你赌，我相信除了物理本科的，没人会真的赌 温度是分子运动的结果&#x2F;电磁场是真实存在的。但是细心研究一下就会发现，只有这样解释，才能符合所有实验现象。</p>
+<h2 id="物理腐蚀的图像"><a href="#物理腐蚀的图像" class="headerlink" title="物理腐蚀的图像"></a>物理腐蚀的图像</h2><p>中学时，教材把腐蚀区分成物理、化学、电化学三种。</p>
+<p><a href="http://baike.baidu.com/item/%E7%89%A9%E7%90%86%E8%85%90%E8%9A%80/15677841">物理腐蚀</a>的含义是——金属由于单纯的物理溶解而引起的破坏。显然，这里的图像和“你打一拳，墙皮脱落一点”是一样的。</p>
+<p>与之相对，<a href="https://baike.baidu.com/item/%E5%8C%96%E5%AD%A6%E8%85%90%E8%9A%80/1839488?fromModule=lemma_inlink">化学腐蚀</a>的含义是——金属与外部介质直接起化学作用，引起表面的破坏。<a href="https://baike.baidu.com/item/%E7%94%B5%E5%8C%96%E5%AD%A6%E8%85%90%E8%9A%80/653451?fromModule=lemma_inlink">电化学腐蚀</a>的含义是——金属和电解质组成两个电极，组成电池。这两种腐蚀其实是电磁现象的图像。</p>
+<h2 id="攻击电网算不算力学攻击"><a href="#攻击电网算不算力学攻击" class="headerlink" title="攻击电网算不算力学攻击"></a>攻击电网算不算力学攻击</h2><p>有人问我——伊朗袭击给服务器供电的电网算不算是力学攻击。</p>
+<p>我的回答是：当一个人说攻击电网是，如果他脑海里想到的是导弹轰炸，这仍然是一种力学的图像，和“你推一下、我动一下”、“你打我一拳、我打你一拳”是一样的。如果他想到的是操纵电磁场，例如电磁辐射和电磁屏蔽，那这就是一种电磁现象的图像。</p>
+<h1 id="狭隘-19世纪"><a href="#狭隘-19世纪" class="headerlink" title="狭隘 | 19世纪"></a>狭隘 | 19世纪</h1><p>这种想法是合理的，但是很狭隘。</p>
+<p>把物理理解成力学，在历史上曾起到非常坏的作用。</p>
+<p>如果你看穿越回麦克斯韦的年代，问他：“你研究的东西和物理学有什么关系？”</p>
+<p>麦克斯韦恐怕会说没关系，并补充说，库伦卡文迪许安培高斯纽曼韦伯这些人就是因为牛顿力学学得太好，才对超距作用深信不疑，从而错失历史机遇。</p>
+<p>库伦安培的（所谓的）智商未必比法拉第麦克斯韦低，但前者只把物理理解成力学，而后者没那么狭隘。</p>
+<h1 id="狭隘-21世纪"><a href="#狭隘-21世纪" class="headerlink" title="狭隘 | 21世纪"></a>狭隘 | 21世纪</h1><p>在很多人眼里，24年诺贝尔奖不应该发给那两个人。这种看法是狭隘的。</p>
+<p><strong>如果你就把物理理解成对力学现象、电磁现象、热现象、原子分子的研究，你当然可以认为24年诺奖发错了。但这难道不狭隘吗？</strong></p>
+<p>我相信到2100年，人类对物理的理解会更回到它的字面意思。<strong>到时候应该不会有人用物理攻击这种词了吧。</strong></p>
+]]></content>
+      <categories>
+        <category>2026</category>
+        <category>2026-03</category>
+      </categories>
+      <tags>
+        <tag>physics</tag>
+        <tag>THINK</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>agent有感1：claude code/codex/opencode</title>
     <url>/2026/03/05/After_Using_Agent_1/</url>
     <content><![CDATA[<p>最近几天玩了玩三个AI智能体（英文称之为AI Agent）——claude code&#x2F;codex&#x2F;opencode，有些体会，作文分享。</p>
@@ -839,7 +896,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#x34;&#56;&#x34;&#52;&#x61;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#x31;&#49;&#x30;&#x39;&#55;&#x33;&#x34;&#56;&#x34;&#52;&#x61;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#99;&#x65;&#x2e;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x62;&#x72;&#x75;&#99;&#x65;&#x2e;&#x79;&#x69;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#x30;&#x39;&#x37;&#x33;&#52;&#56;&#x34;&#x34;&#x61;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#111;&#x6d;">&#x31;&#x31;&#x30;&#x39;&#x37;&#x33;&#52;&#56;&#x34;&#x34;&#x61;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#111;&#x6d;</a>和<a href="mailto:&#x62;&#x72;&#x75;&#x63;&#101;&#x2e;&#x79;&#105;&#120;&#x75;&#x61;&#x6e;&#46;&#x6c;&#x69;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;">&#x62;&#x72;&#x75;&#x63;&#101;&#x2e;&#x79;&#105;&#120;&#x75;&#x61;&#x6e;&#46;&#x6c;&#x69;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -961,8 +1018,8 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
+        <tag>socialism</tag>
         <tag>THINK</tag>
       </tags>
   </entry>
@@ -5951,8 +6008,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -5997,8 +6054,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -6942,8 +6999,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -7546,6 +7603,32 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁回忆鸦片</title>
+    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
+    <content><![CDATA[<blockquote>
+<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
+</blockquote>
+<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
+<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
+<p>太傻逼了。</p>
+<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
+<hr>
+<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
+<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
+<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>history</tag>
+        <tag>biography</tag>
+        <tag>drug</tag>
+        <tag>break cognitive limits</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁和黄昆还不够铁啊</title>
     <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
     <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
@@ -7632,32 +7715,6 @@
         <tag>physics</tag>
         <tag>biography</tag>
         <tag>USTC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁回忆鸦片</title>
-    <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
-    <content><![CDATA[<blockquote>
-<p>1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪</p>
-</blockquote>
-<p><a href="https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html">出处</a></p>
-<p>草，这是近期最<strong>突破我认知</strong>的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，<strong>但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！</strong></p>
-<p>太傻逼了。</p>
-<p>不妨思考一下，<strong>当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？</strong></p>
-<hr>
-<p>GPT-4对本文最后一个问题的回答：看<a href="https://chat.openai.com/share/42b79b86-7e3e-496c-8a96-325dd8e05755">这里</a>。（若失效请点击<a href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/Opium_Etiquette.pdf">此处</a>）</p>
-<p>New Bing对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/New_Bing.png" title="New_Bing.png">New_Bing.png</a></p>
-<p>Bard对本文最后一个问题的回答：<a href="/2023/07/08/CN-Yang_Recalls_Opium/Bard.png" title="Bard.png">Bard.png</a></p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>history</tag>
-        <tag>biography</tag>
-        <tag>drug</tag>
-        <tag>break cognitive limits</tag>
       </tags>
   </entry>
   <entry>
