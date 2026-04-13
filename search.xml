@@ -46,10 +46,14 @@
 </tr>
 <tr>
 <td>~100 min</td>
-<td>Claude Code&#x2F;Codex&#x2F;Opencode</td>
+<td>CC&#x2F;Codex&#x2F;Opencode</td>
 </tr>
 <tr>
 <td>~1000 min</td>
+<td>Oh-My-Opencode&#x2F;CC Agent Team&#x2F;Codex Agent Team&#x2F;Kimi Agent Team</td>
+</tr>
+<tr>
+<td>Infinity</td>
 <td>OpenClaw</td>
 </tr>
 </tbody></table>
@@ -78,32 +82,32 @@
 <tr>
 <td><strong>2022</strong></td>
 <td>复制粘贴到浏览器里，再把LLM的回答复制粘贴回来</td>
-<td>指OpenAI的ChatGPT</td>
+<td>指OpenAI的ChatGPT。</td>
 <td>22年12月跟上</td>
 </tr>
 <tr>
 <td><strong>2023</strong></td>
 <td>在VS Code和Cursor里点击“接受修改”</td>
-<td>指IDE中的副驾驶</td>
+<td>指IDE中的副驾驶。</td>
 <td>23年11月跟上</td>
 </tr>
 <tr>
 <td><strong>2025</strong></td>
 <td>同时开多个终端，指挥多个LLM写代码</td>
-<td>指cc&#x2F;codex&#x2F;opencode</td>
+<td>指cc&#x2F;codex&#x2F;opencode。</td>
 <td>26年2月跟上</td>
 </tr>
 <tr>
 <td><strong>2026</strong></td>
-<td>让一个终端去开启其它终端，从而指挥一个LLM去命令多个LLM</td>
-<td>指cc的agent team模式</td>
-<td>尚未</td>
+<td>开启一个终端，让它去开启其它终端，从而指挥一个LLM去命令多个LLM</td>
+<td>指oh-my-opencode，以及cc的agent team模式。</td>
+<td>26年4月跟上</td>
 </tr>
 <tr>
-<td><strong>202x</strong></td>
+<td><strong>2026</strong></td>
 <td>连终端都不用开启，直接在手机上语音指挥一个LLM去命令多个LLM</td>
-<td>指openclaw。但现在还没到实现，一年之内有望达成。</td>
-<td>N&#x2F;A</td>
+<td>指openclaw。但现在还不完善，一年之内有望达成。</td>
+<td>26年3月跟上</td>
 </tr>
 </tbody></table>
 <p>评价：越来越懒</p>
@@ -113,8 +117,8 @@
         <category>2026-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -138,8 +142,8 @@
         <category>2026-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -170,8 +174,8 @@
         <category>2026-03</category>
       </categories>
       <tags>
-        <tag>physics</tag>
         <tag>THINK</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -182,7 +186,8 @@
 <p>这仨都在25年下半年越来越火。我们可以在 <a href="https://www.star-history.com/">https://www.star-history.com</a> 查看他们走红的时间。</p>
 <img src="/2026/03/05/After_Using_Agent_1/star-history-202635.png" class="">
 
-<p>注：openai 2021年为初版GitHub Copilot训练了一个名为”codex”的模型（对GPT-3微调得到的），在2025年4月又推出了一个名为”codex”的在命令行中运行的软件。两者不是一个东西。</p>
+<p>注：openai 2021年为初版GitHub Copilot训练了一个名为”codex”的模型（对GPT-3微调得到的），在2025年4月又推出了一个名为”codex”的命令行智能体。两者不是一个东西。</p>
+<h2 id="逐步爆火"><a href="#逐步爆火" class="headerlink" title="逐步爆火"></a>逐步爆火</h2><p>从star history可以看出，和GPT-3.5, GPT-o1, OpenClaw的一夜爆火不同，cc&#x2F;codex&#x2F;opencode是逐步爆火的。</p>
 <h1 id="类似物"><a href="#类似物" class="headerlink" title="类似物"></a>类似物</h1><p><strong>它们类似于vscode&#x2F;cursor的agent模式</strong>，但能跑更长时间，使用方式更极简。</p>
 <h1 id="危险程度排行"><a href="#危险程度排行" class="headerlink" title="危险程度排行"></a>危险程度排行</h1><p>众所周知，agent是十分危险的，无论是对个人还是对全人类。轻则删库删文件，重可。。。（自行联想）</p>
 <p>如果对现在的AI做一个<strong>危险程度排行</strong>，我认为：<strong>问答式＜vscode&#x2F;cursor的agent模式＜cc&#x2F;codex</strong>。</p>
@@ -203,8 +208,9 @@
 <p>比如，我之前用AI做PPT，需要先用问答式AI写提示词，再把提示词教给gamma这样专门生成PPT的AI。现在直接用它们就行了。而且，前者没法迭代，后者可以。</p>
 <p>这里的关键是：<strong>安全对你的工作到底有多重要？如果改错了对你影响大不大？需不需要你自己去检查它们的修改？</strong></p>
 <p>如果你的回答是：非常重要、非常大、需要，那么它们对你的帮助可能不大。</p>
-<h1 id="多智能体协作"><a href="#多智能体协作" class="headerlink" title="多智能体协作"></a>多智能体协作</h1><p>opencode丝毫不虚cc&#x2F;codex。开源好处之一是有很多人无偿支持。这不，有一个很好用的插件叫oh-my-opencode，发明者搞了7个智能体协同工作。<strong>这东西很不错，很可能改变世界。</strong></p>
+<h1 id="多智能体协作"><a href="#多智能体协作" class="headerlink" title="多智能体协作"></a>多智能体协作</h1><p>opencode丝毫不虚cc&#x2F;codex。开源好处之一是有很多人无偿支持。这不，有一个很好用的插件叫<a href="https://github.com/code-yeongyu/oh-my-openagent">oh-my-opencode</a>，发明者搞了7个智能体协同工作。<strong>这东西很不错，很可能改变世界。</strong></p>
 <p>多智能体协作这事古已有之。24年的alpha geometry, 22年年初的instruct gpt, 甚至14年的GAN，称得上是广义的多智能体协作。但在AI Agent时代它可能会大放异彩。</p>
+<p>注：oh-my-opencode在26年3月7日改名为oh-my-openagent。</p>
 <h1 id="编程、数学、物理"><a href="#编程、数学、物理" class="headerlink" title="编程、数学、物理"></a>编程、数学、物理</h1><h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><p>上述内容都是AI在编程上的进步。其实从2022年11月ChatGPT发布的那天，大家就应该想到会有今天的结局。<strong>当年的ChatGPT就可以5分钟用5种方法实现svm，那今天的这些又有什么可让人惊讶的呢？</strong></p>
 <h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><p>和编程一样，数学也是<strong>标签非常明确</strong>的任务，很适合测试AI，我很喜欢。</p>
 <p>据我所知，目前有6个自然语言模型可以达到IMO Gold的水平：</p>
@@ -332,7 +338,7 @@
 <tr>
 <td><strong>4 大师</strong> (&gt;99% 专业人士)</td>
 <td>深蓝, AlphaGo</td>
-<td>Claude Code&#x2F;Codex&#x2F;Opencode</td>
+<td>Claude Code&#x2F;Codex&#x2F;Opencode, oh-my-opencode, OpenClaw</td>
 <td>尚未实现</td>
 </tr>
 <tr>
@@ -356,8 +362,8 @@
         <category>2026-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -432,8 +438,8 @@
         <category>2025-12</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -736,8 +742,8 @@
         <category>2025-06</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -1013,7 +1019,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#49;&#48;&#57;&#55;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#64;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#49;&#49;&#48;&#57;&#55;&#51;&#x34;&#x38;&#52;&#x34;&#97;&#64;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a>和<a href="mailto:&#98;&#x72;&#117;&#x63;&#101;&#46;&#x79;&#x69;&#120;&#117;&#97;&#x6e;&#46;&#108;&#x69;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#98;&#x72;&#117;&#x63;&#101;&#46;&#x79;&#x69;&#120;&#117;&#97;&#x6e;&#46;&#108;&#x69;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#49;&#49;&#x30;&#57;&#55;&#x33;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#49;&#49;&#x30;&#57;&#55;&#x33;&#52;&#x38;&#x34;&#x34;&#x61;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a>和<a href="mailto:&#98;&#x72;&#117;&#x63;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#x61;&#110;&#46;&#x6c;&#x69;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#98;&#x72;&#117;&#x63;&#x65;&#46;&#x79;&#x69;&#120;&#x75;&#x61;&#110;&#46;&#x6c;&#x69;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -1079,8 +1085,8 @@
       </categories>
       <tags>
         <tag>fun</tag>
-        <tag>physics</tag>
         <tag>THINK</tag>
+        <tag>physics</tag>
         <tag>video game</tag>
         <tag>BCI</tag>
       </tags>
@@ -1166,8 +1172,8 @@
         <category>2025-04</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
         <tag>language</tag>
       </tags>
   </entry>
@@ -1383,8 +1389,8 @@
         <category>2025-03</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -1412,8 +1418,8 @@
       </categories>
       <tags>
         <tag>science</tag>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -2166,8 +2172,8 @@
         <category>2025-01</category>
       </categories>
       <tags>
-        <tag>physics</tag>
         <tag>THINK</tag>
+        <tag>physics</tag>
       </tags>
   </entry>
   <entry>
@@ -3046,9 +3052,9 @@
         <category>2024-10</category>
       </categories>
       <tags>
+        <tag>THINK</tag>
         <tag>physics</tag>
         <tag>AI</tag>
-        <tag>THINK</tag>
       </tags>
   </entry>
   <entry>
@@ -3088,8 +3094,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3137,8 +3143,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3152,8 +3158,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3229,8 +3235,8 @@
         <category>2024-09</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -3497,8 +3503,8 @@
         <category>2024-08</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -4266,8 +4272,8 @@
         <category>2024-04</category>
       </categories>
       <tags>
-        <tag>AI</tag>
         <tag>THINK</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -5502,6 +5508,32 @@
       </categories>
   </entry>
   <entry>
+    <title>且看LLM如何改变电子游戏</title>
+    <url>/2023/12/19/Game_Industry_by_Lin/</url>
+    <content><![CDATA[<p>今日看了小林最新一期讲电子游戏产业的<a href="https://www.youtube.com/watch?v=8BbG1Jr94o8&lc=UgwSl0pet4Y3sqqeXnJ4AaABAg">视频</a>，有感而发，遂作此文。</p>
+<img src="/2023/12/19/Game_Industry_by_Lin/1.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/2.png" class="">
+
+<img src="/2023/12/19/Game_Industry_by_Lin/3.png" class="">
+
+
+
+
+
+<p>虽然数据满满，但是小林在视频里没有提到LLM将会对电子游戏产生的影响。我个人认为，LLM会改变一切产业，科技、教育、游戏、农业、工业、服务业，所有的一切！</p>
+<p>且看LLM如何改变游戏！</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-12</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+        <tag>video game</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>疲惫悖论</title>
     <url>/2023/12/19/Fatigue_Paradox/</url>
     <content><![CDATA[<p>这篇文章为<a href="https://www.bilibili.com/video/BV1tC4y1X7TU/?spm_id_from=333.999.0.0&vd_source=7f7311e573a7f2a9bab48f7645a4e660">此视频</a>而作。</p>
@@ -5556,32 +5588,6 @@
         <tag>socialism</tag>
         <tag>THINK</tag>
         <tag>capitalism</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>且看LLM如何改变电子游戏</title>
-    <url>/2023/12/19/Game_Industry_by_Lin/</url>
-    <content><![CDATA[<p>今日看了小林最新一期讲电子游戏产业的<a href="https://www.youtube.com/watch?v=8BbG1Jr94o8&lc=UgwSl0pet4Y3sqqeXnJ4AaABAg">视频</a>，有感而发，遂作此文。</p>
-<img src="/2023/12/19/Game_Industry_by_Lin/1.png" class="">
-
-<img src="/2023/12/19/Game_Industry_by_Lin/2.png" class="">
-
-<img src="/2023/12/19/Game_Industry_by_Lin/3.png" class="">
-
-
-
-
-
-<p>虽然数据满满，但是小林在视频里没有提到LLM将会对电子游戏产生的影响。我个人认为，LLM会改变一切产业，科技、教育、游戏、农业、工业、服务业，所有的一切！</p>
-<p>且看LLM如何改变游戏！</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-12</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
-        <tag>video game</tag>
       </tags>
   </entry>
   <entry>
@@ -12932,35 +12938,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Marie Curie</title>
-    <url>/2021/09/23/Marie_Curie/</url>
-    <content><![CDATA[<h1 id="2021-09-23"><a href="#2021-09-23" class="headerlink" title="2021-09-23"></a>2021-09-23</h1><p>刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）</p>
-<p>当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。</p>
-<p>1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）</p>
-<p>一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）</p>
-<p>一战结束了，法国赢了，波兰独立了。华沙也建了一个镭学研究所，请居里夫人当名誉老大。</p>
-<p>三十多年前她只是一个离乡别父的小姑娘，现在她已经是全民偶像。</p>
-<h1 id="2021-10-07-update"><a href="#2021-10-07-update" class="headerlink" title="2021-10-07 update"></a>2021-10-07 update</h1><p>1795-1918，波兰亡国123年。但是在123年的亡国期间，波兰并没有丢失自己的语言和文化，因此各种独立运动不断。</p>
-<p>以上的文字不是很生动，但请继续看：</p>
-<p>Marie Curie 1867-1934：</p>
-<p>其父母为波兰独立运动的支持者。一家人因为支持波兰独立而穷困潦倒。</p>
-<p>居里夫人上的中学是一个“地下学校”</p>
-<p>居里夫人曾经和一个波兰青年处对象。他一家也是波兰独立运动的支持者。他后来也成了一个比较牛的数学家，他和Banach是朋友。</p>
-<p>1898，居里夫妇把新发现的元素命名为Polonium，以纪念“我们其中一人的祖国是Polska”。</p>
-<p>居里夫人曾聘用波兰教师教她的两个女儿波兰语。</p>
-<p>PS：其实我小学时候就听说过“以纪念祖国波兰”这句话。但是直到最近我才知道这句话的分量。</p>
-<p>Marie Curie, look at her lifetime, she is so nb.</p>
-]]></content>
-      <categories>
-        <category>2021</category>
-        <category>2021-09</category>
-      </categories>
-      <tags>
-        <tag>nationalism</tag>
-        <tag>biography</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《法兰西情书》——严济慈</title>
     <url>/2021/09/23/Love_Letter_in_France/</url>
     <content><![CDATA[<blockquote>
@@ -13079,6 +13056,35 @@
       <tags>
         <tag>love</tag>
         <tag>romance</tag>
+        <tag>biography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Marie Curie</title>
+    <url>/2021/09/23/Marie_Curie/</url>
+    <content><![CDATA[<h1 id="2021-09-23"><a href="#2021-09-23" class="headerlink" title="2021-09-23"></a>2021-09-23</h1><p>刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）</p>
+<p>当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。</p>
+<p>1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）</p>
+<p>一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）</p>
+<p>一战结束了，法国赢了，波兰独立了。华沙也建了一个镭学研究所，请居里夫人当名誉老大。</p>
+<p>三十多年前她只是一个离乡别父的小姑娘，现在她已经是全民偶像。</p>
+<h1 id="2021-10-07-update"><a href="#2021-10-07-update" class="headerlink" title="2021-10-07 update"></a>2021-10-07 update</h1><p>1795-1918，波兰亡国123年。但是在123年的亡国期间，波兰并没有丢失自己的语言和文化，因此各种独立运动不断。</p>
+<p>以上的文字不是很生动，但请继续看：</p>
+<p>Marie Curie 1867-1934：</p>
+<p>其父母为波兰独立运动的支持者。一家人因为支持波兰独立而穷困潦倒。</p>
+<p>居里夫人上的中学是一个“地下学校”</p>
+<p>居里夫人曾经和一个波兰青年处对象。他一家也是波兰独立运动的支持者。他后来也成了一个比较牛的数学家，他和Banach是朋友。</p>
+<p>1898，居里夫妇把新发现的元素命名为Polonium，以纪念“我们其中一人的祖国是Polska”。</p>
+<p>居里夫人曾聘用波兰教师教她的两个女儿波兰语。</p>
+<p>PS：其实我小学时候就听说过“以纪念祖国波兰”这句话。但是直到最近我才知道这句话的分量。</p>
+<p>Marie Curie, look at her lifetime, she is so nb.</p>
+]]></content>
+      <categories>
+        <category>2021</category>
+        <category>2021-09</category>
+      </categories>
+      <tags>
+        <tag>nationalism</tag>
         <tag>biography</tag>
       </tags>
   </entry>

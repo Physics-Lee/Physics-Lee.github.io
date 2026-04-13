@@ -4,7 +4,16 @@
   <url>
     <loc>https://physics-lee.github.io/2026/03/27/After_Using_Agent_2/</loc>
     
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/</loc>
+    
+    <lastmod>2026-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://physics-lee.github.io/2026/03/14/The_Biography_of_Hassabis/</loc>
-    
-    <lastmod>2026-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/</loc>
     
     <lastmod>2026-03-25</lastmod>
     
@@ -3667,7 +3667,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

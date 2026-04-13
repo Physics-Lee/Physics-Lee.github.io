@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2026-03-28T08:36:48.690Z</updated>
+  <updated>2026-04-13T05:32:19.834Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://physics-lee.github.io/2026/03/27/After_Using_Agent_2/"/>
     <id>https://physics-lee.github.io/2026/03/27/After_Using_Agent_2/</id>
     <published>2026-03-26T16:00:00.000Z</published>
-    <updated>2026-03-28T08:36:48.690Z</updated>
+    <updated>2026-04-13T05:32:19.834Z</updated>
     
     
     <summary type="html">&lt;p&gt;三月上旬，我尝试了openclaw，从3月4日养到了3月15日。&lt;/p&gt;
@@ -35,9 +35,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -64,9 +64,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -90,9 +90,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
   </entry>
   
@@ -101,7 +101,7 @@
     <link href="https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/"/>
     <id>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1/</id>
     <published>2026-03-04T16:00:00.000Z</published>
-    <updated>2026-03-25T04:36:06.717Z</updated>
+    <updated>2026-04-12T10:18:44.598Z</updated>
     
     
     <summary type="html">&lt;p&gt;最近几天玩了玩三个AI智能体（英文称之为AI Agent）——claude code&amp;#x2F;codex&amp;#x2F;opencode，有些体会，作文分享。&lt;/p&gt;
@@ -116,9 +116,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -167,9 +167,9 @@
     <category term="2025-12" scheme="https://physics-lee.github.io/categories/2025/2025-12/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -478,9 +478,9 @@
     <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -683,7 +683,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#49;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#x38;&amp;#52;&amp;#x34;&amp;#97;&amp;#64;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#x72;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#117;&amp;#97;&amp;#x6e;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#98;&amp;#x72;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#117;&amp;#97;&amp;#x6e;&amp;#46;&amp;#108;&amp;#x69;&amp;#64;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#49;&amp;#49;&amp;#x30;&amp;#57;&amp;#55;&amp;#x33;&amp;#52;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#x72;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#x61;&amp;#110;&amp;#46;&amp;#x6c;&amp;#x69;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#98;&amp;#x72;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#120;&amp;#x75;&amp;#x61;&amp;#110;&amp;#46;&amp;#x6c;&amp;#x69;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -723,9 +723,9 @@
     
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
     
@@ -813,9 +813,9 @@
     <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
     <category term="language" scheme="https://physics-lee.github.io/tags/language/"/>
     
@@ -1074,9 +1074,9 @@
     <category term="2025-03" scheme="https://physics-lee.github.io/categories/2025/2025-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -1103,9 +1103,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -1500,9 +1500,9 @@
     <category term="2025-01" scheme="https://physics-lee.github.io/categories/2025/2025-01/"/>
     
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
   </entry>
   
@@ -2301,11 +2301,11 @@
     <category term="2024-10" scheme="https://physics-lee.github.io/categories/2024/2024-10/"/>
     
     
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -2357,9 +2357,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2417,9 +2417,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2448,9 +2448,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2526,9 +2526,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2826,9 +2826,9 @@
     <category term="2024-08" scheme="https://physics-lee.github.io/categories/2024/2024-08/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -3529,9 +3529,9 @@
     <category term="2024-04" scheme="https://physics-lee.github.io/categories/2024/2024-04/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -4620,34 +4620,6 @@
   </entry>
   
   <entry>
-    <title>疲惫悖论</title>
-    <link href="https://physics-lee.github.io/2023/12/19/Fatigue_Paradox/"/>
-    <id>https://physics-lee.github.io/2023/12/19/Fatigue_Paradox/</id>
-    <published>2023-12-18T16:00:00.000Z</published>
-    <updated>2023-12-31T13:33:50.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;这篇文章为&lt;a href=&quot;https://www.bilibili.com/video/BV1tC4y1X7TU/?spm_id_from=333.999.0.0&amp;vd_source=7f7311e573a7f2a9bab48f7645a4e660&quot;&gt;此视频&lt;/a&gt;而作。&lt;/p&gt;
-&lt;h1 id=&quot;阐明&quot;&gt;&lt;a href=&quot;#阐明&quot; class=&quot;headerlink&quot; title=&quot;阐明&quot;&gt;&lt;/a&gt;阐明&lt;/h1&gt;&lt;p&gt;问：为什么工业革命以来，人类社会的生产力越来越高，物质生活越来越丰富，但人似乎越来越疲劳？&lt;/p&gt;
-&lt;p&gt;答：好问题，我没法一句话回答，且听我娓娓道来。&lt;/p&gt;
-&lt;p&gt;回首过去，从生产力的角度看：&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-12" scheme="https://physics-lee.github.io/categories/2023/2023-12/"/>
-    
-    
-    <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
-    
-    <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
-    
-  </entry>
-  
-  <entry>
     <title>且看LLM如何改变电子游戏</title>
     <link href="https://physics-lee.github.io/2023/12/19/Game_Industry_by_Lin/"/>
     <id>https://physics-lee.github.io/2023/12/19/Game_Industry_by_Lin/</id>
@@ -4678,6 +4650,34 @@
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>疲惫悖论</title>
+    <link href="https://physics-lee.github.io/2023/12/19/Fatigue_Paradox/"/>
+    <id>https://physics-lee.github.io/2023/12/19/Fatigue_Paradox/</id>
+    <published>2023-12-18T16:00:00.000Z</published>
+    <updated>2023-12-31T13:33:50.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这篇文章为&lt;a href=&quot;https://www.bilibili.com/video/BV1tC4y1X7TU/?spm_id_from=333.999.0.0&amp;vd_source=7f7311e573a7f2a9bab48f7645a4e660&quot;&gt;此视频&lt;/a&gt;而作。&lt;/p&gt;
+&lt;h1 id=&quot;阐明&quot;&gt;&lt;a href=&quot;#阐明&quot; class=&quot;headerlink&quot; title=&quot;阐明&quot;&gt;&lt;/a&gt;阐明&lt;/h1&gt;&lt;p&gt;问：为什么工业革命以来，人类社会的生产力越来越高，物质生活越来越丰富，但人似乎越来越疲劳？&lt;/p&gt;
+&lt;p&gt;答：好问题，我没法一句话回答，且听我娓娓道来。&lt;/p&gt;
+&lt;p&gt;回首过去，从生产力的角度看：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-12" scheme="https://physics-lee.github.io/categories/2023/2023-12/"/>
+    
+    
+    <category term="socialism" scheme="https://physics-lee.github.io/tags/socialism/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="capitalism" scheme="https://physics-lee.github.io/tags/capitalism/"/>
     
   </entry>
   
@@ -10592,32 +10592,6 @@
   </entry>
   
   <entry>
-    <title>Marie Curie</title>
-    <link href="https://physics-lee.github.io/2021/09/23/Marie_Curie/"/>
-    <id>https://physics-lee.github.io/2021/09/23/Marie_Curie/</id>
-    <published>2021-09-22T16:00:00.000Z</published>
-    <updated>2023-11-01T07:19:33.000Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;2021-09-23&quot;&gt;&lt;a href=&quot;#2021-09-23&quot; class=&quot;headerlink&quot; title=&quot;2021-09-23&quot;&gt;&lt;/a&gt;2021-09-23&lt;/h1&gt;&lt;p&gt;刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）&lt;/p&gt;
-&lt;p&gt;当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。&lt;/p&gt;
-&lt;p&gt;1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）&lt;/p&gt;
-&lt;p&gt;一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2021" scheme="https://physics-lee.github.io/categories/2021/"/>
-    
-    <category term="2021-09" scheme="https://physics-lee.github.io/categories/2021/2021-09/"/>
-    
-    
-    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-  </entry>
-  
-  <entry>
     <title>《法兰西情书》——严济慈</title>
     <link href="https://physics-lee.github.io/2021/09/23/Love_Letter_in_France/"/>
     <id>https://physics-lee.github.io/2021/09/23/Love_Letter_in_France/</id>
@@ -10653,6 +10627,32 @@
     <category term="love" scheme="https://physics-lee.github.io/tags/love/"/>
     
     <category term="romance" scheme="https://physics-lee.github.io/tags/romance/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Marie Curie</title>
+    <link href="https://physics-lee.github.io/2021/09/23/Marie_Curie/"/>
+    <id>https://physics-lee.github.io/2021/09/23/Marie_Curie/</id>
+    <published>2021-09-22T16:00:00.000Z</published>
+    <updated>2023-11-01T07:19:33.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;2021-09-23&quot;&gt;&lt;a href=&quot;#2021-09-23&quot; class=&quot;headerlink&quot; title=&quot;2021-09-23&quot;&gt;&lt;/a&gt;2021-09-23&lt;/h1&gt;&lt;p&gt;刚刚严济慈《法兰西情书》上有关居里夫人的一段话，有点感慨。（居里夫人指导过严济慈）&lt;/p&gt;
+&lt;p&gt;当年，部分因为波兰亡国，Marie一个人坐上火车，背井离乡，去飘渺的巴黎，去求学，去追求前程。&lt;/p&gt;
+&lt;p&gt;1898，法国科学院会议上，居里夫妇希望能把他们发现的新元素命名为钋，以纪念其中一人的祖国是波兰。（虽然波兰处于亡国状态）&lt;/p&gt;
+&lt;p&gt;一战期间，居里夫人发明了一种X光车，可以为受伤的法国士兵做检查。居里夫人还教护士们这车咋用。（大科学家随手搞搞小科研）&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2021" scheme="https://physics-lee.github.io/categories/2021/"/>
+    
+    <category term="2021-09" scheme="https://physics-lee.github.io/categories/2021/2021-09/"/>
+    
+    
+    <category term="nationalism" scheme="https://physics-lee.github.io/tags/nationalism/"/>
     
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
