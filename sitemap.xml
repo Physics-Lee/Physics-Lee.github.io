@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://physics-lee.github.io/2026/05/11/Science_Revolution_by_DL_v2/</loc>
+    
+    <lastmod>2026-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://physics-lee.github.io/2026/04/13/After_Using_Agent_3_Oh_My_OpenAgent/</loc>
+    
+    <lastmod>2026-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://physics-lee.github.io/2026/03/05/After_Using_Agent_1_CC_Codex_OpenCode/</loc>
     
     <lastmod>2026-04-13</lastmod>
@@ -3667,7 +3685,7 @@
 
   <url>
     <loc>https://physics-lee.github.io/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

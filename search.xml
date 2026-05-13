@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2026/05/11/Science_Revolution_by_DL_v2/</url>
+    <content><![CDATA[<p>如果终将失事，你是否还会扬帆远航？</p>
+<p>有一位学者叫 Jim Gray（1944-2007）。1998年因“对数据库和事务处理研究的开创性贡献以及系统实现中的技术领导地位”获得图灵奖。他很喜欢一个人出去航海。2007年，他打算前往一个小岛，把母亲的骨灰撒在岛上。但是，他再也没有回来。他的朋友、学生中有不少都是计算机视觉的高手，他们在几千张影像中希望找到 Jim Gray 的身影，但是一无所获。</p>
+<p>Jim Gray 极富洞察。2007年，他提出——我们正在经历第四次科学革命。</p>
+<p>他认为：</p>
+<ol>
+<li>第一范式：人类进行海量的实验，从而学会用火、建造埃及金字塔、发明造纸术。</li>
+<li>第二范式：始于伽利略。先提出一个理论，再做实验看实验能否验证理论给出的预测。</li>
+<li>第三范式：始于电子计算机。用计算机模拟现实中难做的实验。</li>
+<li>第四范式：始于大数据。Jim Gray 认为，辅以大数据，计算机能理解复杂系统。（那时候是深度学习第二次寒冬，他指的不是深度学习，仅仅是大数据）</li>
+</ol>
+<p>2014年，一家名为第四范式的AI公司在中国成立。和大家猜的一样，创始人说——名字是为了致敬 Jim Gray。</p>
+<p>我的想法和 Jim Gray 不太一样。我不认可他所说的第一范式和第三范式：</p>
+<ol>
+<li>伽利略之前的海量实验：当然对人类进步很重要，当然是巨大的工程进步，但是似乎不能称之为自然科学。</li>
+<li>计算机模拟：我认为和实验没有本质区别，只是把现实中难做的实验拿到计算机上了。依旧是“先提出一个理论，再做实验看实验和理论是否符合”。至于用计算指导实验，我认为，类似于预实验。</li>
+</ol>
+<p>我同意他所说的第二范式和第四范式。除此之外，我认为他遗漏了古希腊数学。</p>
+<p>我认为，人类历史上有三次科学革命：</p>
+<ol>
+<li><p>欧几里得等人撰写《几何原本》。这标志着数学的真正开端。我们把一些规则当成公理，再用它们构建我们的体系，而不仅仅是算术和画图。这就是数学。</p>
+</li>
+<li><p>伽利略撰写《两种新科学》。这标志着自然科学的真正开端。我们要判断实验结果和理论预测是否一致，而不是单纯思辨或无脑进行海量实验。这就是自然科学。后来，拉瓦锡、孟德尔也用类似的思考方式。</p>
+</li>
+<li><p>2012年至今深度学习的进展。这意味着一种人类和自然界之间“翻译软件”。上帝的语言真的是数学吗？自然界的规律真的都可以用简单的数学语言描述吗？——也许答案是否定的。到目前为止，人类能理解的规律要么能用几句数学语言描述、要么能用几句自然语言描述。但复杂系统也许不能。当系统足够复杂时，我们也许永远无法用人类可理解的语言来概括其规律，但我们<strong>已经</strong>可以训练一个神经网络来充当“翻译软件”。深度学习已开始充当人类和自然界（特别是复杂系统）的“翻译软件”，并且这个翻译软件的能力越来越强。例如：<br>甲）人类能理解两个原子之间的相互作用 (用牛顿方程或薛定谔方程模拟)。但基于物理定律的方法在预测蛋白质结构上完败于深度学习 (2020, AlphaFold 2)。</p>
+<p>乙）人类能理解单神经元并预测动作电位波形 (Hodgkin-Huxley)，也能预测初级视觉皮层神经元对于视觉刺激的响应 (Hubel-Wiesel)。但基于传统规律的方法在预测高级视觉皮层神经元响应上完败于深度学习 (2019, DiCarlo Lab)。</p>
+<p>丙）利用RNN或Transformer及其变体，三个不同的实验室已经可以从中风或ALS患者运动皮层信号中实时解码出患者想说的话 (2023, Chang Lab; 2023, Shenoy Lab; 2024, Stavisky Lab)。RNN和Transformer就像翻译机，把患者的脑信号翻译成了英文。整个过程唯一用到的神经科学知识是运动皮层在哪里，完全没有用到哪怕一丁点理论神经科学。</p>
+</li>
+</ol>
+<p>三次革命后，学者们不会抛弃过往的传统，而是继承：</p>
+<ol>
+<li>伽利略之后的学者们在创立自己的学说时均借鉴了古希腊数学家的公理化思想。</li>
+<li>从今往后，学者们也依然要判断实验结果和理论给出的预测是否一致。只不过，预测不再由简单的几句数学或自然语言给出，而是由人工神经网络给出。</li>
+</ol>
+<p>Jim Gray 扬帆远去，没有归来。我们这一代人也正在驶向一片未知的海域，船上载着一个连我们自己也无法理解的翻译机器。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2026/04/13/After_Using_Agent_3_Oh_My_OpenAgent/</url>
+    <content><![CDATA[<h1 id="类似物"><a href="#类似物" class="headerlink" title="类似物"></a>类似物</h1><p>cc</p>
+<p>codex</p>
+<p>kimi</p>
+<p>grok 4.2</p>
+]]></content>
+  </entry>
+  <entry>
     <title>agent有感2：openclaw</title>
     <url>/2026/03/27/After_Using_Agent_2_OpenClaw/</url>
     <content><![CDATA[<p>三月上旬，我尝试了openclaw，从3月4日养到了3月15日。</p>
@@ -1022,7 +1070,7 @@
     <url>/2025/05/22/Gemini_Student_Verification/</url>
     <content><![CDATA[<h1 id="Gemini"><a href="#Gemini" class="headerlink" title="Gemini"></a>Gemini</h1><p>今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。</p>
 <hr>
-<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#49;&#48;&#x39;&#x37;&#51;&#52;&#x38;&#52;&#52;&#x61;&#x40;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x31;&#49;&#48;&#x39;&#x37;&#51;&#52;&#x38;&#52;&#52;&#x61;&#x40;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>和<a href="mailto:&#98;&#x72;&#117;&#x63;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#98;&#x72;&#117;&#x63;&#101;&#46;&#x79;&#105;&#120;&#x75;&#97;&#110;&#x2e;&#x6c;&#105;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
+<p>5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，<a href="https://blog.google/products/gemini/google-one-ai-premium-students-free/">报道</a>见此。但是，我的两个谷歌账号(<a href="mailto:&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#x38;&#x34;&#52;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#x31;&#x31;&#x30;&#57;&#55;&#x33;&#52;&#x38;&#x34;&#52;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;</a>和<a href="mailto:&#x62;&#114;&#x75;&#x63;&#x65;&#x2e;&#121;&#x69;&#x78;&#x75;&#x61;&#110;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">&#x62;&#114;&#x75;&#x63;&#x65;&#x2e;&#121;&#x69;&#x78;&#x75;&#x61;&#110;&#x2e;&#x6c;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;</a>)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。</p>
 <hr>
 <p>5月21日，我又想起此事，尝试了如下方法：</p>
 <ol>
@@ -1144,8 +1192,8 @@
         <category>2025-05</category>
       </categories>
       <tags>
-        <tag>socialism</tag>
         <tag>nationalism</tag>
+        <tag>socialism</tag>
         <tag>THINK</tag>
       </tags>
   </entry>
@@ -6134,8 +6182,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -6180,8 +6228,8 @@
         <category>2023-11</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
       </tags>
   </entry>
   <entry>
@@ -7125,8 +7173,8 @@
         <category>2023-08</category>
       </categories>
       <tags>
-        <tag>running</tag>
         <tag>basketball</tag>
+        <tag>running</tag>
         <tag>injury</tag>
       </tags>
   </entry>
@@ -7729,6 +7777,22 @@
       </tags>
   </entry>
   <entry>
+    <title>杨振宁和黄昆还不够铁啊</title>
+    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
+    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
+<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
+<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
+<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
+]]></content>
+      <categories>
+        <category>2023</category>
+        <category>2023-07</category>
+      </categories>
+      <tags>
+        <tag>fun</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杨振宁回忆鸦片</title>
     <url>/2023/07/08/CN-Yang_Recalls_Opium/</url>
     <content><![CDATA[<blockquote>
@@ -7752,22 +7816,6 @@
         <tag>biography</tag>
         <tag>drug</tag>
         <tag>break cognitive limits</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杨振宁和黄昆还不够铁啊</title>
-    <url>/2023/07/08/CN-Yang_and_Huang-Kun/</url>
-    <content><![CDATA[<p>昨晚一口气把杨振宁的那本类似自传的书看完了，写一个很有意思的事。</p>
-<p>记者问杨在西南联大时谈没谈过恋爱，杨说有，还拿出一张老照片。那时他刚满17岁，喜欢上同班一个女生，他打听到她选了某某课，于是下课时候就在那个教室旁边“偶然出现”，好能和她说说话（几百年来翻来覆去也就那么几招）。他父母也很喜欢她。但是交往了几个月之后，杨觉得好好学习比较重要，两人关系就渐渐淡了。</p>
-<p>但是另一篇文章却讲了不一样的故事。这篇是黄昆接受采访（黄昆也是一个挺有名的物理学家，物院本科都知道他）。记者说，你和杨在西南联大是多年同学，听说你俩关系很好。黄答，是的，我们经常争论学术问题。记者又问，你俩就没聊过怎么谈恋爱吗。黄说，没有，现在想来很奇怪。记者又问，所以你俩当时在西南联大那些年都没女朋友？黄说，是的。</p>
-<p>6，看来要么是当时黄昆还不在昆明，要么是俩人关系还不够铁。</p>
-]]></content>
-      <categories>
-        <category>2023</category>
-        <category>2023-07</category>
-      </categories>
-      <tags>
-        <tag>fun</tag>
       </tags>
   </entry>
   <entry>
@@ -10711,22 +10759,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用高中生能看懂的话解释什么是灌水</title>
-    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
-    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
-<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
-<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
-<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-        <category>2022-09</category>
-      </categories>
-      <tags>
-        <tag>scientific misconduct</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用高中生能看懂的话解释什么是学术造假</title>
     <url>/2022/09/09/Explain_Scientific_Fraud_to_High_School_Students/</url>
     <content><![CDATA[<h1 id="用高中生能看懂的话解释什么是学术造假"><a href="#用高中生能看懂的话解释什么是学术造假" class="headerlink" title="用高中生能看懂的话解释什么是学术造假"></a>用高中生能看懂的话解释什么是学术造假</h1><p>引子：每个人都应该恨学术造假，无论他是不是科研工作者。原因会在本文的后半部分揭晓。</p>
@@ -10790,6 +10822,22 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>2022</category>
+        <category>2022-09</category>
+      </categories>
+      <tags>
+        <tag>scientific misconduct</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用高中生能看懂的话解释什么是灌水</title>
+    <url>/2022/09/09/Explain_Scientific_Water_to_High_School_Students/</url>
+    <content><![CDATA[<h2 id="灌水"><a href="#灌水" class="headerlink" title="灌水"></a>灌水</h2><p>定义：灌水的方法是如此之多，以至于我很难给灌水下一个定义。下文中我介绍我经常遇到的两种灌水方式。</p>
+<p>方法一：用一些云里雾里的话，加上一些云里雾里的图，掩盖不好的实验结果，呈现好的实验结果</p>
+<p>方法二：在正文中，把自己的东西说成一个很nb的东西，但是当你到附录或补充材料里去看它的细节时，发现这个东西压根不像正文里说的那样。</p>
+<p>有好几次，这两种灌水论文浪费了我n个小时的时间。我花了n个小时，去看那些云里雾里的话和云里雾里的图，然后最后发现这篇文章完全是无用的，是一坨屎。(This paper is totally useless, just a piece of shit.)</p>
 ]]></content>
       <categories>
         <category>2022</category>
