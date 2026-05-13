@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2026-05-13T01:40:33.614Z</updated>
+  <updated>2026-05-13T01:51:56.740Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>深度学习与科学革命</title>
+    <title>深度学习掀起的科学革命</title>
     <link href="https://physics-lee.github.io/2026/05/13/Science_Revolution_by_DL_v2/"/>
     <id>https://physics-lee.github.io/2026/05/13/Science_Revolution_by_DL_v2/</id>
     <published>2026-05-12T16:00:00.000Z</published>
-    <updated>2026-05-13T01:40:33.614Z</updated>
+    <updated>2026-05-13T01:51:56.740Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -716,7 +716,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#x31;&amp;#49;&amp;#x30;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#56;&amp;#x34;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x31;&amp;#49;&amp;#x30;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#56;&amp;#x34;&amp;#52;&amp;#x61;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#101;&amp;#46;&amp;#x79;&amp;#105;&amp;#x78;&amp;#x75;&amp;#97;&amp;#x6e;&amp;#x2e;&amp;#108;&amp;#x69;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#114;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#46;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#98;&amp;#114;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#46;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -6453,9 +6453,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
     <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
   </entry>
   
@@ -6555,9 +6555,42 @@
     
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
+    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
     <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
     
+  </entry>
+  
+  <entry>
+    <title>杨振宁回忆鸦片</title>
+    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
+    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
+    <published>2023-07-07T16:00:00.000Z</published>
+    <updated>2023-12-21T15:15:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;太傻逼了。&lt;/p&gt;
+&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
+    
+    
     <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
+    
+    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
+    
+    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
+    
+    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
     
   </entry>
   
@@ -6624,39 +6657,6 @@
   </entry>
   
   <entry>
-    <title>杨振宁回忆鸦片</title>
-    <link href="https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/"/>
-    <id>https://physics-lee.github.io/2023/07/08/CN-Yang_Recalls_Opium/</id>
-    <published>2023-07-07T16:00:00.000Z</published>
-    <updated>2023-12-21T15:15:13.000Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;1922年我出生在合肥，我母亲就曾经裹过小脚，家里面有客人来，还要摆出来一个鸦片烟枪&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/FQ9KBF4U0532JGI6.html&quot;&gt;出处&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;草，这是近期最&lt;strong&gt;突破我认知&lt;/strong&gt;的事情了——我之前是知道晚清和民国时抽鸦片的中国人很多，&lt;strong&gt;但是我以为抽鸦片都得偷偷摸摸抽，没想到竟然成了一种“礼节”！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太傻逼了。&lt;/p&gt;
-&lt;p&gt;不妨思考一下，&lt;strong&gt;当今社会还有哪些“礼节”和抽鸦片一样傻逼呢？&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-07" scheme="https://physics-lee.github.io/categories/2023/2023-07/"/>
-    
-    
-    <category term="biography" scheme="https://physics-lee.github.io/tags/biography/"/>
-    
-    <category term="history" scheme="https://physics-lee.github.io/tags/history/"/>
-    
-    <category term="drug" scheme="https://physics-lee.github.io/tags/drug/"/>
-    
-    <category term="break cognitive limits" scheme="https://physics-lee.github.io/tags/break-cognitive-limits/"/>
-    
-  </entry>
-  
-  <entry>
     <title>南城一游</title>
     <link href="https://physics-lee.github.io/2023/06/30/Journey_to_the_Southern_City/"/>
     <id>https://physics-lee.github.io/2023/06/30/Journey_to_the_Southern_City/</id>
@@ -6710,33 +6710,6 @@
   </entry>
   
   <entry>
-    <title>The Southern Town</title>
-    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
-    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
-    <published>2023-06-21T16:00:00.000Z</published>
-    <updated>2025-02-08T15:31:39.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
-&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
-&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
-&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
-    
-    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
-    
-    
-    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
-    
-    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
-    
-  </entry>
-  
-  <entry>
     <title>相见欢·南城</title>
     <link href="https://physics-lee.github.io/2023/06/22/The_Southern_City/"/>
     <id>https://physics-lee.github.io/2023/06/22/The_Southern_City/</id>
@@ -6764,6 +6737,33 @@
     
     
     <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Southern Town</title>
+    <link href="https://physics-lee.github.io/2023/06/22/The_Southern_Town/"/>
+    <id>https://physics-lee.github.io/2023/06/22/The_Southern_Town/</id>
+    <published>2023-06-21T16:00:00.000Z</published>
+    <updated>2025-02-08T15:31:39.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Silently I wander to the southern town, remembering the past so profound.&lt;/p&gt;
+&lt;p&gt;Old words, old dreams, old promises abound.&lt;/p&gt;
+&lt;p&gt;Faces meet, hearts intoxicate, in meetings we are found.&lt;/p&gt;
+&lt;p&gt;Smiling as willow flowers scatter, to the west wind they are bound.&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="2023" scheme="https://physics-lee.github.io/categories/2023/"/>
+    
+    <category term="2023-06" scheme="https://physics-lee.github.io/categories/2023/2023-06/"/>
+    
+    
+    <category term="poem" scheme="https://physics-lee.github.io/tags/poem/"/>
+    
+    <category term="translation" scheme="https://physics-lee.github.io/tags/translation/"/>
     
   </entry>
   
