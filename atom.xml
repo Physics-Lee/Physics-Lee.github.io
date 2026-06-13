@@ -6,7 +6,7 @@
   <link href="https://physics-lee.github.io/atom.xml" rel="self"/>
   
   <link href="https://physics-lee.github.io/"/>
-  <updated>2026-05-13T01:51:56.740Z</updated>
+  <updated>2026-05-30T04:39:57.956Z</updated>
   <id>https://physics-lee.github.io/</id>
   
   <author>
@@ -15,6 +15,83 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【支持耿同学】八种学术造假方法及其破解之道</title>
+    <link href="https://physics-lee.github.io/2026/05/29/Scientific_Misconduct_and_Its_Deficits/"/>
+    <id>https://physics-lee.github.io/2026/05/29/Scientific_Misconduct_and_Its_Deficits/</id>
+    <published>2026-05-28T16:00:00.000Z</published>
+    <updated>2026-05-30T04:39:57.956Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2026年5月29日，听闻耿同学抖音被举报成功，永久限流。我非常生气，遂作此文。我只是一个普通学生，我能做的就这些。&lt;/p&gt;
+&lt;p&gt;以下是八种常见的学术造假，越往上越拉跨，越往下越隐晦。&lt;/p&gt;
+&lt;p&gt;知己知彼，百战不殆。&lt;/p&gt;
+&lt;p&gt;现在开始吧。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;被发现的难易程度&lt;/th&gt;
+&lt;th&gt;破解之道&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;修改数据&amp;#x2F;生成数据&lt;/td&gt;
+&lt;td&gt;易&lt;/td&gt;
+&lt;td&gt;检查末位数字分布、重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;修改图片&lt;/td&gt;
+&lt;td&gt;易&lt;/td&gt;
+&lt;td&gt;肉眼观察、重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;修改视频&lt;/td&gt;
+&lt;td&gt;易&lt;/td&gt;
+&lt;td&gt;肉眼观察、重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;挑选数据&lt;/td&gt;
+&lt;td&gt;中&lt;/td&gt;
+&lt;td&gt;检查数据分布、重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;p值操纵&lt;/td&gt;
+&lt;td&gt;中&lt;/td&gt;
+&lt;td&gt;预注册、重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;射箭画靶&lt;/td&gt;
+&lt;td&gt;中&lt;/td&gt;
+&lt;td&gt;重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;泄露测试集&lt;/td&gt;
+&lt;td&gt;中&lt;/td&gt;
+&lt;td&gt;用新数据重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;利用自相关&lt;/td&gt;
+&lt;td&gt;难&lt;/td&gt;
+&lt;td&gt;重复实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="2026" scheme="https://physics-lee.github.io/categories/2026/"/>
+    
+    <category term="2026-05" scheme="https://physics-lee.github.io/categories/2026/2026-05/"/>
+    
+    
+    <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
+    
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="scientific misconduct" scheme="https://physics-lee.github.io/tags/scientific-misconduct/"/>
+    
+  </entry>
   
   <entry>
     <title>深度学习掀起的科学革命</title>
@@ -41,9 +118,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -66,9 +143,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -95,9 +172,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -121,9 +198,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
   </entry>
   
@@ -149,9 +226,9 @@
     <category term="2026-03" scheme="https://physics-lee.github.io/categories/2026/2026-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -200,9 +277,9 @@
     <category term="2025-12" scheme="https://physics-lee.github.io/categories/2025/2025-12/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -511,9 +588,9 @@
     <category term="2025-06" scheme="https://physics-lee.github.io/categories/2025/2025-06/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -716,7 +793,7 @@
     
     <summary type="html">&lt;h1 id=&quot;Gemini&quot;&gt;&lt;a href=&quot;#Gemini&quot; class=&quot;headerlink&quot; title=&quot;Gemini&quot;&gt;&lt;/a&gt;Gemini&lt;/h1&gt;&lt;p&gt;今天终于成功进行了 Gemini 的学生认证并注册了 Claude，激动的心情不亚于昔日成功注册 ChatGPT 3.5 的会员（2022年12月）和成功认证 GitHub Copilot 的学生身份（2023春）。这篇博客记录了遇到的困难和解决方式。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#49;&amp;#x31;&amp;#x30;&amp;#57;&amp;#x37;&amp;#x33;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#98;&amp;#114;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#46;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#98;&amp;#114;&amp;#x75;&amp;#99;&amp;#101;&amp;#x2e;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#x75;&amp;#x61;&amp;#x6e;&amp;#46;&amp;#x6c;&amp;#105;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
+&lt;p&gt;5月7日，我听说了Gemini给美国学生免费发放16个月会员的事，&lt;a href=&quot;https://blog.google/products/gemini/google-one-ai-premium-students-free/&quot;&gt;报道&lt;/a&gt;见此。但是，我的两个谷歌账号(&lt;a href=&quot;mailto:&amp;#49;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#49;&amp;#49;&amp;#48;&amp;#57;&amp;#55;&amp;#51;&amp;#x34;&amp;#x38;&amp;#x34;&amp;#x34;&amp;#97;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;和&lt;a href=&quot;mailto:&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#117;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x6c;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x62;&amp;#114;&amp;#117;&amp;#x63;&amp;#x65;&amp;#46;&amp;#x79;&amp;#x69;&amp;#x78;&amp;#117;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x6c;&amp;#x69;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;)均无法完成学生认证，显示“This account is not eligible for the Google One AI Premium plan”。我当时要忙别的事，便放下了。&lt;/p&gt;
 &lt;hr&gt;</summary>
     
     
@@ -756,9 +833,9 @@
     
     <category term="fun" scheme="https://physics-lee.github.io/tags/fun/"/>
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="video game" scheme="https://physics-lee.github.io/tags/video-game/"/>
     
@@ -846,9 +923,9 @@
     <category term="2025-04" scheme="https://physics-lee.github.io/categories/2025/2025-04/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
     <category term="language" scheme="https://physics-lee.github.io/tags/language/"/>
     
@@ -1107,9 +1184,9 @@
     <category term="2025-03" scheme="https://physics-lee.github.io/categories/2025/2025-03/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -1136,9 +1213,9 @@
     
     <category term="science" scheme="https://physics-lee.github.io/tags/science/"/>
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -1533,9 +1610,9 @@
     <category term="2025-01" scheme="https://physics-lee.github.io/categories/2025/2025-01/"/>
     
     
-    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
   </entry>
   
@@ -2334,11 +2411,11 @@
     <category term="2024-10" scheme="https://physics-lee.github.io/categories/2024/2024-10/"/>
     
     
+    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
     <category term="physics" scheme="https://physics-lee.github.io/tags/physics/"/>
     
     <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
-    <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
     
   </entry>
   
@@ -2390,9 +2467,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2450,9 +2527,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2481,9 +2558,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2559,9 +2636,9 @@
     <category term="2024-09" scheme="https://physics-lee.github.io/categories/2024/2024-09/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -2859,9 +2936,9 @@
     <category term="2024-08" scheme="https://physics-lee.github.io/categories/2024/2024-08/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
@@ -3562,9 +3639,9 @@
     <category term="2024-04" scheme="https://physics-lee.github.io/categories/2024/2024-04/"/>
     
     
-    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
-    
     <category term="THINK" scheme="https://physics-lee.github.io/tags/THINK/"/>
+    
+    <category term="AI" scheme="https://physics-lee.github.io/tags/AI/"/>
     
   </entry>
   
